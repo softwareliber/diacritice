@@ -1897,3 +1897,4 @@ ascending order	ordine crescătoare	!	2008-01-03 12:45:18	89.38.7.2
 watermark	filigran	!	2008-01-03 12:46:34	89.38.7.2
 forecast	previziune	!	2008-01-03 12:47:22	89.38.7.2
 function	funcţie	!	2008-01-03 12:47:40	89.38.7.2
+licence	licenţa	!	2008-01-03 13:20:24	89.38.7.2
