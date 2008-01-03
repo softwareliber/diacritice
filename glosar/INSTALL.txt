@@ -1,0 +1,9 @@
+Glosar Install Instructions
+===========================
+
+1. Copy this directory to a public location on your web server.
+
+2. Create glosar.txt and history.txt and give write acces on them to the web
+server.
+
+That's about it.
