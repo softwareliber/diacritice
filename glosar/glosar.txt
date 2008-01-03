@@ -782,7 +782,7 @@ legal notice	notă juridică
 length	lungime	!
 letter	literă, scrisoare; format Letter [scrisoare, standard în SUA]	
 library	bibliotecă	!
-licence	licenţa	
+licence	licenţa	!
 license agreement	acord de licențiere	
 light	1. lumină, 2. uşor, sumar, (cu) amprentă mică	
 light precipitation		
