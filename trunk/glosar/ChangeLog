@@ -1,0 +1,42 @@
+
+
+== Release 0.2 ==
+
+2005-05-04  Dan Damian  <dand@codemonkey.ro>
+
+	* ChangeLog: Cleaned up ChangeLog.
+
+	* ChangeLog: Added ChangeLog
+
+	* help.php, style.css: Fixed link color.
+
+	* help.php, recent.php, style.css: Fixed layout.
+
+	* glossary.js:
+	Fixed bogus warning when editing terms with empty translation.
+
+2005-05-02  Dan Damian  <dand@codemonkey.ro>
+
+	* help.php: Added mention about Opera not working.
+
+
+== Release 0.1 ==
+
+2005-04-25  Dan Damian  <dand@codemonkey.ro>
+
+	* help.php: Changed tab delimited file license to GPL
+
+	* glossary.js: Empty definitions.value on save().
+
+	* index.php: Removed test warning message
+
+	* help.php: Added source code download reference.
+
+	* test.php: Removed test.php
+
+2005-04-24  Dan Damian  <dand@codemonkey.ro>
+
+	* JPSpan-LICENSE.txt, LICENSE-JPSpan.txt: Renamed JPSpan license file.
+
+	* .cvsignore: Ignoring glosar.txt, history.txt.
+
