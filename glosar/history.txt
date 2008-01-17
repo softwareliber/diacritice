@@ -1898,3 +1898,88 @@ watermark	filigran	!	2008-01-03 12:46:34	89.38.7.2
 forecast	previziune	!	2008-01-03 12:47:22	89.38.7.2
 function	funcţie	!	2008-01-03 12:47:40	89.38.7.2
 licence	licenţa	!	2008-01-03 13:20:24	89.38.7.2
+zero	zero	!	2008-01-03 13:36:45	89.38.7.2
+zip drive	unitate zip	!	2008-01-03 13:37:00	89.38.7.2
+garbage collector	colector de memorie reziduală, gunoier		2008-01-03 14:10:08	89.38.7.2
+garbage collector	colector de memorie reziduală	!	2008-01-03 14:10:23	89.38.7.2
+graphic tablet	tabletă grafică	!	2008-01-03 14:10:36	89.38.7.2
+operating system	sistem de operare	!	2008-01-03 15:02:37	89.38.7.2
+orientation	orientare	!	2008-01-03 15:02:48	89.38.7.2
+overwrite	a suprascrie, suprascriere	!	2008-01-03 15:03:13	89.38.7.2
+quota	cotă	!	2008-01-03 15:03:30	89.38.7.2
+queue	coadă	! [[queue-stack]]	2008-01-03 15:04:05	89.38.7.2
+stack	stivă	! [[queue-stack]]	2008-01-03 15:04:58	89.38.7.2
+query	interogare	! [[query]]	2008-01-03 15:05:55	89.38.7.2
+query	interogare	? [[query]]	2008-01-03 15:06:04	89.38.7.2
+query	interogare	! [[query]]	2008-01-03 15:07:54	89.38.7.2
+western	vestic	!	2008-01-03 15:08:24	89.38.7.2
+word	cuvânt	!	2008-01-03 15:08:38	89.38.7.2
+word processor	procesor de text	!	2008-01-03 15:09:15	89.38.7.2
+width	lăţime	!	2008-01-03 15:09:26	89.38.7.2
+web page	pagină web	!	2008-01-03 15:09:49	89.38.7.2
+window	fereastră	!	2008-01-03 15:10:05	89.38.7.2
+hello world	salut lume	!	2008-01-03 15:11:28	89.38.7.2
+hazard	risc	!	2008-01-03 15:12:42	89.38.7.2
+term	termen	!	2008-01-03 15:13:21	89.38.7.2
+timer	cronometru	!	2008-01-03 15:14:24	89.38.7.2
+timezone	fus orar	!	2008-01-03 15:14:33	89.38.7.2
+timing	cronometrare	!	2008-01-03 15:14:45	89.38.7.2
+top	vârf		2008-01-03 15:15:08	89.38.7.2
+tree	arbore	!	2008-01-03 15:15:20	89.38.7.2
+type	tip	!	2008-01-03 15:15:54	89.38.7.2
+type mismatch	nepotrivire de tip	!	2008-01-03 15:16:04	89.38.7.2
+typically	în mod normal, în general, de cele mai mute ori	!	2008-01-03 15:16:16	89.38.7.2
+trigger	declanşator	!	2008-01-03 15:16:30	89.38.7.2
+trusted	de încredere	!	2008-01-03 15:16:55	89.38.7.2
+threshold	prag	!	2008-01-03 15:17:08	89.38.7.2
+transparent	transparent	!	2008-01-03 15:17:17	89.38.7.2
+title	titlu	!	2008-01-03 15:17:25	89.38.7.2
+tolerance	toleranţă	!	2008-01-03 15:17:57	89.38.7.2
+turn	rundă	!	2008-01-03 15:18:06	89.38.7.2
+type bindings	corelări de tip	!	2008-01-03 15:18:17	89.38.7.2
+titlebar	bară de titlu	!	2008-01-03 15:18:52	89.38.7.2
+term variable	variabilă a terminalului	!	2008-01-03 15:19:43	89.38.7.2
+trap	a captura, capcană	!	2008-01-03 15:20:02	89.38.7.2
+hidden file	fişier ascuns	!	2008-01-03 15:32:49	89.38.7.2
+backticks	ghilimele inverse	!	2008-01-03 18:45:28	89.38.7.2
+binomial distribution	distribuţia binomială	!	2008-01-03 18:45:48	89.38.7.2
+bold	îngroşat, aldin	? [[bold-italic]]	2008-01-03 18:46:15	89.38.7.2
+italic	înclinat, cursiv	? [[bold-italic]]	2008-01-03 18:46:24	89.38.7.2
+if	dacă	!	2008-01-03 19:04:01	89.38.7.2
+illegal	ilegal	!	2008-01-03 19:04:06	89.38.7.2
+inch	ţol	!	2008-01-03 19:04:16	89.38.7.2
+install	a instala, instalare	!	2008-01-03 19:04:32	89.38.7.2
+interface	interfaţă	!	2008-01-03 19:04:42	89.38.7.2
+interrupt	întrerupere	!	2008-01-03 19:04:53	89.38.7.2
+invisible	invizibil	!	2008-01-03 19:05:27	89.38.7.2
+international	internaţional	!	2008-01-03 19:05:35	89.38.7.2
+dash	liniuţă	[[dashes]]	2008-01-09 17:55:59	89.38.147.13
+em-dash	linie em; [cf. en-dash]	[[dashes]]	2008-01-09 17:56:09	89.38.147.13
+en-dash	linie en [trad „paranteză orizontală” este complet greșită; cf. em-dash]	[[dashes]]	2008-01-09 17:56:20	89.38.147.13
+en-dash	linie en [trad „paranteză orizontală” este complet greșită; cf. em-dash]	? [[dashes]]	2008-01-09 17:56:29	89.38.147.13
+em-dash	linie em; [cf. en-dash]	? [[dashes]]	2008-01-09 17:56:35	89.38.147.13
+hyphen	cratimă	? [[dashes]]	2008-01-09 17:56:48	89.38.147.13
+apply	a aplica	!	2008-01-11 18:53:23	89.38.7.2
+blink	clipeşte	!	2008-01-11 18:53:58	89.38.7.2
+macro	macro?, macrocomandă?	? [[macro]]	2008-01-11 19:51:10	89.38.7.2
+maintainer	responsabil	!	2008-01-11 19:52:54	89.38.7.2
+mtu	MTU (unitatea maximă de transmisie)		2008-01-11 19:53:42	89.38.7.2
+misspelled	ortografiat greşit	!	2008-01-11 19:53:59	89.38.7.2
+minor faults	defecțiuni minore		2008-01-11 19:54:24	89.38.7.2
+minor faults	defecțiuni minore	!	2008-01-11 19:54:29	89.38.7.2
+post office	oficiu poştal	!	2008-01-11 19:55:52	89.38.7.2
+ratio	proporţie	!	2008-01-11 19:56:30	89.38.7.2
+reject	a respinge	!	2008-01-11 19:57:01	89.38.7.2
+retry	a reîncerca, reîncearcă	!	2008-01-11 19:57:19	89.38.7.2
+retain	a reţine	!	2008-01-11 19:57:32	89.38.7.2
+run	a porni, a executa	? [run-start-execute]	2008-01-11 19:58:31	89.38.7.2
+run	a porni, a executa	? [[execute-run-start]]	2008-01-11 19:59:06	89.38.7.2
+execute	a executa, a rula, a porni	? [[execute-run-start]]	2008-01-11 19:59:17	89.38.7.2
+start	start, a porni	? [[execute-run-start]]	2008-01-11 19:59:29	89.38.7.2
+browse	a naviga	!	2008-01-11 21:13:41	89.38.7.2
+uplink	uplink	?	2008-01-13 02:17:05	79.113.242.130
+goal	obiectiv, ţel	? [[goal-objective-target]]	2008-01-13 22:15:14	89.38.7.2
+target	destinaţie, ţintă	? [[goal-objective-target]]	2008-01-13 22:15:25	89.38.7.2
+objective	obiectiv	? [[goal-objective-target]]	2008-01-13 22:15:45	89.38.7.2
+optional	opţional	!	2008-01-13 22:18:56	89.38.7.2
+aditive inverse	inversă aditivă		2008-01-16 14:17:51	89.38.7.2
