@@ -23,7 +23,7 @@ addon	modul	? [[Addin-module-plugin-extension-applet]]
 address	adresă	!
 address book	agendă	? [[addressbook]]
 aditive inverse	inversă aditivă	
-adjust	a ajusta, ajustare	
+adjust	a ajusta, ajustare	!
 administration	administrare	!
 aggregate	agregat	!
 aggregate bandwidth	lăţime de bandă cumulată	
@@ -68,7 +68,7 @@ argument	argument
 array	tablou	
 arrow key	tastă săgeată	
 article	articol	? [[item-element]]
-as of	începând cu	
+as of	începând cu	!
 ascending	crescător	!
 ascending order	ordine crescătoare	!
 ascii	ascii	
@@ -114,7 +114,7 @@ batch	lot, serie
 batch system	sistem de prelucrare pe loturi	
 bcc	blind carbon copy = copie indigo invizibilă	
 beep	bip	!
-benchmark	test de performanţă, test de performanţă; program de evaluare a performanţelor	
+benchmark	test de performanţă	!
 best fit algorithm	algoritmul 'cea mai bună potrivire'	
 beta	beta	!
 bewilder	a dezorienta	
@@ -163,7 +163,7 @@ branch	ramificaţie, filială
 branch history shift register	registru de deplasare pentru istoria ramificaţiilor	
 break	pauză, a face pauză, a deteriora, a întrerupe (break row across columns)	
 bricks	cărămizi	!
-brightness	luminozitate	
+brightness	luminozitate	!
 broadcast	a emite, a anunţa (în reţea)?	
 broken	invalid, deteriorat	
 browse	a naviga	!
@@ -963,10 +963,10 @@ online	conectat	? [[online-offline-connected-disconnected]]
 only	doar, numai [limitativ]	
 onsite	cu deplasare	
 opacity	opacitate	
-open	deschis	
+open	deschis, deschide	!
 open source	sursă deschisă / publică - aplicaţii ale căror surse sînt publice	
 operating system	sistem de operare	!
-operation	operaţie	
+operation	operaţie	!
 opponent	adversar	
 option	opţiune, setare; tasta „Option” [Opţiune] pe tastaturile Macintosh.	
 optional	opţional	!
@@ -974,7 +974,7 @@ options
 or	sau	!
 order	comandă, ordin, ordine	
 orientation	orientare	!
-origin	origine	
+origin	origine	!
 orthflow		
 outdated	învechit, depăşit	
 outline	schiţă, contur, a sublinia, subliniat, structură	
