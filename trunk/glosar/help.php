@@ -14,6 +14,9 @@ function path() {
 ?>
 <html>
 <head>
+
+<link rel="search" type="application/opensearchdescription+xml" title="Glosar" href="http://www.i18n.ro/glosar/glosar-search.xml">
+
 <title>Ajutor glosar traduceri</title>
 <style>
 body, td, th { font-family: arial; font-size: 13px; }
@@ -27,7 +30,7 @@ a, a:visited { color: #00a }
 </style>
 <script>
 function email(name) {
-	document.write("<a href=\"mailto:" + name + "@codemonkey.ro\">" + name + "@codemonkey.ro</a>");
+  document.write("<a href=\"mailto:" + name + "@codemonkey.ro\">" + name + "@codemonkey.ro</a>");
 }
 </script>
 </head>
@@ -62,6 +65,9 @@ Searches un nou bookmark cu următoarele proprietăţi:
 <tr><th>Description:</th><td>Introduceţi „glosar &lt;termen&gt;” în locaţie pentru a căuta în glosarul de
 traduceri</td></tr>
 </table>
+
+<h2>Search</h2>
+http://www.i18n.ro/glosar/glosar-search.xml
 
 <h2>Echipe româneşti de localizare</h2>
 <a href="http://wiki.debian.net/?RomanianL10N">Debian</a>,
