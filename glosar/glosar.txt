@@ -380,7 +380,7 @@ detail	amănunt , detaliu
 detection	identificare, descoperire	
 develop	a dezvolta, dezvoltare, [software] developer = dezvoltator [software]	
 device	dispozitiv	!
-diaeresis	tremă	
+diaeresis	tremă	cele două punte de deasupra unei litere
 diagonal	diagonală	!
 diagram	diagramă	!
 dial	a apela, apelator	

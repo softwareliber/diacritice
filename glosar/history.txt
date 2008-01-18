@@ -1990,3 +1990,4 @@ brightness	luminozitate	!	2008-01-17 23:48:32	89.38.7.2
 origin	origine	!	2008-01-17 23:49:43	89.38.7.2
 operation	operaţie	!	2008-01-17 23:50:09	89.38.7.2
 open	deschis, deschide	!	2008-01-17 23:50:19	89.38.7.2
+diaeresis	tremă	cele două punte de deasupra unei litere	2008-01-18 10:44:07	89.38.7.2
