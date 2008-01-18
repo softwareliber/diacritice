@@ -9,7 +9,7 @@ access	a accesa	!
 account	cont	!
 acknowledgements	mulţumiri	!
 activate	a activa	!
-active	activ	!
+active	activ	! [[active-inactive-on-off]]
 active matrix display	afişaj cu matrice activă	!
 actor	actor	!
 actuator	efector (domeniu: robotica)	
@@ -686,6 +686,7 @@ image	imagine	? [[photo-image-picture-graph]]
 implement	a implementa, implementare	!
 implementation	îndeplinire, punere în aplicare, executare, realizare	
 import	a importa, import; import file = importă fișierul / un fișier	!
+inactive	inactiv	! [[active-inactive-on-off]]
 inactive window	fereastra inactivă	
 inbox	Primite	
 incentive	stimulent [Adi R]	
@@ -956,8 +957,10 @@ obsolete	învechit, depăşit
 occurr	a apărea, a se produce	
 occurrence	apariţie, manifestare; recurenţă;	
 odd	impar	!
+off	oprit	? [[active-inactive-on-off]]
 offline	deconectat	? [[online-offline-connected-disconnected]]
 offset	decalaj, deplasare	
+on	pornit	? [[active-inactive-on-off]]
 on-screen keyboard	tastatură virtuală	
 online	conectat	? [[online-offline-connected-disconnected]]
 only	doar, numai [limitativ]	
