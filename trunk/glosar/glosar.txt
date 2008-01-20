@@ -730,6 +730,7 @@ invalid	nevalid(ă), invalid [de evitat], nu este valid [de preferat]
 invert	a inversa	
 invert selection	inversează selecţia	
 invisible	invizibil	!
+involved	implicat	
 ip address	adresă IP	
 irc		
 issue	a emite; a publica, ediţie, problemă	
