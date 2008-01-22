@@ -161,6 +161,7 @@ braces	acolade	! [[brackets]]
 bracket	paranteză pătrată	? [[brackets]]
 branch	ramificaţie, filială	
 branch history shift register	registru de deplasare pentru istoria ramificaţiilor	
+breadcrumbs	linie de navigare	?
 break	pauză, a face pauză, a deteriora, a întrerupe (break row across columns)	
 bricks	cărămizi	!
 brightness	luminozitate	!
