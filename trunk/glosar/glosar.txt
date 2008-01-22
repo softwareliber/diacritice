@@ -349,7 +349,8 @@ database	bază de date	!
 datastream	flux de date	!
 date	dată	!
 deadlock	punct mort, stagnare, blocare, blocare moartă	
-debug	a depana, a corecta, a corija, a pune la punct	
+debug	a depana, a corecta	
+debugger	depanator	
 decimal	zecimal	!
 decline	a refuza	!
 decode	decodare	
