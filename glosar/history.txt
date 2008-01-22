@@ -1999,3 +1999,5 @@ active	activ	! [[active-inactive-on-off]]	2008-01-18 16:47:27	89.38.7.2
 inactive	inactiv	! [[active-inactive-on-off]]	2008-01-18 16:47:46	89.38.7.2
 involved	implicat		2008-01-20 12:03:18	89.38.7.2
 breadcrumbs	linie de navigare	?	2008-01-22 14:30:32	86.122.9.2
+debugger	depanator		2008-01-22 22:05:26	89.137.8.106
+debug	a depana, a corecta		2008-01-22 22:05:41	89.137.8.106
