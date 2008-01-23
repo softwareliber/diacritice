@@ -2003,3 +2003,6 @@ debugger	depanator		2008-01-22 22:05:26	89.137.8.106
 debug	a depana, a corecta		2008-01-22 22:05:41	89.137.8.106
 mute	mut		2008-01-23 13:00:36	212.93.140.102
 unmute	cu sunet		2008-01-23 13:00:51	212.93.140.102
+pause	pauză		2008-01-23 13:01:18	212.93.140.102
+remove	scoade, îndepărtează, ...	? [[erase-delete-remove-clean-clear-expunge]]	2008-01-23 13:06:40	212.93.140.102
+shuffle	a amesteca, aleator		2008-01-23 13:07:46	212.93.140.102
