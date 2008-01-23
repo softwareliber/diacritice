@@ -812,6 +812,7 @@ localization	localizare	!
 locate	a localiza	!
 location	loc	!
 lock	a bloca, a obţine acces exclusiv	? [[lock-unlock]]
+lockdown	interdicţie	tradus în pessulus
 log	jurnal, istoric, înregistrări	
 logical	logic (adevărat sau fals)	
 login	autentificare	
@@ -1013,7 +1014,7 @@ parameter	parametru	!
 parantheses	paranteze rotunde	! [[brackets]]
 parcel	a împărţi, parte, fragment	
 parent directory	director superior	
-parse	a analiza, a prelucra; a converti [dintr‑un format în altul]	
+parse	a analiza, a prelucra	[[Glosar/Discutii/parse]]
 partition	împărţire, compartimentare	
 passphrase	parolă tip frază, parolă-frază, frază secretă	
 password	parolă	!
