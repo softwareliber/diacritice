@@ -1024,6 +1024,7 @@ path	traseu
 path (file)	cale	!
 path (to follow)	traseu	!
 pattern	model, proprietate	
+pause	pauză	
 peak	vârf	!
 peak indicator		
 pearson correlation		
@@ -1204,7 +1205,7 @@ relief	umbră
 remapping	recartare, recartografiere	
 remote	la distanţă	
 removable media	mediu amovibil	
-remove	scoade, îndepărtează, ...	? [[erase-delete-remove]]
+remove	scoade, îndepărtează, ...	? [[erase-delete-remove-clean-clear-expunge]]
 rename	a redenumi	!
 render	a reda, a randa (in special pentru imagini 3D)	
 repeat	a repeta	!
@@ -1329,7 +1330,7 @@ shopping	cumpărături	!
 shortcut	scurtătură, combinaţie (de taste)	? [[link-hyperlink-shortcut]]
 show	a arăta, a expune, spectacol, afişează	
 shrink	a micşora	
-shuffle	a amesteca	
+shuffle	a amesteca, aleator	
 shut down	a opri, oprire	
 sidebar	bară laterală	
 sign-in	intrare [într-un cont]	
