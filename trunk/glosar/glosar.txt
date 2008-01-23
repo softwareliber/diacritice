@@ -914,6 +914,7 @@ multimedia	multimedia
 multiple document interface	interfaţă cu multiple documente	
 multitier	multistrat	!
 mundane	uzual	
+mute	mut	
 namespace	spaţiu de nume	
 nautilus		
 navigation bar	bară de navigare	
@@ -1613,6 +1614,7 @@ unknown host	gazdă necunoscută
 unload	a descărca	
 unlock	a descuia (nu am altă idee)	? [[lock-unlock]]
 unmount	a demonta, demontare	!
+unmute	cu sunet	
 unplugged	deconectat, decuplat, deconectat; decuplat	
 unregister	deînregistrare?, ştergere înregistrare	
 unset	deselectaţi, deselectează	
