@@ -1128,6 +1128,7 @@ progress	(in) desfăsurare, progres, evoluţie
 progress bar	bară de progres, indicator de evoluţie	
 project	proiect	
 prompt	a solicita, solicitare; prompter	
+proofreader	verificator?	?
 propagation	propagare	
 properties	proprietăţi	
 proportional font	caractere proportionale	

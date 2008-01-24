@@ -2009,3 +2009,4 @@ shuffle	a amesteca, aleator		2008-01-23 13:07:46	212.93.140.102
 parse	a analiza, a prelucra	[[Glosar/Discutii/parse]]	2008-01-24 00:35:44	78.96.193.43
 lockdown	interdicţie	tradus în pessulus	2008-01-24 00:39:06	89.137.8.106
 player	player	[[Glosar/Discutii/player]]	2008-01-24 09:12:05	84.232.245.223
+proofreader	verificator?	?	2008-01-24 10:27:26	82.78.39.13
