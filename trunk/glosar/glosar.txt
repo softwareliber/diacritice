@@ -1060,7 +1060,7 @@ place	loc	!
 placeholder	înlocuitor, marcaj	
 plain text	text simplu, text clar [când se referă la o transmisie necriptată]	
 play	a reda, a juca	
-player	player	
+player	player	[[Glosar/Discutii/player]]
 playlist	listă [simplu, se inţelege din context], listă de redare	
 please	vă rog	!
 please wait	vă rog să asteaptaţi	!
