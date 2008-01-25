@@ -330,7 +330,7 @@ ctrl
 cumulative	cumulativ	
 curly brackets	acolade	! [[brackets]]
 currency	1. circulaţie monetară, 2. monedă, 3. valută, 4. răspândire	
-current	curent, prezent	
+current	curent, prezent, actual	
 cursor	cursor	
 curve	curbă	
 custom	personalizat, specific	
@@ -425,7 +425,7 @@ done	gata, ?realizat?
 dot	punct	!
 double click	dublu clic	
 double quote	ghilimele, semne de citare	
-downgrade	de-gradare, învechire, degradare? retrogradare	
+downgrade	a aduce la o versiune anterioară, retrogradare	dacă se poate folosiți traducerea lungă
 download	a descărca, descărcare	
 downstream	aval, în josul apei, downstream; aval?	
 draft	ciornă	
@@ -528,6 +528,7 @@ fingerprint	amprentă	!
 finish		? [[quit-exit-terminate-finish]]
 firewall	zid de protecție	
 firmware	firmware [la fel ca software si hardware], program intrinsec	
+fit	potrivește	
 fix	a repara [vb], remediu [s]	
 fixed font	font fix	!
 flag	fanion, steag, indicator, semnalizator	
