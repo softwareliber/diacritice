@@ -2015,3 +2015,4 @@ downgrade	retrogradare, a aduce la o versiune anterioară	dacă se poate folosi�
 downgrade	a aduce la o versiune anterioară, retrogradare	dacă se poate folosiți traducerea lungă	2008-01-25 23:38:38	89.137.8.106
 current	curent, prezent, actual		2008-01-25 23:43:33	87.175.73.79
 note	notiță		2008-01-27 14:32:51	89.137.8.106
+scan	a examina, a scana [pentru scanner]		2008-01-27 15:47:53	89.137.8.106
