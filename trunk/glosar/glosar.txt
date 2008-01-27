@@ -940,6 +940,7 @@ non-breaking space	spaţiu de unire	? [[spaces-and-hypens]]
 none	nimic; nespecificat [ultima formă de preferat în multe aplicații]	
 normal distribution	distribuţie normală	!
 notably	cel mai cunoscut, în mod evident	
+note	notiță	
 note that	Atenţie:, Nu uitaţi că:, A se reţine că	
 notebook	agendă, notebook, calculator portabil, notebook; calculator portabil	
 notepad	carneţel, carneţel; notepad	
