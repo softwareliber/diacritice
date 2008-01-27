@@ -1273,7 +1273,7 @@ scalable	scalabil	!
 scalar	scalar	!
 scale	balanţă, scală, a scala, scalare; scară	
 scaling factor	factor de scalare	
-scan	a examina, a cerceta amănunţit, a analiza, a scana, scanare	
+scan	a examina, a scana [pentru scanner]	
 schedule	planificare, programare	
 schedule manager	administrator orar, administrator planificări	
 schema	schemă	!
