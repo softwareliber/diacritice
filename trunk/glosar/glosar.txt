@@ -1071,6 +1071,7 @@ plug-in	modul	[[Addin-module-plugin-extension-applet]]
 plugged	conectat, cuplat, conectat; cuplat	
 plugin	modul	
 point	a indica, indicator (UI), punct, indicator (UI); punct; pointer (programare)	
+point to point	punct la punct	!
 poisson distribution	distribuţie poisson	
 policy	politică	!
 polish	lustrui	? [[polish]]
