@@ -455,7 +455,7 @@ element		? [[item-element]]
 em-dash	linie em; [cf. en-dash]	? [[dashes]]
 email	poştă electronică, mesaj electronic, poştă electronică; mesaj	
 embed	incorporat	
-embedded	încapsulat, înglobat	
+embedded	încapsulat, înglobat, încastrat	
 emblem	emblemă	!
 embossed	reliefat	
 emoticon	emoticon	

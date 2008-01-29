@@ -2018,3 +2018,4 @@ note	notiță		2008-01-27 14:32:51	89.137.8.106
 scan	a examina, a scana [pentru scanner]		2008-01-27 15:47:53	89.137.8.106
 point to point	punct la punct	asa ramane	2008-01-28 20:54:18	89.137.8.106
 point to point	punct la punct	!	2008-01-28 20:58:21	89.137.8.106
+embedded	încapsulat, înglobat, încastrat		2008-01-29 13:36:56	217.156.83.1
