@@ -945,7 +945,7 @@ note that	Atenţie:, Nu uitaţi că:, A se reţine că
 notebook	agendă, notebook, calculator portabil, notebook; calculator portabil	
 notepad	carneţel, carneţel; notepad	
 notice	notiţă, a remarca	
-notification		
+notification	înștiințare, aducere la cunoștință	
 notify	a înştiinţa, înştiinţare	
 notify me	anunţă-mă	!
 number	număr	!
