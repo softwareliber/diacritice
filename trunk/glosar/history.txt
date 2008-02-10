@@ -2020,3 +2020,6 @@ point to point	punct la punct	asa ramane	2008-01-28 20:54:18	89.137.8.106
 point to point	punct la punct	!	2008-01-28 20:58:21	89.137.8.106
 embedded	încapsulat, înglobat, încastrat		2008-01-29 13:36:56	217.156.83.1
 notification	înștiințare, aducere la cunoștință		2008-02-07 07:47:58	89.34.181.20
+nested	imbricat, (cu i, dand: îmbricat nu este corect, vezi dex)		2008-02-10 11:22:35	89.137.8.106
+remove	scoade, îndepărtează, dezinstala [pt programe]...	? [[erase-delete-remove-clean-clear-expunge]]	2008-02-10 11:33:38	89.137.8.106
+remove	scoade, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]	2008-02-10 11:44:55	89.137.8.106
