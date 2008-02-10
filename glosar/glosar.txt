@@ -921,7 +921,7 @@ namespace	spaţiu de nume
 nautilus		
 navigation bar	bară de navigare	
 negative binomial		
-nested	imbricat, îmbricat (dand: îmbricat nu este corect, vezi dex)	
+nested	imbricat, (cu i, dand: îmbricat nu este corect, vezi dex)	
 netmask		
 netscape		
 network	reţea	!
@@ -1210,7 +1210,7 @@ relief	umbră
 remapping	recartare, recartografiere	
 remote	la distanţă	
 removable media	mediu amovibil	
-remove	scoade, îndepărtează, ...	? [[erase-delete-remove-clean-clear-expunge]]
+remove	scoade, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]
 rename	a redenumi	!
 render	a reda, a randa (in special pentru imagini 3D)	
 repeat	a repeta	!
