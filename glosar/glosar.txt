@@ -1315,7 +1315,7 @@ service	serviciu	! [[service-daemon]]
 session	sesiune	!
 set	0. a defini 1. a aplica, a pune, a stabili, a defini ca, a desemna ca 2. mulţime	
 set-up	a pregăti, program de instalare a unei aplicaţii pe calculator, program de fixare a condiţiilor în care va rula o aplicaţie pe un calculator	
-setting	1. opţiune de configurare, setare 2. mediu, cadru	
+setting	1. opţiune de configurare, setare, ajustare 2. mediu, cadru	
 setup	a pregăti, pregătire (iniţial); a configura, configurare (ulterior)	
 severity	serveritate, gravitate	
 sex	sex	!
