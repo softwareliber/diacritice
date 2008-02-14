@@ -1049,7 +1049,7 @@ picker button
 picker settings		
 picture	poză, imagine	? [[photo-image-picture-graph]]
 pid		
-pie chart	grafic caşcaval, grafic plăcintă (care e mai bun???)	? [[pie chart]]
+pie chart	diagramă circulară, grafic caşcaval, grafic plăcintă (care e mai bun???)	? [[pie chart]]
 pilot device		
 ping	ping, testează conexiunea de reţea prin pachete care cer un 'pachet de răspuns' (ICMP ECHO_REQUEST packets)	
 pinging	testarea conexiunii de reţea	
