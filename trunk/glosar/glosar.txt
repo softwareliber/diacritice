@@ -759,7 +759,7 @@ keyboard shortcut	taste rapide	! [[Link-hyperlink-shortcut]]
 keyfile	fişier de chei	!
 keymap	harta de tastatură	
 keymap control		
-keyring	inel de chei	!
+keyring	portchei	?
 keystroke	combinaţie de taste, apăsare de tastă	
 keyword	cuvânt cheie	!
 khmer	khmer	!
