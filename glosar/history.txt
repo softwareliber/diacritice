@@ -2026,3 +2026,5 @@ remove	scoade, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]	
 setting	1. opţiune de configurare, setare, ajustare 2. mediu, cadru		2008-02-11 02:37:50	89.137.228.34
 entry	intrare, înregistrare	nu ştiu ce e cu cuvânt-titlu	2008-02-13 22:20:51	89.137.8.106
 pie chart	diagramă circulară, grafic caşcaval, grafic plăcintă (care e mai bun???)	? [[pie chart]]	2008-02-14 16:33:06	89.34.181.20
+keyring	inel de chei	!portchei	2008-02-15 17:48:52	86.124.235.170
+keyring	portchei	?	2008-02-15 17:51:05	86.124.235.170
