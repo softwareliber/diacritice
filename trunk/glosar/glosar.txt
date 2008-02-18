@@ -807,7 +807,7 @@ listing	~înşiruire
 literal	literal	
 load	a încărca, încărcătură, încărcare	
 local	local	!
-locale	locale	
+locale	locală	
 localhost	buclă locală	
 localization	localizare	!
 locate	a localiza	!
@@ -1210,7 +1210,7 @@ relief	umbră
 remapping	recartare, recartografiere	
 remote	la distanţă	
 removable media	mediu amovibil	
-remove	scoade, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]
+remove	elimină, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]
 rename	a redenumi	!
 render	a reda, a randa (in special pentru imagini 3D)	
 repeat	a repeta	!

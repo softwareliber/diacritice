@@ -2030,3 +2030,6 @@ keyring	inel de chei	!portchei	2008-02-15 17:48:52	86.124.235.170
 keyring	portchei	?	2008-02-15 17:51:05	86.124.235.170
 target	destinaţie, ţintă [a se folosi doar în cazul în care reprezintă ceva vizual]	? [[goal-objective-target]]	2008-02-18 12:34:49	212.93.140.102
 target	destinaţie [recomandat], ţintă [a se folosi doar în cazul în care reprezintă ceva vizual]	? [[goal-objective-target]]	2008-02-18 12:35:04	212.93.140.102
+locale	locală, locale		2008-02-18 23:06:37	89.137.228.34
+locale	locală		2008-02-18 23:06:56	89.137.228.34
+remove	elimină, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]	2008-02-18 23:23:39	89.137.8.106
