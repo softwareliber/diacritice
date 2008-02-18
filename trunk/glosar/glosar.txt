@@ -1499,7 +1499,7 @@ take advantage of	a beneficia de	!
 talk	a vorbi, discuţie	
 tall	înalt	!
 tar archive	arhivă tar	!
-target	destinaţie, ţintă	? [[goal-objective-target]]
+target	destinaţie [recomandat], ţintă [a se folosi doar în cazul în care reprezintă ceva vizual]	? [[goal-objective-target]]
 target file	fişier destinaţie	!
 task	sarcină	! [[task]]
 tclass		
