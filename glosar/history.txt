@@ -2028,3 +2028,5 @@ entry	intrare, înregistrare	nu ştiu ce e cu cuvânt-titlu	2008-02-13 22:20:51	
 pie chart	diagramă circulară, grafic caşcaval, grafic plăcintă (care e mai bun???)	? [[pie chart]]	2008-02-14 16:33:06	89.34.181.20
 keyring	inel de chei	!portchei	2008-02-15 17:48:52	86.124.235.170
 keyring	portchei	?	2008-02-15 17:51:05	86.124.235.170
+target	destinaţie, ţintă [a se folosi doar în cazul în care reprezintă ceva vizual]	? [[goal-objective-target]]	2008-02-18 12:34:49	212.93.140.102
+target	destinaţie [recomandat], ţintă [a se folosi doar în cazul în care reprezintă ceva vizual]	? [[goal-objective-target]]	2008-02-18 12:35:04	212.93.140.102
