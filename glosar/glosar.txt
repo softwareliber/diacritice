@@ -1618,7 +1618,7 @@ unix	UNIX	!
 unknown	necunoscut	
 unknown host	gazdă necunoscută	
 unload	a descărca	
-unlock	a descuia (nu am altă idee)	? [[lock-unlock]]
+unlock	a descuia (nu am altă idee), a debloca	? [[lock-unlock]]
 unmount	a demonta, demontare	!
 unmute	cu sunet	
 unplugged	deconectat, decuplat, deconectat; decuplat	
