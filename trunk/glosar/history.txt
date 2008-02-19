@@ -2033,3 +2033,4 @@ target	destinaţie [recomandat], ţintă [a se folosi doar în cazul în care re
 locale	locală, locale		2008-02-18 23:06:37	89.137.228.34
 locale	locală		2008-02-18 23:06:56	89.137.228.34
 remove	elimină, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]	2008-02-18 23:23:39	89.137.8.106
+unlock	a descuia (nu am altă idee), a debloca	? [[lock-unlock]]	2008-02-19 08:36:40	89.34.181.20
