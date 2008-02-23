@@ -1551,7 +1551,7 @@ title	titlu	!
 titlebar	bară de titlu	!
 to deal with	a trata (ceva)	
 to fix	~  a problem, a remedia, a repara, rareori a fixa	
-todo	de făcut	
+todo	de făcut, sarcină (angajament)	
 todo list		
 toggle	a comuta	
 token	semn, simbol, jeton, element; atom; obiect; semn; simbol; ştafetă; marcaj	
