@@ -167,7 +167,7 @@ bricks	cărămizi	!
 brightness	luminozitate	!
 broadcast	a emite, a anunţa (în reţea)?	
 broken	invalid, deteriorat	
-browse	a naviga	!
+browse	a naviga	? [[browse]]
 browser	navigator (web)	
 buddy	prieten	
 buffer	[zona de] memorie tampon, editor	
