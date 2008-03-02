@@ -65,7 +65,7 @@ archive file	fişier arhivă
 area	suprafaţă, arie, zonă	
 area grid	grilă suprafaţă	
 argument	argument	
-array	tablou	
+array	tablou, matrice	?
 arrow key	tastă săgeată	
 article	articol	? [[item-element]]
 as of	începând cu	!
@@ -368,7 +368,7 @@ deploy	a desfăşura, desfăşurare
 deprecated	învechit, depăşit	
 derived	derivat	!
 descending sort	ordonare descrescătoare	
-descriptor		
+descriptor	descriptor (de fişier)	?
 deselect	??? - daca select=alege ,,, deselect ar fi...?	
 design	schiţă, model, proiect, plan	
 designate	a desemna	!
@@ -614,9 +614,9 @@ guide	a ghida, ghid
 gutter	rigolă, jgheab	
 hacker		
 halt	oprire, oprire/blocare (?)	
-handle	a opera, a manevra, a gestiona, a trata	
-handler	utilizator	
-handling	manevrare, gestionare, tratare/tratament	
+handle	a opera, a manevra, a gestiona, a trata, a deschide (un tip de fişiere)	?
+handler	utilizator	?
+handling	manevrare, gestionare, tratare/tratament	?
 handshake	strîngere de mînă	
 hanging indent	indentare atârnată	
 hard	greu, dificil, hard(?)	
@@ -1077,6 +1077,7 @@ policy	politică	!
 polish	lustrui	? [[polish]]
 polished	lustruit	? [[polish]]
 poll	sondaj	!
+polling	verificare ciclică	?
 polygon	poligon	!
 polyline	linie frântă?	
 pool	baltă, bazin, o variantă de biliard, fond comun, rezervă, urnă?	
@@ -1565,6 +1566,7 @@ toolchain	ansamblu de unelte
 toolkit	trusă de unelte	
 tooltip	indiciu, pont	
 top	vârf	
+top-level	de prim nivel, de nivel zero	?
 topic	topică, subiect, discuţie	
 track	a urmări, urmărire, pistă (de CD), urmărire; pistă (de CD)	
 tracker	monitor	
@@ -1585,6 +1587,7 @@ trigger	declanşator	!
 trim	în bună stare, aranjat, a pune în ordine, a aranja, a potrivi	
 troubleshoot	a depana, depanare	
 troubleshooting	depanare	
+truncate	a aproxima, a reduce, a tăia, a trunca/truncare	?
 trusted	de încredere	!
 tty		
 tune	a ajusta, ajustare, a regla, reglare, melodie, ajustare; a regla	
