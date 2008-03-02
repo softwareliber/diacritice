@@ -2036,3 +2036,14 @@ remove	elimină, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]
 unlock	a descuia (nu am altă idee), a debloca	? [[lock-unlock]]	2008-02-19 08:36:40	89.34.181.20
 todo	de făcut, sarcină (angajament)		2008-02-23 17:19:54	87.175.115.193
 browse	a naviga	? [[browse]]	2008-02-29 17:14:12	82.78.39.13
+polling	verificare ciclică		2008-03-02 23:15:38	193.231.29.37
+polling	verificare ciclică	?	2008-03-02 23:17:11	193.231.29.37
+handle	a opera, a manevra, a gestiona, a trata, a deschide (un tip de fişiere)		2008-03-02 23:22:34	193.231.29.37
+handle	a opera, a manevra, a gestiona, a trata, a deschide (un tip de fişiere)	?	2008-03-02 23:22:44	193.231.29.37
+handler	utilizator	?	2008-03-02 23:23:10	193.231.29.37
+handling	manevrare, gestionare, tratare/tratament	?	2008-03-02 23:23:13	193.231.29.37
+truncate	a aproxima, a reduce, a tăia	?	2008-03-02 23:26:02	193.231.29.37
+top-level	de prim nivel, de nivel zero	?	2008-03-02 23:37:25	193.231.29.37
+descriptor	descriptor (de fişier)	?	2008-03-02 23:45:54	193.231.29.37
+truncate	a aproxima, a reduce, a tăia, a trunca/truncare	?	2008-03-02 23:53:33	193.231.29.37
+array	tablou, matrice	?	2008-03-02 23:56:51	193.231.29.37
