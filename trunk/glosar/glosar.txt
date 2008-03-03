@@ -1544,6 +1544,7 @@ tile	mozaic, mozaic; tapetat ?,parcelă, formă (geometric)ă
 tile based	bazat pe forme (geometrice)	
 time format	format orã	
 time stamp	etichetã de timp	
+time-quantum	cuantă de timp	
 timeout	timp alocat expirat, limită de timp	
 timer	cronometru	!
 timeslice	cuantă de timp	

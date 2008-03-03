@@ -2054,3 +2054,4 @@ interlace	a întrețese, întrețesere	?	2008-03-03 10:41:58	81.180.68.6
 deinterlace	a estompa întrețeserea, estompare întrețesere	?	2008-03-03 10:42:54	81.180.68.6
 supported	admis		2008-03-03 10:51:27	81.180.68.6
 attempt	a încerca, tentativă, încercare		2008-03-03 11:09:11	81.180.68.6
+time-quantum	cuantă de timp		2008-03-03 12:24:04	81.180.68.6
