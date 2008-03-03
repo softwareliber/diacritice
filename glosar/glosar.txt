@@ -81,6 +81,7 @@ assistive	de asistenţă
 asynchronous	asincron	!
 attach	a anexa, a ataşa	? [[attachment]]
 attachment	anexă, ataşament	? [[attachment]]
+attempt	a încerca, tentativă, încercare	
 attribute	atribut	!
 audio	audio	!
 authentication	autentificare	? [[Online-offline-connected-disconnected]]
