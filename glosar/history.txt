@@ -2047,3 +2047,4 @@ top-level	de prim nivel, de nivel zero	?	2008-03-02 23:37:25	193.231.29.37
 descriptor	descriptor (de fişier)	?	2008-03-02 23:45:54	193.231.29.37
 truncate	a aproxima, a reduce, a tăia, a trunca/truncare	?	2008-03-02 23:53:33	193.231.29.37
 array	tablou, matrice	?	2008-03-02 23:56:51	193.231.29.37
+vendor	producător		2008-03-03 01:36:26	89.137.8.106
