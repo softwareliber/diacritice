@@ -167,7 +167,7 @@ bricks	cărămizi	!
 brightness	luminozitate	!
 broadcast	a emite, a anunţa (în reţea)?	
 broken	invalid, deteriorat	
-browse	a naviga	? [[browse]]
+browse	a răsfoi, a naviga	? [[browse]]
 browser	navigator (web)	
 buddy	prieten	
 buffer	[zona de] memorie tampon, editor	
@@ -358,6 +358,7 @@ decoder	decodor	!
 decrease	a micșora; decrease / increase [size etc.] = micșorează / mărește [dimensiunea] etc.	
 default	standard; default install[ation] = instalare standard; implicit ("reset to default" nu e musai să fie resetat la un standard universal, ci poate fi un preset particular al aplicaţiei respective)	
 defaults	setări standard	
+deinterlace	a estompa întrețeserea, estompare întrețesere	?
 delete	a şterge	? [[erase-delete-remove]]
 delete all	şterge tot, şterge toate	! [[Erase-delete-remove-clean-expunge]]
 delta	diferenţă	
@@ -720,6 +721,7 @@ intercept	a intercepta, interceptare
 interchange file format	format intershimbabil de fișier	
 interface	interfaţă	!
 interfata	interfaţă	
+interlace	a întrețese, întrețesere	?
 interlaced	întreţesut	
 internal bug	problemă internă	
 internal error	eroare internă	
@@ -1467,6 +1469,7 @@ supercede	a înlocui
 supercomputer	supercomputer, supercalculator, supercomputer; supercalculator	
 superscript	exponent, scris sus (cum este puterea), antet	
 support	asistenţă	
+supported	admis	
 suppress	a suprima	
 suspend	a suspenda	
 swallow	gît, înghiţitură, a încapsula, încapsulare	
