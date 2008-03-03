@@ -667,6 +667,7 @@ hot spot	punct fierbinte
 hotlist	listă fierbinte, listă favorită	
 hourly	1. la fiecare oră 2. orar(ă) - (ex. rată ~)	
 housekeeping	întreţinere	
+hover	a plana, planare	?
 howto	ghid	
 html	limbajul de marcare a hipertextului	
 http	protocolul de tranfer a hipertextului	
