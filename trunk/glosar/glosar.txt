@@ -1663,7 +1663,7 @@ variable	variabil
 variance	variaţie	
 various	divers (various options = opțiuni diverse)	
 vector graphics	grafică vectorială	
-vendor	furnizor, producător?	
+vendor	producător	
 verbose	vorbăreţ, detaliat, gălăgios	
 verify	a verifica, verificare	
 version	versiune	
