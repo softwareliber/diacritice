@@ -2056,3 +2056,6 @@ supported	admis		2008-03-03 10:51:27	81.180.68.6
 attempt	a încerca, tentativă, încercare		2008-03-03 11:09:11	81.180.68.6
 time-quantum	cuantă de timp		2008-03-03 12:24:04	81.180.68.6
 hover	a plana, planare	?	2008-03-03 17:13:10	81.180.68.6
+chop	cioplire	?	2008-03-04 10:38:51	81.180.68.6
+ligature	ligatură	!	2008-03-04 10:39:04	81.180.68.6
+shutter	obturator (foto.)	!	2008-03-04 10:43:00	81.180.68.6
