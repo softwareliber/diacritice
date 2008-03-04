@@ -244,6 +244,7 @@ child	copil	!
 child process	sub-proces, proces copil, proces inferior	
 chipset		
 chooser	selector	
+chop	cioplire	?
 cite	citat	
 class	clasă	!
 classification	clasificare	!
@@ -793,6 +794,7 @@ letter	literă, scrisoare; format Letter [scrisoare, standard în SUA]
 library	bibliotecă	!
 licence	licenţa	!
 license agreement	acord de licențiere	
+ligature	ligatură	!
 light	1. lumină, 2. uşor, sumar, (cu) amprentă mică	
 light precipitation		
 limit	limită	
@@ -1342,6 +1344,7 @@ show	a arăta, a expune, spectacol, afişează
 shrink	a micşora	
 shuffle	a amesteca, aleator	
 shut down	a opri, oprire	
+shutter	obturator (foto.)	!
 sidebar	bară laterală	
 sign-in	intrare [într-un cont]	
 sign-out	ieşire [dintr-un cont]	
