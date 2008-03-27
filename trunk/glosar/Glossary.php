@@ -122,19 +122,19 @@ class Glossary {
 		$result['term'] = $term;
 		$result['definition'] = $definition;
 
-		$history = "<table width=370 class=clickable><tr><th width=120>Dată revizie</th><th width=250>Traducere</th></tr>";
+		$history = "<table class=clickable><tr><th>Termen</th><th>Context</th><th>Dată revizie</th><th>Traducere</th><th>IP</th></tr>";
 		$class = "light";
 		$fcontents = array_reverse($fcontents);
 		foreach ($fcontents as $line) {
 			if (substr($line, 0, $len + 1) == "$term\t") {
-				list ($term, $oldDefinition, $date, $ip) = split("\t", $line);
+				list ($term, $oldDefinition, $context, $date, $ip) = split("\t", $line);
 
 				$term = $this->_encode($term);
 				$oldDefinition = $this->_encode($oldDefinition);
 
 				$history .= "<tr class=$class>" .
-						"<td class=date onClick=\"revert('" . $oldDefinition . "')\">$date</td>" .
-						"<td  onClick=\"revert('" . $oldDefinition . "')\">$oldDefinition</td></tr>";
+						"<td>$term</td><td>$context</td><td class=date onClick=\"revert('" . $oldDefinition . "')\">$date</td>" .
+						"<td  onClick=\"revert('" . $oldDefinition . "')\">$oldDefinition</td><td>$ip</td></tr>";
 				$class = ($class == 'light') ? 'dark' : 'light';
 			}
 		}

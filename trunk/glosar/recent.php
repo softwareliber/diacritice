@@ -22,7 +22,7 @@ function edit(term) {
 
 <div id="content">
 <h1>Modificări recente</h1>
-<table width=490 class="clickable"><tr><th>Dată</th><th>Termen</th><th>Traducere</th></tr>
+<table class="clickable"><tr><th>Dată</th><th>Termen</th><th></th><th>Traducere</th><th>Host</th></tr>
 <?php
 $fcontents = file('history.txt');
 $len = strlen($term);
@@ -35,14 +35,14 @@ $fcontents = array_reverse($fcontents);
 $maxItems = 50;
 foreach ($fcontents as $line) {
 	if ($maxItems-- == 0) break;
-
-	list ($term, $definition, $date, $ip) = split("\t", $line);
+        $line = rtrim($line);
+	list ($term, $definition, $context, $mdate, $ip) = split("\t", $line);
 	$term = htmlentities($term, ENT_QUOTES, 'UTF-8');
 	$definition = htmlentities($definition, ENT_QUOTES, 'UTF-8');
 
-	print "<tr class=$class><td width=120 class=date onClick=\"edit('" . $term . "')\">$date</td>" .
-		"<td width=120 onClick=\"edit('" . $term . "')\">" . $term . "</td>" .
-		"<td width=250 onClick=\"edit('" . $term . "')\">$definition</td></tr>";
+	print "<tr class=$class><td class=date onClick=\"edit('" . $term . "')\">$mdate</td>" .
+		"<td onClick=\"edit('" . $term . "')\">" . $term . "</td><td>$context</td>" .
+		"<td onClick=\"edit('" . $term . "')\">$definition</td><td>" . gethostbyaddr($ip) ."</td></tr>";
 	$class = ($class == 'light') ? 'dark' : 'light';
 }
 
