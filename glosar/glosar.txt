@@ -68,6 +68,7 @@ argument	argument
 array	tablou, matrice	?
 arrow key	tastă săgeată	
 article	articol	? [[item-element]]
+artist	interpret	!
 as of	începând cu	!
 ascending	crescător	!
 ascending order	ordine crescătoare	!
@@ -141,8 +142,8 @@ blocked	blocat	[[Lock-unlock-block-unblock]]
 blog	blog	? [[blog]]
 blowtorch	lampă de sudură (cu flacără deschisă)	
 bluetooth	bluetooth	!
-blur	difuz, neclar, înceţoşat, difuz; neclar	
-blur image		
+blur	a estompa; difuz, neclar, înceţoşat, difuz; neclar	
+blur image	estompează imaginea	
 body	corp	!
 bold	îngroşat, aldin	? [[bold-italic]]
 bond	  s  legătură  f; obligaţie  f; angajament  n; robie  f	
@@ -181,6 +182,7 @@ bullet	bumb,bulină
 bulleted list	listă cu buline	
 bulletin board		
 bundle	a include, includere, inclus, legat, includere; inclus, pachet	
+burn	a scrie [un cd, un dvd]	
 burner	utilitar de scriere	
 bus	magistrală	
 bus (vehicle)	autobuz	!
@@ -358,8 +360,8 @@ decline	a refuza	!
 decode	decodare	
 decoder	decodor	!
 decrease	a micșora; decrease / increase [size etc.] = micșorează / mărește [dimensiunea] etc.	
-default	standard; default install[ation] = instalare standard; implicit ("reset to default" nu e musai să fie resetat la un standard universal, ci poate fi un preset particular al aplicaţiei respective)	
-defaults	setări standard	
+default	implicit	
+defaults	implicite	
 deinterlace	a estompa întrețeserea, estompare întrețesere	?
 delete	a şterge	? [[erase-delete-remove]]
 delete all	şterge tot, şterge toate	! [[Erase-delete-remove-clean-expunge]]
@@ -385,6 +387,7 @@ detail	amănunt , detaliu
 detection	identificare, descoperire	
 develop	a dezvolta, dezvoltare, [software] developer = dezvoltator [software]	
 device	dispozitiv	!
+dewpoint	punct de condensare	!
 diaeresis	tremă	cele două punte de deasupra unei litere
 diagonal	diagonală	!
 diagram	diagramă	!
@@ -395,7 +398,7 @@ dialout device
 diff	diff	
 digit	cifră	!
 digits	cifre	!
-dim	a micşora; (de ce nu a diminua ? dim the light -> diminuează lumina (C.S.))	
+dim	împăienjeni (despre efectul vizual de încețoșare a ferestrei)	!
 dimension	dimensiune	
 direction	direcţie	
 directory	director (desi nu e corect d.p.d.v. DEX?), dosar	? [[directory-folder]]
@@ -431,12 +434,13 @@ double quote	ghilimele, semne de citare
 downgrade	a aduce la o versiune anterioară, retrogradare	dacă se poate folosiți traducerea lungă
 download	a descărca, descărcare	
 downstream	aval, în josul apei, downstream; aval?	
+dpi	PPȚ (Puncte Pe Țol)	
 draft	ciornă	
 drag and drop	trage şi lasă să cadă, tragere şi plasare ?, trage şi plasează	
 drawer	sertar	!
 drawing area	zona de desenat	
 drive	unitate	!
-driver	pilot, driver, modul de nucleu	
+driver	driver (drivere), modul de nucleu	
 drop	a renunţa la, a refuza, a abandona	
 drop caps	majusculă multilinie, letrină	
 drop down list	listă de selecţie	
@@ -507,6 +511,7 @@ extract	a extrage
 factored	creat(ă)	
 factory	fabrică; factory settings = setările din fabrică	
 fail	a eşua ; action failed = acțiunea a eșuat	
+fall apart	a dezagrega; dezagregare	!
 fallback	reîntoarcere/rezervă	
 faq	întrebări frecvente	!
 fault	defecţiune	!
@@ -529,7 +534,7 @@ final	final	!
 find	a căuta, căutare; find words = caută cuvintele	? [[search-find]]
 fingerprint	amprentă	!
 finish		? [[quit-exit-terminate-finish]]
-firewall	zid de protecție	
+firewall	firewall	
 firmware	firmware [la fel ca software si hardware], program intrinsec	
 fit	potrivește	
 fix	a repara [vb], remediu [s]	
@@ -585,6 +590,7 @@ gap	decalaj, lipsă, gaură
 garbage collector	colector de memorie reziduală	!
 gateway	poartă, intrare, gateway, calculator "poartă" de iesire	
 general	general, generic ???	
+genuine	autentic	
 geometry	geometrie	!
 get	a primi, a obţine, primeşte, a primi; a obţine, extrage	
 getting started	primii paşi	!
@@ -620,7 +626,7 @@ halt	oprire, oprire/blocare (?)
 handle	a opera, a manevra, a gestiona, a trata, a deschide (un tip de fişiere)	?
 handler	utilizator	?
 handling	manevrare, gestionare, tratare/tratament	?
-handshake	strîngere de mînă	
+handshake	strângere de mână	
 hanging indent	indentare atârnată	
 hard	greu, dificil, hard(?)	
 hard disk	disc, discul fix	
@@ -780,16 +786,17 @@ language (human)	limbă	!
 laptop	laptop, calculator portabil, laptop; calculator portabil	
 latency	latenţă	!
 latex	Latex	!
+launch	pornește (un program)	
 launch icon	pictogramă de lansare	
 launcher	lansator	
 layer	strat	
-layout	machetă, aranjament, aspect, plan general, proiect, dispunere, formatare	
+layout	aspect, aranjament, plan general, proiect, dispunere, formatare	
 legacy	moştenire	
 legacy application	aplicaţie moştenită	
 legacy system	sistem moştenit	
 legal	legal	!
 legal notice	notă juridică	
-length	lungime	!
+length	lungime; durată (muzică, filme)	!
 letter	literă, scrisoare; format Letter [scrisoare, standard în SUA]	
 library	bibliotecă	!
 licence	licenţa	!
@@ -952,6 +959,7 @@ notebook	agendă, notebook, calculator portabil, notebook; calculator portabil
 notepad	carneţel, carneţel; notepad	
 notice	notiţă, a remarca	
 notification	înștiințare, aducere la cunoștință	
+notification area	zona de notificare	
 notify	a înştiinţa, înştiinţare	
 notify me	anunţă-mă	!
 number	număr	!
@@ -1012,6 +1020,7 @@ page break	întreruperea paginii
 pager	paginator, paginator?	
 paginile	paginile	
 pair	a asocia	
+pairing	asociere	
 palette	paletă	!
 palmtop	palmtop	!
 pane	vedere	
@@ -1153,6 +1162,8 @@ proxy	proxy
 proxy server	server proxy	
 public	public	
 public key	cheie publică	
+publishing	publicare	
+publishing application	aplicaţie pentru editarea de publicaţii	
 purge	a curăţa, a elimina complet	
 put	pune, plasează	
 q&a	întrebări şi răspunsuri	
@@ -1225,7 +1236,7 @@ repertory	depozit, arhivă; repertoriu
 replace	a înlocui	
 report	relataţi, (s) raport, (vt) a relata	
 reports		
-repository	depozit, arhivă	
+repository	arhivă, depozit	
 request	cerere	
 require	a necesita, a cere	
 required	necesar, necesară	!
@@ -1249,12 +1260,14 @@ retained	reţinut
 retrieve	a descărca, a obţine	
 retry	a reîncerca, reîncearcă	!
 return	a întoarce, întoarcere	
+return key	tasta Enter	
 reveal	a dezvălui	!
 reverse video		
 revert	a reveni, revenire, revenire; revino	
 review	recenzie	
 revision	revizie	!
 rewind	derulează înapoi	
+rip	jupui	
 rollback	a anula, anulare, anulare; rollback	
 root	rădăcină, administrator (root)	
 root directory	director rădăcină	
@@ -1266,6 +1279,7 @@ rpm package
 rss feed	flux RSS	
 ruler	riglă	!
 run	a porni, a executa	? [[execute-run-start]]
+runaround	circumscriere	
 runlevel	nivel de executare; nivel de rulare	
 runtime	la executare, în timpul executării	
 runtime error	eroare la executare	
@@ -1360,7 +1374,7 @@ size box
 skew	oblicitate, poziţie piezişă	
 skewness		
 skill	aptitudine, abilitate	
-skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile), decorațiune; veșmânt	? [[theme-scheme-skin]]
+skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile), decorațiune; veșmânt, înfățișare	? [[theme-scheme-skin]]
 skip	a omite, a sări, salt	
 slant	a se înclina, înclinat	
 slash	per (termen tipografic existent în română) [cf. backslash]	
@@ -1496,7 +1510,7 @@ system configuration	configuraţia sistemului
 system settings	fixarea sistemului	
 system tray	zonă (sistem) de notificare	
 systray	zonă de notificare	
-tab	1. tab[ulator]; abrevierea tab = tabulator  mi se pare OK; 2. categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]
+tab	1. tab;  2. categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]
 tab stop	spaţiere tab, pl. (tab stops) spaţiere taburi	? [tab]
 table	tabel	!
 table (database)	tabelă	!
@@ -1577,12 +1591,15 @@ tooltip	indiciu, pont
 top	vârf	
 top-level	de prim nivel, de nivel zero	?
 topic	topică, subiect, discuţie	
+touchpad	touchpad	
+touchscreen	touchscreen [de preferat] , ecran sensibil la atingere	
 track	a urmări, urmărire, pistă (de CD), urmărire; pistă (de CD)	
 tracker	monitor	
 transfer	transfer	
 transfer statement	declaraţie de transfer	
 transitive	tranzitiv, tranzitivitate	
 translate	a traduce, a converti	
+translucent	străveziu	!
 transmission channel	canal de transmisie	
 transparent	transparent	!
 transpose	transpunere, a transpune	
@@ -1602,7 +1619,7 @@ tty
 tune	a ajusta, ajustare, a regla, reglare, melodie, ajustare; a regla	
 turing machine		
 turn	rundă	!
-tutorial	ghid	
+tutorial	îndrumar	
 tweaking	ajustare	
 type	tip	!
 type bindings	corelări de tip	!
@@ -1688,6 +1705,7 @@ virtual desktop	desktop virtual
 virtual file system	sistem virtual de fişiere	
 visualization	vizualizare	
 volume	volum	
+vpn	RPV (Rețea Privată Virtuală)	
 wallpaper	tapet	
 warning	avertisment, atenţie	
 watch	a monitoriza, monitorizare, a supraveghea, supraveghere, monitorizare; a supraveghea	
@@ -1710,6 +1728,8 @@ width	lăţime	!
 wildcard	metacaracter	
 window	fereastră	!
 window manager	administrator de ferestre	
+wired network	reţea cu fir	
+wireless network	reţea fără fir	
 wizard	asistent	
 word	cuvânt	!
 word processor	procesor de text	!
@@ -1739,4 +1759,6 @@ zeroed	baleiat (umplut) cu zero, redus la zero
 zigzagline	linie în zigzag	
 zip drive	unitate zip	!
 zoom	lupă, zoom	
+zoom in	măreşte, apropie	
+zoom out	micşorează, depărtează	
 Înainte		
