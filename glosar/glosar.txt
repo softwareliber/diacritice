@@ -377,7 +377,7 @@ descriptor	descriptor (de fişier)	?
 deselect	??? - daca select=alege ,,, deselect ar fi...?	
 design	schiţă, model, proiect, plan	
 designate	a desemna	!
-desktop	birou; suprafaţă de lucru, desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou; tehnoredactare?	
+desktop	birou; suprafaţă de lucru, desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou; tehnoredactare	? [[desktop]]
 desktop background	fondul [ecranului/biroului] [„fundal” este cacofonic, a se evita]	
 desktop environment	ambientul de lucru / biroului	
 destination	destinaţie	!
@@ -1741,7 +1741,7 @@ workflow	flux de lucru; mod de lucru; mod de operare
 workgroup	???	
 working directory	directorul de lucru	
 workshop	seminar, laborator?, prezentare	
-workspace	spaţiu de lucru	
+workspace	spaţiu de lucru	!
 workspaces		
 wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	
 write	a scrie	
