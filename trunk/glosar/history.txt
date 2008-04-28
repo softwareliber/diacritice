@@ -2110,3 +2110,5 @@ test			2008-03-27 22:19:35	86.105.67.31
 test	a testa, test		2008-03-27 22:19:42	86.105.67.31
 touchscreen	touchscreen [de preferat] , ecran sensibil la atingere, ecran tactil		2008-04-22 14:56:55	147.173.197.234
 torrent	torent		2008-04-23 20:24:49	89.137.8.106
+workspace	spaţiu de lucru	!	2008-04-28 10:48:47	89.38.147.13
+desktop	birou; suprafaţă de lucru, desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou; tehnoredactare	? [[desktop]]	2008-04-28 10:56:39	89.38.147.13
