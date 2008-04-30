@@ -1360,6 +1360,7 @@ shuffle	a amesteca, aleator
 shut down	a opri, oprire	
 shutter	obturator (foto.)	!
 sidebar	bară laterală	
+sidepanel	panou lateral	
 sign-in	intrare [într-un cont]	
 sign-out	ieşire [dintr-un cont]	
 sign-up	înregistrare [într-un cont]	
