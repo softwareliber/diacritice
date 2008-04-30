@@ -2112,3 +2112,4 @@ touchscreen	touchscreen [de preferat] , ecran sensibil la atingere, ecran tactil
 torrent	torent		2008-04-23 20:24:49	89.137.8.106
 workspace	spaţiu de lucru	!	2008-04-28 10:48:47	89.38.147.13
 desktop	birou; suprafaţă de lucru, desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou; tehnoredactare	? [[desktop]]	2008-04-28 10:56:39	89.38.147.13
+sidepanel	panou lateral		2008-04-30 15:33:04	212.93.140.102
