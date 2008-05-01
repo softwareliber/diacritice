@@ -129,6 +129,7 @@ bit	bit	!
 bitmap	hartă de biţi, imagine	
 bitrate	rată (de) biţi	
 bitstream	flux de biţi	
+bitwise	binar	
 blacklist	a interzice, listă interziceri, listă neagră?	
 blank	blanc(?), gol, vid	
 bleeding edge <something>	cele mai recente, <chestii> foarte recente	
