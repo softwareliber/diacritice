@@ -2114,3 +2114,4 @@ workspace	spaţiu de lucru	!	2008-04-28 10:48:47	89.38.147.13
 desktop	birou; suprafaţă de lucru, desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou; tehnoredactare	? [[desktop]]	2008-04-28 10:56:39	89.38.147.13
 sidepanel	panou lateral		2008-04-30 15:33:04	212.93.140.102
 bitwise	binar		2008-05-01 12:21:43	89.137.8.106
+readiness	?		2008-05-05 23:51:24	89.38.147.13
