@@ -1188,6 +1188,7 @@ raw data	date brute	!
 raw memory	memorie brută	!
 read out	a citi cu voce tare	
 read-only	(mod) strict citire, protejat la scriere, doar citire	
+readiness	?	
 readout		
 ready	gata	!
 ready...		
