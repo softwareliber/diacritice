@@ -2118,3 +2118,6 @@ readiness	?		2008-05-05 23:51:24	89.38.147.13
 occlusion	ocluziune	!	2008-05-10 12:57:19	81.180.68.7
 mipmap	hartă MIP (lat. „multum in parvo”)	!	2008-05-10 13:11:10	81.180.68.7
 mipmap	hartă MIP (lat. „multum in parvo”=mult în puțin)	!	2008-05-10 13:11:48	81.180.68.7
+overlap	suprapune	!	2008-05-10 14:06:34	81.180.68.7
+overlapping	suprapunere	!	2008-05-10 14:06:47	81.180.68.7
+fold	pliere	!	2008-05-10 14:32:44	81.180.68.7
