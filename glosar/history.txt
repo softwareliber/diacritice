@@ -2116,3 +2116,5 @@ sidepanel	panou lateral		2008-04-30 15:33:04	212.93.140.102
 bitwise	binar		2008-05-01 12:21:43	89.137.8.106
 readiness	?		2008-05-05 23:51:24	89.38.147.13
 occlusion	ocluziune	!	2008-05-10 12:57:19	81.180.68.7
+mipmap	hartă MIP (lat. „multum in parvo”)	!	2008-05-10 13:11:10	81.180.68.7
+mipmap	hartă MIP (lat. „multum in parvo”=mult în puțin)	!	2008-05-10 13:11:48	81.180.68.7
