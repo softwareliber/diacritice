@@ -900,6 +900,7 @@ mini icons
 minimize	a minimiza, a micşora	
 minix	sistem de operare din familia Unix	
 minor faults	defecțiuni minore	!
+mipmap	hartă MIP (lat. „multum in parvo”=mult în puțin)	!
 mirror	oglindă, site alternativ, site-oglindă	
 misc	diverse	
 miscellaneous	diverse	
