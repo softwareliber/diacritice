@@ -2121,3 +2121,4 @@ mipmap	hartă MIP (lat. „multum in parvo”=mult în puțin)	!	2008-05-10 13:1
 overlap	suprapune	!	2008-05-10 14:06:34	81.180.68.7
 overlapping	suprapunere	!	2008-05-10 14:06:47	81.180.68.7
 fold	pliere	!	2008-05-10 14:32:44	81.180.68.7
+fade	decolorare	!	2008-05-10 15:10:36	81.180.68.7

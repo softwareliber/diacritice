@@ -511,6 +511,7 @@ extension	extensie	[[Addin-module-plugin-extension-applet]]
 extract	a extrage	
 factored	creat(ă)	
 factory	fabrică; factory settings = setările din fabrică	
+fade	decolorare	!
 fail	a eşua ; action failed = acțiunea a eșuat	
 fall apart	a dezagrega; dezagregare	!
 fallback	reîntoarcere/rezervă	
