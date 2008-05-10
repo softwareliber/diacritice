@@ -976,6 +976,7 @@ oblique	oblic	!
 observation	observaţii	
 observations		
 obsolete	învechit, depăşit	
+occlusion	ocluziune	!
 occurr	a apărea, a se produce	
 occurrence	apariţie, manifestare; recurenţă;	
 odd	impar	!
