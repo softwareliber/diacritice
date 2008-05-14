@@ -2122,3 +2122,5 @@ overlap	suprapune	!	2008-05-10 14:06:34	81.180.68.7
 overlapping	suprapunere	!	2008-05-10 14:06:47	81.180.68.7
 fold	pliere	!	2008-05-10 14:32:44	81.180.68.7
 fade	decolorare	!	2008-05-10 15:10:36	81.180.68.7
+flag	a marca, fanion, steag, indicator, semnalizator		2008-05-14 23:54:14	140.77.129.55
+unflag	a demarca		2008-05-14 23:54:27	140.77.129.55
