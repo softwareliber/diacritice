@@ -541,7 +541,7 @@ firmware	firmware [la fel ca software si hardware], program intrinsec
 fit	potrivește	
 fix	a repara [vb], remediu [s]	
 fixed font	font fix	!
-flag	fanion, steag, indicator, semnalizator	
+flag	a marca, fanion, steag, indicator, semnalizator	
 flip	a întoarce, a inversa	
 float	a pluti, tip de date in virgulă mobilă	
 floating	plutitor	
@@ -1647,6 +1647,7 @@ undock	a detaşa	? [[dock-undock]]
 unexpected	neaşteptat	!
 unexpected end	sfîrşit neaşteptat	
 unexpected error	eroare neaşteptată	
+unflag	a demarca	
 unhandled	nemavrabil	
 unicode	unicode	!
 uniform resource identifier		
