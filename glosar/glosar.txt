@@ -804,6 +804,7 @@ letter	literă, scrisoare; format Letter [scrisoare, standard în SUA]
 library	bibliotecă	!
 licence	licenţa	!
 license agreement	acord de licențiere	
+lid	capac (la laptop)	
 ligature	ligatură	!
 light	1. lumină, 2. uşor, sumar, (cu) amprentă mică	
 light precipitation		
@@ -1710,7 +1711,7 @@ vfs	sistem de fişiere virtual
 video	video (imagini în mişcare)	
 view	mod afişare [in meniuri], imagine	
 viewer	observator, vizualizator, vizor?	
-viewport	punct de vedere	
+viewport	punct de vedere, vizor	?
 virtual	virtual	
 virtual desktop	desktop virtual	
 virtual file system	sistem virtual de fişiere	

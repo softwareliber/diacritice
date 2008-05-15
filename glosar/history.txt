@@ -2124,3 +2124,5 @@ fold	pliere	!	2008-05-10 14:32:44	81.180.68.7
 fade	decolorare	!	2008-05-10 15:10:36	81.180.68.7
 flag	a marca, fanion, steag, indicator, semnalizator		2008-05-14 23:54:14	140.77.129.55
 unflag	a demarca		2008-05-14 23:54:27	140.77.129.55
+lid	capac (la laptop)		2008-05-15 21:06:43	89.137.8.106
+viewport	punct de vedere, vizor	?	2008-05-15 21:27:28	82.78.39.13
