@@ -1236,7 +1236,7 @@ reliable	fiabil	!
 relief	umbră	
 remapping	recartare, recartografiere	
 remote	la distanţă	
-removable media	mediu amovibil	
+removable media	Mediu detașabil	
 remove	elimină, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]
 rename	a redenumi	!
 render	a reda, a randa (in special pentru imagini 3D)	
