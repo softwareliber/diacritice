@@ -2129,3 +2129,4 @@ viewport	punct de vedere, vizor	?	2008-05-15 21:27:28	82.78.39.13
 readiness	disponibilitate		2008-05-15 23:51:00	86.105.67.31
 readiness	pregătire		2008-05-15 23:51:28	86.105.67.31
 removable media	Mediu detașabil		2008-05-17 12:41:20	89.137.8.106
+sort	a sorta, fel, soi, a tria		2008-05-17 13:42:03	89.137.8.106

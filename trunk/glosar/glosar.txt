@@ -1420,7 +1420,7 @@ solid line	linie solidă
 solid lines		
 solid model	model solid	
 sorry	îmi pare rău	
-sort	fel, soi, a tria, a sorta	? [[order-sort]]
+sort	a sorta, fel, soi, a tria	
 sound card	placă de sunet	
 source	sursă	
 source code	cod sursă	
