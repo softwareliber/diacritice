@@ -2130,3 +2130,6 @@ readiness	disponibilitate		2008-05-15 23:51:00	86.105.67.31
 readiness	pregătire		2008-05-15 23:51:28	86.105.67.31
 removable media	Mediu detașabil		2008-05-17 12:41:20	89.137.8.106
 sort	a sorta, fel, soi, a tria		2008-05-17 13:42:03	89.137.8.106
+snap	muşcătură, apucare rapidă; agățare (ferestre)	!	2008-05-19 18:19:54	81.180.68.7
+vertex	culme, zenit (astron.)	!	2008-05-19 18:23:06	81.180.68.7
+spring	resort	!	2008-05-19 18:32:23	81.180.68.7
