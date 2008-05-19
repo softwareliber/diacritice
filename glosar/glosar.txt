@@ -1405,6 +1405,7 @@ smiley	iconiţă simbolică
 smooth	fin, neted, fin; neted	
 smtp		
 snap	muşcătură, apucare rapidă; agățare (ferestre)	!
+snapoff	desprindere	!
 snippet	bucată de cod, bloc de cod	
 snooze	a aţipi, moţăială	
 socket	mufă, deschizătură, soclu, fasung, orbită, gaură, socket (software); soclu (hardware)	
