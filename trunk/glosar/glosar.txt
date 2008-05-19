@@ -1404,7 +1404,7 @@ smart terminal	terminal inteligent
 smiley	iconiţă simbolică	
 smooth	fin, neted, fin; neted	
 smtp		
-snap	muşcătură, apucare rapidă	
+snap	muşcătură, apucare rapidă; agățare (ferestre)	!
 snippet	bucată de cod, bloc de cod	
 snooze	a aţipi, moţăială	
 socket	mufă, deschizătură, soclu, fasung, orbită, gaură, socket (software); soclu (hardware)	
@@ -1440,6 +1440,7 @@ split	a impărţi,a separa
 splitter	separator	
 spool	coadă de aşteptare	
 spreadsheet	operator de baze de date, calcul tabelar?	
+spring	resort	!
 square brackets	paranteze pătrate	! [[brackets]]
 stabilize	a stabiliza	
 stack	stivă	! [[queue-stack]]
@@ -1705,6 +1706,7 @@ vendor	producător
 verbose	vorbăreţ, detaliat, gălăgios	
 verify	a verifica, verificare	
 version	versiune	
+vertex	culme, zenit (astron.)	!
 vertical	vertical	
 vertical alignment	aliniere verticală	
 vfs	sistem de fişiere virtual	
