@@ -2134,3 +2134,5 @@ snap	muşcătură, apucare rapidă; agățare (ferestre)	!	2008-05-19 18:19:54	8
 vertex	culme, zenit (astron.)	!	2008-05-19 18:23:06	81.180.68.7
 spring	resort	!	2008-05-19 18:32:23	81.180.68.7
 snapoff	desprindere	!	2008-05-19 19:39:16	81.180.68.7
+spreadsheet	foaie de calcul		2008-05-25 17:29:17	89.137.8.106
+scene	scenă		2008-05-25 17:30:19	89.137.8.106

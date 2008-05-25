@@ -1305,6 +1305,7 @@ scalar	scalar	!
 scale	balanţă, scală, a scala, scalare; scară	
 scaling factor	factor de scalare	
 scan	a examina, a scana [pentru scanner]	
+scene	scenă	
 schedule	planificare, programare	
 schedule manager	administrator orar, administrator planificări	
 schema	schemă	!
@@ -1440,7 +1441,7 @@ splash screen	ecran de pornire
 split	a impărţi,a separa	
 splitter	separator	
 spool	coadă de aşteptare	
-spreadsheet	operator de baze de date, calcul tabelar?	
+spreadsheet	foaie de calcul	
 spring	resort	!
 square brackets	paranteze pătrate	! [[brackets]]
 stabilize	a stabiliza	
