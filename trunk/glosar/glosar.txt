@@ -448,7 +448,7 @@ drop down list	listă de selecţie
 druid	druid	
 dumb terminal	terminal prost/mut	
 dummy	marionetă?, înlocuitor temporar?, figurant, machetă, de formă, elementar, banal, manechin	
-dump	a renunta, a anula, a arunca	
+dump	a arunca	
 duplicate	a duplica	!
 duplicate...		
 dynamic	dinamic	!
