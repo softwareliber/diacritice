@@ -1457,6 +1457,8 @@ startup program	program pornire
 stat	verificare, citire a stării	
 state	stare	
 statement	comandă, instrucţiune, extras de cont (bancar)	
+statement (banking)	extras de cont	!
+statement (programming)	insctrucțiune	!
 statistics	statistici	!
 statistics (reports)	statistici	
 statistics (science)	statistică	!
@@ -1766,7 +1768,7 @@ wysiwyg	occv, obţii ceea ce vezi
 x align	aliniere pe orizontală	
 x server		
 xdmcp socket		
-xml		
+xml	xml	!
 yield	  s  producţie  f; recoltă  f; beneficiu  n	
 your	dumneavoastră	!
 your computer	calculatorul	
