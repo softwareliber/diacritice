@@ -1258,7 +1258,7 @@ residual	rezidual, rămas nelămurit
 resize	a redimensiona	
 resolution	rezoluţie	
 resolve	a rezolva [în contextul DNS]	
-resolver	aplicaţie pentru soluţionarea (rezolvarea) echivalenţei adresă IP -- denumire de server	
+resolver	rezolvator	[[resolver]]
 resource element	resursă	
 restart	a reporni, repornire	
 restore	a restabili, a restaura, a repara, a recupera, restaurare; a reface, refacere	
