@@ -528,6 +528,7 @@ field	câmp	!
 file	fişier	!
 file manager	administrator de fişiere	
 file transfer protocol	protocol de transfer al fişierelor	!
+filed	clasat	
 filename	nume de fişier	!
 filesystem	sistem de fişiere	!
 fill	a completa; fill in data = completează datele	
