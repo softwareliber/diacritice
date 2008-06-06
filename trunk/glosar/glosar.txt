@@ -307,7 +307,7 @@ conversion	transformare, conversie
 convert	a converti, convertire; a schimba, schimbare	
 cookie	cookie; fursec	
 copy	copie; a copia; în menu: copiază [selecția]	? [[cut-copy-paste]]
-copyright	drepturi de autor	!
+copyright	!drepturi de autor	
 corba		
 core	de bază, nucleu, principal, vital	
 core file	fişier de depanare	
