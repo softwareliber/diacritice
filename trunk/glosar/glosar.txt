@@ -1491,7 +1491,9 @@ subject	subiect
 submenu	submeniu	
 submit	a trimite, trimitere, propunere	
 subnet	subreţea	
+subscribe	a abona	
 subscript	scris mărunt, indice	
+subscription	abonament	
 subshell support		
 subsidear		
 substring	subşir	

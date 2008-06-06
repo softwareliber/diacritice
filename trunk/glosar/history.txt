@@ -2144,3 +2144,5 @@ resolver	rezolvator	[[resolver]]	2008-06-04 11:35:21	212.93.140.102
 time stamp	marcaj de timp, etichetă de timp		2008-06-04 15:22:33	212.93.140.102
 copyright	!drepturi de autor		2008-06-06 09:56:21	212.93.140.102
 filed	clasat		2008-06-06 10:02:18	212.93.140.102
+subscribe	a abona		2008-06-06 11:44:21	212.93.140.102
+subscription	abonament		2008-06-06 11:44:35	212.93.140.102
