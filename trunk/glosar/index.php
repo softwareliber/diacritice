@@ -20,7 +20,13 @@ $keyword = $_GET['keyword'];
 
 <div id="content">
 
-<h1>Glosar traduceri 2.0 (beta)</h1>
+<h1>Glosar traduceri 2.01</h1>
+
+<p>User 
+<?php 
+// very cheap hack for checking logged in user
+$user = $_REQUEST["ro_i18nUserName"];
+
 <div id="count"></div>
 
 Termen: <input type="text" id="keywordField" value="<?php print $keyword; ?>" autocomplete="off">

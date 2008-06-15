@@ -127,6 +127,7 @@ class Glossary {
 		$fcontents = array_reverse($fcontents);
 		foreach ($fcontents as $line) {
 			if (substr($line, 0, $len + 1) == "$term\t") {
+				$line .= "\t\t\t\t\t"; // just to be sure we don't get an error on next line
 				list ($term, $oldDefinition, $context, $date, $ip) = split("\t", $line);
 
 				$term = $this->_encode($term);
