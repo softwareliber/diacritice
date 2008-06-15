@@ -655,7 +655,7 @@ hex	hexazecimal (în baza 16)
 hibernate	a hiberna	
 hidden file	fişier ascuns	!
 hide	a (se) ascunde; în menu: ascunde [aplicația]; hide all = ascunde‑le pe toate	
-hierachy	ierarhie	
+hierachy	ierarhie	!
 hierarchy		
 highlight	a evidenţia	!
 highlight...		

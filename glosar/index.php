@@ -22,15 +22,20 @@ $keyword = $_GET['keyword'];
 
 <h1>Glosar traduceri 2.01</h1>
 
-<p>User 
 <?php 
 // very cheap hack for checking logged in user
 $user = $_REQUEST["ro_i18nUserName"];
+if(!$user or $user == '') {
+    echo "<p style='color: red;'>Pentru a putea face modificări trebuie să fiti conectat. Puteti opta si pentru pastrarea login-ului de la o sesiune la alta.</p>";
+} 
+?>
+
 
 <div id="count"></div>
 
 Termen: <input type="text" id="keywordField" value="<?php print $keyword; ?>" autocomplete="off">
-<input type="button" id="editButton" value="Editează" onClick="showDefinitionDiv()">
+
+<input type="button" id="editButton" value="Caută" onClick="showDefinitionDiv()">
 
 <div id="definitionDiv" style="display:none">
 <table>
@@ -50,7 +55,11 @@ Ideal ar trebui ca toţi termenii să aibă un marcator de stare, pentru a-i put
 <tr>
 <td align="right">
 <input type="button" value="Renunţă" onClick="cancel()">
+
+<?php if($user) { ?>
 <input type="button" value="Salvează" onClick="save()">
+<?php } ?>
+
 </td></tr>
 </table>
 
