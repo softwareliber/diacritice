@@ -1450,6 +1450,7 @@ square brackets	paranteze pătrate	! [[brackets]]
 stabilize	a stabiliza	
 stack	stivă	! [[queue-stack]]
 stage	etapă	
+stand-alone	de sine stătător	
 standard	standard	!
 standard deviation	deviere standard	
 standby	adormire	

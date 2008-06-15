@@ -2152,3 +2152,4 @@ port (connectivity)	port		2008-06-15 13:42:18	89.38.147.13
 port	portare	!	2008-06-15 13:42:31	89.38.147.13
 port (connectivity)	port	!	2008-06-15 13:42:43	89.38.147.13
 hierachy	ierarhie	!	2008-06-15 14:19:20	89.38.147.13
+stand-alone	de sine stătător		2008-06-15 15:35:20	89.38.147.13
