@@ -1108,7 +1108,9 @@ pool	baltă, bazin, o variantă de biliard, fond comun, rezervă, urnă?
 pooled variance		
 popup	? (apariţie, a apărea), meniu contextual, dialog	
 popup menu	meniu contextual	
-port	a porta, portare	
+port	portare	!
+port (connectivity)	port	!
+port (verb)	a porta	!
 portrait	portret	!
 post	a plasa, mesaj, a trimite	
 post office	oficiu poştal	!

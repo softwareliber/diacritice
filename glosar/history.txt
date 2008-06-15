@@ -2146,3 +2146,8 @@ copyright	!drepturi de autor		2008-06-06 09:56:21	212.93.140.102
 filed	clasat		2008-06-06 10:02:18	212.93.140.102
 subscribe	a abona		2008-06-06 11:44:21	212.93.140.102
 subscription	abonament		2008-06-06 11:44:35	212.93.140.102
+port	port	!	2008-06-15 13:40:39	89.38.147.13
+port (verb)	a porta	!	2008-06-15 13:41:18	89.38.147.13
+port (connectivity)	port		2008-06-15 13:42:18	89.38.147.13
+port	portare	!	2008-06-15 13:42:31	89.38.147.13
+port (connectivity)	port	!	2008-06-15 13:42:43	89.38.147.13
