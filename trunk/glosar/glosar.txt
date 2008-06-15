@@ -794,7 +794,7 @@ launch	pornește (un program)
 launch icon	pictogramă de lansare	
 launcher	lansator	
 layer	strat	
-layout	aspect, aranjament, plan general, proiect, dispunere, formatare	
+layout	dispunere	? alte variante: aspect, aranjament, plan general, proiect, dispunere, formatare
 legacy	moştenire	
 legacy application	aplicaţie moştenită	
 legacy system	sistem moştenit	
