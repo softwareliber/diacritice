@@ -1252,6 +1252,7 @@ repository	arhivă, depozit
 request	cerere	
 require	a necesita, a cere	
 required	necesar, necesară	!
+requirement	cerință	
 rescue	a salva, salvare	
 reserved blocks	blocuri rezervate	
 reset	a restabili, a reseta [a reseta există în DOOM 2005]	?
@@ -1590,7 +1591,7 @@ timeslice	cuantă de timp
 timestamp	datare; marcă de timp	
 timezone	fus orar	!
 timing	cronometrare	!
-tip	chichiță [tips & tricks = sugestii şi ponturi; chichițe și șmecherii], propun găselniţă	? [[tips-and-tricks]]
+tip	indicație	? [[tips-and-tricks]]
 tips & tricks	chichițe și șmecherii, găselniţe? sau mai bine: "Sfaturi utile"	? [[tips-and-tricks]]
 title	titlu	!
 titlebar	bară de titlu	!

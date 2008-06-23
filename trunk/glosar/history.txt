@@ -2154,3 +2154,6 @@ port (connectivity)	port	!	2008-06-15 13:42:43	89.38.147.13
 hierachy	ierarhie	!	2008-06-15 14:19:20	89.38.147.13
 stand-alone	de sine stătător		2008-06-15 15:35:20	89.38.147.13
 layout	dispunere	? alte variante: aspect, aranjament, plan general, proiect, dispunere, formatare	2008-06-15 16:46:51	89.38.147.13
+tip	indicație [tips & tricks = sugestii şi ponturi; chichițe și șmecherii], propun găselniţă	? [[tips-and-tricks]]	2008-06-23 14:50:50	212.93.140.102
+tip	indicație	? [[tips-and-tricks]]	2008-06-23 14:51:01	212.93.140.102
+requirement	cerință		2008-06-23 14:59:21	212.93.140.102
