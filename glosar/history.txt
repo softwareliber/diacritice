@@ -2157,3 +2157,4 @@ layout	dispunere	? alte variante: aspect, aranjament, plan general, proiect, dis
 tip	indicație [tips & tricks = sugestii şi ponturi; chichițe și șmecherii], propun găselniţă	? [[tips-and-tricks]]	2008-06-23 14:50:50	212.93.140.102
 tip	indicație	? [[tips-and-tricks]]	2008-06-23 14:51:01	212.93.140.102
 requirement	cerință		2008-06-23 14:59:21	212.93.140.102
+embed	încorporat		2008-06-25 10:56:03	212.93.140.102
