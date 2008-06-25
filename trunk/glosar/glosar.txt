@@ -462,7 +462,7 @@ electronic mail	poştă electronică, mesaj electronic
 element		? [[item-element]]
 em-dash	linie em; [cf. en-dash]	? [[dashes]]
 email	poştă electronică, mesaj electronic, poştă electronică; mesaj	
-embed	incorporat	
+embed	încorporat	
 embedded	încapsulat, înglobat, încastrat	
 emblem	emblemă	!
 embossed	reliefat	
