@@ -829,7 +829,7 @@ locale	locală
 localhost	buclă locală	
 localization	localizare	!
 locate	a localiza	!
-location	loc	!
+location	locație	!
 lock	a bloca, a obţine acces exclusiv	? [[lock-unlock]]
 lockdown	interdicţie	tradus în pessulus
 log	jurnal, istoric, înregistrări	
