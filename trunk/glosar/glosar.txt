@@ -1714,7 +1714,7 @@ variance	variaţie
 various	divers (various options = opțiuni diverse)	
 vector graphics	grafică vectorială	
 vendor	producător	
-verbose	vorbăreţ, detaliat, gălăgios	
+verbose	detaliat, vorbăreţ, gălăgios	
 verify	a verifica, verificare	
 version	versiune	
 vertex	culme, zenit (astron.)	!
