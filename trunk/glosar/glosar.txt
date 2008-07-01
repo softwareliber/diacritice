@@ -699,6 +699,7 @@ idle	în aşteptare, inactiv, liber, nefolosit, neutilizat, inutil, disponibil
 if	dacă	!
 ignore	a ignora	
 illegal	ilegal	!
+illustration	ilustrație	
 image	imagine	? [[photo-image-picture-graph]]
 implement	a implementa, implementare	!
 implementation	îndeplinire, punere în aplicare, executare, realizare	
