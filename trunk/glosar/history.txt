@@ -2162,3 +2162,5 @@ verbose	detaliat, vorbăreţ, gălăgios		2008-06-25 11:04:33	212.93.140.102
 location	locație	!	2008-06-25 14:52:16	212.93.140.102
 location	locație	[[location]]	2008-06-25 17:19:20	212.93.140.102
 illustration	ilustrație		2008-07-01 08:05:52	82.78.39.13
+time	oră, timp (depinde de context)		2008-07-02 10:12:21	212.93.140.102
+time	oră (date and time - data și ora), timp (it is about time)		2008-07-02 10:13:02	212.93.140.102
