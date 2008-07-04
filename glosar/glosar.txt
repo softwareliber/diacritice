@@ -1282,6 +1282,7 @@ review	recenzie
 revision	revizie	!
 rewind	derulează înapoi	
 rip	jupui	
+role-playing game	joc de rol	
 rollback	a anula, anulare, anulare; rollback	
 root	rădăcină, administrator (root)	
 root directory	director rădăcină	
