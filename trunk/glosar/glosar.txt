@@ -1043,7 +1043,7 @@ parcel	a împărţi, parte, fragment
 parent directory	director superior	
 parse	a analiza, a prelucra	[[Glosar/Discutii/parse]]
 partition	împărţire, compartimentare	
-passphrase	parolă tip frază, parolă-frază, frază secretă	
+passphrase	frază secretă, parolă tip frază, parolă-frază	
 password	parolă	!
 paste	a insera [cf. copy: copy-paste = copiază - inserează]	? [[cut-copy-paste]]
 patch	petic; a petici [se referă la mici aduceri la zi ale unor aplicații, cărora le „peticește” unele hibe]; plasture	
