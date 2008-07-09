@@ -947,6 +947,7 @@ netscape
 network	reţea	!
 networking	reţelistică	!
 news site		
+newsgroup	grup de știri	? [[newsgroup]]
 newsletter	buletin informativ [dacă e periodic], buletin de ştiri [dacă e zilnic]	
 next	înainte (neutru, plus se poate pastra shorcutul pe N), următor (alternativa veche)	
 nibble	a ciuguli, semioctet (4 biţi), semioctet	
