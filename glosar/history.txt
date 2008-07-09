@@ -2167,3 +2167,4 @@ time	oră (date and time - data și ora), timp (it is about time)		2008-07-02 10
 role-playing game	joc de rol		2008-07-04 10:49:51	82.78.39.13
 passphrase	frază secretă, parolă tip frază, parolă-frază		2008-07-04 14:32:42	212.93.140.102
 layout	aspect, aranjament, plan general, proiect, dispunere, formatare	Modificat: Adi Roiban	2008-07-07 11:16:23	212.93.140.102
+newsgroup	grup de știri	? [[newsgroup]]	2008-07-09 20:13:21	89.38.147.13
