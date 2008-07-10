@@ -1730,6 +1730,7 @@ video	video (imagini în mişcare)
 view	mod afişare [in meniuri], imagine	
 viewer	observator, vizualizator, vizor?	
 viewport	punct de vedere, vizor	?
+violation	încălcare	
 virtual	virtual	
 virtual desktop	desktop virtual	
 virtual file system	sistem virtual de fişiere	
