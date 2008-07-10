@@ -324,6 +324,7 @@ covariance	covariaţie
 cpu	procesor, unitatea centrală de procesare, microprocesor	
 crash	cădere, a avea o pană, pană, defect, terminare prematură	
 create	a crea	
+credentials	credențiale	Modificat: Adi Roiban
 credits	autori [aşa e în gnome], credit, recunoaşterea meritelor, echipa?, mulţumiri	
 criteria range		
 criterion	criteriu	
