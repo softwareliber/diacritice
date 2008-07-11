@@ -2173,3 +2173,5 @@ credentials	credențiale	Modificiat: Adi Roiban	2008-07-10 10:20:33	212.93.140.1
 credentials	credențiale	Modificat: Adi Roiban	2008-07-10 10:20:41	212.93.140.102
 violation	violation	încălcare	2008-07-10 13:56:01	92.84.79.180
 violation	încălcare		2008-07-10 13:56:17	92.84.79.180
+master	principal		2008-07-11 19:12:49	78.97.211.199
+applet factory	uzina mini-aplicației	Adi Roiban	2008-07-11 19:22:01	78.97.211.199
