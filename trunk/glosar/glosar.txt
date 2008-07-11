@@ -55,6 +55,7 @@ appearance	aspect
 append	a adăuga, adăugare	
 appendix	anexă	
 applet	mini-aplicaţie	? [[Addin-module-plugin-extension-applet]]
+applet factory	uzina mini-aplicației	Adi Roiban
 application	aplicaţie	!
 application launcher	lansator aplicaţie	
 applix	Applix	
@@ -878,6 +879,7 @@ markup	marcare, evidenţiere
 markup language	limbaj de marcare	
 mask	mască	!
 maskquerading	a mascarada, mascaradare	
+master	principal	
 match	rezultat, potrivire	
 matching	care se potriveşte, potrivit	
 maximum transmission unit	unitatea maximă de tranmisie	
