@@ -2175,3 +2175,5 @@ violation	violation	încălcare	2008-07-10 13:56:01	92.84.79.180
 violation	încălcare		2008-07-10 13:56:17	92.84.79.180
 master	principal		2008-07-11 19:12:49	78.97.211.199
 applet factory	uzina mini-aplicației	Adi Roiban	2008-07-11 19:22:01	78.97.211.199
+wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	! [[wrap]]	2008-07-14 20:13:48	82.78.39.13
+wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	? [[wrap]]	2008-07-14 20:14:04	82.78.39.13
