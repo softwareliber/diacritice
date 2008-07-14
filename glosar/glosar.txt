@@ -1775,7 +1775,7 @@ working directory	directorul de lucru
 workshop	seminar, laborator?, prezentare	
 workspace	spaţiu de lucru	!
 workspaces		
-wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	
+wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	? [[wrap]]
 write	a scrie	
 writer	editor	
 wvlan		
