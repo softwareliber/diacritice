@@ -454,7 +454,7 @@ dump	a arunca
 duplicate	a duplica	!
 duplicate...		
 dynamic	dinamic	!
-e-mail	poştă electronică, mesaj electronic	
+e-mail	e-mail, email, mesaj electronic	Adi Roiban
 echo	ecou	! [[echo]]
 edge	margine	? [[edge-margin-border]]
 edit	a modifica, a edita, editare; edit notes = editează notele	
@@ -463,7 +463,7 @@ eject	a scoate, a arunca; eject CD = scoate CD‑ul / scoate discul
 electronic mail	poştă electronică, mesaj electronic	
 element		? [[item-element]]
 em-dash	linie em; [cf. en-dash]	? [[dashes]]
-email	poştă electronică, mesaj electronic, poştă electronică; mesaj	
+email	email; mesaj	Adi Roiban
 embed	încorporat	
 embedded	încapsulat, înglobat, încastrat	
 emblem	emblemă	!
