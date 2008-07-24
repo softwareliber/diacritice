@@ -2179,3 +2179,8 @@ wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	! [[w
 wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	? [[wrap]]	2008-07-14 20:14:04	82.78.39.13
 e-mail	e-mail, email, mesaj electronic	Adi Roiban	2008-07-16 10:50:51	212.93.140.102
 email	email; mesaj	Adi Roiban	2008-07-16 10:51:20	212.93.140.102
+roaming	roaming	Adi Roiban	2008-07-24 09:16:05	212.93.140.102
+controller	controlor, controler [ide controller]		2008-07-24 09:30:53	212.93.140.102
+workaround	metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban	2008-07-24 09:39:15	212.93.140.102
+realm	domeni	Adi Roiban	2008-07-24 09:51:28	212.93.140.102
+realm	domeni (la AD și Kerberos)	Adi Roiban	2008-07-24 09:51:46	212.93.140.102

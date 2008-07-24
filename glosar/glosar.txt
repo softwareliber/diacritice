@@ -303,7 +303,7 @@ contents	sumar, conţinut
 continue	continuă	!
 contributor	colaborator	
 control	control, comanda	
-controller	controlor, controller?	
+controller	controlor, controler [ide controller]	
 conversion	transformare, conversie	
 convert	a converti, convertire; a schimba, schimbare	
 cookie	cookie; fursec	
@@ -1210,6 +1210,7 @@ ready...
 real memory	memorie reală/fizică	
 real path	calea reală	!
 real time	timp real	!
+realm	domeni (la AD și Kerberos)	Adi Roiban
 reboot	repornire	
 receive	a primi	
 receptivity	receptivitate	
@@ -1286,6 +1287,7 @@ review	recenzie
 revision	revizie	!
 rewind	derulează înapoi	
 rip	jupui	
+roaming	roaming	Adi Roiban
 role-playing game	joc de rol	
 rollback	a anula, anulare, anulare; rollback	
 root	rădăcină, administrator (root)	
@@ -1767,7 +1769,7 @@ wizard	asistent
 word	cuvânt	!
 word processor	procesor de text	!
 work	muncă, activitate	
-workaround	metodă (procedeu, soluţie) alternativă / ocolitoare	
+workaround	metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban
 workbook	registru?	
 workflow	flux de lucru; mod de lucru; mod de operare	
 workgroup	???	
