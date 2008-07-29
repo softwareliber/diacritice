@@ -264,7 +264,7 @@ clu	sugestie
 cluster	mănunchi	
 code	cod, program	
 code segment		
-codec	codec, codecuri [codec video, Adi R]	
+codec	codec, codecuri [codec video]	Adi R
 codepage	pagină de codare	
 coefficient	coeficient	
 collaboration	colaborare	
