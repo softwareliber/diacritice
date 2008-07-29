@@ -2184,3 +2184,9 @@ controller	controlor, controler [ide controller]		2008-07-24 09:30:53	212.93.140
 workaround	metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban	2008-07-24 09:39:15	212.93.140.102
 realm	domeni	Adi Roiban	2008-07-24 09:51:28	212.93.140.102
 realm	domeni (la AD și Kerberos)	Adi Roiban	2008-07-24 09:51:46	212.93.140.102
+seek	a căuta, a parcurge		2008-07-29 09:34:05	212.93.140.102
+seek	a căuta, a parcurge	Adi R.	2008-07-29 09:34:11	212.93.140.102
+handling	gestionare, operare	?	2008-07-29 09:35:23	212.93.140.102
+handle	a gestiona, a opera, deschide (un tip de fişiere)	Adi R	2008-07-29 09:36:56	212.93.140.102
+wrap	a încadra [text wrap], a împacheta, formatat, a despărţi pe linii, aranjat	? [[wrap]]	2008-07-29 09:37:59	212.93.140.102
+wrap	a încadra [text wrap], a împacheta, a despărţi pe linii, aranjat	? [[wrap]]	2008-07-29 09:38:09	212.93.140.102
