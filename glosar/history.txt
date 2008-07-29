@@ -2190,3 +2190,4 @@ handling	gestionare, operare	?	2008-07-29 09:35:23	212.93.140.102
 handle	a gestiona, a opera, deschide (un tip de fişiere)	Adi R	2008-07-29 09:36:56	212.93.140.102
 wrap	a încadra [text wrap], a împacheta, formatat, a despărţi pe linii, aranjat	? [[wrap]]	2008-07-29 09:37:59	212.93.140.102
 wrap	a încadra [text wrap], a împacheta, a despărţi pe linii, aranjat	? [[wrap]]	2008-07-29 09:38:09	212.93.140.102
+codec	codec, codecuri [codec video]	Adi R	2008-07-29 10:13:53	212.93.140.102
