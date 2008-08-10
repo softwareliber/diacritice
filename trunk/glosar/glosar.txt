@@ -1132,7 +1132,7 @@ prefix	prefix
 preload	a preîncărca, preîncărcare	
 prepare	a pregăti	
 prepend	a prefixa	
-prerequisite	cerinţă, premisă, necesar, obligatoriu, indispensabil	
+prerequisite	condiție esențială	Adi R
 presentation	prezentare	!
 preserve	a păstra	
 preset	a prestabili, a stabili anticipat	
