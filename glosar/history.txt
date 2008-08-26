@@ -2193,3 +2193,4 @@ wrap	a încadra [text wrap], a împacheta, a despărţi pe linii, aranjat	? [[wr
 codec	codec, codecuri [codec video]	Adi R	2008-07-29 10:13:53	212.93.140.102
 prerequisite	condiție esențială	Adi R	2008-08-10 10:54:48	194.54.128.86
 driver	pilot, driver, modul de nucleu	!	2008-08-12 09:32:13	171.18.2.101
+doable	făcubil	!	2008-08-26 16:08:52	82.78.39.13

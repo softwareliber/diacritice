@@ -427,6 +427,7 @@ divert	redirecţionare, a (re)direcţiona
 division by zero	împărţire la zero	
 dma		
 dns		
+doable	făcubil	!
 dock	doc, a ataşa, ataşare, doc; a ataşa	? [[dock-undock]]
 document	document	!
 domain	domeniu	!
