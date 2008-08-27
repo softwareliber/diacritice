@@ -2209,3 +2209,46 @@ metafile	metafisier	?	2008-08-27 10:52:22	92.80.17.97
 meter	metru, măsură, măsurător/măsurătoare		2008-08-27 10:53:35	92.80.17.97
 macro	macro, macrocomandă	? [[macro]]	2008-08-27 10:54:02	92.80.17.97
 artist	interpret, artist	!	2008-08-27 10:56:27	92.80.17.97
+alternatively	alternativ, există şi posibilitatea să		2008-08-27 11:01:11	92.80.17.97
+basic	fundamental, de bază; simplu, rudimentar		2008-08-27 11:04:01	92.80.17.97
+branch	ramură, ramificaţie, filială		2008-08-27 11:07:30	92.80.17.97
+burn	a scrie, a inscripţiona [un cd, un dvd]		2008-08-27 11:09:01	92.80.17.97
+bootstrap	iniţializare; bootstrap?	?	2008-08-27 11:10:55	92.80.17.97
+buddy	amic, prieten		2008-08-27 11:11:19	92.80.17.97
+bulletin board	avizier	?	2008-08-27 11:12:04	92.80.17.97
+char cell	celulă caracter	?	2008-08-27 11:14:41	92.80.17.97
+code segment	segment de cod	?	2008-08-27 11:15:43	92.80.17.97
+cos	cos, cosinus		2008-08-27 11:16:14	92.80.17.97
+cross-reference	referinţă încrucişată	?	2008-08-27 11:16:55	92.80.17.97
+deselect	deselectează, şterge/anulează selecţia	?	2008-08-27 11:29:06	92.80.17.97
+detach	a detaşa, a desprinde		2008-08-27 11:30:35	92.80.17.97
+detection	detectare, identificare, descoperire		2008-08-27 11:31:08	92.80.17.97
+distribution list	listă de 	distribuţie		2008-08-27 11:32:13	92.80.17.97
+done	gata, terminat, ?realizat?	?	2008-08-27 11:32:57	92.80.17.97
+emulation	emulare		2008-08-27 11:35:41	92.80.17.97
+explicit state	statut explicit, stare explicită	?	2008-08-27 11:37:55	92.80.17.97
+embed	a încapsula, a încorpora		2008-08-27 11:38:37	92.80.17.97
+fade	a estompa, a decolora	!	2008-08-27 11:41:33	92.80.17.97
+fill	a umple (un contur), a completa; fill in data = completează datele		2008-08-27 11:42:50	92.80.17.97
+floating	plutitor, flotant (floating point=virgulă flotantă)		2008-08-27 11:43:31	92.80.17.97
+fork	a bifurca, ramificaţie; fork?	?	2008-08-27 11:44:48	92.80.17.97
+guest	vizitator, musafir, oaspete		2008-08-27 11:47:30	92.80.17.97
+hacker	hacker		2008-08-27 11:47:51	92.80.17.97
+hierarchy	ierarhie		2008-08-27 11:48:32	92.80.17.97
+hierachy	ierarhie	? ortografie gresita in eng	2008-08-27 11:48:51	92.80.17.97
+highly recommanded	it is ~ to = (este) indicat (să)	? ortografie gresita in eng	2008-08-27 11:49:39	92.80.17.97
+heat	căldură		2008-08-27 11:49:58	92.80.17.97
+hot spot	punct fierbinte, hotspot		2008-08-27 11:50:28	92.80.17.97
+hype	senzaţionalism?	?	2008-08-27 11:52:01	92.80.17.97
+id	id		2008-08-27 11:52:38	92.80.17.97
+irc	irc (internet relay chat)		2008-08-27 11:53:17	92.80.17.97
+instruction pointer	pointer instrucţiuni	?	2008-08-27 11:53:33	92.80.17.97
+jpeg	jpeg		2008-08-27 11:55:56	92.80.17.97
+jaz drive	jaz drive, unitate jaz		2008-08-27 11:56:57	92.80.17.97
+jaz drive	jaz drive, unitate jaz	?	2008-08-27 11:57:01	92.80.17.97
+launch	pornește, lansează (un program)		2008-08-27 11:58:00	92.80.17.97
+licence	licenţă	!	2008-08-27 11:58:39	92.80.17.97
+limits	limite		2008-08-27 11:58:57	92.80.17.97
+linux	linux	!	2008-08-27 11:59:12	92.80.17.97
+localhost	gazdă locală		2008-08-27 11:59:45	92.80.17.97
+locale	[configuraţie] locală, localizare?	?	2008-08-27 12:00:24	92.80.17.97

@@ -36,7 +36,7 @@ align bottom	aliniere la bază	!
 allow	a permite	!
 alpha	alfa	!
 alpha channel	canal alfa	!
-alternatively	există şi posibilitatea să	
+alternatively	alternativ, există şi posibilitatea să	
 amount	sumă, valoare (în unele cazuri: total amount = valoare totală)	
 amplitude modulation	modulare în amplitudine	!
 analog	analog	!
@@ -111,7 +111,7 @@ band gap	bandă de separare
 bandwidth	lăţime de bandă	!
 banned	blocat	
 base	bază	!
-basic	fundamental, de bază	
+basic	fundamental, de bază; simplu, rudimentar	
 basic (language)	Basic	! [[basic]]
 batch	lot, serie	
 batch system	sistem de prelucrare pe loturi	
@@ -155,7 +155,7 @@ boolean	boolean, logic (tip de date)
 boot	a porni sistemul, a iniţializa sistemul	
 bootable	mediu (de pe) care (se) poate porni sistemul, capabil să pornească sistemul (de operare)	
 bootloader	încărcător de sistem, program de pornire a sistemului	
-bootstrap	bootstrap?	
+bootstrap	iniţializare; bootstrap?	?
 border	margine, contur, bordură?	? [[edge-margin-border]]
 bottleneck	gâtuire, loc strimt, timp mort	
 bottom	bază	!
@@ -163,7 +163,7 @@ bound	a lega, legătură, a legă, a asocia
 box	căsuţă, casetă, cutie, container	
 braces	acolade	! [[brackets]]
 bracket	paranteză pătrată	? [[brackets]]
-branch	ramificaţie, filială	
+branch	ramură, ramificaţie, filială	
 branch history shift register	registru de deplasare pentru istoria ramificaţiilor	
 breadcrumbs	linie de navigare	?
 break	pauză, a face pauză, a deteriora, a întrerupe (break row across columns)	
@@ -173,7 +173,7 @@ broadcast	a emite, a anunţa (în reţea)?
 broken	invalid, deteriorat	
 browse	a răsfoi, a naviga	? [[browse]]
 browser	navigator (web)	
-buddy	prieten	
+buddy	amic, prieten	
 buffer	[zona de] memorie tampon, editor	
 buffering	preîncărcare, încărcarea/folosirea memoriei tampon	
 bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate	? [[bug]]
@@ -182,9 +182,9 @@ built in	nativ
 bulk	brut, masiv	
 bullet	bumb,bulină	
 bulleted list	listă cu buline	
-bulletin board		
+bulletin board	avizier	?
 bundle	a include, includere, inclus, legat, includere; inclus, pachet	
-burn	a scrie [un cd, un dvd]	
+burn	a scrie, a inscripţiona [un cd, un dvd]	
 burner	utilitar de scriere	
 bus	magistrală	
 bus (vehicle)	autobuz	!
@@ -231,7 +231,7 @@ change case	Schimbare tip literă, Schimbare casetă tipografică, Modificare ma
 change log	istoric modificări	!
 changeset	set de schimbări (legat de vcs)	
 channel	canal	!
-char cell		
+char cell	celulă caracter	?
 character set	set de caractere	!
 charset	set de caractere	!
 chart	schemă, diagramă, grafic	
@@ -263,7 +263,7 @@ closed	închis	!
 clu	sugestie	
 cluster	mănunchi	
 code	cod, program	
-code segment		
+code segment	segment de cod	?
 codec	codec, codecuri [codec video]	Adi R
 codepage	pagină de codare	
 coefficient	coeficient	
@@ -314,7 +314,7 @@ core	de bază, nucleu, principal, vital
 core file	fişier de depanare	
 correlation	corelaţie	
 corrupt	alterat, corupt, deteriorat	
-cos		
+cos	cos, cosinus	
 cost	cost	
 cought	detectat, interceptat, detectat; interceptat	
 count	a contoriza, a socoti	
@@ -331,7 +331,7 @@ criteria range
 criterion	criteriu	
 critical error	eroare critică	
 crop	a recolta, a tăia, a tunde, crop	
-cross-reference		
+cross-reference	referinţă încrucişată	?
 crossfade	intercalare	
 ctrl		
 cumulative	cumulativ	
@@ -377,7 +377,7 @@ deprecated	învechit, depăşit
 derived	derivat	!
 descending sort	ordonare descrescătoare	
 descriptor	descriptor (de fişier)	?
-deselect	??? - daca select=alege ,,, deselect ar fi...?	
+deselect	deselectează, şterge/anulează selecţia	?
 design	schiţă, model, proiect, plan	
 designate	a desemna	!
 desktop	birou; suprafaţă de lucru, desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou; tehnoredactare	? [[desktop]]
@@ -385,9 +385,9 @@ desktop background	fondul [ecranului/biroului] [„fundal” este cacofonic, a s
 desktop environment	ambientul de lucru / biroului	
 destination	destinaţie	!
 destroy	a distruge, distrugere	
-detach	a desprinde	
+detach	a detaşa, a desprinde	
 detail	amănunt , detaliu	
-detection	identificare, descoperire	
+detection	detectare, identificare, descoperire	
 develop	a dezvolta, dezvoltare, [software] developer = dezvoltator [software]	
 device	dispozitiv	!
 dewpoint	punct de condensare	!
@@ -420,7 +420,7 @@ display manager	administrator de ecran
 dissipation	risipire, cheltuială, disipaţie	
 distribute	a distribui	
 distribution	distribuţie	!
-distribution list		
+distribution list	listă de 	distribuţie
 dithering	tremur, vibraţie	
 diversion	redirectare, diversiune	
 divert	redirecţionare, a (re)direcţiona	
@@ -431,7 +431,7 @@ doable	realizabil	?
 dock	doc, a ataşa, ataşare, doc; a ataşa	? [[dock-undock]]
 document	document	!
 domain	domeniu	!
-done	gata, ?realizat?	
+done	gata, terminat, ?realizat?	?
 dot	punct	!
 double click	dublu clic	
 double quote	ghilimele, semne de citare	
@@ -465,14 +465,14 @@ electronic mail	poştă electronică, mesaj electronic
 element		? [[item-element]]
 em-dash	linie em; [cf. en-dash]	? [[dashes]]
 email	email; mesaj	Adi Roiban
-embed	încorporat	
+embed	a încapsula, a încorpora	
 embedded	încapsulat, înglobat, încastrat	
 emblem	emblemă	!
 embossed	reliefat	
 emoticon	emoticon	
 empty	vid, gol	
 emulate	a emula, emulare	
-emulation		
+emulation	emulare	
 en-dash	linie en [trad „paranteză orizontală” este complet greșită; cf. em-dash]	? [[dashes]]
 enable	a activa, activare, a permite, activare; a permite	
 encapsulated postscript	postscript încapsulat	
@@ -505,7 +505,7 @@ expand	a extinde, a desfăşura
 expanded memory	memorie expandată	
 expander	extensor	
 expected location	locaţia presupusă	
-explicit state	statut explicit	
+explicit state	statut explicit, stare explicită	?
 exponential notation	notaţie exponenţială	
 export	a exporta, export	!
 expression	expresie	
@@ -514,7 +514,7 @@ extension	extensie	[[Addin-module-plugin-extension-applet]]
 extract	a extrage	
 factored	creat(ă)	
 factory	fabrică; factory settings = setările din fabrică	
-fade	decolorare	!
+fade	a estompa, a decolora	!
 fail	a eşua ; action failed = acțiunea a eșuat	
 fall apart	a dezagrega; dezagregare	!
 fallback	reîntoarcere/rezervă	
@@ -534,7 +534,7 @@ file transfer protocol	protocol de transfer al fişierelor	!
 filed	clasat	
 filename	nume de fişier	!
 filesystem	sistem de fişiere	!
-fill	a completa; fill in data = completează datele	
+fill	a umple (un contur), a completa; fill in data = completează datele	
 filter	filtru	!
 final	final	!
 find	a căuta, căutare; find words = caută cuvintele	? [[search-find]]
@@ -548,7 +548,7 @@ fixed font	font fix	!
 flag	a marca, fanion, steag, indicator, semnalizator	
 flip	a întoarce, a inversa	
 float	a pluti, tip de date in virgulă mobilă	
-floating	plutitor	
+floating	plutitor, flotant (floating point=virgulă flotantă)	
 floppy	dischetă	!
 flow analysis	analiza circuitelor	
 flowchart	flux, schemă logică, flowchart (hartă a fluxurilor), flux tehnologic, organigramă	
@@ -562,7 +562,7 @@ footer	coloncifru [termen tipografic consacrat; în nici un caz subsol] discutie
 footnote	notă de pagină [nu „de subsol”; vezi footer]	? [[header-footer]]
 forecast	previziune	!
 foreground	prim plan	
-fork	a clona, a bifurca, fork	
+fork	a bifurca, ramificaţie; fork?	?
 form	a forma, formă, formular	
 format	format	
 formatting	formatare	
@@ -624,11 +624,11 @@ grid	grilă	!
 group	grup	!
 gtk	GTK	!
 gtk+	GTK+	!
-guest	musafir, oaspete, vizitator	
+guest	vizitator, musafir, oaspete	
 gui	interfaţă grafică pentru utilizator, GUI	
 guide	a ghida, ghid	
 gutter	rigolă, jgheab	
-hacker		
+hacker	hacker	
 halt	oprire, oprire/blocare (?)	
 handle	a gestiona, a opera, deschide (un tip de fişiere)	Adi R
 handler	utilizator	?
@@ -650,7 +650,7 @@ heading	subtitlu	?
 headset	căşti	!
 headword		?
 heap	a încărca, grămadă, heap?	
-heat	heat	
+heat	căldură	
 hello world	salut lume	!
 help	ajutor, asistenţă	? [[help]]
 helpdesk	suport tehnic	
@@ -658,11 +658,11 @@ hex	hexazecimal (în baza 16)
 hibernate	a hiberna	
 hidden file	fişier ascuns	!
 hide	a (se) ascunde; în menu: ascunde [aplicația]; hide all = ascunde‑le pe toate	
-hierachy	ierarhie	!
-hierarchy		
+hierachy	ierarhie	? ortografie gresita in eng
+hierarchy	ierarhie	
 highlight	a evidenţia	!
 highlight...		
-highly recommanded	it is ~ to = (este) indicat (să)	
+highly recommanded	it is ~ to = (este) indicat (să)	? ortografie gresita in eng
 hint	sugestie, indiciu, informaţie indicativă	
 hiperlink	hiperlegătură	
 histogram	histogramă	!
@@ -677,7 +677,7 @@ host name
 hostname	nume de gazdă, nume de calculator, hostname	
 hot key	tastă rapidă; combinație de taste	
 hot link	legătură fierbinte	
-hot spot	punct fierbinte	
+hot spot	punct fierbinte, hotspot	
 hotlist	listă fierbinte, listă favorită	
 hourly	1. la fiecare oră 2. orar(ă) - (ex. rată ~)	
 housekeeping	întreţinere	
@@ -686,7 +686,7 @@ howto	ghid
 html	limbajul de marcare a hipertextului	
 http	protocolul de tranfer a hipertextului	
 hue	nuanţă, vopsea	
-hype	?	
+hype	senzaţionalism?	?
 hyperlink	hiperlegătură	? [[link-hyperlink-shortcut]]
 hypertext markup language	limbajul de marcare a hipertextului	
 hypertext transfer protocol	protocolul de tranfer a hipertextului	
@@ -695,7 +695,7 @@ i/o	intrări şi ieşiri
 i/o subsystem	subsistemul de intrări şi ieşiri	
 i:overwrite:	a suprascrie, suprascriere	
 icon	pictogramă [recomandat], iconiţă	
-id	identificator	
+id	id	
 ide		
 identifier	identificator	
 idle	în aşteptare, inactiv, liber, nefolosit, neutilizat, inutil, disponibil	
@@ -732,7 +732,7 @@ install	a instala, instalare	!
 installation kit	pachet de instalare	
 installer	sistem (program?) de instalare	
 instant messaging	mesagerie instant	
-instruction pointer		
+instruction pointer	pointer instrucţiuni	?
 interaction	interacţiune	
 intercept	a intercepta, interceptare	
 interchange file format	format intershimbabil de fișier	
@@ -754,15 +754,15 @@ invert selection	inversează selecţia
 invisible	invizibil	!
 involved	implicat	
 ip address	adresă IP	
-irc		
+irc	irc (internet relay chat)	
 issue	a emite; a publica, ediţie, problemă	
 issuer	emitent	
 italic	înclinat, cursiv	? [[bold-italic]]
 item	element, articol	? [[item-element]]
-jaz drive		
+jaz drive	jaz drive, unitate jaz	?
 jetpack	propulsor personal	
 job	sarcină, slujbă	
-jpeg		
+jpeg	jpeg	
 jump	a sări, salt; jump to page = sari la pagina	
 jump to...	sari la... [imperativ, pers. a 2-a sing, verb a sări]	
 junk	nefolositor, spam, mesaje nesolicitate	
@@ -794,7 +794,7 @@ language (human)	limbă	!
 laptop	laptop, calculator portabil, laptop; calculator portabil	
 latency	latenţă	!
 latex	Latex	!
-launch	pornește (un program)	
+launch	pornește, lansează (un program)	
 launch icon	pictogramă de lansare	
 launcher	lansator	
 layer	strat	
@@ -807,20 +807,20 @@ legal notice	notă juridică
 length	lungime; durată (muzică, filme)	!
 letter	literă, scrisoare; format Letter [scrisoare, standard în SUA]	
 library	bibliotecă	!
-licence	licenţa	!
+licence	licenţă	!
 license agreement	acord de licențiere	
 lid	capac (la laptop)	
 ligature	ligatură	!
 light	1. lumină, 2. uşor, sumar, (cu) amprentă mică	
 light precipitation		
 limit	limită	
-limits		
+limits	limite	
 line	rînd [procesare text]; linie [grafică]; fir de undiţă/undiţă [pescuit]	
 line arguments	argumentele din linia de comandă	
 line break	rând/linie nouă	
 linear transfer	transfer liniar	
 link	a lega, legătură, a crea link, link, a trimite?, trimitere?, relaţionare	? [[link-hyperlink-shortcut]]
-linux		
+linux	linux	!
 list	a enumera	
 list box	căsuţa de tip lista	
 listed	afişat, enumerat	
@@ -829,8 +829,8 @@ listing	~înşiruire
 literal	literal	
 load	a încărca, încărcătură, încărcare	
 local	local	!
-locale	locală	
-localhost	buclă locală	
+locale	[configuraţie] locală, localizare?	?
+localhost	gazdă locală	
 localization	localizare	!
 locate	a localiza	!
 location	locație	[[location]]
