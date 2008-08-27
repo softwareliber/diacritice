@@ -2252,3 +2252,17 @@ limits	limite		2008-08-27 11:58:57	92.80.17.97
 linux	linux	!	2008-08-27 11:59:12	92.80.17.97
 localhost	gazdă locală		2008-08-27 11:59:45	92.80.17.97
 locale	[configuraţie] locală, localizare?	?	2008-08-27 12:00:24	92.80.17.97
+mail to	mesaj către	?	2008-08-27 12:01:27	92.80.17.97
+main body	corp principal, corpul mesajului - mesajul propriu-zis	? in functie de context	2008-08-27 12:01:57	92.80.17.97
+mime type	tip mime		2008-08-27 12:02:23	92.80.17.97
+mini icons	mini pictograme		2008-08-27 12:02:53	92.80.17.97
+nautilus	nautilus	!	2008-08-27 12:03:28	92.80.17.97
+observation	observaţie		2008-08-27 12:04:47	92.80.17.97
+observations	observaţii		2008-08-27 12:04:52	92.80.17.97
+options	opţiuni		2008-08-27 12:05:08	92.80.17.97
+overlay	suprapune	?	2008-08-27 12:05:36	92.80.17.97
+pearson correlation	corelaţie Pearson		2008-08-27 12:06:15	92.80.17.97
+rpm package	pachet rpm		2008-08-27 12:09:50	92.80.17.97
+slow terminal	terminal lent		2008-08-27 12:11:00	92.80.17.97
+smtp	smtp (acronim)	?	2008-08-27 12:11:52	92.80.17.97
+turing machine	maşină Turing		2008-08-27 12:12:55	92.80.17.97

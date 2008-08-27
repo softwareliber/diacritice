@@ -853,10 +853,10 @@ magnifier	lupă
 mail	poştă, poştă electronică	
 mail client	client de poştă electronică, client de mail	
 mail server	server de poştă electronică, server de mail	
-mail to		
+mail to	mesaj către	?
 mailbox	cutie poştală	
 mailing list	listă de discuţii, listă de discuţii prin poştă electronică	
-main body	corpul mesajului - mesajul propriu-zis	
+main body	corp principal, corpul mesajului - mesajul propriu-zis	? in functie de context
 mainframe	mainframe, mainframe; server principal	
 mainstream	fluxul principal	
 maintainance	mentenanţă	!
@@ -904,8 +904,8 @@ messenger	mesager
 metadata	metadate	?
 metafile	metafisier	?
 meter	metru, măsură, măsurător/măsurătoare	
-mime type		
-mini icons		
+mime type	tip mime	
+mini icons	mini pictograme	
 minimize	a minimiza, a micşora	
 minix	sistem de operare din familia Unix	
 minor faults	defecțiuni minore	!
@@ -942,7 +942,7 @@ multitier	multistrat	!
 mundane	uzual	
 mute	mut	
 namespace	spaţiu de nume	
-nautilus		
+nautilus	nautilus	!
 navigation bar	bară de navigare	
 negative binomial		
 nested	imbricat, (cu i, dand: îmbricat nu este corect, vezi dex)	
@@ -984,8 +984,8 @@ numeric	numeric	!
 object code	cod obiect	
 objective	obiectiv	? [[goal-objective-target]]
 oblique	oblic	!
-observation	observaţii	
-observations		
+observation	observaţie	
+observations	observaţii	
 obsolete	învechit, depăşit	
 occlusion	ocluziune	!
 occurr	a apărea, a se produce	
@@ -1007,7 +1007,7 @@ operation	operaţie	!
 opponent	adversar	
 option	opţiune, setare; tasta „Option” [Opţiune] pe tastaturile Macintosh.	
 optional	opţional	!
-options		
+options	opţiuni	
 or	sau	!
 order	comandă, ordin, ordine	
 orientation	orientare	!
@@ -1019,7 +1019,7 @@ output	a produce, produs, ieşire, rezultat
 overflow	overflow; excedent ? [Cristi S]	
 overlap	suprapune	!
 overlapping	suprapunere	!
-overlay		
+overlay	suprapune	?
 override	a strivi, a înlocui, a prelua comanda, a suprascrie, a interveni, a prevala	
 overstrike	a tăia, tăiere, despre fonturi	
 overwrite	a suprascrie, suprascriere	!
@@ -1060,7 +1060,7 @@ pattern	model, proprietate
 pause	pauză	
 peak	vârf	!
 peak indicator		
-pearson correlation		
+pearson correlation	corelaţie Pearson	
 pedestrian	pieton	!
 peer	conexiune, conexiune-pereche, partener	
 peering	parteneriat	
@@ -1297,7 +1297,7 @@ root window	fereastră rădăcină; fereastră fundal
 rotate	a roti, a învîrti	
 router	ruter	
 row	rând	! [în tabele]; șir [inadecvat ca termen IT]; cf. line
-rpm package		
+rpm package	pachet rpm	
 rss feed	flux RSS	
 ruler	riglă	!
 run	a porni, a executa	? [[execute-run-start]]
@@ -1412,13 +1412,13 @@ slider	cursor, patină, derulator, glisor
 slideshow	prezentare diapozitive, succesiune imagini	
 slip	a aluneca, alunecare	
 slot	fantă; nişă; spaţiu alocat	
-slow terminal	terminal încet	
+slow terminal	terminal lent	
 slow terminals		
 smart	deştept, inteligent	
 smart terminal	terminal inteligent	
 smiley	iconiţă simbolică	
 smooth	fin, neted, fin; neted	
-smtp		
+smtp	smtp (acronim)	?
 snap	muşcătură, apucare rapidă; agățare (ferestre)	!
 snapoff	desprindere	!
 snippet	bucată de cod, bloc de cod	
@@ -1651,7 +1651,7 @@ truncate	a aproxima, a reduce, a tăia, a trunca/truncare	?
 trusted	de încredere	!
 tty		
 tune	a ajusta, ajustare, a regla, reglare, melodie, ajustare; a regla	
-turing machine		
+turing machine	maşină Turing	
 turn	rundă	!
 tutorial	îndrumar	
 tweaking	ajustare	
