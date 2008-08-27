@@ -55,7 +55,7 @@ appearance	aspect
 append	a adăuga, adăugare	
 appendix	anexă	
 applet	mini-aplicaţie	? [[Addin-module-plugin-extension-applet]]
-applet factory	uzina mini-aplicației	Adi Roiban
+applet factory	fabrica de mini-aplicații	rz
 application	aplicaţie	!
 application launcher	lansator aplicaţie	
 applix	Applix	
@@ -69,7 +69,7 @@ argument	argument
 array	tablou, matrice	?
 arrow key	tastă săgeată	
 article	articol	? [[item-element]]
-artist	interpret	!
+artist	interpret, artist	!
 as of	începând cu	!
 ascending	crescător	!
 ascending order	ordine crescătoare	!
@@ -427,7 +427,7 @@ divert	redirecţionare, a (re)direcţiona
 division by zero	împărţire la zero	
 dma		
 dns		
-doable	făcubil	!
+doable	realizabil	?
 dock	doc, a ataşa, ataşare, doc; a ataşa	? [[dock-undock]]
 document	document	!
 domain	domeniu	!
@@ -612,8 +612,8 @@ go	start, salt, navigare, du-te, încarcă; go! = porneşte; go to page = du‑t
 goal	obiectiv, ţel	? [[goal-objective-target]]
 gpl	GPL	!
 grab	a strînge, a aduna, a înhăţa, a bloca (ecranul)	
-gradient	pantă, gradient, degrade?	
-grant	a împuternicii, a permite (grant access)	
+gradient	degradeu	cf. DEX
+grant	a acorda; a împuternici, a permite (grant access)	
 graph	grafic	? [[photo-image-picture-graph]]
 graphic	grafică (cu pluralul grafici, dacă nu e vorba de grafice matematice - vezi DEX)	? [[photo-image-picture-graph]]
 graphic tablet	tabletă grafică	!
@@ -847,7 +847,7 @@ lookup	căutare	? [[search-find]]
 loop	ciclu, buclă	
 low	jos , scăzut , redus	
 lru	fişiere accesate recent	
-macro	macro?, macrocomandă?	? [[macro]]
+macro	macro, macrocomandă	? [[macro]]
 magenta	magenta	!
 magnifier	lupă	
 mail	poştă, poştă electronică	
@@ -896,14 +896,14 @@ memory	memorie	!
 mentor	mentor	!
 mentoring	îndrumare	
 menu	meniu	!
-menu item		
+menu item	element de meniu	
 menubar	bara de meniu	!
-merge	a combina, a îmbina, a fuziona	
+merge	a fuziona, a combina, a îmbina	
 message	mesaj	!
 messenger	mesager	
-metadata		
-metafile		
-meter	măsură	
+metadata	metadate	?
+metafile	metafisier	?
+meter	metru, măsură, măsurător/măsurătoare	
 mime type		
 mini icons		
 minimize	a minimiza, a micşora	
@@ -1133,7 +1133,7 @@ prefix	prefix
 preload	a preîncărca, preîncărcare	
 prepare	a pregăti	
 prepend	a prefixa	
-prerequisite	condiție esențială	Adi R
+prerequisite	cerință prealabilă	
 presentation	prezentare	!
 preserve	a păstra	
 preset	a prestabili, a stabili anticipat	
@@ -1524,7 +1524,7 @@ supported	admis
 suppress	a suprima	
 suspend	a suspenda	
 swallow	gît, înghiţitură, a încapsula, încapsulare	
-swap	a înlocui, a schimba	
+swap	a interschimba, a schimba, a înlocui	
 switch	a comuta, a trece, întrerupător, comutator	
 switch level	nivel comutare	
 sylk file		
@@ -1725,7 +1725,7 @@ variance	variaţie
 various	divers (various options = opțiuni diverse)	
 vector graphics	grafică vectorială	
 vendor	producător	
-verbose	detaliat, vorbăreţ, gălăgios	
+verbose	detaliat; vorbăreţ, gălăgios	
 verify	a verifica, verificare	
 version	versiune	
 vertex	culme, zenit (astron.)	!
@@ -1736,7 +1736,7 @@ video	video (imagini în mişcare)
 view	mod afişare [in meniuri], imagine	
 viewer	observator, vizualizator, vizor?	
 viewport	punct de vedere, vizor	?
-violation	încălcare	
+violation	violare; încălcare (drepturi)	cf. DEX
 virtual	virtual	
 virtual desktop	desktop virtual	
 virtual file system	sistem virtual de fişiere	

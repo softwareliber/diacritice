@@ -2194,3 +2194,18 @@ codec	codec, codecuri [codec video]	Adi R	2008-07-29 10:13:53	212.93.140.102
 prerequisite	condiție esențială	Adi R	2008-08-10 10:54:48	194.54.128.86
 driver	pilot, driver, modul de nucleu	!	2008-08-12 09:32:13	171.18.2.101
 doable	făcubil	!	2008-08-26 16:08:52	82.78.39.13
+prerequisite	cerință prealabilă		2008-08-27 10:33:50	92.80.17.97
+grant	a acorda; a împuternici, a permite (grant access)		2008-08-27 10:35:26	92.80.17.97
+gradient	degradeu	cf. DEX	2008-08-27 10:36:09	92.80.17.97
+verbose	detaliat; vorbăreţ, gălăgios		2008-08-27 10:37:06	92.80.17.97
+violation	violare; încălcare (drepturi)	cf. DEX	2008-08-27 10:38:11	92.80.17.97
+applet factory	fabrica de mini-aplicații	rz	2008-08-27 10:38:59	92.80.17.97
+doable	realizabil	?	2008-08-27 10:39:32	92.80.17.97
+swap	a interschimba, a schimba, a înlocui		2008-08-27 10:50:36	92.80.17.97
+menu item	element de meniu		2008-08-27 10:51:16	92.80.17.97
+merge	a fuziona, a combina, a îmbina		2008-08-27 10:51:51	92.80.17.97
+metadata	metadate	?	2008-08-27 10:52:11	92.80.17.97
+metafile	metafisier	?	2008-08-27 10:52:22	92.80.17.97
+meter	metru, măsură, măsurător/măsurătoare		2008-08-27 10:53:35	92.80.17.97
+macro	macro, macrocomandă	? [[macro]]	2008-08-27 10:54:02	92.80.17.97
+artist	interpret, artist	!	2008-08-27 10:56:27	92.80.17.97
