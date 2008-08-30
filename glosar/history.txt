@@ -2266,3 +2266,6 @@ rpm package	pachet rpm		2008-08-27 12:09:50	92.80.17.97
 slow terminal	terminal lent		2008-08-27 12:11:00	92.80.17.97
 smtp	smtp (acronim)	?	2008-08-27 12:11:52	92.80.17.97
 turing machine	maşină Turing		2008-08-27 12:12:55	92.80.17.97
+featured	recomandări		2008-08-30 21:19:08	89.38.147.13
+rated	?		2008-08-30 21:22:14	89.38.147.13
+top rated	?		2008-08-30 21:22:25	89.38.147.13

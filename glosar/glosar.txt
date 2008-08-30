@@ -524,6 +524,7 @@ favicon	favicon (pl. faviconuri)
 favorite		
 fax	fax	!
 feature	caracteristică; însușire; facilitate; capabilitate	
+featured	recomandări	
 feed	flux	
 feedback	reacţie, comentarii, reacţie; comentarii ?	
 fetch	a potrivi [datele]; fetch data = potrivește datele; a aduce, a scoate; fetch mail = adu mail-ul [de pe server]	
@@ -1197,6 +1198,7 @@ random	aleator, întîmplător
 range	rază (de extindere), zonă, arie, interval, plajă (de valori), a înşira, a clasifica, şir, domeniu, ordine	
 rank	grad	
 raster	imagine raster	
+rated	?	
 rating	apreciere, evaluare, clasificare	
 ratio	proporţie	!
 raw	brut	!
@@ -1622,6 +1624,7 @@ toolchain	ansamblu de unelte
 toolkit	trusă de unelte	
 tooltip	indiciu, pont	
 top	vârf	
+top rated	?	
 top-level	de prim nivel, de nivel zero	?
 topic	topică, subiect, discuţie	
 torrent	torent	
