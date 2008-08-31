@@ -1221,7 +1221,7 @@ recipient	destinatar
 record	a înregistra, înregistrare	
 recorder	inscriptor	
 recover	a recupera, recuperare, a reveni	
-recoverable	recuperabil	
+recoverable	recuperabil, corectabil	
 recovery	recuperare	
 rectangle	dreptunghi	!
 recurrence	recurenţă	!
