@@ -2271,3 +2271,4 @@ rated	?		2008-08-30 21:22:14	89.38.147.13
 top rated	?		2008-08-30 21:22:25	89.38.147.13
 floating	plutitor, mobil (floating point=virgulă mobilă)		2008-08-31 17:27:42	193.230.245.5
 setting	1. opţiune, configurare, preferință 2. mediu, cadru		2008-08-31 17:29:33	193.230.245.5
+recoverable	recuperabil, corectabil		2008-08-31 18:36:47	193.230.245.5
