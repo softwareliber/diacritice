@@ -203,7 +203,7 @@ call (function)	apel (de funcţie)	!
 call (phone)	a apela, apel telefonic	!
 callback	chemare (în raspuns), chemare; apel invers?	
 callout	explicaţie, rezumat?	
-cancel	a renunţa, a anula, a revoca [[cancel]]	? [[cancel]]
+cancel	a renunţa, a anula	? [[cancel]]
 canvas	ţesătură, pînză, plan, proiect	
 capability	capacitate, posibilitate, capacitate; posibilitate	
 caption	legendă, titlu (de articol), antet, etichetă	
