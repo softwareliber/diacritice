@@ -2275,3 +2275,4 @@ recoverable	recuperabil, corectabil		2008-08-31 18:36:47	193.230.245.5
 cancel	a renunţa, a anula [[cancel]]	? [[cancel]]	2008-09-03 17:27:14	212.93.140.102
 cancel	a renunţa, a anula	? [[cancel]]	2008-09-03 17:27:20	212.93.140.102
 popup windows	fereastră „popup”		2008-09-04 11:33:18	212.93.140.102
+jaz drive	unitate jaz	!	2008-09-04 19:33:55	82.78.39.13
