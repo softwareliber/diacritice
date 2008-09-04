@@ -1115,6 +1115,7 @@ pool	baltă, bazin, o variantă de biliard, fond comun, rezervă, urnă?
 pooled variance		
 popup	? (apariţie, a apărea), meniu contextual, dialog	
 popup menu	meniu contextual	
+popup windows	fereastră „popup”	
 port	portare	!
 port (connectivity)	port	!
 port (verb)	a porta	!
