@@ -760,7 +760,7 @@ issue	a emite; a publica, ediţie, problemă
 issuer	emitent	
 italic	înclinat, cursiv	? [[bold-italic]]
 item	element, articol	? [[item-element]]
-jaz drive	jaz drive, unitate jaz	?
+jaz drive	unitate jaz	!
 jetpack	propulsor personal	
 job	sarcină, slujbă	
 jpeg	jpeg	
