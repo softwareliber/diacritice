@@ -1145,7 +1145,7 @@ previous	înapoi (neutru, in plus se poate pastra shorcut-ul pe P), precedent (a
 primary colors	culori de bază	
 print	a tipări	[[print]]
 print area	suprafața tipărită [efectiv]	
-print job	sarcină de tipărire	
+print job	sarcină de tipărire	! adi r
 printable	bun de tipar, tipăribil	
 printer	imprimantă	
 priority	prioritate	
