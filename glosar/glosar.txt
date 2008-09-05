@@ -444,7 +444,7 @@ drag and drop	trage şi lasă să cadă, tragere şi plasare ?, trage şi plasea
 drawer	sertar	!
 drawing area	zona de desenat	
 drive	unitate	!
-driver	pilot, driver, modul de nucleu	!
+driver	pilot, driver (pl. drivere), modul de nucleu	! Adi. R
 drop	a renunţa la, a refuza, a abandona	
 drop caps	majusculă multilinie, letrină	
 drop down list	listă de selecţie	
