@@ -1104,7 +1104,7 @@ plugin	modul
 point	a indica, indicator (UI), punct, indicator (UI); punct; pointer (programare)	
 point to point	punct la punct	!
 poisson distribution	distribuţie poisson	
-policy	politică	!
+policy	politică, regulă	! Adi. R
 polish	lustrui	? [[polish]]
 polished	lustruit	? [[polish]]
 poll	sondaj	!
