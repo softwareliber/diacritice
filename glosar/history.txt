@@ -2280,3 +2280,4 @@ driver	pilot, driver (pl. drivere), modul de nucleu	!	2008-09-05 09:51:11	212.93
 driver	pilot, driver (pl. drivere), modul de nucleu	! Adi. R	2008-09-05 09:51:28	212.93.140.102
 policy	politică, regulă	! Adi. R	2008-09-05 11:09:32	212.93.140.102
 print job	sarcină de tipărire	! adi r	2008-09-05 12:42:45	212.93.140.102
+viewport	vizor	?	2008-09-06 16:48:31	193.230.245.5
