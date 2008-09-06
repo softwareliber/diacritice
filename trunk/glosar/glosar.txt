@@ -1739,7 +1739,7 @@ vfs	sistem de fişiere virtual
 video	video (imagini în mişcare)	
 view	mod afişare [in meniuri], imagine	
 viewer	observator, vizualizator, vizor?	
-viewport	punct de vedere, vizor	?
+viewport	vizor	?
 violation	violare; încălcare (drepturi)	cf. DEX
 virtual	virtual	
 virtual desktop	desktop virtual	
