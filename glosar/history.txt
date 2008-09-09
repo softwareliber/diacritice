@@ -2281,3 +2281,5 @@ driver	pilot, driver (pl. drivere), modul de nucleu	! Adi. R	2008-09-05 09:51:28
 policy	politică, regulă	! Adi. R	2008-09-05 11:09:32	212.93.140.102
 print job	sarcină de tipărire	! adi r	2008-09-05 12:42:45	212.93.140.102
 viewport	vizor	?	2008-09-06 16:48:31	193.230.245.5
+broadcast	a emite, a anunţa (în reţea)?, a difuza		2008-09-10 00:17:47	88.161.18.39
+bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate, scamă	? [[bug]]	2008-09-10 00:20:14	88.161.18.39
