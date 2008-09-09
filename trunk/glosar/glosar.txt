@@ -169,14 +169,14 @@ breadcrumbs	linie de navigare	?
 break	pauză, a face pauză, a deteriora, a întrerupe (break row across columns)	
 bricks	cărămizi	!
 brightness	luminozitate	!
-broadcast	a emite, a anunţa (în reţea)?	
+broadcast	a emite, a anunţa (în reţea)?, a difuza	
 broken	invalid, deteriorat	
 browse	a răsfoi, a naviga	? [[browse]]
 browser	navigator (web)	
 buddy	amic, prieten	
 buffer	[zona de] memorie tampon, editor	
 buffering	preîncărcare, încărcarea/folosirea memoriei tampon	
-bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate	? [[bug]]
+bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate, scamă	? [[bug]]
 build	a construi, versiune compilată, build	
 built in	nativ	
 bulk	brut, masiv	
