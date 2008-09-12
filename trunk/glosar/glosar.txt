@@ -722,6 +722,7 @@ indicator	indicator
 info	info, detalii	
 information	informaţie	
 initialization	iniţiere	
+ink	cerneală, tuș	
 inline	intercalat, inline	
 inode		
 input	a introduce, intrare	
@@ -1318,7 +1319,7 @@ save as	salvează ca	!
 sc/xspread		
 scalable	scalabil	!
 scalar	scalar	!
-scale	balanţă, scală, a scala, scalare; scară	
+scale	a scala, scalare, balanţă, scală; scară	!
 scaling factor	factor de scalare	
 scan	a examina, a scana [pentru scanner]	
 scene	scenă	
