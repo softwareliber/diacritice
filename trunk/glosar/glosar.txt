@@ -60,6 +60,7 @@ application	aplicaţie	!
 application launcher	lansator aplicaţie	
 applix	Applix	
 apply	a aplica	!
+appointment	întâlnire	
 arc	arc	!
 archive	a arhiva, arhivă	
 archive file	fişier arhivă	

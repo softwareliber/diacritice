@@ -2285,3 +2285,4 @@ broadcast	a emite, a anunţa (în reţea)?, a difuza		2008-09-10 00:17:47	88.161
 bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate, scamă	? [[bug]]	2008-09-10 00:20:14	88.161.18.39
 scale	a scala, scalare, balanţă, scală; scară	!	2008-09-12 20:47:53	78.97.211.199
 ink	cerneală, tuș		2008-09-12 20:57:33	78.97.211.199
+appointment	întâlnire		2008-09-13 15:12:21	78.97.211.199
