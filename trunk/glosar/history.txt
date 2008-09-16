@@ -2286,3 +2286,9 @@ bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate, scamă	? [
 scale	a scala, scalare, balanţă, scală; scară	!	2008-09-12 20:47:53	78.97.211.199
 ink	cerneală, tuș		2008-09-12 20:57:33	78.97.211.199
 appointment	întâlnire		2008-09-13 15:12:21	78.97.211.199
+workspaces	spații de lucru	!	2008-09-16 17:53:15	82.78.39.13
+work	muncă	! activitare a fost scos pentru că se suprapune cu activity	2008-09-16 17:54:10	82.78.39.13
+appointment	întâlnire	!	2008-09-16 17:55:45	82.78.39.13
+print	a tipări	! [[print]]	2008-09-16 17:57:40	82.78.39.13
+print area	suprafață de tipărire	!	2008-09-16 17:58:08	82.78.39.13
+printer	imprimantă	!	2008-09-16 17:58:14	82.78.39.13
