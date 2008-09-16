@@ -2292,3 +2292,4 @@ appointment	întâlnire	!	2008-09-16 17:55:45	82.78.39.13
 print	a tipări	! [[print]]	2008-09-16 17:57:40	82.78.39.13
 print area	suprafață de tipărire	!	2008-09-16 17:58:08	82.78.39.13
 printer	imprimantă	!	2008-09-16 17:58:14	82.78.39.13
+range	interval, rază (de extindere), zonă, arie, plajă (de valori), a înşira, a clasifica, şir, domeniu, ordine		2008-09-16 19:45:37	78.97.211.199
