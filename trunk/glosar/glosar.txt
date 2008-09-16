@@ -1198,7 +1198,7 @@ radar map
 radio		
 radio button	buton radio, (nu potenţiometru)	
 random	aleator, întîmplător	
-range	rază (de extindere), zonă, arie, interval, plajă (de valori), a înşira, a clasifica, şir, domeniu, ordine	
+range	interval, rază (de extindere), zonă, arie, plajă (de valori), a înşira, a clasifica, şir, domeniu, ordine	
 rank	grad	
 raster	imagine raster	
 rated	?	
