@@ -60,7 +60,7 @@ application	aplicaţie	!
 application launcher	lansator aplicaţie	
 applix	Applix	
 apply	a aplica	!
-appointment	întâlnire	
+appointment	întâlnire	!
 arc	arc	!
 archive	a arhiva, arhivă	
 archive file	fişier arhivă	
@@ -1145,11 +1145,11 @@ pressed	  adj  (d. cărămidă) presat; presat de timp
 preview	previzualizare, avanpremieră, previzualizare; preafişare (?); avanpremieră	
 previous	înapoi (neutru, in plus se poate pastra shorcut-ul pe P), precedent (alternativa veche)	
 primary colors	culori de bază	
-print	a tipări	[[print]]
-print area	suprafața tipărită [efectiv]	
+print	a tipări	! [[print]]
+print area	suprafață de tipărire	!
 print job	sarcină de tipărire	! adi r
 printable	bun de tipar, tipăribil	
-printer	imprimantă	
+printer	imprimantă	!
 priority	prioritate	
 privacy	intimitate	
 private key	cheie privată/personală	
@@ -1776,7 +1776,7 @@ wireless network	reţea fără fir
 wizard	asistent	
 word	cuvânt	!
 word processor	procesor de text	!
-work	muncă, activitate	
+work	muncă	! activitare a fost scos pentru că se suprapune cu activity
 workaround	metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban
 workbook	registru?	
 workflow	flux de lucru; mod de lucru; mod de operare	
@@ -1784,7 +1784,7 @@ workgroup	???
 working directory	directorul de lucru	
 workshop	seminar, laborator?, prezentare	
 workspace	spaţiu de lucru	!
-workspaces		
+workspaces	spații de lucru	!
 wrap	a încadra [text wrap], a împacheta, a despărţi pe linii, aranjat	? [[wrap]]
 write	a scrie	
 writer	editor	
