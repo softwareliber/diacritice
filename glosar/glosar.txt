@@ -863,6 +863,7 @@ main body	corp principal, corpul mesajului - mesajul propriu-zis	? in functie de
 mainframe	mainframe, mainframe; server principal	
 mainstream	fluxul principal	
 maintainance	mentenanţă	!
+maintained	întreținut	
 maintainer	responsabil	!
 makefile	fişier make	
 malformed	diform, greşit, deteriorat, eronat	
@@ -1071,6 +1072,7 @@ pending	în suspensie, în lucru, în așteptare
 pending signal	semnal suspendat	
 pending signals		
 perfectionare continua	perfectionare continua	
+perform	a executa	adir
 period	perioadă, termen, ciclu	
 periodic	periodic	
 perl	perl	!
