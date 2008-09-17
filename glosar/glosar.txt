@@ -1320,10 +1320,10 @@ saturation	saturaţie
 save	a salva	!
 save as	salvează ca	!
 sc/xspread		
-scalable	scalabil	!
+scalable	scalabil, ce poate fi redimensionat	!
 scalar	scalar	!
-scale	a scala, scalare, balanţă, scală; scară	!
-scaling factor	factor de scalare	
+scale	a scala, a redimensiona; scalare, balanţă, scală; scară	!
+scaling factor	factor de scalare, factor de redimensionare	
 scan	a examina, a scana [pentru scanner]	
 scene	scenă	
 schedule	planificare, programare	
