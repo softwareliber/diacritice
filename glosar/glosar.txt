@@ -1606,7 +1606,7 @@ time-quantum	cuantă de timp
 timeout	timp alocat expirat, limită de timp	
 timer	cronometru	!
 timeslice	cuantă de timp	
-timestamp	datare; marcă de timp	
+timestamp	datare; marcaj de timp	
 timezone	fus orar	!
 timing	cronometrare	!
 tip	indicație	? [[tips-and-tricks]]
