@@ -485,7 +485,7 @@ engine	motor	!
 engineering	inginerie; echipa de programatori: MS/Apple engineering = programatorii MS/Apple	
 enhance	a imbunătăţi, îmbunătăţire	
 entity	entitate, esenţă	
-entry	intrare, înregistrare	nu ştiu ce e cu cuvânt-titlu
+entry	intrare, înregistrare	? [[record-entry-element-item-row]]
 envelope	plic, sumar [context:IMAP]	
 environment variable	variabilă a mediului, variabilă de mediu	
 equation	ecuaţie	
