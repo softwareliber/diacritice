@@ -69,7 +69,7 @@ area grid	grilă suprafaţă
 argument	argument	
 array	tablou, matrice	?
 arrow key	tastă săgeată	
-article	articol	? [[item-element]]
+article	articol	? [[[[record-entry-element-item-row-article-post-message]]
 artist	interpret, artist	!
 as of	începând cu	!
 ascending	crescător	!
@@ -440,7 +440,7 @@ downgrade	a aduce la o versiune anterioară, retrogradare	dacă se poate folosi�
 download	a descărca, descărcare	
 downstream	aval, în josul apei, downstream; aval?	
 dpi	PPȚ (Puncte Pe Țol)	
-draft	ciornă	
+draft	ciornă	!
 drag and drop	trage şi lasă să cadă, tragere şi plasare ?, trage şi plasează	
 drawer	sertar	!
 drawing area	zona de desenat	
@@ -463,7 +463,7 @@ edit	a modifica, a edita, editare; edit notes = editează notele
 effects	efecte	
 eject	a scoate, a arunca; eject CD = scoate CD‑ul / scoate discul	
 electronic mail	poştă electronică, mesaj electronic	
-element		? [[item-element]]
+element	element	! [[record-entry-element-item-row-article-post-message]]
 em-dash	linie em; [cf. en-dash]	? [[dashes]]
 email	email; mesaj	Adi Roiban
 embed	a încapsula, a încorpora	
@@ -485,7 +485,7 @@ engine	motor	!
 engineering	inginerie; echipa de programatori: MS/Apple engineering = programatorii MS/Apple	
 enhance	a imbunătăţi, îmbunătăţire	
 entity	entitate, esenţă	
-entry	intrare, înregistrare	? [[record-entry-element-item-row]]
+entry	intrare, înregistrare	? [[record-entry-element-item-row-article-post-message]]
 envelope	plic, sumar [context:IMAP]	
 environment variable	variabilă a mediului, variabilă de mediu	
 equation	ecuaţie	
@@ -761,7 +761,7 @@ irc	irc (internet relay chat)
 issue	a emite; a publica, ediţie, problemă	
 issuer	emitent	
 italic	înclinat, cursiv	? [[bold-italic]]
-item	element, articol	? [[item-element]]
+item	element, articol	? [[record-entry-element-item-row-article-post-message]]
 jaz drive	unitate jaz	!
 jetpack	propulsor personal	
 job	sarcină, slujbă	
@@ -903,7 +903,7 @@ menu	meniu	!
 menu item	element de meniu	
 menubar	bara de meniu	!
 merge	a fuziona, a combina, a îmbina	
-message	mesaj	!
+message	mesaj	! [[record-entry-element-item-row-article-post-message]]
 messenger	mesager	
 metadata	metadate	?
 metafile	metafisier	?
@@ -1124,7 +1124,7 @@ port	portare	!
 port (connectivity)	port	!
 port (verb)	a porta	!
 portrait	portret	!
-post	a plasa, mesaj, a trimite	
+post	a plasa, mesaj, a trimite	? [[record-entry-element-item-row-article-post-message]]
 post office	oficiu poştal	!
 post processor		
 postal box	casuţă poştală	!
@@ -1223,7 +1223,7 @@ reboot	repornire
 receive	a primi	
 receptivity	receptivitate	
 recipient	destinatar	
-record	a înregistra, înregistrare	
+record	a înregistra, înregistrare	[[record-entry-element-item-row-article-post-message]]
 recorder	inscriptor	
 recover	a recupera, recuperare, a reveni	
 recoverable	recuperabil, corectabil	
@@ -1303,7 +1303,7 @@ root directory	director rădăcină
 root window	fereastră rădăcină; fereastră fundal	
 rotate	a roti, a învîrti	
 router	ruter	
-row	rând	! [în tabele]; șir [inadecvat ca termen IT]; cf. line
+row	rând	! [[record-entry-element-item-row-article-post-message]]
 rpm package	pachet rpm	
 rss feed	flux RSS	
 ruler	riglă	!
