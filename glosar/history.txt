@@ -2300,3 +2300,14 @@ scaling factor	factor de scalare, factor de redimensionare		2008-09-18 00:41:53	
 scalable	scalabil, ce poate fi redimensionat	!	2008-09-18 00:42:03	193.231.29.34
 scale	a scala, a redimensiona; scalare, balanţă, scală; scară	!	2008-09-18 00:42:25	193.231.29.34
 entry	intrare, înregistrare	? [[record-entry-element-item-row]]	2008-09-18 09:53:26	82.78.39.13
+draft	ciornă	!	2008-09-18 21:17:05	89.38.147.13
+post	a plasa, mesaj, a trimite	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:37:59	89.38.147.13
+article	articol	? [[[[record-entry-element-item-row-article-post-message]]	2008-09-18 21:38:11	89.38.147.13
+message	mesaj	! [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:38:23	89.38.147.13
+row	rând	! [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:38:54	89.38.147.13
+item	element, articol	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:39:13	89.38.147.13
+element		? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:39:31	89.38.147.13
+element	element	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:39:41	89.38.147.13
+element	element	! [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:39:47	89.38.147.13
+entry	intrare, înregistrare	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:40:00	89.38.147.13
+record	a înregistra, înregistrare	[[record-entry-element-item-row-article-post-message]]	2008-09-18 21:40:11	89.38.147.13
