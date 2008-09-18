@@ -2299,3 +2299,4 @@ timestamp	datare; marcaj de timp		2008-09-17 22:08:42	193.231.29.34
 scaling factor	factor de scalare, factor de redimensionare		2008-09-18 00:41:53	193.231.29.34
 scalable	scalabil, ce poate fi redimensionat	!	2008-09-18 00:42:03	193.231.29.34
 scale	a scala, a redimensiona; scalare, balanţă, scală; scară	!	2008-09-18 00:42:25	193.231.29.34
+entry	intrare, înregistrare	? [[record-entry-element-item-row]]	2008-09-18 09:53:26	82.78.39.13
