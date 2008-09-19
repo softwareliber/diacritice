@@ -1406,7 +1406,7 @@ size box
 skew	oblicitate, poziţie piezişă	
 skewness		
 skill	aptitudine, abilitate	
-skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile), decorațiune; veșmânt, înfățișare	? [[theme-scheme-skin]]
+skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile); decorațiune; veșmânt; înfățișare; skin	? [[theme-scheme-skin]]
 skip	a omite, a sări, salt	
 slant	a se înclina, înclinat	
 slash	per (termen tipografic existent în română) [cf. backslash]	
