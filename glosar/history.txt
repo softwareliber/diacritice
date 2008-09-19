@@ -2311,3 +2311,4 @@ element	element	? [[record-entry-element-item-row-article-post-message]]	2008-09
 element	element	! [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:39:47	89.38.147.13
 entry	intrare, înregistrare	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:40:00	89.38.147.13
 record	a înregistra, înregistrare	[[record-entry-element-item-row-article-post-message]]	2008-09-18 21:40:11	89.38.147.13
+skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile); decorațiune; veșmânt; înfățișare; skin	? [[theme-scheme-skin]]	2008-09-19 20:27:38	82.76.12.174
