@@ -2312,3 +2312,109 @@ element	element	! [[record-entry-element-item-row-article-post-message]]	2008-09
 entry	intrare, înregistrare	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:40:00	89.38.147.13
 record	a înregistra, înregistrare	[[record-entry-element-item-row-article-post-message]]	2008-09-18 21:40:11	89.38.147.13
 skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile); decorațiune; veșmânt; înfățișare; skin	? [[theme-scheme-skin]]	2008-09-19 20:27:38	82.76.12.174
+post (verb)	trimite	!	2008-09-20 14:15:38	89.38.147.13
+post	articol	? [[record-entry-element-item-row-article-post-message]]	2008-09-20 14:16:12	89.38.147.13
+post (forums)	mesaj	!	2008-09-20 14:16:28	89.38.147.13
+post processor	procesator de mesaje	!	2008-09-20 14:16:53	89.38.147.13
+page break	întrerupere pagină	!	2008-09-20 14:17:09	89.38.147.13
+patch	petic; a petici [se referă la mici aduceri la zi ale unor aplicații, cărora le „peticește” unele hibe]; plasture	!	2008-09-20 14:17:22	89.38.147.13
+path	cale	!	2008-09-20 14:17:34	89.38.147.13
+pause	pauză	!	2008-09-20 14:17:49	89.38.147.13
+plugin	modul	? [[addin-module-plugin-extension-applet]]	2008-09-20 14:18:50	89.38.147.13
+plug-in	modul	? [[Addin-module-plugin-extension-applet]]	2008-09-20 14:18:56	89.38.147.13
+ok	ok	!	2008-09-20 14:20:40	89.38.147.13
+cite	citat	!	2008-09-20 14:21:22	89.38.147.13
+confirm	a confirma	!	2008-09-20 14:21:35	89.38.147.13
+clu	sugestie	!	2008-09-20 14:21:43	89.38.147.13
+cumulative	cumulativ	!	2008-09-20 14:21:57	89.38.147.13
+changeset	set de schimbări (legat de vcs)	!	2008-09-20 14:22:30	89.38.147.13
+ctrl	ctrl	!	2008-09-20 14:22:57	89.38.147.13
+curve	curbă	!	2008-09-20 14:23:05	89.38.147.13
+ascii	ascii	!	2008-09-20 14:23:41	89.38.147.13
+anuar	anuar	!	2008-09-20 14:23:58	89.38.147.13
+blog	blog	! [[blog]]	2008-09-20 14:24:34	89.38.147.13
+bullet	bulină	!	2008-09-20 14:24:56	89.38.147.13
+burner	utilitar de scriere, inscriptor		2008-09-20 14:25:32	89.38.147.13
+banned	blocat	[[Lock-unlock-block-unblock-ban]]	2008-09-20 14:27:18	89.38.147.13
+banned	blocat	! [[Lock-unlock-block-unblock-ban]]	2008-09-20 14:27:24	89.38.147.13
+banned	blocat	? [[Lock-unlock-block-unblock-ban]]	2008-09-20 14:27:31	89.38.147.13
+emoticon	emoticon	!	2008-09-20 14:27:55	89.38.147.13
+emulation	emulare	!	2008-09-20 14:28:01	89.38.147.13
+exception	excepţie	!	2008-09-20 14:28:06	89.38.147.13
+expression	expresie	!	2008-09-20 14:28:14	89.38.147.13
+extension	extensie	! [[Addin-module-plugin-extension-applet]]	2008-09-20 14:28:30	89.38.147.13
+extract	a extrage	!	2008-09-20 14:28:35	89.38.147.13
+equation	ecuaţie	!	2008-09-20 14:28:51	89.38.147.13
+feed	flux	!	2008-09-20 14:29:15	89.38.147.13
+format	format	!	2008-09-20 14:29:27	89.38.147.13
+formula	formulă	!	2008-09-20 14:29:41	89.38.147.13
+fqdn	FQDN (acronim pentru Fully-Qualified Domain Name, domeniu de nume integral conform)		2008-09-20 14:30:03	89.38.147.13
+frequency	frecvenţă	!	2008-09-20 14:30:13	89.38.147.13
+fqdn	FQDN (acronim pentru Fully-Qualified Domain Name, domeniu de nume integral conform)	!	2008-09-20 14:30:36	89.38.147.13
+featured	recomandări	!	2008-09-20 14:30:53	89.38.147.13
+file manager	administrator de fişiere	!	2008-09-20 14:31:04	89.38.147.13
+global	global	!	2008-09-20 14:31:22	89.38.147.13
+gradient	degradeu	! cf. DEX	2008-09-20 14:31:33	89.38.147.13
+grayscale	scală de gri	!	2008-09-20 14:31:39	89.38.147.13
+guide	a ghida, ghid	!	2008-09-20 14:31:55	89.38.147.13
+heat	căldură	!	2008-09-20 14:32:16	89.38.147.13
+html	HTML (limbajul de marcare a hipertextului)	!	2008-09-20 14:32:44	89.38.147.13
+housekeeping	întreţinere	!	2008-09-20 14:32:59	89.38.147.13
+ignore	a ignora	!	2008-09-20 14:33:14	89.38.147.13
+index	indice	!	2008-09-20 14:33:21	89.38.147.13
+internet	internet	!	2008-09-20 14:33:26	89.38.147.13
+indicator	indicator	!	2008-09-20 14:33:29	89.38.147.13
+irc	irc (internet relay chat)	!	2008-09-20 14:33:47	89.38.147.13
+ip address	adresă IP	!	2008-09-20 14:33:52	89.38.147.13
+intercept	a intercepta, interceptare	!	2008-09-20 14:34:04	89.38.147.13
+illustration	ilustrație	!	2008-09-20 14:34:09	89.38.147.13
+inactive window	fereastra inactivă	!	2008-09-20 14:34:23	89.38.147.13
+ink	cerneală	! (tuș este nerecomandat)	2008-09-20 14:34:45	89.38.147.13
+internal error	eroare internă	!	2008-09-20 14:34:52	89.38.147.13
+jpeg	jpeg	!	2008-09-20 14:35:13	89.38.147.13
+opacity	opacitate	!	2008-09-20 14:35:40	89.38.147.13
+opponent	adversar	!	2008-09-20 14:35:45	89.38.147.13
+options	opţiuni	!	2008-09-20 14:36:03	89.38.147.13
+observations	observaţii	!	2008-09-20 14:36:23	89.38.147.13
+observation	observaţie	!	2008-09-20 14:36:26	89.38.147.13
+web	web	!	2008-09-20 14:37:05	89.38.147.13
+write	a scrie	!	2008-09-20 14:37:13	89.38.147.13
+layer	strat	!	2008-09-20 14:38:14	89.38.147.13
+legal notice	notă juridică	!	2008-09-20 14:38:21	89.38.147.13
+lid	capac (la laptop)	!	2008-09-20 14:38:29	89.38.147.13
+linear transfer	transfer liniar	!	2008-09-20 14:38:35	89.38.147.13
+limit	limită	!	2008-09-20 14:38:39	89.38.147.13
+limits	limite	!	2008-09-20 14:38:43	89.38.147.13
+license agreement	acord de licențiere	!	2008-09-20 14:39:14	89.38.147.13
+launcher	lansator	!	2008-09-20 14:39:19	89.38.147.13
+laptop	laptop	!	2008-09-20 14:39:39	89.38.147.13
+legacy system	sistem moştenit	!	2008-09-20 14:39:57	89.38.147.13
+legacy	moştenire	!	2008-09-20 14:40:04	89.38.147.13
+line	linie [grafică]; fir de undiţă/undiţă [pescuit]	!	2008-09-20 14:40:42	89.38.147.13
+line arguments	argumentele din linia de comandă	!	2008-09-20 14:41:05	89.38.147.13
+register	a înregistra	!	2008-09-20 14:41:58	89.38.147.13
+record	a înregistra, înregistrare	! [[record-entry-element-item-row-article-post-message]]	2008-09-20 14:42:09	89.38.147.13
+recorder	inscriptor	!	2008-09-20 14:42:19	89.38.147.13
+recorder	inscriptor	?	2008-09-20 14:42:33	89.38.147.13
+recycle bin	coș de gunoi		2008-09-20 14:42:50	89.38.147.13
+redisplay	a reafişa	!	2008-09-20 14:43:05	89.38.147.13
+relationship	relaţie	!	2008-09-20 14:43:12	89.38.147.13
+raster	imagine raster	!	2008-09-20 14:43:26	89.38.147.13
+read out	a citi cu voce tare	!	2008-09-20 14:43:34	89.38.147.13
+replace	a înlocui	!	2008-09-20 14:44:31	89.38.147.13
+relevance	relevanţă	!	2008-09-20 14:45:08	89.38.147.13
+recovery	recuperare	!	2008-09-20 14:45:13	89.38.147.13
+recycle bin	coș de gunoi	!	2008-09-20 14:45:20	89.38.147.13
+unknown	necunoscut	!	2008-09-20 14:45:34	89.38.147.13
+usb	USB	!	2008-09-20 14:45:48	89.38.147.13
+usage	utilizare, mod de utilizare	!	2008-09-20 14:46:10	89.38.147.13
+untitled	fără titlu	!	2008-09-20 14:46:25	89.38.147.13
+virtual	virtual	!	2008-09-20 14:46:43	89.38.147.13
+volume	volum	!	2008-09-20 14:46:47	89.38.147.13
+vertical	vertical	!	2008-09-20 14:46:52	89.38.147.13
+version	versiune	!	2008-09-20 14:47:13	89.38.147.13
+visualization	vizualizare	!	2008-09-20 14:47:37	89.38.147.13
+vpn	RPV (Rețea Privată Virtuală)	?	2008-09-20 14:47:49	89.38.147.13
+valid chars	caractere valide	!	2008-09-20 14:48:05	89.38.147.13
+value	valoare	!	2008-09-20 14:48:10	89.38.147.13
+vector graphics	grafică vectorială	!	2008-09-20 14:48:19	89.38.147.13
