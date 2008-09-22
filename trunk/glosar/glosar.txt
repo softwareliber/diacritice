@@ -398,7 +398,7 @@ diagram	diagramă	!
 dial	a apela, apelator	
 dialog	dialog	!
 dialog box	fereastră de dialog	
-dialout device		
+dialout device	dispozitiv de apel în exterior	
 diff	diff	
 digit	cifră	!
 digits	cifre	!
@@ -426,8 +426,8 @@ dithering	tremur, vibraţie
 diversion	redirectare, diversiune	
 divert	redirecţionare, a (re)direcţiona	
 division by zero	împărţire la zero	
-dma		
-dns		
+dma	alocare dinamică de memorie	
+dns	server de nume de domeniu	
 doable	realizabil	?
 dock	doc, a ataşa, ataşare, doc; a ataşa	? [[dock-undock]]
 document	document	!
