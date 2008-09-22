@@ -1239,6 +1239,7 @@ redemption	  s  răscumpărare
 redisplay	a reafişa	!
 redo	refă [uzual în menu; a reface]	? [[undo-redo]]
 refactoring	perfectare, reorganizare, rescriere	
+referrer	menționat de	adi r
 refresh	a actualiza, a reîmprospăta	
 regex	expresie regulară	
 region	regiune	!
