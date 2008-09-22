@@ -2421,3 +2421,5 @@ vector graphics	grafică vectorială	!	2008-09-20 14:48:19	89.38.147.13
 dialout device	dispozitiv de apel în exterior		2008-09-22 18:09:38	171.18.2.101
 dma	alocare dinamică de memorie		2008-09-22 18:10:25	171.18.2.101
 dns	server de nume de domeniu		2008-09-22 18:10:42	171.18.2.101
+referrer	menționant		2008-09-23 00:26:35	78.97.211.199
+referrer	menționat de	adi r	2008-09-23 00:27:54	78.97.211.199
