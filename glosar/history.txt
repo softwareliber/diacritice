@@ -2418,3 +2418,6 @@ vpn	RPV (Rețea Privată Virtuală)	?	2008-09-20 14:47:49	89.38.147.13
 valid chars	caractere valide	!	2008-09-20 14:48:05	89.38.147.13
 value	valoare	!	2008-09-20 14:48:10	89.38.147.13
 vector graphics	grafică vectorială	!	2008-09-20 14:48:19	89.38.147.13
+dialout device	dispozitiv de apel în exterior		2008-09-22 18:09:38	171.18.2.101
+dma	alocare dinamică de memorie		2008-09-22 18:10:25	171.18.2.101
+dns	server de nume de domeniu		2008-09-22 18:10:42	171.18.2.101
