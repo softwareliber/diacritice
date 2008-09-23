@@ -1239,7 +1239,7 @@ redemption	  s  răscumpărare
 redisplay	a reafişa	!
 redo	refă [uzual în menu; a reface]	? [[undo-redo]]
 refactoring	perfectare, reorganizare, rescriere	
-referrer	menționat de	adi r
+referrer	menționat de	[[referrer]]
 refresh	a actualiza, a reîmprospăta	
 regex	expresie regulară	
 region	regiune	!
@@ -1627,7 +1627,7 @@ token-ring	inel cu jeton (tip de reţea)
 tolerance	toleranţă	!
 tool	unealtă	
 tool menu	meniu de unelte, meniu de opţiuni	
-toolbar	bara instrumentelor	
+toolbar	bară cu unelte [adir], bara instrumentelor	? [[toolbar]]
 toolbox	trusă (de unelte), trusă, listă de opţiuni	
 toolchain	ansamblu de unelte	
 toolkit	trusă de unelte	
