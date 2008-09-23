@@ -1627,7 +1627,7 @@ token-ring	inel cu jeton (tip de reţea)
 tolerance	toleranţă	!
 tool	unealtă	
 tool menu	meniu de unelte, meniu de opţiuni	
-toolbar	bară cu unelte [adir], bara instrumentelor	? [[toolbar]]
+toolbar	bară de unelte [adir], bara instrumentelor	? [[toolbar]]
 toolbox	trusă (de unelte), trusă, listă de opţiuni	
 toolchain	ansamblu de unelte	
 toolkit	trusă de unelte	

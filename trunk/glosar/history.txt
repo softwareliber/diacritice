@@ -2426,3 +2426,4 @@ referrer	menționat de	adi r	2008-09-23 00:27:54	78.97.211.199
 toolbar	bară cu unelte [adir], bara instrumentelor		2008-09-23 11:07:04	212.93.140.102
 toolbar	bară cu unelte [adir], bara instrumentelor	? [[toolbar]]	2008-09-23 11:14:46	82.78.39.13
 referrer	menționat de	[[referrer]]	2008-09-23 11:24:44	82.78.39.13
+toolbar	bară de unelte [adir], bara instrumentelor	? [[toolbar]]	2008-09-23 12:11:12	212.93.140.102
