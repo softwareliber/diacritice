@@ -531,7 +531,7 @@ feedback	reacţie, comentarii, reacţie; comentarii ?
 fetch	a potrivi [datele]; fetch data = potrivește datele; a aduce, a scoate; fetch mail = adu mail-ul [de pe server]	
 field	câmp	!
 file	fişier	!
-file manager	administrator de fişiere	!
+file manager	gestionar de fişiere	!
 file transfer protocol	protocol de transfer al fişierelor	!
 filed	clasat	
 filename	nume de fişier	!
@@ -541,8 +541,8 @@ filter	filtru	!
 final	final	!
 find	a căuta, căutare; find words = caută cuvintele	? [[search-find]]
 fingerprint	amprentă	!
-finish		? [[quit-exit-terminate-finish]]
-firewall	firewall	
+finish	a termina, terminare, încheiere, sfârşit	? [[quit-exit-terminate-finish]]
+firewall	parafoc, paravan de protecţie, firewall	
 firmware	firmware [la fel ca software si hardware], program intrinsec	
 fit	potrivește	
 fix	a repara [vb], remediu [s]	
@@ -567,13 +567,13 @@ foreground	prim plan
 fork	a bifurca, ramificaţie; fork?	?
 form	a forma, formă, formular	
 format	format	!
-formatting	formatare	
+formatting	formatare; se formatează... [acţiune în curs]	
 formula	formulă	!
-fortune	zicere, vorbă de duh	
+fortune	zicală, vorbă de duh	
 forward	înainte; trimitere mai departe [pentru e-mail]	
 forwarding	înaintare	
 fourier analysis	analiză fourier	!
-fqdn	FQDN (acronim pentru Fully-Qualified Domain Name, domeniu de nume integral conform)	!
+fqdn	FQDN (acronim pentru Fully-Qualified Domain Name, nume de domeniu integral conform / nume de domeniu întreg-calificat / nume de domeniu complet calificat)	!
 fraction	fracţie	!
 frame	cadru, ramă	
 framebuffer	framebuffer	
@@ -597,7 +597,7 @@ function	funcţie	!
 gamma	gama (litera grecească)	
 gap	decalaj, lipsă, gaură	
 garbage collector	colector de memorie reziduală	!
-gateway	poartă, intrare, gateway, calculator "poartă" de iesire	
+gateway	pasarelă, poartă, calculator "poartă" de iesire	
 general	general, generic ???	
 genuine	autentic	
 geometry	geometrie	!
