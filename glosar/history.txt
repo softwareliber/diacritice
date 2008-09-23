@@ -2434,3 +2434,4 @@ formatting	formatare; se formatează... [acţiune în curs] 		2008-09-23 18:38:1
 fortune	zicală, vorbă de duh		2008-09-23 18:39:14	171.18.2.109
 fqdn	FQDN (acronim pentru Fully-Qualified Domain Name, nume de domeniu integral conform / nume de domeniu întreg-calificat / nume de domeniu complet calificat)	!	2008-09-23 18:45:03	171.18.2.109
 gateway	pasarelă, poartă, calculator "poartă" de iesire		2008-09-23 18:59:21	171.18.2.109
+logging	jurnalizare		2008-09-23 23:43:50	89.38.147.13

@@ -840,6 +840,7 @@ location	locație	[[location]]
 lock	a bloca, a obţine acces exclusiv	? [[lock-unlock]]
 lockdown	interdicţie	tradus în pessulus
 log	jurnal, istoric, înregistrări	
+logging	jurnalizare	
 logical	logic (adevărat sau fals)	
 login	autentificare	
 logo	siglă	? [[logo]]
