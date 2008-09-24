@@ -527,7 +527,7 @@ fax	fax	!
 feature	caracteristică; însușire; facilitate; capabilitate	
 featured	recomandări	!
 feed	flux	!
-feedback	reacţie, comentarii, reacţie; comentarii ?	
+feedback	reacţie, comentarii, reacţie; comentarii, sugestii ?	
 fetch	a potrivi [datele]; fetch data = potrivește datele; a aduce, a scoate; fetch mail = adu mail-ul [de pe server]	
 field	câmp	!
 file	fişier	!
