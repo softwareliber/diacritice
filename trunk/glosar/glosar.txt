@@ -640,7 +640,7 @@ hanging indent	indentare atârnată
 hard	greu, dificil, hard(?)	
 hard disk	disc, discul fix	
 hard link	legătură fizică, legătură dură	? [[link-hyperlink-shortcut]]
-hardware	fierărie, hardware (componentele fizice ale unui calculator), componente, echipament	
+hardware	fierărie, material, hardware (componentele fizice ale unui calculator), componente, echipament	
 hash	valoare de dispersie	
 hash algorithm	algoritm de dispersie	
 hash bucket	clasă din tabela de dispersie	
