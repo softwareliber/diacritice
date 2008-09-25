@@ -2438,3 +2438,6 @@ logging	jurnalizare		2008-09-23 23:43:50	89.38.147.13
 hardware	fierărie, material, hardware (componentele fizice ale unui calculator), componente, echipament		2008-09-24 17:31:58	171.18.2.81
 feedback	reacţie, comentarii, reacţie; comentarii, sugestii ?		2008-09-24 22:24:40	89.38.147.13
 polling	verificare periodică	adir	2008-09-25 09:31:53	212.93.140.102
+api	API	!	2008-09-25 17:10:04	89.38.147.13
+adaptive routing	rutare adaptivă	!	2008-09-25 17:10:17	89.38.147.13
+bus	magistrală	!	2008-09-25 17:11:39	89.38.147.13
