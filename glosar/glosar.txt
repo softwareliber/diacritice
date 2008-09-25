@@ -1639,7 +1639,7 @@ top	vârf
 top rated	?	
 top-level	de prim nivel, de nivel zero	?
 topic	topică, subiect, discuţie	
-torrent	torent	
+torrent	torent (pl. torente)	adir
 touchpad	touchpad	
 touchscreen	touchscreen [de preferat] , ecran sensibil la atingere, ecran tactil	
 track	a urmări, urmărire, pistă (de CD), urmărire; pistă (de CD)	
