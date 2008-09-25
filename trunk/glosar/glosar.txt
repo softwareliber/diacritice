@@ -1114,7 +1114,7 @@ policy	politică, regulă	! Adi. R
 polish	lustrui	? [[polish]]
 polished	lustruit	? [[polish]]
 poll	sondaj	!
-polling	verificare ciclică	?
+polling	verificare periodică	adir
 polygon	poligon	!
 polyline	linie frântă?	
 pool	baltă, bazin, o variantă de biliard, fond comun, rezervă, urnă?	
