@@ -2443,3 +2443,4 @@ adaptive routing	rutare adaptivă	!	2008-09-25 17:10:17	89.38.147.13
 bus	magistrală	!	2008-09-25 17:11:39	89.38.147.13
 seed	sursă completă [pt bittorrent]	adir	2008-09-25 23:52:34	78.97.211.199
 leech	sursă incompletă [pt bittorrent]	adir	2008-09-25 23:53:00	78.97.211.199
+torrent	torent (pl. torente)	adir	2008-09-26 00:23:43	78.97.211.199
