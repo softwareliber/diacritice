@@ -14,7 +14,7 @@ active matrix display	afişaj cu matrice activă	!
 actor	actor	!
 actuator	efector (domeniu: robotica)	
 ad-hoc	ad-hoc	!
-adaptive routing	rutare adaptivă	
+adaptive routing	rutare adaptivă	!
 add	a adăuga	!
 add contents	adaugă conţinutul	!
 add-in	modul	? [[addin-module-plugin-extension-applet]]
@@ -50,7 +50,7 @@ answer mode	mod răspundere
 antialiasing	antialiere	
 anuar	anuar	!
 anvil	nicovală	!
-api	API	
+api	API	!
 appearance	aspect	
 append	a adăuga, adăugare	
 appendix	anexă	
@@ -187,7 +187,7 @@ bulletin board	avizier	?
 bundle	a include, includere, inclus, legat, includere; inclus, pachet	
 burn	a scrie, a inscripţiona [un cd, un dvd]	
 burner	utilitar de scriere, inscriptor	
-bus	magistrală	
+bus	magistrală	!
 bus (vehicle)	autobuz	!
 busy	ocupat	!
 button	buton	!
