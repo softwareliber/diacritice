@@ -802,6 +802,7 @@ launch icon	pictogramă de lansare
 launcher	lansator	!
 layer	strat	!
 layout	aspect, aranjament, plan general, proiect, dispunere, formatare	Modificat: Adi Roiban
+leech	sursă incompletă [pt bittorrent]	adir
 legacy	moştenire	!
 legacy application	aplicaţie moştenită	
 legacy system	sistem moştenit	!
@@ -1353,6 +1354,7 @@ section	capitol, secţiune
 secure channel	canal sigur	!
 secure keyboard	tastatură sigură	
 security	securitate	
+seed	sursă completă [pt bittorrent]	adir
 seek	a căuta, a parcurge	Adi R.
 segment	segment	!
 segmentation fault	eroare de segmentare	
