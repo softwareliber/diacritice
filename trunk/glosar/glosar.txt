@@ -1126,6 +1126,7 @@ popup windows	fereastră „popup”
 port	portare	!
 port (connectivity)	port	!
 port (verb)	a porta	!
+port binding	asociere port	adir
 portrait	portret	!
 post	articol	? [[record-entry-element-item-row-article-post-message]]
 post (forums)	mesaj	!
@@ -1460,6 +1461,7 @@ span	întindere
 spawn	a născoci, a se înmulţi, a crea, creare	
 special character	caracter special	
 specified	menţionat, precizat, (rar) specificat	
+speech	vorbire, discurs	
 spell	ortografie, vrajă	
 spell checker	corector ortografic	!
 spelling	ortografie	
