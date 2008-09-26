@@ -2446,3 +2446,7 @@ leech	sursă incompletă [pt bittorrent]	adir	2008-09-25 23:53:00	78.97.211.199
 torrent	torent (pl. torente)	adir	2008-09-26 00:23:43	78.97.211.199
 thin	thin	subțire	2008-09-26 03:08:18	141.85.0.116
 thin	subțire		2008-09-26 03:08:29	141.85.0.116
+port binding	asociere port	adir	2008-09-26 15:04:02	212.93.140.102
+speech	vorbire		2008-09-26 15:57:36	192.88.166.35
+speech	discurs		2008-09-26 15:57:48	192.88.166.35
+speech	vorbire, discurs		2008-09-26 15:58:08	192.88.166.35
