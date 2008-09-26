@@ -711,7 +711,7 @@ implementation	îndeplinire, punere în aplicare, executare, realizare
 import	a importa, import; import file = importă fișierul / un fișier	!
 inactive	inactiv	! [[active-inactive-on-off]]
 inactive window	fereastra inactivă	!
-inbox	Primite	
+inbox	Primite, căsuţă de recepţie	
 incentive	stimulent [Adi R]	
 inch	ţol	!
 increase	a mări, a creşte; increase size = mărește dimensiunea	
@@ -725,17 +725,17 @@ information	informaţie
 initialization	iniţiere	
 ink	cerneală	! (tuș este nerecomandat)
 inline	intercalat, inline	
-inode		
+inode	inod	
 input	a introduce, intrare	
 input/output	intrări şi ieşiri	
-insensitive version		
+insensitive version	versiune neimpresionantă	
 insertion	introducere, inserare	
 insertion point	punct de inserare	
 install	a instala, instalare	!
 installation kit	pachet de instalare	
-installer	sistem (program?) de instalare	
+installer	program de instalare, instalator	
 instant messaging	mesagerie instant	
-instruction pointer	pointer instrucţiuni	?
+instruction pointer	indicator de instrucţiuni	?
 interaction	interacţiune	
 intercept	a intercepta, interceptare	!
 interchange file format	format intershimbabil de fișier	
@@ -748,7 +748,7 @@ internal error	eroare internă	!
 international	internaţional	!
 internet	internet	!
 interrupt	întrerupere	!
-intersect	a intersecta, intersecţie	
+intersect	a intersecta	
 interval	interval	
 intuitive	intuitiv	
 invalid	nevalid(ă), invalid [de evitat], nu este valid [de preferat]	
