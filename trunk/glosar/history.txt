@@ -2450,3 +2450,5 @@ port binding	asociere port	adir	2008-09-26 15:04:02	212.93.140.102
 speech	vorbire		2008-09-26 15:57:36	192.88.166.35
 speech	discurs		2008-09-26 15:57:48	192.88.166.35
 speech	vorbire, discurs		2008-09-26 15:58:08	192.88.166.35
+ide	IDE [controler IDE]		2008-09-26 18:00:11	88.161.18.39
+id	id, identificator		2008-09-26 18:00:30	88.161.18.39

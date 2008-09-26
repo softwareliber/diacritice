@@ -697,8 +697,8 @@ i/o	intrări şi ieşiri
 i/o subsystem	subsistemul de intrări şi ieşiri	
 i:overwrite:	a suprascrie, suprascriere	
 icon	pictogramă [recomandat], iconiţă	
-id	id	
-ide		
+id	id, identificator	
+ide	IDE [controler IDE]	
 identifier	identificator	
 idle	în aşteptare, inactiv, liber, nefolosit, neutilizat, inutil, disponibil	
 if	dacă	!
