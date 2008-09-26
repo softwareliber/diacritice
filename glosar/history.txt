@@ -2458,3 +2458,5 @@ intersect	a intersecta		2008-09-26 19:50:52	88.161.18.39
 inode	inod		2008-09-26 19:51:05	88.161.18.39
 inbox	Primite, căsuţă de recepţie		2008-09-26 19:52:03	88.161.18.39
 insensitive version	versiune neimpresionantă		2008-09-26 19:53:25	88.161.18.39
+keyring	inel de chei, portchei	?	2008-09-26 23:00:00	78.97.211.199
+keyring	inel de chei, portchei	adir 	2008-09-26 23:00:20	78.97.211.199
