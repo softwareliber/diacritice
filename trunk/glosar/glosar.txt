@@ -1593,6 +1593,7 @@ text only	doar text
 textual name	nume textual	
 theme	temă	? [[theme-scheme-skin]]
 thesaurus	lexicon	
+thin	subțire	
 third party	terţă parte, terţ, independent; extern; colaborator; terţ	
 thread	fir, fir de execuţie, thread	
 threaded	grupat pe [fir de] discuţii, threaded	
