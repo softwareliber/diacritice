@@ -2461,3 +2461,6 @@ insensitive version	versiune neimpresionantă		2008-09-26 19:53:25	88.161.18.39
 keyring	inel de chei, portchei	?	2008-09-26 23:00:00	78.97.211.199
 keyring	inel de chei, portchei	adir 	2008-09-26 23:00:20	78.97.211.199
 light precipitation	precipitaţii uşoare		2008-09-26 23:02:53	88.161.18.39
+setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru		2008-09-27 12:47:25	78.97.211.199
+setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	adir	2008-09-27 12:47:45	78.97.211.199
+keyring	inel de chei	adir	2008-09-27 12:48:38	78.97.211.199
