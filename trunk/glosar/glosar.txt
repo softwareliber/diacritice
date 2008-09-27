@@ -1692,8 +1692,8 @@ unexpected error	eroare neaşteptată
 unflag	a demarca	
 unhandled	nemavrabil	
 unicode	unicode	!
-uniform resource identifier		
-uniform resource locator		
+uniform resource identifier	identificator uniform de resurse	
+uniform resource locator	Localizator uniform de resurse	
 uninstall	a dezinstala, dezinstalare	!
 unit	unitate	!
 unix	UNIX	!

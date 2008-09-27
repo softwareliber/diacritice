@@ -2464,3 +2464,5 @@ light precipitation	precipitaţii uşoare		2008-09-26 23:02:53	88.161.18.39
 setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru		2008-09-27 12:47:25	78.97.211.199
 setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	adir	2008-09-27 12:47:45	78.97.211.199
 keyring	inel de chei	adir	2008-09-27 12:48:38	78.97.211.199
+uniform resource identifier	identificator uniform de resurse		2008-09-28 01:25:57	141.85.0.116
+uniform resource locator	Localizator uniform de resurse		2008-09-28 01:26:18	141.85.0.116
