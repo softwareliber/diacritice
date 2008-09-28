@@ -2473,3 +2473,5 @@ preferences	preferinţe	! [[configuration-options-preferences-settings]]	2008-09
 setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	? adir [[configuration-options-preferences-settings]]	2008-09-28 10:14:52	89.38.147.13
 drop shadow	umbră de perspectivă		2008-09-28 22:25:37	79.115.21.189
 setting	1. configurare (când e vorba de sistem), setare, preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	? adir [[configuration-options-preferences-settings]]	2008-09-28 22:26:33	79.115.21.189
+snap	a acroșa, a agăța (ferestre); apucare rapidă	!	2008-09-29 00:39:05	79.115.21.189
+snap	a acroșa, a agăța (ferestre); apucare rapidă		2008-09-29 00:39:32	79.115.21.189

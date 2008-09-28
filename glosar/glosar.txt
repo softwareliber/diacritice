@@ -1435,7 +1435,7 @@ smart terminal	terminal inteligent
 smiley	iconiţă simbolică	
 smooth	fin, neted, fin; neted	
 smtp	smtp (acronim)	?
-snap	muşcătură, apucare rapidă; agățare (ferestre)	!
+snap	a acroșa, a agăța (ferestre); apucare rapidă	
 snapoff	desprindere	!
 snippet	bucată de cod, bloc de cod	
 snooze	a aţipi, moţăială	
