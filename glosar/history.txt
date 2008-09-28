@@ -2466,3 +2466,8 @@ setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de 
 keyring	inel de chei	adir	2008-09-27 12:48:38	78.97.211.199
 uniform resource identifier	identificator uniform de resurse		2008-09-28 01:25:57	141.85.0.116
 uniform resource locator	Localizator uniform de resurse		2008-09-28 01:26:18	141.85.0.116
+configuration	configuraţie	[configuration-options-preferences-settings]	2008-09-28 10:13:32	89.38.147.13
+configuration	configuraţie	[[configuration-options-preferences-settings]]	2008-09-28 10:13:57	89.38.147.13
+options	opţiuni	! [[configuration-options-preferences-settings]]	2008-09-28 10:14:12	89.38.147.13
+preferences	preferinţe	! [[configuration-options-preferences-settings]]	2008-09-28 10:14:27	89.38.147.13
+setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	? adir [[configuration-options-preferences-settings]]	2008-09-28 10:14:52	89.38.147.13
