@@ -291,7 +291,7 @@ condescending	desconsiderat, dispreţuitor, NU condescendent (sensul este invers
 condition	condiţie	!
 conduit	conductă	
 confidential	confidenţial	!
-configuration	configuraţie	
+configuration	configuraţie	[[configuration-options-preferences-settings]]
 confirm	a confirma	!
 confirmation	confirmare	
 connect	conectare, conectare; connecting=mă conectez	? [[online-offline-connected-disconnected]]
@@ -1014,7 +1014,7 @@ operation	operaţie	!
 opponent	adversar	!
 option	opţiune, setare; tasta „Option” [Opţiune] pe tastaturile Macintosh.	
 optional	opţional	!
-options	opţiuni	!
+options	opţiuni	! [[configuration-options-preferences-settings]]
 or	sau	!
 order	comandă, ordin, ordine	
 orientation	orientare	!
@@ -1140,7 +1140,7 @@ power management	administrarea consumului
 power manager	administrare consum	
 ppp	ppp	!
 preemptive	preemptiv	!
-preferences	preferinţe	!
+preferences	preferinţe	! [[configuration-options-preferences-settings]]
 prefix	prefix	
 preload	a preîncărca, preîncărcare	
 prepare	a pregăti	
@@ -1375,7 +1375,7 @@ service	serviciu	! [[service-daemon]]
 session	sesiune	!
 set	0. a defini 1. a aplica, a pune, a stabili, a defini ca, a desemna ca 2. mulţime	
 set-up	a pregăti, program de instalare a unei aplicaţii pe calculator, program de fixare a condiţiilor în care va rula o aplicaţie pe un calculator	
-setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	adir
+setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	? adir [[configuration-options-preferences-settings]]
 setup	a pregăti, pregătire (iniţial); a configura, configurare (ulterior)	
 severity	serveritate, gravitate	
 sex	sex	!
