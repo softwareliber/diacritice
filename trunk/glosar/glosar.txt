@@ -449,6 +449,7 @@ driver	pilot, driver (pl. drivere), modul de nucleu	! Adi. R
 drop	a renunţa la, a refuza, a abandona	
 drop caps	majusculă multilinie, letrină	
 drop down list	listă de selecţie	
+drop shadow	umbră de perspectivă	
 druid	druid	
 dumb terminal	terminal prost/mut	
 dummy	marionetă?, înlocuitor temporar?, figurant, machetă, de formă, elementar, banal, manechin	
@@ -1375,7 +1376,7 @@ service	serviciu	! [[service-daemon]]
 session	sesiune	!
 set	0. a defini 1. a aplica, a pune, a stabili, a defini ca, a desemna ca 2. mulţime	
 set-up	a pregăti, program de instalare a unei aplicaţii pe calculator, program de fixare a condiţiilor în care va rula o aplicaţie pe un calculator	
-setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	? adir [[configuration-options-preferences-settings]]
+setting	1. configurare (când e vorba de sistem), setare, preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	? adir [[configuration-options-preferences-settings]]
 setup	a pregăti, pregătire (iniţial); a configura, configurare (ulterior)	
 severity	serveritate, gravitate	
 sex	sex	!
