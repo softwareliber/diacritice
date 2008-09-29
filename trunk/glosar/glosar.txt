@@ -857,10 +857,10 @@ macro	macro, macrocomandă	? [[macro]]
 magenta	magenta	!
 magnifier	lupă	
 mail	poştă, poştă electronică	
-mail client	client de poştă electronică, client de mail	
-mail server	server de poştă electronică, server de mail	
+mail client	client de mesagerie, client de poştă electronică, client de mail	
+mail server	server de mesagerie, server de poştă electronică, server de mail	
 mail to	mesaj către	?
-mailbox	cutie poştală	
+mailbox	căsuţă poştală, cutie poştală	
 mailing list	listă de discuţii, listă de discuţii prin poştă electronică	
 main body	corp principal, corpul mesajului - mesajul propriu-zis	? in functie de context
 mainframe	mainframe, mainframe; server principal	
