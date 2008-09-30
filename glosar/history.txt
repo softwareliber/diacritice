@@ -2486,3 +2486,9 @@ multiboot	demaraj multiplu (sistem cu mai multe sisteme de operare)		2008-09-30 
 negative binomial	binom negativ		2008-09-30 15:59:29	171.18.2.82
 netmask	mască de reţea		2008-09-30 16:00:19	171.18.2.82
 netscape	Netscape		2008-09-30 16:00:33	171.18.2.82
+news site	sit de ştiri		2008-09-30 16:01:29	171.18.2.82
+next	înainte (neutru, plus se poate păstra tasta rapiă pe N), următor (alternativa veche) 		2008-09-30 16:03:26	171.18.2.82
+notebook	agendă, calculator portabil, notebook		2008-09-30 16:07:48	171.18.2.82
+notepad	carneţel		2008-09-30 16:08:43	171.18.2.82
+number converter	convertor de numere		2008-09-30 16:10:47	171.18.2.82
+number theory	teoria numerelor		2008-09-30 16:11:20	171.18.2.82
