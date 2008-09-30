@@ -922,7 +922,7 @@ misc	diverse
 miscellaneous	diverse	
 misspelled	ortografiat greşit	!
 mixer device	dispozitiv de mixaj	
-modal (value)		
+modal (value)	valoare modală, valoare probabilă maximă	
 mode	mod	!
 model	model	!
 modem	modem	!
