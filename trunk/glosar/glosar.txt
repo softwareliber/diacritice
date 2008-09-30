@@ -957,10 +957,10 @@ netmask	mască de reţea
 netscape	Netscape	
 network	reţea	!
 networking	reţelistică	!
-news site		
+news site	sit de ştiri	
 newsgroup	grup de știri	? [[newsgroup]]
 newsletter	buletin informativ [dacă e periodic], buletin de ştiri [dacă e zilnic]	
-next	înainte (neutru, plus se poate pastra shorcutul pe N), următor (alternativa veche)	
+next	înainte (neutru, plus se poate păstra tasta rapiă pe N), următor (alternativa veche)	
 nibble	a ciuguli, semioctet (4 biţi), semioctet	
 nick	pseudonim	! [[nickname]]
 nickname	pseudonim	! [[nickname]]
@@ -974,17 +974,17 @@ normal distribution	distribuţie normală	!
 notably	cel mai cunoscut, în mod evident	
 note	notiță	
 note that	Atenţie:, Nu uitaţi că:, A se reţine că	
-notebook	agendă, notebook, calculator portabil, notebook; calculator portabil	
-notepad	carneţel, carneţel; notepad	
+notebook	agendă, calculator portabil, notebook	
+notepad	carneţel	
 notice	notiţă, a remarca	
 notification	înștiințare, aducere la cunoștință	
 notification area	zona de notificare	
 notify	a înştiinţa, înştiinţare	
 notify me	anunţă-mă	!
 number	număr	!
-number converter		
+number converter	convertor de numere	
 number of	număr de	!
-number theory		
+number theory	teoria numerelor	
 numbered list	listă numerotată	!
 numbering	numerotare	!
 numeric	numeric	!
