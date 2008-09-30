@@ -2492,3 +2492,4 @@ notebook	agendă, calculator portabil, notebook		2008-09-30 16:07:48	171.18.2.82
 notepad	carneţel		2008-09-30 16:08:43	171.18.2.82
 number converter	convertor de numere		2008-09-30 16:10:47	171.18.2.82
 number theory	teoria numerelor		2008-09-30 16:11:20	171.18.2.82
+overflow	revărsare, excedent		2008-09-30 19:23:18	171.18.2.82

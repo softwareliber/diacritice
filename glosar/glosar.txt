@@ -1024,7 +1024,7 @@ orthflow
 outdated	învechit, depăşit	
 outline	schiţă, contur, a sublinia, subliniat, structură	
 output	a produce, produs, ieşire, rezultat	
-overflow	overflow; excedent ? [Cristi S]	
+overflow	revărsare, excedent	
 overlap	suprapune	!
 overlapping	suprapunere	!
 overlay	suprapune	?
