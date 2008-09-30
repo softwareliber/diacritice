@@ -2483,3 +2483,6 @@ modal (value)	valoare modală, valoare probabilă maximă		2008-09-30 12:27:35	1
 mouse cursor	cursor maus	[[mouse]] ?	2008-09-30 13:58:55	171.18.2.82
 msdos	MS-DOS (Microsoft Disk Operating System)		2008-09-30 14:00:23	171.18.2.82
 multiboot	demaraj multiplu (sistem cu mai multe sisteme de operare)		2008-09-30 14:01:24	171.18.2.82
+negative binomial	binom negativ		2008-09-30 15:59:29	171.18.2.82
+netmask	mască de reţea		2008-09-30 16:00:19	171.18.2.82
+netscape	Netscape		2008-09-30 16:00:33	171.18.2.82

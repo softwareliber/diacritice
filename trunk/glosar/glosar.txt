@@ -951,10 +951,10 @@ mute	mut
 namespace	spaţiu de nume	
 nautilus	nautilus	!
 navigation bar	bară de navigare	
-negative binomial		
+negative binomial	binom negativ	
 nested	imbricat, (cu i, dand: îmbricat nu este corect, vezi dex)	
-netmask		
-netscape		
+netmask	mască de reţea	
+netscape	Netscape	
 network	reţea	!
 networking	reţelistică	!
 news site		
