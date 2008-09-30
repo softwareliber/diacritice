@@ -2482,3 +2482,4 @@ mixer device	dispozitiv de mixaj		2008-09-30 11:59:16	171.18.2.82
 modal (value)	valoare modală, valoare probabilă maximă		2008-09-30 12:27:35	171.18.2.82
 mouse cursor	cursor maus	[[mouse]] ?	2008-09-30 13:58:55	171.18.2.82
 msdos	MS-DOS (Microsoft Disk Operating System)		2008-09-30 14:00:23	171.18.2.82
+multiboot	demaraj multiplu (sistem cu mai multe sisteme de operare)		2008-09-30 14:01:24	171.18.2.82

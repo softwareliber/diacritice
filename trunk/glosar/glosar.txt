@@ -941,7 +941,7 @@ move	a muta	!
 ms	Micro$oft :)	
 msdos	MS-DOS (Microsoft Disk Operating System)	
 mtu	MTU (unitatea maximă de transmisie)	
-multiboot	(sistem cu mai multe sisteme de operare)?	
+multiboot	demaraj multiplu (sistem cu mai multe sisteme de operare)	
 multicast	difuzare multiplă; multicast	
 multimedia	multimedia	
 multiple document interface	interfaţă cu multiple documente	
