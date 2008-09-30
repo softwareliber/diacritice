@@ -2478,3 +2478,4 @@ snap	a acroșa, a agăța (ferestre); apucare rapidă		2008-09-29 00:39:32	79.11
 mailbox	căsuţă poştală, cutie poştală		2008-09-29 17:20:25	171.18.2.81
 mail client	client de mesagerie, client de poştă electronică, client de mail		2008-09-29 17:20:41	171.18.2.81
 mail server	server de mesagerie, server de poştă electronică, server de mail		2008-09-29 17:20:57	171.18.2.81
+mixer device	dispozitiv de mixaj		2008-09-30 11:59:16	171.18.2.82

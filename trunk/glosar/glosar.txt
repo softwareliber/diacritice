@@ -921,7 +921,7 @@ mirror	oglindă, site alternativ, site-oglindă
 misc	diverse	
 miscellaneous	diverse	
 misspelled	ortografiat greşit	!
-mixer device		
+mixer device	dispozitiv de mixaj	
 modal (value)		
 mode	mod	!
 model	model	!
