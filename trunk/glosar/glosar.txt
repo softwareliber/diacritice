@@ -579,7 +579,7 @@ fraction	fracţie	!
 frame	cadru, ramă	
 framebuffer	framebuffer	
 framerate	frecvenţă cadre	
-framework	cadru	
+framework	framework	adir 
 free software	soft liber, program liber	
 free software foundation	Fundaţia pentru Software Liber	
 freeware	gratuit, gratis	
