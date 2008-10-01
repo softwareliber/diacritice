@@ -2503,3 +2503,10 @@ peer	conexiune, conexiune-pereche, partener, egal, pereche		2008-10-01 15:56:34	
 pending	în suspensie, în așteptare		2008-10-01 15:59:08	171.18.2.101
 perl script	script perl		2008-10-01 16:15:26	171.18.2.101
 picker button	buton tachet, buton picon		2008-10-01 16:21:36	171.18.2.101
+pid	PID (process identifier) identificator de proces		2008-10-01 18:25:25	171.18.2.101
+pilot device	dispozitiv pilot		2008-10-01 18:26:47	171.18.2.101
+pixmap	pixmap, hartă de pixeli		2008-10-01 18:31:39	171.18.2.101
+player	lector, redator	[[Glosar/Discutii/player]]	2008-10-01 18:32:51	171.18.2.101
+popup windows	fereastră contextuală		2008-10-01 18:53:14	171.18.2.101
+port binding	asociere de port	adir	2008-10-01 18:54:51	171.18.2.101
+preview	previzualizare, avanpremieră, preafişare		2008-10-01 19:01:00	171.18.2.101
