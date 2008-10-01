@@ -2501,3 +2501,5 @@ pattern	model, desen, tipar,  mostră, probă, eşantion		2008-10-01 15:49:36	17
 peak indicator	indicator de suprasarcină		2008-10-01 15:54:53	171.18.2.101
 peer	conexiune, conexiune-pereche, partener, egal, pereche		2008-10-01 15:56:34	171.18.2.101
 pending	în suspensie, în așteptare		2008-10-01 15:59:08	171.18.2.101
+perl script	script perl		2008-10-01 16:15:26	171.18.2.101
+picker button	buton tachet, buton picon		2008-10-01 16:21:36	171.18.2.101

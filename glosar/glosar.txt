@@ -1081,11 +1081,11 @@ perform	a executa	adir
 period	perioadă, termen, ciclu	
 periodic	periodic	
 perl	perl	!
-perl script		
+perl script	script perl	
 permission	drept, drepturi, permisiuni	
 photo	fotografie	? [[photo-image-picture-graph]]
 physical memory	memorie fizică	
-picker button		
+picker button	buton tachet, buton picon	
 picker settings		
 picture	poză, imagine	? [[photo-image-picture-graph]]
 pid		
