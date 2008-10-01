@@ -1088,21 +1088,21 @@ physical memory	memorie fizică
 picker button	buton tachet, buton picon	
 picker settings		
 picture	poză, imagine	? [[photo-image-picture-graph]]
-pid		
+pid	PID (process identifier) identificator de proces	
 pie chart	diagramă circulară, grafic caşcaval, grafic plăcintă (care e mai bun???)	? [[pie chart]]
-pilot device		
+pilot device	dispozitiv pilot	
 ping	ping, testează conexiunea de reţea prin pachete care cer un 'pachet de răspuns' (ICMP ECHO_REQUEST packets)	
 pinging	testarea conexiunii de reţea	
 pinning	fixare, alegere selectivă (referitor la Debian Apt)	
 pipe	pipă, tub, ţeavă, coş, burlan, fluier, conector pipe; conexiune	
 pipeline	ansamblu	? sau ceva
 pixel	pixel	!
-pixmap	pixmap	
+pixmap	pixmap, hartă de pixeli	
 place	loc	!
 placeholder	înlocuitor, marcaj	
 plain text	text simplu, text clar [când se referă la o transmisie necriptată]	
 play	a reda, a juca	
-player	player	[[Glosar/Discutii/player]]
+player	lector, redator	[[Glosar/Discutii/player]]
 playlist	listă [simplu, se inţelege din context], listă de redare	
 please	vă rog	!
 please wait	vă rog să asteaptaţi	!
@@ -1124,11 +1124,11 @@ pool	baltă, bazin, o variantă de biliard, fond comun, rezervă, urnă?
 pooled variance		
 popup	? (apariţie, a apărea), meniu contextual, dialog	
 popup menu	meniu contextual	
-popup windows	fereastră „popup”	
+popup windows	fereastră contextuală	
 port	portare	!
 port (connectivity)	port	!
 port (verb)	a porta	!
-port binding	asociere port	adir
+port binding	asociere de port	adir
 portrait	portret	!
 post	articol	? [[record-entry-element-item-row-article-post-message]]
 post (forums)	mesaj	!
@@ -1152,7 +1152,7 @@ presentation	prezentare	!
 preserve	a păstra	
 preset	a prestabili, a stabili anticipat	
 pressed	  adj  (d. cărămidă) presat; presat de timp	
-preview	previzualizare, avanpremieră, previzualizare; preafişare (?); avanpremieră	
+preview	previzualizare, avanpremieră, preafişare	
 previous	înapoi (neutru, in plus se poate pastra shorcut-ul pe P), precedent (alternativa veche)	
 primary colors	culori de bază	
 print	a tipări	! [[print]]
