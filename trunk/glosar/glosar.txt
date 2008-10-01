@@ -89,6 +89,7 @@ attribute	atribut	!
 audio	audio	!
 authentication	autentificare	? [[Online-offline-connected-disconnected]]
 author	autor	!
+authorization	autorizație	
 autocomplete	completare automată	!
 autofill	completare automată	!
 availability	disponibilitate	!

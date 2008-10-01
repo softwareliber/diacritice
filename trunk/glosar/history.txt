@@ -2510,3 +2510,4 @@ player	lector, redator	[[Glosar/Discutii/player]]	2008-10-01 18:32:51	171.18.2.1
 popup windows	fereastră contextuală		2008-10-01 18:53:14	171.18.2.101
 port binding	asociere de port	adir	2008-10-01 18:54:51	171.18.2.101
 preview	previzualizare, avanpremieră, preafişare		2008-10-01 19:01:00	171.18.2.101
+authorization	autorizație		2008-10-01 21:55:36	92.81.26.20
