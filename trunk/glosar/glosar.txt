@@ -579,7 +579,7 @@ fraction	fracţie	!
 frame	cadru, ramă	
 framebuffer	framebuffer	
 framerate	frecvenţă cadre	
-framework	framework	adir 
+framework	platformă	[[framework]]
 free software	soft liber, program liber	
 free software foundation	Fundaţia pentru Software Liber	
 freeware	gratuit, gratis	
@@ -666,6 +666,7 @@ hierarchy	ierarhie
 highlight	a evidenţia	!
 highlight...		
 highly recommanded	it is ~ to = (este) indicat (să)	? ortografie gresita in eng
+hindi	Indiană	?
 hint	sugestie, indiciu, informaţie indicativă	
 hiperlink	hiperlegătură	
 histogram	histogramă	!
