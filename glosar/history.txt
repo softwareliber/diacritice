@@ -2494,3 +2494,5 @@ number converter	convertor de numere		2008-09-30 16:10:47	171.18.2.82
 number theory	teoria numerelor		2008-09-30 16:11:20	171.18.2.82
 overflow	revărsare, excedent		2008-09-30 19:23:18	171.18.2.82
 framework	framework	adir 	2008-09-30 22:14:11	78.97.211.199
+framework	platformă	[[framework]]	2008-10-01 03:10:47	92.81.24.84
+hindi	Indiană	?	2008-10-01 03:31:40	92.81.24.84
