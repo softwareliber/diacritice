@@ -177,7 +177,7 @@ browser	navigator (web)
 buddy	amic, prieten	
 buffer	[zona de] memorie tampon, editor	
 buffering	preîncărcare, încărcarea/folosirea memoriei tampon	
-bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate, scamă	? [[bug]]
+bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate, scamă, hibă	? [[bug]]
 build	a construi, versiune compilată, build	
 built in	nativ	
 bulk	brut, masiv	
@@ -1065,15 +1065,15 @@ patern	a modela, a copia, şablon, model	!
 path	cale	!
 path (file)	cale	!
 path (to follow)	traseu	!
-pattern	model, proprietate	
+pattern	model, desen, tipar,  mostră, probă, eşantion	
 pause	pauză	!
 peak	vârf	!
-peak indicator		
+peak indicator	indicator de suprasarcină	
 pearson correlation	corelaţie Pearson	
 pedestrian	pieton	!
-peer	conexiune, conexiune-pereche, partener	
+peer	conexiune, conexiune-pereche, partener, egal, pereche	
 peering	parteneriat	
-pending	în suspensie, în lucru, în așteptare	
+pending	în suspensie, în așteptare	
 pending signal	semnal suspendat	
 pending signals		
 perfectionare continua	perfectionare continua	
