@@ -2518,3 +2518,8 @@ progress	(în) desfăşurare, progres, evoluţie		2008-10-03 13:27:04	171.18.2.1
 proofreader	verificator, corector (de erori în cărţile tipărite), verificator-corector	?	2008-10-03 13:31:27	171.18.2.109
 provider	furnizor, FAI (furnizor de acces Internet)		2008-10-03 13:34:41	171.18.2.109
 proxy	proxy, server mandatar		2008-10-03 13:35:51	171.18.2.109
+radar map	hartă radar, ecran radar		2008-10-03 14:16:39	171.18.2.109
+radio	radio		2008-10-03 14:16:45	171.18.2.109
+radio button	buton radio (nu potenţiometru)		2008-10-03 14:17:23	171.18.2.109
+rated	cotat		2008-10-03 14:19:06	171.18.2.109
+readout	rezultat (afişarea rezultatelor într-o formă lizibilă)		2008-10-03 14:49:03	171.18.2.109

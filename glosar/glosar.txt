@@ -1205,14 +1205,14 @@ quiet	în linişte, liniştit, linişte
 quit	a ieşi, a termina, a părăsi	? [[quit-exit-terminate-finish]]
 quota	cotă	!
 quoting	citare	
-radar map		
-radio		
-radio button	buton radio, (nu potenţiometru)	
+radar map	hartă radar, ecran radar	
+radio	radio	
+radio button	buton radio (nu potenţiometru)	
 random	aleator, întîmplător	
 range	interval, rază (de extindere), zonă, arie, plajă (de valori), a înşira, a clasifica, şir, domeniu, ordine	
 rank	grad	
 raster	imagine raster	!
-rated	?	
+rated	cotat	
 rating	apreciere, evaluare, clasificare	
 ratio	proporţie	!
 raw	brut	!
@@ -1221,7 +1221,7 @@ raw memory	memorie brută	!
 read out	a citi cu voce tare	!
 read-only	(mod) strict citire, protejat la scriere, doar citire	
 readiness	pregătire	
-readout		
+readout	rezultat (afişarea rezultatelor într-o formă lizibilă)	
 ready	gata	!
 ready...		
 real memory	memorie reală/fizică	
