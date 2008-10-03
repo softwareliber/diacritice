@@ -2512,3 +2512,9 @@ port binding	asociere de port	adir	2008-10-01 18:54:51	171.18.2.101
 preview	previzualizare, avanpremieră, preafişare		2008-10-01 19:01:00	171.18.2.101
 authorization	autorizație		2008-10-01 21:55:36	92.81.26.20
 setting	1. configurare (când e vorba de sistem),  preferință (cand e vorba de utilizator), opţiune 	? adir [[configuration-options-preferences-settings]]	2008-10-01 23:57:09	78.97.211.199
+proceedings	procedee		2008-10-03 13:24:02	171.18.2.109
+process id	identificator de proces		2008-10-03 13:25:21	171.18.2.109
+progress	(în) desfăşurare, progres, evoluţie		2008-10-03 13:27:04	171.18.2.109
+proofreader	verificator, corector (de erori în cărţile tipărite), verificator-corector	?	2008-10-03 13:31:27	171.18.2.109
+provider	furnizor, FAI (furnizor de acces Internet)		2008-10-03 13:34:41	171.18.2.109
+proxy	proxy, server mandatar		2008-10-03 13:35:51	171.18.2.109

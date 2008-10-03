@@ -1168,18 +1168,18 @@ private message	mesaj personal
 private messages		
 probe	a testa, a explora, a investiga	
 problem	problemă	
-proceedings	proceedings	
+proceedings	procedee	
 process	a procesa, proces	
-process id	id proces	
+process id	identificator de proces	
 processor	procesor	
 prodigy	semn rău, monstru, figurativ - minunăţie	
 profile	profil , contur	
 program	program	
-progress	(in) desfăsurare, progres, evoluţie	
+progress	(în) desfăşurare, progres, evoluţie	
 progress bar	bară de progres, indicator de evoluţie	
 project	proiect	
 prompt	a solicita, solicitare; prompter	
-proofreader	verificator?	?
+proofreader	verificator, corector (de erori în cărţile tipărite), verificator-corector	?
 propagation	propagare	
 properties	proprietăţi	
 proportional font	caractere proportionale	
@@ -1188,9 +1188,9 @@ protected workbooks
 protection	protecţie	
 protocol	protocol	
 provide	a furniza, a oferi	
-provider	furnizor	
+provider	furnizor, FAI (furnizor de acces Internet)	
 provision	măsură, dipozitie, rezervă, articol (contractual), a aproviziona, a înarma	
-proxy	proxy	
+proxy	proxy, server mandatar	
 proxy server	server proxy	
 public	public	
 public key	cheie publică	
