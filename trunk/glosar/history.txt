@@ -2523,3 +2523,6 @@ radio	radio		2008-10-03 14:16:45	171.18.2.109
 radio button	buton radio (nu potenţiometru)		2008-10-03 14:17:23	171.18.2.109
 rated	cotat		2008-10-03 14:19:06	171.18.2.109
 readout	rezultat (afişarea rezultatelor într-o formă lizibilă)		2008-10-03 14:49:03	171.18.2.109
+relief	relief, uşurare, descărcare, reducere		2008-10-03 18:28:48	171.18.2.109
+remapping	recartografiere, reasociere		2008-10-03 18:31:12	171.18.2.109
+removable media	mediu amovibil, mediu detașabil		2008-10-03 18:33:08	171.18.2.109
