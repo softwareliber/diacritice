@@ -2530,3 +2530,5 @@ upgrade	a îmbunataţi, îmbunataţire, a actualiza	? [[update-upgrade]]	2008-10
 update	a actualiza, actualizare	? [[update-upgrade]]	2008-10-06 18:21:21	82.78.39.13
 upgradable	actualizabil	? [[update-upgrade]]	2008-10-06 18:21:40	82.78.39.13
 feather	??	? [[feather]]	2008-10-06 18:22:03	82.78.39.13
+glow	luminescență		2008-10-06 22:50:42	79.115.20.103
+glow	strălucire, luminescență		2008-10-06 22:59:25	79.115.20.103

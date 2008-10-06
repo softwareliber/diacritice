@@ -611,6 +611,7 @@ glitch	scăpare	!
 glob	a expanda, expandare, se referă la expandarea meta-caracterelor (wildcards)	
 global	global	!
 glos	glos	
+glow	strălucire, luminescență	
 gnome	GNOME	!
 gnu	GNU	!
 go	start, salt, navigare, du-te, încarcă; go! = porneşte; go to page = du‑te la pagina;	
