@@ -2532,3 +2532,4 @@ upgradable	actualizabil	? [[update-upgrade]]	2008-10-06 18:21:40	82.78.39.13
 feather	??	? [[feather]]	2008-10-06 18:22:03	82.78.39.13
 glow	luminescență		2008-10-06 22:50:42	79.115.20.103
 glow	strălucire, luminescență		2008-10-06 22:59:25	79.115.20.103
+glow	incandescență, luminescență, strălucire		2008-10-06 23:12:11	79.115.20.103
