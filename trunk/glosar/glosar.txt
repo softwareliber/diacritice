@@ -526,6 +526,7 @@ fault	defecţiune	!
 favicon	favicon (pl. faviconuri)	
 favorite		
 fax	fax	!
+feather	??	? [[feather]]
 feature	caracteristică; însușire; facilitate; capabilitate	
 featured	recomandări	!
 feed	flux	!
@@ -1713,9 +1714,9 @@ unshade	luminează, dezumbreşte
 unsupported	fără suport	
 untitled	fără titlu	!
 unwrap	a desfăşura, a dezpacheta	
-update	a actualiza, actualizare	
-upgradable	actualizabil	
-upgrade	a îmbunataţi, îmbunataţire, a actualiza	
+update	a actualiza, actualizare	? [[update-upgrade]]
+upgradable	actualizabil	? [[update-upgrade]]
+upgrade	a îmbunataţi, îmbunataţire, a actualiza	? [[update-upgrade]]
 uplink	uplink	?
 upload	încărcare	
 upside down	răsturnat vertical	
