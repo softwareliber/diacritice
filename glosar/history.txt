@@ -2535,3 +2535,7 @@ glow	strălucire, luminescență		2008-10-06 22:59:25	79.115.20.103
 glow	incandescență, luminescență, strălucire		2008-10-06 23:12:11	79.115.20.103
 assign	a desemna, a delega, a asocia ceva cuiva, a atribui (a asigna e greşit, vezi DEX)		2008-10-07 10:15:04	91.84.18.189
 layout	aranjament (ex de tastatură), aspect, plan general, proiect, dispunere, formatare	Modificat: Adi Roiban	2008-10-07 10:20:41	91.84.18.189
+reverse video	video invers		2008-10-07 13:46:04	171.18.2.82
+review	recenzie, prezentare, a revedea, a trece în revistă,		2008-10-07 13:58:28	171.18.2.82
+review	recenzie, prezentare, a revedea, a trece în revistă, a recenza		2008-10-07 13:59:27	171.18.2.82
+rip	a exctrage (în context CD/DVD), a jupui, a spinteca		2008-10-07 14:01:06	171.18.2.82
