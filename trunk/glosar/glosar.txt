@@ -1388,7 +1388,7 @@ sex	sex	!
 shade	a umbri, umbră, umbreşte	
 shadow password	parolă criptată	
 shake	a zgudui, a scutura	
-shaped text		
+shaped text	text conturat	
 share	a împărţi, a distribui, a partaja, partajare	
 shared	comun, folosit în ~	
 shared memory	memorie partajată	
