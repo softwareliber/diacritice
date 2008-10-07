@@ -79,7 +79,7 @@ aspect ratio	proporţie aspect
 assert	aserţiune	
 asserted signal	semnal asigurat?, semnal activat?	
 asset	resursă	
-assign	a desemna, a delega, a asocia ceva cuiva, (a asigna e greşit, vezi DEX)	
+assign	a desemna, a delega, a asocia ceva cuiva, a atribui (a asigna e greşit, vezi DEX)	
 assistive	de asistenţă	
 asynchronous	asincron	!
 attach	a anexa, a ataşa	? [[attachment]]
@@ -806,7 +806,7 @@ launch	pornește, lansează (un program)
 launch icon	pictogramă de lansare	
 launcher	lansator	!
 layer	strat	!
-layout	aspect, aranjament, plan general, proiect, dispunere, formatare	Modificat: Adi Roiban
+layout	aranjament (ex de tastatură), aspect, plan general, proiect, dispunere, formatare	Modificat: Adi Roiban
 leech	sursă incompletă [pt bittorrent]	adir
 legacy	moştenire	!
 legacy application	aplicaţie moştenită	
