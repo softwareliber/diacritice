@@ -1301,12 +1301,12 @@ retry	a reîncerca, reîncearcă	!
 return	a întoarce, întoarcere	
 return key	tasta Enter	
 reveal	a dezvălui	!
-reverse video		
+reverse video	video invers	
 revert	a reveni, revenire, revenire; revino	
-review	recenzie	
+review	recenzie, prezentare, a revedea, a trece în revistă, a recenza	
 revision	revizie	!
 rewind	derulează înapoi	
-rip	jupui	
+rip	a exctrage (în context CD/DVD), a jupui, a spinteca	
 roaming	roaming	Adi Roiban
 role-playing game	joc de rol	
 rollback	a anula, anulare, anulare; rollback	
