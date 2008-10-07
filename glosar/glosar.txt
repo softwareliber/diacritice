@@ -1340,7 +1340,7 @@ scaling factor	factor de scalare, factor de redimensionare
 scan	a examina, a scana [pentru scanner]	
 scene	scenă	
 schedule	planificare, programare	
-schedule manager	administrator orar, administrator planificări	
+schedule manager	administrator orar, administrator planificări, gestionar de planificări	
 schema	schemă	!
 scientific notation	notare ştiinţifică	
 scope	proporţii, anvergură, spaţiu, scop, ţel, vizibilitate, domeniu	
