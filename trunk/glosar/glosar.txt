@@ -1353,13 +1353,13 @@ scroll	a derula	!
 scrollbar	bară de derulare	!
 scsi	SCSI	!
 search	a căuta, căutare	? [[find-lookup-search]]
-search domain	domeniu căutării	? [[find-lookup-search]]
+search domain	domeniu căutării, domeniu de căutare	? [[find-lookup-search]]
 search string	şir de căutat	? [[find-lookup-search]]
-seascape	(pentru imprimare) orizontal răsturnat, orizontal răsturnat - asta e o glumă proastă, nu ştiu să existe acest termen în engleză!	?
+seascape	(pentru imprimare) orizontal răsturnat, privelişte marină, vedere la mare	?
 secondary color	culoare secundară	!
 section	capitol, secţiune	
 secure channel	canal sigur	!
-secure keyboard	tastatură sigură	
+secure keyboard	tastatură sigură, tastatură securizată	
 security	securitate	
 seed	sursă completă [pt bittorrent]	adir
 seek	a căuta, a parcurge	Adi R.
@@ -1367,7 +1367,7 @@ segment	segment	!
 segmentation fault	eroare de segmentare	
 select	a alege	
 selection	selecție [nu alegere]	
-self-signed	semnat în nume propriu?	
+self-signed	subsemnat	
 semicolons	mai multe semne de punct şi virgulă,	
 send	a trimite	!
 send to	trimite către	!
@@ -1375,7 +1375,7 @@ sender	expeditor
 sense	simţ, raţiune, părere, opinie	
 sensitive	sensibil	
 separator	separator	!
-sequence	succesiune	
+sequence	succesiune, ordine, concordanţă, secvenţă	
 server	server	
 service	serviciu	! [[service-daemon]]
 session	sesiune	!
