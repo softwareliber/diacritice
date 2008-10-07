@@ -2545,3 +2545,8 @@ flash	licărire	adir	2008-10-07 14:09:21	91.84.18.189
 router	ruter, distribuitor		2008-10-07 14:09:26	171.18.2.82
 run	a porni, a executa, a rula	? [[execute-run-start]]	2008-10-07 14:10:58	171.18.2.82
 schedule manager	administrator orar, administrator planificări, gestionar de planificări		2008-10-07 15:15:49	171.18.2.82
+search domain	domeniu căutării, domeniu de căutare	? [[find-lookup-search]]	2008-10-07 17:19:11	171.18.2.82
+seascape	(pentru imprimare) orizontal răsturnat, privelişte marină, vedere la mare	?	2008-10-07 17:21:51	171.18.2.82
+secure keyboard	tastatură sigură, tastatură securizată		2008-10-07 17:26:58	171.18.2.82
+self-signed	subsemnat		2008-10-07 17:56:11	171.18.2.82
+sequence	succesiune, ordine, concordanţă, secvenţă		2008-10-07 17:59:49	171.18.2.82
