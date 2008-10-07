@@ -551,6 +551,7 @@ fit	potrivește
 fix	a repara [vb], remediu [s]	
 fixed font	font fix	!
 flag	a marca, fanion, steag, indicator, semnalizator	
+flash	licărire	adir
 flip	a întoarce, a inversa	
 float	a pluti, tip de date in virgulă mobilă	
 floating	plutitor, mobil (floating point=virgulă mobilă)	
@@ -1306,20 +1307,20 @@ revert	a reveni, revenire, revenire; revino
 review	recenzie, prezentare, a revedea, a trece în revistă, a recenza	
 revision	revizie	!
 rewind	derulează înapoi	
-rip	a exctrage (în context CD/DVD), a jupui, a spinteca	
-roaming	roaming	Adi Roiban
+rip	a extrage (în context CD/DVD), a jupui, a spinteca	
+roaming	itinerant (profilul itinerant al utilizatorului)	Adi Roiban
 role-playing game	joc de rol	
 rollback	a anula, anulare, anulare; rollback	
 root	rădăcină, administrator (root)	
 root directory	director rădăcină	
 root window	fereastră rădăcină; fereastră fundal	
 rotate	a roti, a învîrti	
-router	ruter	
+router	ruter, distribuitor	
 row	rând	! [[record-entry-element-item-row-article-post-message]]
 rpm package	pachet rpm	
 rss feed	flux RSS	
 ruler	riglă	!
-run	a porni, a executa	? [[execute-run-start]]
+run	a porni, a executa, a rula	? [[execute-run-start]]
 runaround	circumscriere	
 runlevel	nivel de executare; nivel de rulare	
 runtime	la executare, în timpul executării	
