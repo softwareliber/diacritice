@@ -47,7 +47,7 @@ animation	animaţie	!
 annotation	notă explicativă	
 anonymous	anonim	!
 answer mode	mod răspundere	
-antialiasing	antialiere	
+antialiasing	anticrenelare, antialias	
 anuar	anuar	!
 anvil	nicovală	!
 api	API	!
