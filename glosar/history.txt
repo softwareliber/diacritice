@@ -2552,3 +2552,4 @@ self-signed	subsemnat		2008-10-07 17:56:11	171.18.2.82
 sequence	succesiune, ordine, concordanţă, secvenţă		2008-10-07 17:59:49	171.18.2.82
 shaped text	text conturat		2008-10-07 18:05:28	171.18.2.82
 snippet	bucată de cod, bloc de cod, fragment		2008-10-08 14:56:42	82.76.12.174
+antialiasing	anticrenelare, antialias		2008-10-08 23:06:05	79.115.21.64
