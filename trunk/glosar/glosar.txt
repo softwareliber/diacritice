@@ -1442,7 +1442,7 @@ smooth	fin, neted, fin; neted
 smtp	smtp (acronim)	?
 snap	a acroșa, a agăța (ferestre); apucare rapidă	
 snapoff	desprindere	!
-snippet	bucată de cod, bloc de cod	
+snippet	bucată de cod, bloc de cod, fragment	
 snooze	a aţipi, moţăială	
 socket	mufă, deschizătură, soclu, fasung, orbită, gaură, socket (software); soclu (hardware)	
 socks server		
