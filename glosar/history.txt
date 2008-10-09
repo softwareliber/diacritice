@@ -2570,3 +2570,12 @@ soft keys	taste funcţionale		2008-10-09 18:50:52	171.18.2.81
 software	programe, programe de calculator, aplicaţii informatice, software		2008-10-09 18:53:03	171.18.2.81
 software bug	eroare în program, defecţiune în program, scamă în program, scamă software	? [[bug]]	2008-10-09 18:58:14	171.18.2.81
 spam	indezirabil, mesaj nedorit (de regula cu caracter publicitar), spam		2008-10-09 19:01:02	171.18.2.81
+stage	etapă, stagiu		2008-10-09 19:08:27	171.18.2.81
+stand-alone	de sine stătător, autonom		2008-10-09 19:09:16	171.18.2.81
+standby	în aşteptare, starea de veghe, gata de intervenţie, pregătit, de rezervă		2008-10-09 19:12:32	171.18.2.81
+startup files	fişiere de pornire		2008-10-09 19:13:33	171.18.2.81
+startup program	program de pornire		2008-10-09 19:13:59	171.18.2.81
+structure diagram	organigramă		2008-10-09 19:24:50	171.18.2.81
+subsidear	cuvânt scris greşit???		2008-10-09 19:30:39	171.18.2.81
+superblock	superbloc		2008-10-09 19:32:51	171.18.2.81
+system settings	parametri sistem		2008-10-09 19:38:26	171.18.2.81

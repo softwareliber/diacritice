@@ -1482,15 +1482,15 @@ spring	resort	!
 square brackets	paranteze pătrate	! [[brackets]]
 stabilize	a stabiliza	
 stack	stivă	! [[queue-stack]]
-stage	etapă	
-stand-alone	de sine stătător	
+stage	etapă, stagiu	
+stand-alone	de sine stătător, autonom	
 standard	standard	!
 standard deviation	deviere standard	
-standby	adormire	
+standby	în aşteptare, starea de veghe, gata de intervenţie, pregătit, de rezervă	
 start	start, a porni	? [[execute-run-start]]
 startup	pornire	
-startup files	fişiere pornire	
-startup program	program pornire	
+startup files	fişiere de pornire	
+startup program	program de pornire	
 stat	verificare, citire a stării	
 state	stare	
 statement	comandă, instrucţiune, extras de cont (bancar)	
@@ -1519,7 +1519,7 @@ strikethrough	tăiat	!
 string	şir	!
 stripchart program		
 stroke	lovitură, trasătură de linie, a tuşa, tuşă; a ştanţa, ştanţare	
-structure diagram		
+structure diagram	organigramă	
 stub	butuc	
 style	stil	
 subdirectory	subdosar	
@@ -1531,13 +1531,13 @@ subscribe	a abona
 subscript	scris mărunt, indice	
 subscription	abonament	
 subshell support		
-subsidear		
+subsidear	cuvânt scris greşit???	
 substring	subşir	
 subtitle	subtitrare , subtitlu	
 suffix	sufix	
 suitable	 1.  convenabil. 2. (to, for) potrivit (cu, pentru)	
 summary	rezumat, sumar [summary view = vizualizare sumară]	
-superblock		
+superblock	superbloc	
 supercede	a înlocui	
 supercomputer	supercomputer, supercalculator, supercomputer; supercalculator	
 superscript	exponent, scris sus (cum este puterea), antet	
@@ -1561,7 +1561,7 @@ system	sistem	!
 system administrator	administrator de sistem	
 system call	apel sistem	
 system configuration	configuraţia sistemului	
-system settings	fixarea sistemului	
+system settings	parametri sistem	
 system tray	zonă (sistem) de notificare	
 systray	zonă de notificare	
 tab	1. tab;  2. categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]
