@@ -1411,33 +1411,33 @@ sign-out	ieşire [dintr-un cont]
 sign-up	înregistrare [într-un cont]	
 signal	semnal	!
 signature	semnatură	!
-signature block	semnătură	
+signature block	semnătură, cadru de  semnătură	
 signer	semnatar, certificator	
 single	unic;celibatar	
 site	sit	[[site]] ?
 size	mărime	
-size box		
+size box	căsuţă de dimensiune	
 skew	oblicitate, poziţie piezişă	
-skewness		
+skewness	caracter oblic, catacter pieziş, înclinare, asimetrie, oblicitate	
 skill	aptitudine, abilitate	
 skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile); decorațiune; veșmânt; înfățișare; skin	? [[theme-scheme-skin]]
 skip	a omite, a sări, salt	
 slant	a se înclina, înclinat	
-slash	per (termen tipografic existent în română) [cf. backslash]	
+slash	per (termen tipografic existent în română) [cf. Backslash], bară oblică, linie oblică	
 slashed cross		
 slave	sclav, dependent	
-sleep	somn; put to sleep = adoarme [calculatorul]	
-sleeping	somn	
+sleep	somn; put to sleep = adoarme [calculatorul], stare de veghe [calculator]	
+sleeping	somn, de veghe [calculator]	
 slide	diapozitiv	!
-slider	cursor, patină, derulator, glisor	
-slideshow	prezentare diapozitive, succesiune imagini	
+slider	cursor, patină, derulator, glisor, ascensor, culisor	
+slideshow	prezentare diapozitive, succesiune imagini, diaporamă	
 slip	a aluneca, alunecare	
-slot	fantă; nişă; spaţiu alocat	
+slot	fantă, nişă, spaţiu alocat, conector, apertură, alveolă (dacă este vorba de librării de stocat casete cu copii de rezervă)	
 slow terminal	terminal lent	
 slow terminals		
 smart	deştept, inteligent	
 smart terminal	terminal inteligent	
-smiley	iconiţă simbolică	
+smiley	pictogramă simbolică	
 smooth	fin, neted, fin; neted	
 smtp	smtp (acronim)	?
 snap	a acroșa, a agăța (ferestre); apucare rapidă	

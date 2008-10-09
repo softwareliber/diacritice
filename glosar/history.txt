@@ -2553,3 +2553,14 @@ sequence	succesiune, ordine, concordanţă, secvenţă		2008-10-07 17:59:49	171.
 shaped text	text conturat		2008-10-07 18:05:28	171.18.2.82
 snippet	bucată de cod, bloc de cod, fragment		2008-10-08 14:56:42	82.76.12.174
 antialiasing	anticrenelare, antialias		2008-10-08 23:06:05	79.115.21.64
+signature block	semnătură, cadru de  semnătură		2008-10-09 13:29:28	171.18.2.81
+size box	căsuţă de dimensiune		2008-10-09 13:30:54	171.18.2.81
+skewness	caracter oblic, catacter pieziş		2008-10-09 13:32:21	171.18.2.81
+skewness	caracter oblic, catacter pieziş, înclinare, asimetrie, oblicitate		2008-10-09 13:33:19	171.18.2.81
+slash	per (termen tipografic existent în română) [cf. Backslash], bară oblică, linie oblică		2008-10-09 13:36:47	171.18.2.81
+sleep	somn; put to sleep = adoarme [calculatorul], stare de veghe [calculator]		2008-10-09 13:41:10	171.18.2.81
+sleeping	somn, de veghe [calculator]		2008-10-09 13:41:43	171.18.2.81
+slider	cursor, patină, derulator, glisor, ascensor, culisor 		2008-10-09 13:43:46	171.18.2.81
+slideshow	prezentare diapozitive, succesiune imagini, diaporamă		2008-10-09 13:44:26	171.18.2.81
+slot	fantă, nişă, spaţiu alocat, conector, apertură, alveolă (dacă este vorba de librării de stocat casete cu copii de rezervă)		2008-10-09 13:47:27	171.18.2.81
+smiley	pictogramă simbolică		2008-10-09 13:48:45	171.18.2.81
