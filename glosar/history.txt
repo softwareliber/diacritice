@@ -2564,3 +2564,9 @@ slider	cursor, patină, derulator, glisor, ascensor, culisor 		2008-10-09 13:43:
 slideshow	prezentare diapozitive, succesiune imagini, diaporamă		2008-10-09 13:44:26	171.18.2.81
 slot	fantă, nişă, spaţiu alocat, conector, apertură, alveolă (dacă este vorba de librării de stocat casete cu copii de rezervă)		2008-10-09 13:47:27	171.18.2.81
 smiley	pictogramă simbolică		2008-10-09 13:48:45	171.18.2.81
+smtp	SMTP (acronim de la Simple Mail Transfer Protocol)	?	2008-10-09 18:27:42	171.18.2.81
+soft	program, moale, soft (fir de mătase, vezi DEX) 		2008-10-09 18:49:19	171.18.2.81
+soft keys	taste funcţionale		2008-10-09 18:50:52	171.18.2.81
+software	programe, programe de calculator, aplicaţii informatice, software		2008-10-09 18:53:03	171.18.2.81
+software bug	eroare în program, defecţiune în program, scamă în program, scamă software	? [[bug]]	2008-10-09 18:58:14	171.18.2.81
+spam	indezirabil, mesaj nedorit (de regula cu caracter publicitar), spam		2008-10-09 19:01:02	171.18.2.81

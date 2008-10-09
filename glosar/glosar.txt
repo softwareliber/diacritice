@@ -1439,19 +1439,19 @@ smart	deştept, inteligent
 smart terminal	terminal inteligent	
 smiley	pictogramă simbolică	
 smooth	fin, neted, fin; neted	
-smtp	smtp (acronim)	?
+smtp	SMTP (acronim de la Simple Mail Transfer Protocol)	?
 snap	a acroșa, a agăța (ferestre); apucare rapidă	
 snapoff	desprindere	!
 snippet	bucată de cod, bloc de cod, fragment	
 snooze	a aţipi, moţăială	
 socket	mufă, deschizătură, soclu, fasung, orbită, gaură, socket (software); soclu (hardware)	
 socks server		
-soft	soft, moale, program	
+soft	program, moale, soft (fir de mătase, vezi DEX)	
 soft hyphen	liniuţă de despărţire [Unicode 00AD; invizibilă în mod normal, vizibilă doar dacă este cazul la despărţire în silabe]	
-soft keys	taste software	
+soft keys	taste funcţionale	
 softkey	tastă funcţională	
-software	software	
-software bug	scamă software	? [[bug]]
+software	programe, programe de calculator, aplicaţii informatice, software	
+software bug	eroare în program, defecţiune în program, scamă în program, scamă software	? [[bug]]
 software foundation		
 solid line	linie solidă	
 solid lines		
@@ -1462,7 +1462,7 @@ sound card	placă de sunet
 source	sursă	
 source code	cod sursă	
 space character	caracterul spaţiu	? [[spaces-and-hypens]]
-spam	mesaj nedorit (de regula cu caracter publicitar), spam	
+spam	indezirabil, mesaj nedorit (de regula cu caracter publicitar), spam	
 span	întindere	
 spawn	a născoci, a se înmulţi, a crea, creare	
 special character	caracter special	
