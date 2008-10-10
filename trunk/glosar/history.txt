@@ -2579,3 +2579,4 @@ structure diagram	organigramă		2008-10-09 19:24:50	171.18.2.81
 subsidear	cuvânt scris greşit???		2008-10-09 19:30:39	171.18.2.81
 superblock	superbloc		2008-10-09 19:32:51	171.18.2.81
 system settings	parametri sistem		2008-10-09 19:38:26	171.18.2.81
+home directory	dosar/driector personal (al unui utilizator)	? [[home]]	2008-10-10 10:49:18	171.18.2.109
