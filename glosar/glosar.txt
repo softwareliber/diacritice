@@ -676,7 +676,7 @@ hiperlink	hiperlegătură
 histogram	histogramă	!
 history	istoric, istorie	
 home	acasă, pagina principală, dosar personal	? [[home]]
-home directory	directorul personal al unui utilizator	? [[home]]
+home directory	dosar/driector personal (al unui utilizator)	? [[home]]
 home page	pagina principală	? [[home]]
 homogeneous environment	mediu omogen	
 hook	furcă de telefon	
