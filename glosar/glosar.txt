@@ -103,6 +103,7 @@ backend	backend, suport
 background	fundal, plan secund	
 backport	portare înapoi, portare pentru versiunea anterioară	
 backslash	linie oblică inversă [cf. slash]	
+backspace	backspace	
 backticks	ghilimele inverse	!
 backtrace	lista de mesaje	
 backup	copie de siguranţă [backup = a ajuta; ajutor, sprijin]	
@@ -1045,6 +1046,8 @@ pad	umplutură
 padding	umplutură, spaţiu interior	
 page	pagină	!
 page break	întrerupere pagină	!
+page down	pagina mai jos	
+page up	pagină mai sus	
 pager	paginator, paginator?	
 paginile	paginile	
 pair	a asocia	
@@ -1564,11 +1567,11 @@ system configuration	configuraţia sistemului
 system settings	parametri sistem	
 system tray	zonă (sistem) de notificare	
 systray	zonă de notificare	
-tab	1. tab;  2. categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]
+tab	1. tab (tastă);  2. filă, categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]
 tab stop	spaţiere tab, pl. (tab stops) spaţiere taburi	? [tab]
 table	tabel	!
 table (database)	tabelă	!
-table footer		?
+table footer	subsol de tabel	?
 table heading	cap de tabel	!
 table of contents	tabla de materii; cuprins	? [[table-of-contents]]
 tag	etichetă, marcaj	? [[label-tag]]
@@ -1580,7 +1583,7 @@ target	destinaţie [recomandat], ţintă [a se folosi doar în cazul în care re
 target file	fişier destinaţie	!
 task	sarcină	! [[task]]
 tclass		
-tcp/ip		
+tcp/ip	TCP/IP (acronim de la Transmission Control Protocol / Internet Protocol), protocol de comunicare	
 telnet	telnet	!
 temp file	fişier temporar	!
 template	şablon	
