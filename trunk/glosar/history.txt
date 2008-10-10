@@ -2580,3 +2580,9 @@ subsidear	cuvânt scris greşit???		2008-10-09 19:30:39	171.18.2.81
 superblock	superbloc		2008-10-09 19:32:51	171.18.2.81
 system settings	parametri sistem		2008-10-09 19:38:26	171.18.2.81
 home directory	dosar/driector personal (al unui utilizator)	? [[home]]	2008-10-10 10:49:18	171.18.2.109
+tab	1. tab (tastă);  2. filă, categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]	2008-10-10 13:28:14	171.18.2.109
+page up	pagină mai sus		2008-10-10 13:31:41	141.85.0.116
+page down	pagina mai jos		2008-10-10 13:31:51	141.85.0.116
+backspace	backspace		2008-10-10 13:32:38	141.85.0.116
+table footer	subsol de tabel	?	2008-10-10 13:37:31	171.18.2.109
+tcp/ip	TCP/IP (acronim de la Transmission Control Protocol / Internet Protocol), protocol de comunicare		2008-10-10 13:54:08	171.18.2.109
