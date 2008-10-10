@@ -1307,7 +1307,7 @@ return key	tasta Enter
 reveal	a dezvălui	!
 reverse video	video invers	
 revert	a reveni, revenire, revenire; revino	
-review	recenzie, prezentare, a revedea, a trece în revistă, a recenza	
+review	recenzie, prezentare, a revedea, a trece în revistă, a recenza, a revizui	
 revision	revizie	!
 rewind	derulează înapoi	
 rip	a extrage (în context CD/DVD), a jupui, a spinteca	
