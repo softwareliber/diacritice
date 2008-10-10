@@ -1628,14 +1628,14 @@ timeslice	cuantă de timp
 timestamp	datare; marcaj de timp	
 timezone	fus orar	!
 timing	cronometrare	!
-tip	indicație	? [[tips-and-tricks]]
+tip	indicație, sfat	? [[tips-and-tricks]]
 tips & tricks	chichițe și șmecherii, găselniţe? sau mai bine: "Sfaturi utile"	? [[tips-and-tricks]]
 title	titlu	!
 titlebar	bară de titlu	!
 to deal with	a trata (ceva)	
 to fix	~  a problem, a remedia, a repara, rareori a fixa	
 todo	de făcut, sarcină (angajament)	
-todo list		
+todo list	listă cu ce mai este de făcut	
 toggle	a comuta	
 token	semn, simbol, jeton, element; atom; obiect; semn; simbol; ştafetă; marcaj	
 token-ring	inel cu jeton (tip de reţea)	
@@ -1647,8 +1647,8 @@ toolbox	trusă (de unelte), trusă, listă de opţiuni
 toolchain	ansamblu de unelte	
 toolkit	trusă de unelte	
 tooltip	indiciu, pont	
-top	vârf	
-top rated	?	
+top	vârf, cotă	
+top rated	bine cotat	
 top-level	de prim nivel, de nivel zero	?
 topic	topică, subiect, discuţie	
 torrent	torent (pl. torente)	adir
