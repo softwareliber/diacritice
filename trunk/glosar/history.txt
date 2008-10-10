@@ -2592,3 +2592,11 @@ tip	indicație, sfat	? [[tips-and-tricks]]	2008-10-10 18:50:35	171.18.2.109
 todo list	listă cu ce mai este de făcut		2008-10-10 18:54:04	171.18.2.109
 top rated	bine cotat		2008-10-10 19:00:20	171.18.2.109
 top	vârf, cotă		2008-10-10 19:00:50	171.18.2.109
+pad	suport, tabletă, tuşieră, bloc de desen, bloc de scris		2008-10-10 19:07:03	171.18.2.109
+pad	suport, tabletă, tuşieră, bloc de desen, bloc de scris, blocnotes, carneţel		2008-10-10 19:09:09	171.18.2.109
+trap	a captura, capcană, trapă	!	2008-10-10 19:12:31	171.18.2.109
+tty	tty (termen generic pentru un teminal de calculator sau interfaţa serială asociată), comandă unix ce afişează numele terminalului curent		2008-10-10 19:18:41	171.18.2.109
+unwrap	a desfăşura, a despacheta		2008-10-10 19:33:10	171.18.2.109
+upgrade	a îmbunataţi, îmbunataţire, înnoire, a actualiza, actualizare majoră, aducere le nivel	? [[update-upgrade]]	2008-10-10 19:35:12	171.18.2.109
+upside down	răsturnat vertical, cu susu-n jos		2008-10-10 19:41:27	171.18.2.109
+urgent condition	condiţie urgentă		2008-10-10 19:45:01	171.18.2.109
