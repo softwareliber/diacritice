@@ -2586,3 +2586,4 @@ page down	pagina mai jos		2008-10-10 13:31:51	141.85.0.116
 backspace	backspace		2008-10-10 13:32:38	141.85.0.116
 table footer	subsol de tabel	?	2008-10-10 13:37:31	171.18.2.109
 tcp/ip	TCP/IP (acronim de la Transmission Control Protocol / Internet Protocol), protocol de comunicare		2008-10-10 13:54:08	171.18.2.109
+template	şablon, model		2008-10-10 14:08:22	171.18.2.109
