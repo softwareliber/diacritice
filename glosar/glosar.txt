@@ -1042,7 +1042,7 @@ ownership	apartenenţă (se referă, de cele mai multe ori şi la un grup de uti
 pack	a împacheta	!
 package	pachet	! [[packet-package]]
 packet	pachet (mai mic decît package)	! [[packet-package]]
-pad	umplutură	
+pad	suport, tabletă, tuşieră, bloc de desen, bloc de scris, blocnotes, carneţel	
 padding	umplutură, spaţiu interior	
 page	pagină	!
 page break	întrerupere pagină	!
@@ -1664,7 +1664,7 @@ translucent	străveziu	!
 transmission channel	canal de transmisie	
 transparent	transparent	!
 transpose	transpunere, a transpune	
-trap	a captura, capcană	!
+trap	a captura, capcană, trapă	!
 trash	gunoi	
 tray	zonă de notificare	
 tree	arbore	!
@@ -1676,7 +1676,7 @@ troubleshoot	a depana, depanare
 troubleshooting	depanare	
 truncate	a aproxima, a reduce, a tăia, a trunca/truncare	?
 trusted	de încredere	!
-tty		
+tty	tty (termen generic pentru un teminal de calculator sau interfaţa serială asociată), comandă unix ce afişează numele terminalului curent	
 tune	a ajusta, ajustare, a regla, reglare, melodie, ajustare; a regla	
 turing machine	maşină Turing	
 turn	rundă	!
@@ -1718,18 +1718,18 @@ unset	deselectaţi, deselectează
 unshade	luminează, dezumbreşte	
 unsupported	fără suport	
 untitled	fără titlu	!
-unwrap	a desfăşura, a dezpacheta	
+unwrap	a desfăşura, a despacheta	
 update	a actualiza, actualizare	? [[update-upgrade]]
 upgradable	actualizabil	? [[update-upgrade]]
-upgrade	a îmbunataţi, îmbunataţire, a actualiza	? [[update-upgrade]]
+upgrade	a îmbunataţi, îmbunataţire, înnoire, a actualiza, actualizare majoră, aducere le nivel	? [[update-upgrade]]
 uplink	uplink	?
 upload	încărcare	
-upside down	răsturnat vertical	
+upside down	răsturnat vertical, cu susu-n jos	
 upstream	(de la) autorii originari, upstream, amonte?	
 uptime	timp de la pornire	
 urge	to ~ somebody to = a cere cuiva să	
 urgent	urgent	!
-urgent condition		
+urgent condition	condiţie urgentă	
 uri	adresă URI	
 url	acronim pentru Universal Resource Locator, resursa de localizare universală	
 usability	uşurinţa, intuitiviatea în utilizare	
