@@ -1311,6 +1311,7 @@ review	recenzie, prezentare, a revedea, a trece în revistă, a recenza, a reviz
 revision	revizie	!
 rewind	derulează înapoi	
 rip	a extrage (în context CD/DVD), a jupui, a spinteca	
+ripple	a ondula, a încreți	
 roaming	itinerant (profilul itinerant al utilizatorului)	Adi Roiban
 role-playing game	joc de rol	
 rollback	a anula, anulare, anulare; rollback	

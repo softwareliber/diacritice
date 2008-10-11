@@ -2600,3 +2600,5 @@ unwrap	a desfăşura, a despacheta		2008-10-10 19:33:10	171.18.2.109
 upgrade	a îmbunataţi, îmbunataţire, înnoire, a actualiza, actualizare majoră, aducere le nivel	? [[update-upgrade]]	2008-10-10 19:35:12	171.18.2.109
 upside down	răsturnat vertical, cu susu-n jos		2008-10-10 19:41:27	171.18.2.109
 urgent condition	condiţie urgentă		2008-10-10 19:45:01	171.18.2.109
+ripple	a ondula		2008-10-11 12:35:13	79.115.21.64
+ripple	a ondula, a încreți		2008-10-11 12:40:16	79.115.21.64
