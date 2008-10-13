@@ -2602,3 +2602,9 @@ upside down	răsturnat vertical, cu susu-n jos		2008-10-10 19:41:27	171.18.2.109
 urgent condition	condiţie urgentă		2008-10-10 19:45:01	171.18.2.109
 ripple	a ondula		2008-10-11 12:35:13	79.115.21.64
 ripple	a ondula, a încreți		2008-10-11 12:40:16	79.115.21.64
+home	acasă, pagina principală, dosar personal	? [[traducere-home]]	2008-10-13 17:40:56	82.78.39.13
+home directory	dosar/driector personal (al unui utilizator)	? [[traducere-home]]	2008-10-13 17:41:03	82.78.39.13
+home page	pagina principală	? [[traducere-home]]	2008-10-13 17:41:09	82.78.39.13
+home folder	dosar personal	? [[traducere-home]]	2008-10-13 17:41:53	82.78.39.13
+home directory	director personal	? [[traducere-home]]	2008-10-13 17:42:12	82.78.39.13
+home	acasă, pagina principală	? [[traducere-home]]	2008-10-13 17:42:27	82.78.39.13
