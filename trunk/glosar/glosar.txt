@@ -676,9 +676,10 @@ hint	sugestie, indiciu, informaţie indicativă
 hiperlink	hiperlegătură	
 histogram	histogramă	!
 history	istoric, istorie	
-home	acasă, pagina principală, dosar personal	? [[home]]
-home directory	dosar/driector personal (al unui utilizator)	? [[home]]
-home page	pagina principală	? [[home]]
+home	acasă, pagina principală	? [[traducere-home]]
+home directory	director personal	? [[traducere-home]]
+home folder	dosar personal	? [[traducere-home]]
+home page	pagina principală	? [[traducere-home]]
 homogeneous environment	mediu omogen	
 hook	furcă de telefon	
 host	gazdă, server sau calculator [dacă e în reţea], computer gazdă	
