@@ -1775,8 +1775,8 @@ vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtual
 wallpaper	fundal [de birou] (ex: desktop wallpaper), tapet (pentru pereţi)	
 warning	avertisment, atenţie	
 watch	a monitoriza, monitorizare, a supraveghea, supraveghere, monitorizare; a supraveghea	
-watch dog	câine de pază	
-watch file	fişier observator	
+watch dog	câine de pază, dispozitiv supraveghetor, serviciu de supravegehre	
+watch file	fişier observator, fişier supraveghetor	
 watermark	filigran	!
 web	web	!
 web page	pagină web	!
@@ -1787,39 +1787,39 @@ western	vestic	!
 whack	a închide (cel puţin în cazul gdm)	
 what you see is what you get	occv,obţii ceea ce vezi	
 white paper	articol, carte albă, hârtie albă?	
-whitelist	a permite, listă permisiuni, lista albă?	
-whitespace	spaţii?, caractere de tip spaţiu?	
-widget	control (butoane, bare de derulare, etc)	
+whitelist	a permite, listă permisiuni, lista albă, utilizatori autorizaţi	
+whitespace	spaţiu gol (fără imagini),spaţiu continuu (secvenţă de spaţii, tab sau enter), caractere de tip spaţiu	
+widget	control (butoane, bare de derulare, etc), gadget	
 width	lăţime	!
 wildcard	metacaracter	
 window	fereastră	!
-window manager	administrator de ferestre	
+window manager	gestionar de ferestre, administrator de ferestre	
 wired network	reţea cu fir	
 wireless network	reţea fără fir	
 wizard	asistent	
 word	cuvânt	!
 word processor	procesor de text	!
 work	muncă	! activitare a fost scos pentru că se suprapune cu activity
-workaround	metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban
-workbook	registru?	
+workaround	conturnare, metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban
+workbook	instrucţiuni / manual / îndreptar (broşura explicând modul de funcţionare a unui aparat, etc.),  culegere de exerciţii, agendă	
 workflow	flux de lucru; mod de lucru; mod de operare	
-workgroup	???	
+workgroup	grup de lucru	
 working directory	directorul de lucru	
-workshop	seminar, laborator?, prezentare	
+workshop	atelier, seminar, prezentare	
 workspace	spaţiu de lucru	!
 workspaces	spații de lucru	!
 wrap	a încadra [text wrap], a împacheta, a despărţi pe linii, aranjat	? [[wrap]]
 write	a scrie	!
-writer	editor	
+writer	editor [de texte], scriitor	
 wvlan		
-wysiwyg	occv, obţii ceea ce vezi	
+wysiwyg	occv, obţii ceea ce vezi (acronim de la What You See Is What You Get)	
 x align	aliniere pe orizontală	
-x server		
+x server	server X (grafic)	
 xdmcp socket		
 xml	xml	!
 yield	  s  producţie  f; recoltă  f; beneficiu  n	
 your	dumneavoastră	!
-your computer	calculatorul	
+your computer	calculatorul dvs	
 zero	zero	!
 zeroed	baleiat (umplut) cu zero, redus la zero	
 zigzagline	linie în zigzag	
