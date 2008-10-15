@@ -2608,3 +2608,11 @@ home page	pagina principală	? [[traducere-home]]	2008-10-13 17:41:09	82.78.39.1
 home folder	dosar personal	? [[traducere-home]]	2008-10-13 17:41:53	82.78.39.13
 home directory	director personal	? [[traducere-home]]	2008-10-13 17:42:12	82.78.39.13
 home	acasă, pagina principală	? [[traducere-home]]	2008-10-13 17:42:27	82.78.39.13
+valid	potrivit, autorizat		2008-10-15 16:43:33	171.18.2.101
+valid	valid, corect, potrivit, autorizat		2008-10-15 16:44:18	171.18.2.101
+variable	variabil, variabilă (în programare)		2008-10-15 16:45:42	171.18.2.101
+vfs	VFS (acronim de la Virtual File System), sistem de fişiere virtual		2008-10-15 16:48:25	171.18.2.101
+virtual desktop	birou virtual		2008-10-15 16:51:02	171.18.2.101
+vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtuală)	?	2008-10-15 16:53:16	171.18.2.101
+wallpaper	fundal (de birou, ex: desktop wallpaper), tapet (pentru pereţi)		2008-10-15 16:59:50	171.18.2.101
+wallpaper	fundal [de birou] (ex: desktop wallpaper), tapet (pentru pereţi)		2008-10-15 17:00:45	171.18.2.101
