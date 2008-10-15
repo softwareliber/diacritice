@@ -1745,11 +1745,11 @@ user interface	interfaţă cu utilizatorul
 user-agent	Antet „User-Agent”	
 username	nume utilizator	!
 userspace	spaţiu utilizator	
-valid	potrivit	
+valid	valid, corect, potrivit, autorizat	
 valid chars	caractere valide	!
 valuable	cu valoare	
 value	valoare	!
-variable	variabil	
+variable	variabil, variabilă (în programare)	
 variance	variaţie	
 various	divers (various options = opțiuni diverse)	
 vector graphics	grafică vectorială	!
@@ -1760,19 +1760,19 @@ version	versiune	!
 vertex	culme, zenit (astron.)	!
 vertical	vertical	!
 vertical alignment	aliniere verticală	
-vfs	sistem de fişiere virtual	
+vfs	VFS (acronim de la Virtual File System), sistem de fişiere virtual	
 video	video (imagini în mişcare)	
 view	mod afişare [in meniuri], imagine	
 viewer	observator, vizualizator, vizor?	
 viewport	vizor	?
 violation	violare; încălcare (drepturi)	cf. DEX
 virtual	virtual	!
-virtual desktop	desktop virtual	
+virtual desktop	birou virtual	
 virtual file system	sistem virtual de fişiere	
 visualization	vizualizare	!
 volume	volum	!
-vpn	RPV (Rețea Privată Virtuală)	?
-wallpaper	tapet	
+vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtuală)	?
+wallpaper	fundal [de birou] (ex: desktop wallpaper), tapet (pentru pereţi)	
 warning	avertisment, atenţie	
 watch	a monitoriza, monitorizare, a supraveghea, supraveghere, monitorizare; a supraveghea	
 watch dog	câine de pază	
