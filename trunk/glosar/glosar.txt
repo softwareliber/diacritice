@@ -846,9 +846,11 @@ localhost	gazdă locală
 localization	localizare	!
 locate	a localiza	!
 location	locație	[[location]]
-lock	a bloca, a obţine acces exclusiv	? [[lock-unlock]]
+lock	a bloca, a obţine acces exclusiv, lacăt	? [[lock-unlock]]
 lockdown	interdicţie	tradus în pessulus
 log	jurnal, istoric, înregistrări	
+log in	a deschide sesiunea	
+log out	a închide sesiunea	
 logging	jurnalizare	
 logical	logic (adevărat sau fals)	
 login	autentificare	
@@ -1726,6 +1728,7 @@ upgradable	actualizabil	? [[update-upgrade]]
 upgrade	a îmbunataţi, îmbunataţire, înnoire, a actualiza, actualizare majoră, aducere le nivel	? [[update-upgrade]]
 uplink	uplink	?
 upload	încărcare	
+uppercase	majuscule	
 upside down	răsturnat vertical, cu susu-n jos	
 upstream	(de la) autorii originari, upstream, amonte?	
 uptime	timp de la pornire	

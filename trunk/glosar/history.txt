@@ -2631,3 +2631,7 @@ writer	editor [de texte], scriitor		2008-10-15 18:48:18	171.18.2.101
 wysiwyg	occv, obţii ceea ce vezi (acronim de la What You See Is What You Get)		2008-10-15 18:49:25	171.18.2.101
 x server	server X (grafic)		2008-10-15 18:51:53	171.18.2.101
 your computer	calculatorul dvs		2008-10-15 18:53:03	171.18.2.101
+lock	a bloca, a obţine acces exclusiv, lacăt	? [[lock-unlock]]	2008-10-17 18:28:36	141.85.0.116
+log in	a deschide sesiunea		2008-10-17 18:33:11	141.85.0.116
+log out	a închide sesiunea		2008-10-17 18:33:27	141.85.0.116
+uppercase	majuscule		2008-10-17 18:43:39	141.85.0.116
