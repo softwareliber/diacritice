@@ -2635,3 +2635,4 @@ lock	a bloca, a obţine acces exclusiv, lacăt	? [[lock-unlock]]	2008-10-17 18:2
 log in	a deschide sesiunea		2008-10-17 18:33:11	141.85.0.116
 log out	a închide sesiunea		2008-10-17 18:33:27	141.85.0.116
 uppercase	majuscule		2008-10-17 18:43:39	141.85.0.116
+shift	a deplasa, a muta		2008-10-17 19:10:26	141.85.0.116
