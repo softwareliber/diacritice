@@ -1403,6 +1403,7 @@ shareware	shareware	!
 shear	a tăia;a tunde	
 sheet	filă	
 shell	shell, consolă	
+shift	a deplasa, a muta	
 shift key	tasta "shift"	
 shopping	cumpărături	!
 shortcut	scurtătură, combinaţie (de taste)	? [[link-hyperlink-shortcut]]
