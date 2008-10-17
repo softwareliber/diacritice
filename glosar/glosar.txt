@@ -1279,7 +1279,7 @@ render	a reda, a randa (in special pentru imagini 3D)
 repeat	a repeta	!
 repertory	depozit, arhivă; repertoriu	
 replace	a înlocui	!
-report	relataţi, (s) raport, (vt) a relata	
+report	(s) raport, (vt) a relata, (vt) a raporta	
 reports		
 repository	arhivă, depozit	
 request	cerere	
