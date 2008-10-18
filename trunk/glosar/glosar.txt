@@ -299,6 +299,7 @@ confirmation	confirmare
 connect	conectare, conectare; connecting=mă conectez	? [[online-offline-connected-disconnected]]
 connection	conexiune	? [[online-offline-connected-disconnected]]
 consistent	consecvent	
+console	consolă	
 constraint	restricţie, constrîngere	
 contacts	agendă	! [[addressbook]]
 content	conţinut	!
@@ -891,7 +892,7 @@ manual	manual	!
 manual page	pagină de manual	!
 map	hartă	!
 mapping	cartare, cartografiere; mapare	
-margin	margine	? [[edge-margin-border]]
+margin	margine, marjă	? [[edge-margin-border]]
 margins		? [[edge-margin-border]]
 mark	marcaj, semn	
 markup	marcare, evidenţiere	
@@ -1405,6 +1406,7 @@ shareware	shareware	!
 shear	a tăia;a tunde	
 sheet	foaie, filă	? [[page-sheet]]
 shell	shell	? [[shell-console-terminal-command-line]]
+shell script	script de shell	
 shift	a deplasa, a muta	
 shift key	tasta "shift"	
 shopping	cumpărături	!
