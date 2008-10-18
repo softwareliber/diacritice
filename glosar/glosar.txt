@@ -82,8 +82,8 @@ asset	resursă
 assign	a desemna, a delega, a asocia ceva cuiva, a atribui (a asigna e greşit, vezi DEX)	
 assistive	de asistenţă	
 asynchronous	asincron	!
-attach	a anexa, a ataşa	? [[attachment]]
-attachment	anexă, ataşament	? [[attachment]]
+attach	a ataşa	! [[attachment]]
+attachment	ataşament	! [[attachment]]
 attempt	a încerca, tentativă, încercare	
 attribute	atribut	!
 audio	audio	!
@@ -1015,7 +1015,7 @@ ok	ok	!
 on	pornit	? [[active-inactive-on-off]]
 on-screen keyboard	tastatură virtuală	
 online	conectat	? [[online-offline-connected-disconnected]]
-only	doar, numai [limitativ]	
+only	doar, numai [limitativ]	!
 onsite	cu deplasare	
 opacity	opacitate	!
 open	deschis, deschide	!
@@ -1760,13 +1760,13 @@ various	divers (various options = opțiuni diverse)
 vector graphics	grafică vectorială	!
 vendor	producător	
 verbose	detaliat; vorbăreţ, gălăgios	
-verify	a verifica, verificare	
+verify	a verifica, verificare	!
 version	versiune	!
 vertex	culme, zenit (astron.)	!
 vertical	vertical	!
 vertical alignment	aliniere verticală	
-vfs	VFS (acronim de la Virtual File System), sistem de fişiere virtual	
-video	video (imagini în mişcare)	
+vfs	VFS (acronim de la Virtual File System), sistem de fişiere virtual	!
+video	video	!
 view	mod afişare [in meniuri], imagine	
 viewer	observator, vizualizator, vizor?	
 viewport	vizor	?
@@ -1776,7 +1776,7 @@ virtual desktop	birou virtual
 virtual file system	sistem virtual de fişiere	
 visualization	vizualizare	!
 volume	volum	!
-vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtuală)	?
+vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtuală)	!
 wallpaper	fundal [de birou] (ex: desktop wallpaper), tapet (pentru pereţi)	
 warning	avertisment, atenţie	
 watch	a monitoriza, monitorizare, a supraveghea, supraveghere, monitorizare; a supraveghea	

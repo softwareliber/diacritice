@@ -2646,3 +2646,11 @@ page	pagină	! [[page-sheet]]	2008-10-18 13:20:33	89.38.147.13
 uppercase	majuscule	!	2008-10-18 13:25:07	89.38.147.13
 lowercase	minuscule	!	2008-10-18 13:25:27	89.38.147.13
 shell	shell	? [[shell-console-terminal-command-line]]	2008-10-18 13:58:12	89.38.147.13
+attachment	anexă, ataşament	! [[attachment]]	2008-10-18 14:14:49	89.38.147.13
+attachment	ataşament	! [[attachment]]	2008-10-18 14:15:01	89.38.147.13
+attach	a ataşa	! [[attachment]]	2008-10-18 14:15:12	89.38.147.13
+vfs	VFS (acronim de la Virtual File System), sistem de fişiere virtual	!	2008-10-18 14:16:12	89.38.147.13
+video	video	!	2008-10-18 14:16:33	89.38.147.13
+verify	a verifica, verificare	!	2008-10-18 14:17:03	89.38.147.13
+vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtuală)	!	2008-10-18 14:17:29	89.38.147.13
+only	doar, numai [limitativ]	!	2008-10-18 14:18:11	89.38.147.13
