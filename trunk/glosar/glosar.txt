@@ -336,6 +336,7 @@ critical error	eroare critică
 crop	a recolta, a tăia, a tunde, crop	
 cross-reference	referinţă încrucişată	?
 crossfade	intercalare	
+crosshair	reticul	
 ctrl	ctrl	!
 cumulative	cumulativ	!
 curly brackets	acolade	! [[brackets]]
