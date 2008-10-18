@@ -2638,3 +2638,4 @@ uppercase	majuscule		2008-10-17 18:43:39	141.85.0.116
 shift	a deplasa, a muta		2008-10-17 19:10:26	141.85.0.116
 report	(s) raport, (vt) a relata, (vt) a raporta		2008-10-17 20:02:39	141.85.0.116
 shell	shell, consolă	[[shell-console-terminal-command-line]]	2008-10-18 08:23:13	89.38.147.13
+shell	shell, consolă	? [[shell-console-terminal-command-line]]	2008-10-18 12:50:16	89.38.147.13

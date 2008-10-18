@@ -36,12 +36,13 @@ class Glossary {
 				
 				if(!$arr[1]) $arr[1] = "";
 				if (preg_match("/!/i", $arr[1])) {
-				    $class2 = $class . " locked";
+				    $class2 = $class . " term-locked";
 				    } 
 				elseif (preg_match("/\?/i", $arr[1])) {
-				    $class2 = $class . " debate";
+				    $class2 = $class . " term-debate";
 				} else {
-				    $class2 = $class;
+				    $class2 = $class . " term-old";
+				    ;
 				    };
 				        
 				if (preg_match('/\[\[(.+)\]\]/', $arr[1], $link))
