@@ -861,6 +861,7 @@ look and feel	aspect şi comportament
 lookup	căutare	? [[search-find]]
 loop	ciclu, buclă	
 low	jos , scăzut , redus	
+lowercase	minuscule	!
 lru	fişiere accesate recent	
 macro	macro, macrocomandă	? [[macro]]
 magenta	magenta	!
@@ -1047,7 +1048,7 @@ package	pachet	! [[packet-package]]
 packet	pachet (mai mic decît package)	! [[packet-package]]
 pad	suport, tabletă, tuşieră, bloc de desen, bloc de scris, blocnotes, carneţel	
 padding	umplutură, spaţiu interior	
-page	pagină	!
+page	pagină	! [[page-sheet]]
 page break	întrerupere pagină	!
 page down	pagina mai jos	
 page up	pagină mai sus	
@@ -1401,8 +1402,8 @@ shared	comun, folosit în ~
 shared memory	memorie partajată	
 shareware	shareware	!
 shear	a tăia;a tunde	
-sheet	filă	
-shell	shell, consolă	? [[shell-console-terminal-command-line]]
+sheet	foaie, filă	? [[page-sheet]]
+shell	shell	? [[shell-console-terminal-command-line]]
 shift	a deplasa, a muta	
 shift key	tasta "shift"	
 shopping	cumpărături	!
@@ -1729,7 +1730,7 @@ upgradable	actualizabil	? [[update-upgrade]]
 upgrade	a îmbunataţi, îmbunataţire, înnoire, a actualiza, actualizare majoră, aducere le nivel	? [[update-upgrade]]
 uplink	uplink	?
 upload	încărcare	
-uppercase	majuscule	
+uppercase	majuscule	!
 upside down	răsturnat vertical, cu susu-n jos	
 upstream	(de la) autorii originari, upstream, amonte?	
 uptime	timp de la pornire	

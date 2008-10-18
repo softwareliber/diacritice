@@ -36,12 +36,12 @@ class Glossary {
 				
 				if(!$arr[1]) $arr[1] = "";
 				if (preg_match("/!/i", $arr[1])) {
-				    $class2 = $class . " term-locked";
+				    $class2 = $class . " term_locked";
 				    } 
 				elseif (preg_match("/\?/i", $arr[1])) {
-				    $class2 = $class . " term-debate";
+				    $class2 = $class . " term_debate";
 				} else {
-				    $class2 = $class . " term-old";
+				    $class2 = $class . " term_old";
 				    ;
 				    };
 				        
@@ -179,7 +179,7 @@ class Glossary {
 		    $count += 1;
 		    }
 		    
-		return sprintf("%.1f%% stabili, %.1f%% în dezbatere, %.1f%% vechi", $locked*100.0/$count, $debate*100.0/$count, $others*100.0/$count);
+		return sprintf("<span class='term_locked'>%.1f%% stabili</span>, <span class='term_debate'>%.1f%% în dezbatere</span>, <span class='term_old'>%.1f%% nesortati</span>", $locked*100.0/$count, $debate*100.0/$count, $others*100.0/$count);
 	}
 
 	function getCount() {

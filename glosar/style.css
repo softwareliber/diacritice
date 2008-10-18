@@ -30,6 +30,8 @@ em { color: #f88; font-style: normal }
 .clickable th:hover { cursor: default }
 
 /* terms colors based on status*/
-.term-locked { color: green; }
-.term-old { color: orange; };
-.term-debate { color: red; }
+.term_locked { color: green; }
+
+.term_old { color: orange; }
+
+.term_debate { color: red; }
