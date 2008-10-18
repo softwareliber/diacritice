@@ -19,12 +19,17 @@ th { background: #ccf }
 td { padding: 3px; }
 h1 { color: #aaa; font-weight: normal; font-size: 1.5em; margin-bottom: 0px;}
 em { color: #f88; font-style: normal }
+
+/* background rows alternative colors*/
 .dark { background: #F7F7F7 }
 .light { background: white }
+
 .hint { font-size: 0.8em; color: #888 }
 .date { font-size: 1em; color: #aaa }
 .clickable tr:hover { background: #ceb; cursor: pointer }
 .clickable th:hover { cursor: default }
 
-.locked { color: darkgray; }
-.debate { color: orange; }
+/* terms colors based on status*/
+.term-locked { color: green; }
+.term-old { color: orange; };
+.term-debate { color: red; }

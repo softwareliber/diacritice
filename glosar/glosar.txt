@@ -1402,7 +1402,7 @@ shared memory	memorie partajată
 shareware	shareware	!
 shear	a tăia;a tunde	
 sheet	filă	
-shell	shell, consolă	[[shell-console-terminal-command-line]]
+shell	shell, consolă	? [[shell-console-terminal-command-line]]
 shift	a deplasa, a muta	
 shift key	tasta "shift"	
 shopping	cumpărături	!
