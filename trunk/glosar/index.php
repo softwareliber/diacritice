@@ -46,9 +46,9 @@ Termen: <input type="text" id="keywordField" value="<?php print $keyword; ?>" au
 Meta informatii: 
 <ul>
 <li><tt>[[paginawiki]]</tt> creeaza un link catre pagina paginawiki din wiki, locul unde se discuta si voteaza despre termenul respectiv</li>
-<li><tt>!</tt> - marcheaza termenul ca avand traducere stabila (lock)</li>
-<li><tt>?</tt> - marcheaza termenul ca ne-avand traducere stabila, adica la care se cauta traducere</li>
-Ideal ar trebui ca toţi termenii să aibă un marcator de stare, pentru a-i putea diferenţia de cei vechi şi care nu au fost reevaluaţi la creeare versiunii 2.0
+<li><tt  class='term_locked'>!</tt> - marcheaza termenul ca avand traducere <span class='term_locked'>stabila (lock)</span></li>
+<li><tt class='term_debate'>?</tt> - marcheaza termenul ca avand traducere in <span class='term_debate'>dezbatere</span></li>
+Ideal ar trebui ca toţi termenii să aibă un marcator de stare, pentru a-i putea diferenţia de cei vechi şi care nu au fost reevaluaţi la creearea versiunii 2.0
 </ul>
 </td></tr>
 <tr><td><input type="text" id="metaField"></td></tr>

@@ -2639,3 +2639,10 @@ shift	a deplasa, a muta		2008-10-17 19:10:26	141.85.0.116
 report	(s) raport, (vt) a relata, (vt) a raporta		2008-10-17 20:02:39	141.85.0.116
 shell	shell, consolă	[[shell-console-terminal-command-line]]	2008-10-18 08:23:13	89.38.147.13
 shell	shell, consolă	? [[shell-console-terminal-command-line]]	2008-10-18 12:50:16	89.38.147.13
+sheet	foaie	!	2008-10-18 13:08:04	89.38.147.13
+sheet	foaie	? [[page-sheet]]	2008-10-18 13:20:12	89.38.147.13
+sheet	foaie, filă	? [[page-sheet]]	2008-10-18 13:20:21	89.38.147.13
+page	pagină	! [[page-sheet]]	2008-10-18 13:20:33	89.38.147.13
+uppercase	majuscule	!	2008-10-18 13:25:07	89.38.147.13
+lowercase	minuscule	!	2008-10-18 13:25:27	89.38.147.13
+shell	shell	? [[shell-console-terminal-command-line]]	2008-10-18 13:58:12	89.38.147.13
