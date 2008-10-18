@@ -2655,3 +2655,6 @@ verify	a verifica, verificare	!	2008-10-18 14:17:03	89.38.147.13
 vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtuală)	!	2008-10-18 14:17:29	89.38.147.13
 only	doar, numai [limitativ]	!	2008-10-18 14:18:11	89.38.147.13
 crosshair	reticul		2008-10-18 16:01:01	141.85.0.110
+console	consolă		2008-10-18 16:22:12	141.85.0.110
+shell script	script de shell		2008-10-18 16:22:43	141.85.0.110
+margin	margine, marjă	? [[edge-margin-border]]	2008-10-18 16:33:05	141.85.0.110
