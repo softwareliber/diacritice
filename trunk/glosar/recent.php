@@ -1,4 +1,5 @@
 <?php
+require_once ('config.inc.php');
 
 header("Content-Type: text/html; charset=UTF-8");
 
@@ -22,9 +23,9 @@ function edit(term) {
 
 <div id="content">
 <h1>Modificări recente</h1>
-<table class="clickable"><tr><th>Dată</th><th>Termen</th><th></th><th>Traducere</th><th>Host</th></tr>
+<table class="clickable"><tr><th>Dată</th><th>Termen</th><th></th><th>Traducere</th><th>Utilizator / IP</th></tr>
 <?php
-$fcontents = file('history.txt');
+$fcontents = file($file_history);
 $len = strlen($term);
 $result['term'] = $term;
 $result['definition'] = $definition;
@@ -42,7 +43,7 @@ foreach ($fcontents as $line) {
 
 	print "<tr class=$class><td class=date onClick=\"edit('" . $term . "')\">$mdate</td>" .
 		"<td onClick=\"edit('" . $term . "')\">" . $term . "</td><td>$context</td>" .
-		"<td onClick=\"edit('" . $term . "')\">$definition</td><td>" . gethostbyaddr($ip) ."</td></tr>";
+		"<td onClick=\"edit('" . $term . "')\">$definition</td><td>$ip</td></tr>";
 	$class = ($class == 'light') ? 'dark' : 'light';
 }
 

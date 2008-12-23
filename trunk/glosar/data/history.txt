@@ -2658,3 +2658,79 @@ crosshair	reticul		2008-10-18 16:01:01	141.85.0.110
 console	consolă		2008-10-18 16:22:12	141.85.0.110
 shell script	script de shell		2008-10-18 16:22:43	141.85.0.110
 margin	margine, marjă	? [[edge-margin-border]]	2008-10-18 16:33:05	141.85.0.110
+kernel	nucleu (de sistem)	!	2008-10-21 22:10:17	89.38.147.13
+additional	adiţional, suplimentar	!	2008-10-21 22:15:52	89.38.147.13
+appendix	anexă	!	2008-10-21 22:16:13	89.38.147.13
+authorization	autorizație	!	2008-10-21 22:16:30	89.38.147.13
+aggregate bandwidth	lăţime de bandă cumulată	!	2008-10-21 22:16:45	89.38.147.13
+archive file	fişier arhivă	!	2008-10-21 22:17:02	89.38.147.13
+heading	antet, titlu [de rubrică], rubrică	?	2008-10-27 23:10:03	82.76.12.174
+location	locație, poziţie	[[location]]	2008-11-08 08:20:25	89.137.245.38
+drop	a renunța la, a refuza, a abandona; a arunca, a da drumul să cadă [pentru situații gen drag and drop]		2008-11-09 11:20:47	79.115.20.61
+crash	cădere, a avea o pană, pană, defect, terminare prematură, avarie		2008-11-09 11:43:51	79.115.20.61
+crash	cădere, a avea o pană, pană, defect, terminare prematură, avarie a programului		2008-11-09 11:47:57	79.115.20.61
+truncate	a aproxima, a reduce, a tăia, a trunchia	?	2008-11-11 00:41:59	79.115.21.127
+wysiwyg	wysiwyg		2008-11-18 20:04:41	78.97.211.199
+fetch	a potrivi [datele]; fetch data = potrivește datele; a aduce, a scoate; fetch mail = adu mail-ul [de pe server]; a recupera (cu sensul de a aduce)		2008-11-19 02:11:28	79.115.21.54
+location	locație, poziţie, amplasare	[[location]]	2008-11-19 02:13:27	79.115.21.54
+embedded	încapsulat, înglobat, încastrat, îmbarcat, integrat		2008-11-19 16:41:30	171.18.2.101
+embedded system	sistem incorporat		2008-11-19 22:52:34	141.85.0.116
+handout		?	2008-11-21 12:33:06	89.38.147.13
+pinwheel		?	2008-11-21 12:34:22	89.38.147.13
+peek out		?	2008-11-21 12:46:04	89.38.147.13
+typeface		?	2008-11-21 13:05:27	89.38.147.13
+tristate	stare triplă		2008-11-21 13:13:16	89.38.147.13
+tristate	stare triplă	!	2008-11-21 13:13:24	89.38.147.13
+authentication	autentificare	? [[online-offline-connected-disconnected]]	2008-11-21 14:00:54	89.38.147.13
+embedded	încorporat, încapsulat, înglobat, încastrat, îmbarcat, integrat		2008-11-21 18:56:49	171.18.2.82
+emoticon	emoticon, emotigramă? (de la pictogramă)	!	2008-11-21 18:57:40	171.18.2.82
+makefile	fişier make, makefile (numele implicit al fișierului make)		2008-11-23 16:45:12	78.97.56.35
+stitch	a însăila, a monta (prin analogie cu termenul cinematografic: montaj)	?[[stitch]]	2008-11-26 22:45:53	79.113.149.11
+assistive	de asistenţă	ajutător	2008-11-27 01:32:02	92.82.1.107
+slider	cursor, patină, derulator, glisor, ascensor, culisor	slider-to-slide	2008-11-27 03:37:16	141.85.0.116
+slider	cursor, patină, derulator, glisor, ascensor, culisor	[slider-to-slide]	2008-11-27 03:37:33	141.85.0.116
+slider	cursor, patină, derulator, glisor, ascensor, culisor	? slider-to-slide	2008-11-27 03:37:58	141.85.0.116
+slider	cursor, patină, derulator, glisor, ascensor, culisor	? [[slider-to-slide]]	2008-11-27 03:38:08	141.85.0.116
+firmware	microcod, firmware [la fel ca software si hardware], program intrinsec		2008-11-27 12:10:52	78.97.158.176
+syndication	a redifuza, redifuzare		2008-11-27 17:56:13	81.180.68.14
+unhandled	negestionat	Adi R.	2008-11-29 19:45:44	194.54.128.86
+logging	jurnalizare, înregistrare	? Adi R	2008-11-29 19:49:37	194.54.128.86
+cruft	reziduu		2008-11-29 19:59:34	194.54.128.86
+cruft	reziduu	? Adi R	2008-11-29 19:59:44	194.54.128.86
+recordable	inscriptibil	Adi R	2008-11-29 22:36:51	194.54.128.86
+medium	mediu	Adi r	2008-12-01 00:13:16	194.54.128.86
+writable	inscriptibil	Adi R	2008-12-01 00:20:48	194.54.128.86
+rewritable	reinscriptibil	Adi R	2008-12-01 00:20:58	194.54.128.86
+rewritable	reinscriptibil	! Adi R	2008-12-01 00:31:00	194.54.128.86
+writable	inscriptibil	! Adi R	2008-12-01 00:31:13	194.54.128.86
+writer	editor [de texte], scriitor, inscriptor [de cd-uri]	Adi R	2008-12-01 00:31:42	194.54.128.86
+padding	completare, umplutură, spaţiu interior		2008-12-01 00:43:32	194.54.128.86
+hash	valoare de dispersie	! adi r	2008-12-01 01:09:26	194.54.128.86
+hash algorithm	algoritm de dispersie	! adi r	2008-12-01 01:09:36	194.54.128.86
+hash table	tabelă de dispersie	! adi r	2008-12-01 01:09:47	194.54.128.86
+hash element	element tabelă de dispersie	! adi r	2008-12-01 01:09:59	194.54.128.86
+hash bucket	clasă din tabela de dispersie	! adi r	2008-12-01 01:10:08	194.54.128.86
+tab	1. tab (tastă);  2. filă, tab [în GNOME], categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]	2008-12-01 02:01:27	194.54.128.86
+skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile); veșmânt; înfățișare; skin	? [[theme-scheme-skin]]	2008-12-09 00:46:27	79.115.23.216
+recordable	inscriptibil; înregistrabil [dacă se referă strict la înregistrări audio-video]	Adi R	2008-12-09 00:49:05	79.115.23.216
+recordable	inscriptibil; înregistrabil (dacă se referă strict la înregistrări audio-video)	Adi R	2008-12-09 00:49:39	79.115.23.216
+peer	conexiune, conexiune-pereche, partener, egal, pereche	partener de conexiune	2008-12-14 17:10:24	86.125.139.54
+peer	partener de conexiune, partener, pereche, egal		2008-12-14 17:11:29	86.125.139.54
+peer	[[peer]]		2008-12-14 17:13:25	86.125.139.54
+peer	partener de conexiune, partener, pereche, egal	[[peer]]	2008-12-14 17:14:32	86.125.139.54
+peer	partener, partener de conexiune, pereche, egal	[[peer]]	2008-12-14 18:14:02	79.115.20.22
+desktop	suprafață de lucru, birou (?), desktop PC = calculator de birou	? [[desktop]]	2008-12-14 18:15:45	79.115.20.22
+desktop publishing	tehnoredactare, editare [a cărților] în birou (?)		2008-12-14 18:16:43	79.115.20.22
+desktop	suprafață de lucru, birou (?), desktop PC = calculator de birou	[[desktop]]	2008-12-14 18:17:09	79.115.20.22
+desktop background	fundal, fond [al ecranului, etc.]		2008-12-14 18:20:59	79.115.20.22
+handshake	[[handshake]]		2008-12-14 19:37:30	86.125.139.54
+handshake	conectare, stabilire/inițiere conexiune	[[handshake]]	2008-12-14 19:41:25	86.125.139.54
+handout	[[handout]]	?	2008-12-17 02:01:31	86.125.139.54
+handout	set foi pentru notițe	[[handout]]	2008-12-17 02:02:59	86.125.139.54
+zzz	(ignoră traducerea, termenul este folosit pentru testare)		2008-12-17 13:03:05	82.78.39.13
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-17 13:03:10	82.78.39.13
+zzz	test (ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 01:25:11	Adiroiban
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 02:43:19	Adiroiban (194.54.128.86)
+zzz	iaca si eu (ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 02:47:16	Adiroiban (194.54.128.86)
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 02:54:47	Semnat Anonim (194.54.128.86)
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	! f	2008-12-24 03:17:40	Semnat Anonim (194.54.128.86)

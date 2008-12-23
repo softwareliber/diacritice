@@ -1,5 +1,5 @@
 <?php
-
+require ('../config.inc.php');
 class TabDelimitedGlossaryPersister {
 	var $filename = null;
 	var $historyFilename = null;
@@ -63,8 +63,12 @@ class TabDelimitedGlossaryPersister {
 			is_writable($this->historyFilename) == false) {
 			return error('Could not open file "' . $this->historyFilename . '" for writing.');
 		}
-
-		$ip = $_SERVER['REMOTE_ADDR'];
+		
+		if (!$GLOBALS['username']) {
+		    $ip = "Semnat Anonim (".$_SERVER['REMOTE_ADDR'].")";
+		} else {
+		    $ip = $GLOBALS['username']." (".$_SERVER['REMOTE_ADDR'].")";
+		}
 		$date = date("Y-m-d H:i:s");
 
 		$fd = fopen($this->historyFilename, 'a');
