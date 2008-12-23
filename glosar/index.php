@@ -1,5 +1,5 @@
 <?php
-
+require ('config.inc.php');
 header("Content-Type: text/html; charset=UTF-8");
 header( "Expires: Mon, 26 Jul 1997 05:00:00 GMT" );
 header( "Last-Modified: " . gmdate( "D, d M Y H:i:s" ) . "GMT" );
@@ -12,22 +12,29 @@ $keyword = $_GET['keyword'];
 <head>
 <title>Glosar traduceri</title>
 <meta http-equiv="generator" content="glosar-0.2">
-<script type='text/javascript' src='server.php?client'></script>
-<script type='text/javascript' src='glossary.js'></script>
-<link rel="stylesheet" type="text/css" href="style.css"/>
+<script type='text/javascript' src='js/server.php?client'></script>
+<script type='text/javascript' src='js/glossary.js'></script>
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
 </head>
 <body>
 
 <div id="content">
 
-<h1>Glosar traduceri 2.01</h1>
+<h1><?echo "$prod_name $prod_ver"; ?></h1>
 
-<?php 
-// very cheap hack for checking logged in user
-$user = $_REQUEST["ro_i18nUserName"];
-if(!$user or $user == '') {
-    echo "<p style='color: red;'>Pentru a putea face modificări trebuie să fiti conectat. Puteti opta si pentru pastrarea login-ului de la o sesiune la alta.</p>";
-} 
+
+<?php
+
+if(!$username) {
+    if ($permit_anon_edit){
+	echo "<p style='color: green;'>Modificarea glosarului este liberă. Pentru a îmbunățății comunicarea, vă rugăm să vă autentificați.</p>";
+    } else {
+        echo "<p style='color: red;'>Pentru a putea face modificări trebuie să fiti conectat. Puteti opta si pentru pastrarea login-ului de la o sesiune la alta.</p>";
+    }
+} else {
+    echo "<p style='color: green;'>Modificările în glosar vor fi efectuate sub numele de utilizator: <i>".$username."</i>.</p>";
+}
+
 ?>
 
 
@@ -56,9 +63,16 @@ Ideal ar trebui ca toţi termenii să aibă un marcator de stare, pentru a-i put
 <td align="right">
 <input type="button" value="Renunţă" onClick="cancel()">
 
-<?php if($user) { ?>
+<?php
+/*
+ * Show save button only when allowed
+ */
+if (($username)||($permit_anon_edit)) { 
+?>
 <input type="button" value="Salvează" onClick="save()">
-<?php } ?>
+<?php 
+} 
+?>
 
 </td></tr>
 </table>
@@ -67,7 +81,7 @@ Ideal ar trebui ca toţi termenii să aibă un marcator de stare, pentru a-i put
 
 <div id="results"></div>
 
-<div id="help"><a href="recent.php">Modificări recente</a> &middot; <a href="help.php">Ajutor</a></div>
+<div id="help"><a href="recent.php">Modificări recente</a> &middot; <a href="help.php">Ajutor</a> &middot;  <a href="changelog.php">Changelog</a></div>
 
 </div>
 

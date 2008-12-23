@@ -1,5 +1,6 @@
 <?php
 
+require_once ('../config.inc.php');
 require_once 'error-handling.php';
 require_once 'TabDelimitedGlossaryPersister.php';
 
@@ -8,7 +9,7 @@ class Glossary {
 	var $definitions;
 
 	function Glossary() {
-		$this->persister =& new TabDelimitedGlossaryPersister('glosar.txt', 'history.txt');
+		$this->persister =& new TabDelimitedGlossaryPersister($GLOBALS['file_glossary'], $GLOBALS['file_history']);
 		$this->definitions = $this->persister->load();
 	}
 
@@ -118,12 +119,12 @@ class Glossary {
 	}
 
 	function _getWithHistory($term, $definition) {
-		$fcontents = file('history.txt');
+		$fcontents = file($GLOBALS['file_history']);
 		$len = strlen($term);
 		$result['term'] = $term;
 		$result['definition'] = $definition;
 
-		$history = "<table class=clickable><tr><th>Termen</th><th>Context</th><th>Dată revizie</th><th>Traducere</th><th>IP</th></tr>";
+		$history = "<table class=clickable><tr><th>Termen</th><th>Context</th><th>Dată revizie</th><th>Traducere</th><th>Utilizator / IP</th></tr>";
 		$class = "light";
 		$fcontents = array_reverse($fcontents);
 		foreach ($fcontents as $line) {
