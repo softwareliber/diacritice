@@ -1849,5 +1849,5 @@ zip drive	unitate zip	!
 zoom	lupă, zoom	
 zoom in	măreşte, apropie	
 zoom out	micşorează, depărtează	
-zzz	(ignoră traducerea, termenul este folosit pentru testare2)	! f
+zzz	(ignoră traducerea, termenul este folosit pentru testare3)	! f
 Înainte		
