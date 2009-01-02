@@ -5,10 +5,12 @@
 	
 	* config.inc.php : was added and all files were modified to include it
 	
-	* add perl cron for sending changes report and unfixed term via email  
+	* add perl script for fetching  changes report and unfixed term to be sent via email  
 
+	* log username in "recent.txt"
+	
 == Release 0.2.1 ==
-2008-00-00  Sorin Sbarnea <spam@me.ro>
+2008-02-01  Sorin Sbarnea (http://nusunt.eu)
 
 	* add Context field
 

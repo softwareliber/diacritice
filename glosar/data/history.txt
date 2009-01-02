@@ -2734,3 +2734,5 @@ zzz	(ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 02:4
 zzz	iaca si eu (ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 02:47:16	Adiroiban (194.54.128.86)
 zzz	(ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 02:54:47	Semnat Anonim (194.54.128.86)
 zzz	(ignoră traducerea, termenul este folosit pentru testare)	! f	2008-12-24 03:17:40	Semnat Anonim (194.54.128.86)
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	! șuieră	2008-12-24 11:41:56	Semnat Anonim (82.78.39.13)
+zzz	blah, blah (blah) [sau blah ?]; (ignoră traducerea, termenul este folosit pentru testare)	! șuieră	2008-12-24 15:19:04	Secarica (82.76.12.174)
