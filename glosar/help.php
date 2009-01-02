@@ -51,7 +51,7 @@ deci glosarul nu este utilizabil sub acest browser.
 <h2>Descărcare termeni în format „tab delimited”</h2>
 Conţinutul glosarului poate fi descărcat sub licenţă <a
 href="http://www.gnu.org/copyleft/gpl.html">GPL</a> ca fişier text de aici: <a
-href="glosar.txt">glosar.txt</a>.
+href="data/glosar.txt">glosar.txt</a>.
 
 <h2>Quicksearch în Firefox</h2>
 În <a href="http://www.mozilla.org">Firefox</a> puteţi folosi glosarul prin
@@ -81,10 +81,8 @@ http://www.i18n.ro/glosar/glosar-search.xml
 <h2>Codul sursă</h2>
 Codul sursă este disponibil sub licenţă <a
 href="http://www.gnu.org/copyleft/gpl.html">GPL</a>, ultima versiune putând fi descărcată <a
-href="http://www.tmlug.ro/download/glosar/releases">de aici</a>.
+href="http://diacritice.svn.sourceforge.net/viewvc/diacritice/trunk/">de aici</a>.
 
-<h2>Contact</h2>
-Autorul poate fi contactat prin email la adresa <script>email("dand")</script>.
 <hr noshade size=1>
 </div>
 <a href="index.php">&laquo; Înapoi</a>
