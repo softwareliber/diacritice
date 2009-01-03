@@ -10,3 +10,5 @@ Optional:
 Look at config.inc.php to see how you can customize the glossary.
 
 That's about it.
+
+--
