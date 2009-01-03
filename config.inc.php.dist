@@ -1,17 +1,26 @@
 <?php
 
-$prod_name = "Glosar traduceri";
-$prod_ver = "2.02";
+/*
+ * $prod_name - a string for this glosary name
+ * $prod_ver - a string for the code version
+ */
+$prod_name = "The glosary for our team";
+$prod_ver = "N.N";
 
+
+/*
+ * this variables defines the location of the glosary code
+ * togheter with it's data
+ */
 $base_path = dirname(__FILE__);
 $file_glossary = $base_path."/data/glosar.txt";
 $file_history = $base_path."/data/history.txt";
 
 /*
- * $username is the global the variable hosting 
+ * $username is the global variable hosting 
  * the name of the authenticated user
  *
- * This code relies on externat authentication
+ * This glosary relies on external authentication
  * Do your magic to get this variable from an external source.
  */
 if (
@@ -26,10 +35,5 @@ if (
 # 0 - deny anonymous editing
 # 1 - permit anonymous editing
 $permit_anon_edit = 1;
-
-
-$base_path = dirname(__FILE__);
-$file_glossary = $base_path."/data/glosar.txt";
-$file_history = $base_path."/data/history.txt";
 
 ?>

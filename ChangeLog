@@ -1,4 +1,11 @@
-== Release 0.2.2 ==
+== Release 2.03 ==
+2009-MM-DD  Adi Roiban <adi@roiban.ro>
+	
+	* add config.inc.php.dist
+	
+	* Update Install
+
+== Release 2.02 ==
 2008-12-23  Adi Roiban <adi@roiban.ro>
 	
 	* folder organization cleanup
@@ -6,8 +13,10 @@
 	* add perl script for fetching  changes report and unfixed term to be sent via email  
 
 	* log username in "recent.txt"
+
+	* recent.txt and glosar.txt moved in data/ folder
 	
-== Release 0.2.1 ==
+== Release 2.01 ==
 2008-02-01  Sorin Sbarnea (http://nusunt.eu)
 
 	* add Context field

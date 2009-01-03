@@ -1,5 +1,5 @@
 abandon	a abandona, abandonare	
-abort	a abandona	
+abort	a abandona	!
 about	despre	!
 abstract	abstract	!
 abstract (text)	sumar	!
@@ -52,7 +52,7 @@ anuar	anuar	!
 anvil	nicovală	!
 api	API	!
 appearance	aspect	
-append	a adăuga, adăugare	
+append	a adăuga, adăugare	!
 appendix	anexă	!
 applet	mini-aplicaţie	? [[Addin-module-plugin-extension-applet]]
 applet factory	fabrica de mini-aplicații	rz
@@ -62,7 +62,7 @@ applix	Applix
 apply	a aplica	!
 appointment	întâlnire	!
 arc	arc	!
-archive	a arhiva, arhivă	
+archive	a arhiva, arhivă	!
 archive file	fişier arhivă	!
 area	suprafaţă, arie, zonă	
 area grid	grilă suprafaţă	
@@ -84,7 +84,7 @@ assistive	de asistenţă	ajutător
 asynchronous	asincron	!
 attach	a ataşa	! [[attachment]]
 attachment	ataşament	! [[attachment]]
-attempt	a încerca, tentativă, încercare	
+attempt	tentativă	! [[attempt-retry]]
 attribute	atribut	!
 audio	audio	!
 authentication	autentificare	? [[online-offline-connected-disconnected]]
@@ -114,7 +114,7 @@ band gap	bandă de separare
 bandwidth	lăţime de bandă	!
 banned	blocat	? [[Lock-unlock-block-unblock-ban]]
 base	bază	!
-basic	fundamental, de bază; simplu, rudimentar	
+basic	de bază; simplu, rudimentar, fundamental	!
 basic (language)	Basic	! [[basic]]
 batch	lot, serie	
 batch system	sistem de prelucrare pe loturi	
@@ -137,8 +137,8 @@ bitwise	binar
 blacklist	a interzice, listă interziceri, listă neagră?	
 blank	blanc(?), gol, vid	
 bleeding edge <something>	cele mai recente, <chestii> foarte recente	
-blend	a contopi	
-blended	contopit	
+blend	a contopi	!
+blended	contopit	!
 blink	clipeşte	!
 blinking cursor	cursor clipitor	!
 block buffer		
@@ -201,7 +201,7 @@ cache	cache, memorie tampon, prestocare
 cached	salvat temporar, stocat temporar, salvat / stocat în cache	
 calculator	calculator	
 calendar	calendar, agendă	
-call	a apela, apel	? [[call]]
+call	a apela, apel	!
 call (function)	apel (de funcţie)	!
 call (phone)	a apela, apel telefonic	!
 callback	chemare (în raspuns), chemare; apel invers?	
@@ -215,7 +215,7 @@ card (access)	cartelă (de acces)	! [[card]]
 card (bank)	card (bancar)	! [[card]]
 card (business)	carte de vizită	! [[card]]
 card (device)	placă	! [[card]]
-caret	semnul '^', circumflex	
+caret	semnul '^', circumflex, căciuliță	
 case	condiţie, caz	
 case (in)sensitive	cu majuscule (ne)semnificative	
 case folding	toate caracterele cu aceeaşi mărime	
@@ -293,7 +293,7 @@ condescending	desconsiderat, dispreţuitor, NU condescendent (sensul este invers
 condition	condiţie	!
 conduit	conductă	
 confidential	confidenţial	!
-configuration	configuraţie	[[configuration-options-preferences-settings]]
+configuration	configurare [dacă e vorba de acțiunea de configurare a sistemului], configurație [dacă e vorba de un sumă de opțiuni de sistem)	! [[configuration-options-preferences-settings]]
 confirm	a confirma	!
 confirmation	confirmare	
 connect	conectare, conectare; connecting=mă conectez	? [[online-offline-connected-disconnected]]
@@ -1030,7 +1030,7 @@ open source	sursă deschisă / publică - aplicaţii ale căror surse sînt publ
 operating system	sistem de operare	!
 operation	operaţie	!
 opponent	adversar	!
-option	opţiune, setare; tasta „Option” [Opţiune] pe tastaturile Macintosh.	
+option	opțiune	!
 optional	opţional	!
 options	opţiuni	! [[configuration-options-preferences-settings]]
 or	sau	!
@@ -1315,7 +1315,7 @@ resume	a relua, reluare
 retain	a reţine	!
 retained	reţinut	
 retrieve	a descărca, a obţine	
-retry	a reîncerca, reîncearcă	!
+retry	a reîncerca, reîncearcă	! [[attempt-retry]]
 return	a întoarce, întoarcere	
 return key	tasta Enter	
 reveal	a dezvălui	!
