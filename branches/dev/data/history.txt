@@ -1,0 +1,2738 @@
+access	a accesa, accesare	2005-04-22 04:24:01	10.0.3.44
+active	a activa, activare	2005-04-22 04:24:17	10.0.3.44
+attach	a anexa, anexă	2005-04-22 04:43:25	10.0.3.44
+if	daca	2005-04-22 17:41:21	62.217.245.194
+if	dacă	2005-04-22 18:10:34	10.0.0.246
+upgrade	actualizare	2005-04-22 19:09:37	10.0.0.246
+active	activ	2005-04-22 19:09:57	10.0.0.246
+adaptive routing	rutare adaptivă	2005-04-22 19:10:14	10.0.0.246
+additional	adiţional	2005-04-22 19:10:42	10.0.0.246
+allow	a permite	2005-04-22 19:11:26	10.0.0.246
+antialiasing	antitreaptă?	2005-04-22 19:12:27	10.0.0.246
+applet	mini-aplicaţie?	2005-04-22 19:16:36	10.0.0.246
+application launcher	lansator aplicaţie	2005-04-22 19:16:48	10.0.0.246
+archive file	fişier arhivă	2005-04-22 19:17:13	10.0.0.246
+actuator	?	2005-04-22 19:18:16	10.0.0.246
+applix	?	2005-04-22 19:18:33	10.0.0.246
+area grid	?	2005-04-22 19:18:42	10.0.0.246
+ascending order	ordine crescătoare	2005-04-22 19:18:51	10.0.0.246
+array	tablou?, matrice	2005-04-22 19:19:06	10.0.0.246
+aspect ratio	proporţie aspect	2005-04-22 19:19:22	10.0.0.246
+asserted signal	semnal asigurat?, semnal activat?	2005-04-22 19:19:40	10.0.0.246
+average	medie	2005-04-22 19:20:12	10.0.0.246
+input	a introduce, intrare	2005-04-22 19:21:37	10.0.0.246
+macro	macro?	2005-04-22 21:52:24	10.0.3.54
+fsm	masina cu stari finite( abreviere)	2005-04-23 10:17:32	62.217.245.194
+actuator	efector (domeniu: robotica)	2005-04-23 10:19:05	62.217.245.194
+abstract	abstract, rezumat?	2005-04-23 10:20:00	62.217.245.194
+spool	a bobina, director	2005-04-24 13:34:12	195.7.3.238
+mail	poştă, poştă electronică	2005-04-24 13:36:12	195.7.3.238
+review	recenzie	2005-04-24 14:01:30	195.7.3.238
+fsm	maşină cu stări finite (abreviere)	2005-04-24 17:26:13	10.0.3.50
+workbook	registru?	2005-04-24 18:03:45	10.0.3.50
+sheet	filă	2005-04-24 18:03:53	10.0.3.50
+spreadsheet	calcul tabelar?	2005-04-24 18:05:07	10.0.3.50
+tab	tab?, tabulator?	2005-04-24 18:07:30	10.0.3.50
+landscape	vedere?, peisaj?, decor?	2005-04-24 18:17:45	10.0.3.50
+portrait	portret	2005-04-24 18:17:58	10.0.3.50
+add-in	modul?	2005-04-24 18:24:08	10.0.3.50
+additional	adiţional?, suplimentar?	2005-04-24 18:25:35	10.0.3.50
+paste	a lipi, a plasa?	2005-04-24 18:32:51	10.0.3.50
+copy	a copia	2005-04-24 18:33:00	10.0.3.50
+cut	a decupa, a tăia?	2005-04-24 18:33:15	10.0.3.50
+macro	macro?, macrocomandă?	2005-04-24 19:17:39	10.0.3.50
+polyline	linie frântă?	2005-04-24 20:33:48	10.0.3.50
+process	a procesa, proces	2005-04-24 21:05:54	10.0.3.50
+process id	id proces	2005-04-24 21:06:32	10.0.3.50
+refresh	a actualiza	2005-04-24 21:07:00	10.0.3.50
+require	a necesita	2005-04-24 21:07:26	10.0.3.50
+resume	a relua, reluare	2005-04-25 00:36:01	10.0.3.50
+release	a lansa, a elibera	2005-04-25 03:24:56	10.0.3.50
+post	a plasa, mesaj?	2005-04-25 03:34:57	10.0.3.50
+embedded	înglobat?, încapsulat?	2005-04-25 03:36:15	10.0.3.50
+customize	a personaliza	2005-04-25 03:37:26	10.0.3.50
+grid	grilă	2005-04-25 03:40:20	10.0.3.50
+home	acasă, pagina principală	2005-04-25 03:40:55	10.0.3.50
+home page	pagina principală	2005-04-25 03:41:11	10.0.3.50
+login	autentificare	2005-04-25 03:41:46	10.0.3.50
+logout	deautentificare	2005-04-25 03:41:56	10.0.3.50
+bold	aldin	2005-04-25 03:42:59	10.0.3.50
+font	font	2005-04-25 03:43:30	10.0.3.50
+layout	machetă, aranjament, aspect?	2005-04-25 03:44:07	10.0.3.50
+play	a reda, a juca	2005-04-25 03:44:30	10.0.3.50
+playlist	listă redare?	2005-04-25 03:44:43	10.0.3.50
+merge	a combina, a fuziona?	2005-04-25 03:45:01	10.0.3.50
+toggle	a comuta	2005-04-25 03:49:20	10.0.3.50
+clipboard	clipboard	2005-04-25 03:51:33	10.0.3.50
+hard disk	disc, discul fix	2005-04-25 09:59:31	195.7.3.238
+downgrade	de-gradare, învechire	2005-04-25 10:00:36	195.7.3.238
+upgrade	înnoire	2005-04-25 10:03:14	195.7.3.238
+maintainer	responsabil	2005-04-25 10:06:37	195.7.3.238
+home	acasă, pagina principală, director personal	2005-04-25 10:14:08	195.7.3.238
+font	font, caracter	2005-04-25 10:14:34	195.7.3.238
+release	a lansa, a elibera, producţie?	2005-04-25 10:18:11	195.7.3.238
+require	a necesita, a cere	2005-04-25 10:18:35	195.7.3.238
+refresh	a actualiza, a reîmprospăta	2005-04-25 10:19:13	195.7.3.238
+lock	a bloca, a încuia, blocare	2005-04-25 10:22:00	195.7.3.238
+dependence	dependenţă	2005-04-25 10:23:44	195.7.3.238
+broken	a deteriora, deteriorat	2005-04-25 10:26:38	195.7.3.238
+backward compatibility	compatibilitate cu versiunile anterioare, compatibilitate retroactivă	2005-04-25 10:28:31	195.7.3.238
+blinking cursor	cursor clipitor	2005-04-25 10:30:10	195.7.3.238
+build	a construi, versiune compilată, construcţie	2005-04-25 10:31:59	195.7.3.238
+attach	a anexa, a ataşa, anexă	2005-04-25 10:34:08	195.7.3.238
+cancel	a renunţa, a anula	2005-04-25 10:35:51	195.7.3.238
+check box	căsută de bifare	2005-04-25 10:37:11	195.7.3.238
+check box	căsuţă de bifare	2005-04-25 10:37:33	195.7.3.238
+check button	buton de bifare	2005-04-25 10:38:08	195.7.3.238
+child process	sub-proces, proces copil, proces inferior	2005-04-25 10:39:02	195.7.3.238
+corrupt	alterat, corupt, deteriorat	2005-04-25 10:41:18	195.7.3.238
+cpu	procesor, unitatea centrală de procesare, microprocesor	2005-04-25 10:42:17	195.7.3.238
+overlay		2005-04-25 19:54:23	62.217.245.194
+bulk		2005-04-25 19:54:37	62.217.245.194
+upgrade	imbunataţire	2005-04-26 11:09:56	193.186.185.101
+upgrade	a îmbunataţi, îmbunataţire	2005-04-26 11:11:21	193.186.185.101
+align	a alinia, aliniere	2005-04-26 11:12:20	193.186.185.101
+virtual desktop	suprafaţã de lucru virtuala	2005-04-26 11:20:23	193.186.185.101
+uptime	timp te la pornire	2005-04-26 11:21:38	193.186.185.101
+type bindings	corelãri de tip	2005-04-26 11:24:06	193.186.185.101
+time stamp	etichetã de timp	2005-04-26 11:24:50	193.186.185.101
+time format	format orã	2005-04-26 11:25:05	193.186.185.101
+tick	bãtaie	2005-04-26 11:25:41	193.186.185.101
+thumb nails	miniaturi	2005-04-26 11:26:06	193.186.185.101
+target file	fişier destinaţie	2005-04-26 11:27:07	193.186.185.101
+switch	întrerupător, comutator	2005-04-26 11:27:55	193.186.185.101
+switch level	nivel comutare	2005-04-26 11:28:03	193.186.185.101
+step increment	incrementare pas cu pas	2005-04-26 11:29:20	193.186.185.101
+startup	pornire	2005-04-26 11:29:51	193.186.185.101
+startup files	fişiere pornire	2005-04-26 11:30:02	193.186.185.101
+startup program	program pornire	2005-04-26 11:30:08	193.186.185.101
+standby	adormire	2005-04-26 11:30:27	193.186.185.101
+soft	soft, moale	2005-04-26 11:31:09	193.186.185.101
+soft keys	taste software	2005-04-26 11:31:27	193.186.185.101
+slip	a aluneca, alunecare	2005-04-26 11:31:51	193.186.185.101
+segmentation fault	eroare de segmentare	2005-04-26 11:32:57	193.186.185.101
+desktop	desktop	2005-04-26 12:48:04	10.0.0.246
+desktop background	fundal desktop	2005-04-26 12:48:33	10.0.0.246
+desktop environment	mediu desktop	2005-04-26 12:48:46	10.0.0.246
+virtual desktop	desktop virtual	2005-04-26 12:49:14	10.0.0.246
+tick	bãtaie, tact	2005-04-26 16:42:22	81.181.70.10
+soft	soft, moale, program	2005-04-26 16:46:18	81.181.70.10
+bulk	brut, masiv	2005-04-26 16:46:49	81.181.70.10
+uptime	timp de la pornire	2005-04-26 23:06:39	195.7.3.238
+keystroke	combinaţie de taste	2005-04-28 23:16:52	81.181.70.10
+autofill	umplere automată, complectare automată?	2005-05-02 17:22:42	64.7.141.50
+fill	a umple, umplutură, complectare?	2005-05-02 17:24:23	64.7.141.50
+backslash		2005-05-02 23:05:49	62.217.245.194
+slash		2005-05-02 23:06:27	62.217.245.194
+abandon	a abandona, abandonare	2005-05-03 19:51:48	64.7.141.50
+spider	a indexa, indexare	2005-05-04 07:55:22	216.151.117.184
+guest	vizitator	2005-05-04 08:24:31	216.151.117.184
+tab	tab?, tabulator?, filă?	2005-05-04 19:37:48	83.103.205.136
+digits	cifre	2005-05-04 22:07:53	80.97.190.72
+framework	cadru	2005-05-04 22:09:24	80.97.190.72
+keystroke	apasare de tasta	2005-05-06 15:53:33	194.102.189.101
+cc	carbon copy, copie la indigo 	2005-05-06 16:00:08	194.102.189.101
+bcc	blind carbon copy	2005-05-06 16:00:36	194.102.189.101
+ms	Micro$oft :)	2005-05-06 16:05:18	194.102.189.101
+weight	greutate, pondere	2005-05-08 08:20:08	216.151.117.184
+box	căsuţă, casetă, cutie, container; căsuţă; casetă;	2005-05-08 08:20:58	216.151.117.184
+mirror	oglindă, a oglindi / sit alternativ	2005-05-08 15:31:09	81.181.70.10
+set	a pune, a plasa, a apune, a activa	2005-05-08 18:06:48	81.181.70.10
+set-up	program de instalare a unei aplicaţii pe calculator, program de fixare a condiţiilor în care va rula o aplicaţie pe un calculator, a pregăti	2005-05-08 18:08:50	81.181.70.10
+set-up	a pregăti, program de instalare a unei aplicaţii pe calculator, program de fixare a condiţiilor în care va rula o aplicaţie pe un calculator	2005-05-08 18:09:09	81.181.70.10
+boot	a porni sistemul, a iniţializa sistemul	2005-05-08 18:12:52	81.181.70.10
+bootable	(de pe) care (se) poate porni sistemul	2005-05-08 18:14:20	81.181.70.10
+bootable	mediu (de pe) care (se) poate porni sistemul	2005-05-08 20:44:03	81.181.70.10
+superblock		2005-05-08 20:50:52	81.181.70.10
+kernel	nucleu (de sistem)	2005-05-08 21:21:20	81.181.70.10
+bug	scamă, eroare, pană, problemă, defect de programare	2005-05-08 21:54:00	81.181.70.10
+bug	scamă, eroare (de programare), pană, problemă, defect (de programare)	2005-05-08 21:54:59	81.181.70.10
+link	a lega, legătură, a trimite?, trimitere?	2005-05-09 22:07:59	64.7.141.50
+bootable	mediu (de pe) care (se) poate porni sistemul, capabil să pornească sistemul (de operare)	2005-05-10 00:23:21	81.181.70.10
+guest	vizitator, opaspete	2005-05-10 00:24:50	81.181.70.10
+desktop	(calculator pentru) mediu de birou, desktop	2005-05-10 00:26:52	81.181.70.10
+free software	soft liber, program liber	2005-05-13 15:48:49	81.181.70.10
+divert	redirecţionare, a (re)direcţiona	2005-05-14 11:50:32	81.181.70.10
+kilobyte	kilooctet	2005-05-14 13:07:18	81.181.70.10
+megabyte	megaoctet	2005-05-14 13:07:39	81.181.70.10
+gigabyte	gigaoctet	2005-05-14 13:08:05	81.181.70.10
+flag	steag, indicator, semnalizator	2005-05-15 19:08:51	195.7.3.238
+hash	sumă binară de căutare	2005-05-15 22:16:32	81.181.70.10
+statoverride	înlocuire a permisiunilor implicite (context: Debian)	2005-05-16 07:36:16	81.181.70.10
+diversion	redirectare, diversiune	2005-05-16 07:38:31	81.181.70.10
+stat	verificare, citire a stării	2005-05-16 07:41:36	81.181.70.10
+escape sequence	secvenţă de citare (referitor la formatarea şirurilor în C)	2005-05-19 01:55:20	81.181.70.10
+read-only	(mod) strict citire	2005-05-19 03:52:16	81.181.70.10
+buffering	încărcarea/folosirea memoriei tampon	2005-05-19 04:00:13	81.181.70.10
+ownership	aparteneţă (se referă, de cele mai multe ori şi la un grup de utilizatori)	2005-05-21 11:41:32	81.181.70.10
+ownership	apartenenţă (se referă, de cele mai multe ori şi la un grup de utilizatori)	2005-05-21 11:41:46	81.181.70.10
+provide	a furniza, a oferi	2005-05-21 14:36:00	81.181.70.10
+mapping	cartare	2005-05-21 14:44:32	81.181.70.10
+remapping	recartare	2005-05-21 14:44:43	81.181.70.10
+unable to	incapacitate de a, nu pot să, nu se poate, nu este posibil, nu pot să; nu se poate; nu este posibil	2005-05-21 16:32:37	81.181.70.10
+unable to	incapacitate de a, nu se poate, nu este posibil, nu pot să	2005-05-21 16:34:31	81.181.70.10
+setup	a pregăti, pregătire	2005-05-21 20:49:15	81.181.70.10
+flag	fanion, steag, indicator, semnalizator	2005-05-21 20:51:04	81.181.70.10
+release	a publica, a lansa	2005-05-22 00:23:58	10.0.3.15
+release	a lansa, ediţie	2005-05-22 00:51:32	10.0.3.15
+release	a lansa, versiune	2005-05-22 00:52:29	10.0.3.15
+patch	petec?	2005-05-22 01:10:01	10.0.3.15
+junk	nefolositor	2005-05-22 19:14:23	10.0.3.12
+set	a seta, mulţime	2005-05-22 19:17:01	10.0.3.12
+keybinding	combinaţie de taste	2005-05-22 19:17:38	10.0.3.12
+keystroke	combinaţie de taste, apăsare de tastă	2005-05-22 19:39:04	10.0.3.12
+frontend	interfaţă	2005-05-22 20:01:54	10.0.3.12
+buffering	preîncărcare, încărcarea/folosirea memoriei tampon	2005-05-22 20:04:35	10.0.3.12
+backend	backend	2005-05-22 20:06:07	10.0.3.12
+set	a seta, mulţime, a pune, a plasa, a apune, a activa	2005-05-23 02:18:04	81.181.70.10
+remapping	recartare, recartografiere	2005-05-23 02:39:21	81.181.70.10
+mapping	cartare, cartografiere	2005-05-23 02:39:44	81.181.70.10
+scan	a scana, scanare, a examina, a cerceta amănunţit	2005-05-24 00:21:20	10.0.3.38
+port	a porta, portare, port	2005-05-24 00:43:38	10.0.3.38
+regular	obişnuit, normal	2005-05-24 00:49:42	10.0.3.38
+regular expression	expresie regulară, expresie obişnuită	2005-05-24 00:50:13	10.0.3.38
+current	curent, prezent	2005-05-24 00:52:33	10.0.3.38
+remove	a şterge, a îndepărta, a elimina	2005-05-24 01:04:05	10.0.3.38
+purge	a elimina complet	2005-05-24 01:04:31	10.0.3.38
+delete	a şterge, ştergere	2005-05-24 01:04:54	10.0.3.38
+clean	curăţă	2005-05-24 01:05:08	10.0.3.38
+clean	a curăţa, curăţare	2005-05-24 01:05:22	10.0.3.38
+discard	a anula, anulare, a renunţa, renunţare	2005-05-24 21:30:35	10.0.3.28
+previous	precedent	2005-05-26 19:37:53	10.0.3.43
+next	următor	2005-05-26 19:38:02	10.0.3.43
+appendix	anexă	2005-05-26 19:39:46	10.0.3.43
+footnote	notă subsol	2005-05-26 19:40:00	10.0.3.43
+contents	sumar, conţinut	2005-05-26 19:41:39	10.0.3.43
+previous	precedent, înapoi (neutru)	2005-05-26 20:02:22	10.0.3.43
+next	următor, înainte (neutru)	2005-05-26 20:02:34	10.0.3.43
+installer	sistem (program?) de instalare	2005-05-27 00:50:06	10.0.3.45
+framebuffer	framebuffer	2005-05-27 01:42:54	10.0.3.45
+port	a porta, portare	2005-05-27 12:13:04	10.0.0.14
+backport	portare înapoi	2005-05-27 12:45:51	10.0.0.14
+pinning	fixare	2005-05-27 12:46:05	10.0.0.14
+dummy		2005-06-01 15:35:51	10.0.0.246
+supercede	a înlocui	2005-06-01 15:36:09	10.0.0.246
+script	scenariu, script	2005-06-01 16:09:33	10.0.0.246
+controller	controlor, controller?	2005-06-01 16:13:15	10.0.0.246
+drive	unitate	2005-06-01 16:15:18	10.0.0.246
+bootloader	bootloader?	2005-06-01 16:17:29	10.0.0.246
+bootstrap	bootstrap?	2005-06-01 16:18:01	10.0.0.246
+preload	a preîncărca, preîncărcare	2005-06-01 16:18:57	10.0.0.246
+recovery	recuperare	2005-06-01 16:20:51	10.0.0.246
+rescue	a salva, salvare	2005-06-01 16:23:04	10.0.0.246
+recover	a recupera, recuperare	2005-06-01 16:23:29	10.0.0.246
+mouse	maus	2005-06-01 16:30:21	10.0.0.246
+keyboard shortcut	combinaţie de taste	2005-06-01 16:30:42	10.0.0.246
+mouse	mouse	2005-06-01 18:47:54	10.0.0.246
+blacklist	a interzice, listă interziceri, listă neagră?	2005-06-02 10:13:02	10.0.0.246
+whitelist	a permite, listă permisiuni?	2005-06-02 10:13:35	10.0.0.246
+white paper	articol, carte albă	2005-06-02 10:13:49	10.0.0.246
+switch	a comuta, a trece, întrerupător, comutator	2005-06-02 10:16:24	10.0.0.246
+userspace	spaţiu utilizator	2005-06-02 10:16:56	10.0.0.246
+flush	a goli, a salva	2005-06-02 10:33:32	10.0.0.246
+vendor	furnizor, producător?	2005-06-02 10:35:40	10.0.0.246
+goal	obiectiv	2005-06-02 10:43:32	10.0.0.246
+go	start, navigare, du-te, mergi?	2005-06-02 10:44:03	10.0.0.246
+upstream	(de la) autorii originali, upstream, amonte?	2005-06-02 10:50:01	10.0.0.246
+mainstream	mainstream	2005-06-02 10:50:17	10.0.0.246
+patch	petec?, patch?	2005-06-02 20:29:19	10.0.3.62
+bootloader	încărcător de sistem	2005-06-04 19:19:53	81.181.70.10
+flush	a goli (un tampun de date), a salva	2005-06-04 19:26:04	81.181.70.10
+backport	portare înapoi, portare pentru versiunea anterioară	2005-06-04 19:28:06	81.181.70.10
+pinning	fixare, alegere selectivă (referitor la Debian Apt)	2005-06-04 19:29:22	81.181.70.10
+dummy	marionetă?, înlocuitor temporar?	2005-06-04 19:31:34	81.181.70.10
+flush	a goli (un tampon de date), a salva	2005-06-04 19:32:00	81.181.70.10
+whitelist	a permite, listă permisiuni, lista albă?	2005-06-04 19:32:59	81.181.70.10
+goal	obiectiv, ţel	2005-06-04 19:34:18	81.181.70.10
+white paper	articol, carte albă, hârtie albă?	2005-06-05 15:26:24	81.181.70.10
+handle	a manevra, a gestiona	2005-06-06 15:10:01	10.0.3.17
+browser	navigator (web)	2005-06-07 17:32:13	10.0.0.246
+tag	etichetă, marcaj	2005-06-08 00:28:57	10.0.3.22
+log	jurnal, log	2005-06-08 00:41:29	10.0.3.22
+repository	arhivă	2005-06-08 00:53:59	10.0.3.22
+retrieve	a recupera, a primi, primire, a descărca	2005-06-08 01:12:52	10.0.3.22
+fetch	a prelua, a descărca	2005-06-08 01:16:16	10.0.3.22
+downgrade	de-gradare, învechire, degradare?	2005-06-08 01:18:15	10.0.3.22
+malformed	diform, malformat, greşit	2005-06-08 01:23:17	10.0.3.22
+default	implicit, standard	2005-06-08 12:01:27	10.0.0.246
+lock	a bloca, a încuia, blocare, drept exclusiv	2005-06-08 12:28:17	10.0.0.246
+warning	avertizare, atenţie	2005-06-08 12:31:17	10.0.0.246
+jump	a sări	2005-06-09 15:52:32	10.0.0.246
+jump	a sări, salt	2005-06-09 16:02:32	10.0.0.246
+jump to...	salt la...	2005-06-09 16:02:50	10.0.0.246
+buffer	[zona de] memorie tampon	2005-06-09 16:10:52	10.0.0.246
+warning	avertizare, atenţie, avertisment	2005-07-11 17:57:54	213.164.225.71
+malformed	diform, malformat, greşit, deteriorat	2005-07-11 17:58:32	213.164.225.71
+patch	petec?, patch?, reparatie	2005-07-11 17:59:42	213.164.225.71
+screenshot	captură de ecran	2005-07-26 11:56:10	10.0.0.246
+scroll	a derula, rulou, spirală, filet, a (se) rula, a defila, defilare	2005-07-26 12:58:00	10.0.0.246
+start	start, a porni	2005-07-26 15:21:47	10.0.0.246
+regex	expresie regulată	2005-07-30 15:07:09	62.217.245.194
+break	pauză, a face pauză, a deteriora	2005-08-01 15:31:35	194.138.39.55
+quiet	în linişte, liniştit, linişte	2005-08-01 19:17:15	194.138.39.55
+regex	expresie regulară	2005-08-04 09:50:38	193.231.29.34
+log	jurnal, înregistrare, log	2005-08-04 09:51:27	193.231.29.34
+go	start, navigare, du-te, încarcă	2005-08-04 09:52:22	193.231.29.34
+mail	poştă, poştă electronică, mail	2005-08-04 09:53:32	193.231.29.34
+mail client	client de poştă electronică, client de mail	2005-08-04 09:53:44	193.231.29.34
+mail server	server de poştă electronică, server de mail	2005-08-04 09:53:52	193.231.29.34
+maskquerading	a mascarada, mascaradare	2005-08-04 09:54:27	193.231.29.34
+merge	a combina, a îmbina, a fuziona	2005-08-04 09:55:38	193.231.29.34
+verbose	vorbăreţ, detaliat	2005-08-04 09:56:40	193.231.29.34
+viewer	vizor, observator, vizualizator?	2005-08-04 09:57:29	193.231.29.34
+viewer	observator, vizualizator, vizor	2005-08-04 09:58:57	193.231.29.34
+viewer	observator, vizualizator, vizor?	2005-08-04 09:59:09	193.231.29.34
+your	dumneavoastră	2005-08-04 09:59:45	193.231.29.34
+your computer	calculatorul	2005-08-04 09:59:57	193.231.29.34
+zeroed	baleiat (umplut) cu zero, redus la zero	2005-08-04 10:00:19	193.231.29.34
+zip drive	unitate zip	2005-08-04 10:00:35	193.231.29.34
+upside down	răsturnat vertical	2005-08-04 10:01:43	193.231.29.34
+unregister	deînregistrare	2005-08-04 10:02:02	193.231.29.34
+purge	a curăţa, a elimina complet	2005-08-04 13:20:00	194.138.39.55
+hash bucket	agregat de sume de căutare	2005-08-05 19:48:07	194.138.39.53
+hash element	element sumă de căutare	2005-08-05 19:49:01	194.138.39.53
+range	a înşira, a clasifica, şir, rînd, ordine, rază	2005-08-12 17:01:37	64.7.141.50
+range	a înşira, a clasifica, şir, rînd, ordine, rază (de extindere)	2005-08-12 17:02:05	64.7.141.50
+desktop	(calculator pentru) mediu de birou, desktop, mediu grafic	2005-08-14 00:12:38	10.0.3.47
+repository	depozit, arhivă	2005-08-14 14:25:54	85.186.175.165
+patch	petec?, patch?, reparatie, petic	2005-08-14 14:27:23	85.186.175.165
+range	a înşira, a clasifica, şir, rînd, domeniu, ordine, rază (de extindere)	2005-08-14 14:27:49	85.186.175.165
+removable media	mediu amovibil	2005-08-14 20:51:02	82.208.179.146
+shortcut	scurtătură, combinaţie (de taste)	2005-08-14 21:20:17	82.208.179.146
+tooltip	pont, indiciu	2005-08-14 21:59:49	82.208.179.146
+tooltip	indiciu, pont	2005-08-14 21:59:57	82.208.179.146
+location	loc, adresa; in nici un caz [locaţie] - vezi DEX	2005-08-16 10:31:20	81.180.92.43
+banned	?	2005-08-16 10:51:25	10.0.0.246
+location	loc, adresa; in nici un caz [locaţie] - vezi DEX; dand: DEX e depăşit în acest caz, locaţie e un termen încetăţenit	2005-08-16 10:54:13	10.0.0.246
+picture	poză, imagine	2005-08-17 01:51:11	86.125.56.203
+print job	sarcină de tipărire	2005-08-17 03:28:02	86.125.56.203
+box	căsuţă, casetă, cutie, container	2005-08-17 12:10:48	10.0.0.246
+monospaced	monospaţiat	2005-08-17 12:12:27	10.0.0.246
+nested	imbricat, îmbricat (dand: înmbricat nu este corect, vezi dex)	2005-08-17 12:15:39	10.0.0.246
+nested	imbricat, îmbricat (dand: îmbricat nu este corect, vezi dex)	2005-08-17 12:15:47	10.0.0.246
+formatting	formatare	2005-08-17 12:17:17	10.0.0.246
+disclose	a divulga	2005-08-17 12:31:45	10.0.0.246
+reveal	a dezvălui	2005-08-17 12:31:55	10.0.0.246
+recipent	destinatar	2005-08-17 12:32:22	10.0.0.246
+post	a plasa, mesaj?, a trimite	2005-08-17 12:53:04	10.0.0.246
+schedule	orar?	2005-08-17 15:07:22	10.0.0.246
+avatar	avatar	2005-08-17 16:48:16	10.0.0.246
+localization	localizare	2005-08-17 21:08:17	10.0.3.62
+deprecated	învechit, depăşit	2005-08-17 22:10:52	10.0.3.62
+obsolete	învechit, depăşit	2005-08-17 22:11:02	10.0.3.62
+diff	diff	2005-08-17 22:31:10	10.0.3.62
+log	jurnal, înregistrare, log, istoric	2005-08-17 22:32:16	10.0.3.62
+handler	descriptor, handler (dand: descriptor e greşit)	2005-08-17 22:59:03	10.0.3.62
+handler	descriptor, handler (dand: descriptor e greşit folosit în afara fişierelor)	2005-08-17 22:59:36	10.0.3.62
+handler	descriptor, gestionar (dand: descriptor e greşit folosit în afara fişierelor)	2005-08-17 23:00:13	10.0.3.62
+schedule	planificare	2005-08-17 23:13:49	10.0.3.62
+schedule manager	administrator orar, administrator planificări	2005-08-17 23:14:11	10.0.3.62
+schema	schemă	2005-08-17 23:15:15	10.0.3.62
+post	a plasa, mesaj, a trimite	2005-08-17 23:15:39	10.0.3.62
+buffer	[zona de] memorie tampon, editor	2005-08-17 23:29:22	10.0.3.62
+match	rezultat, potrivire	2005-08-17 23:34:25	10.0.3.62
+literal	literal	2005-08-18 01:00:21	10.0.3.62
+inline	inline	2005-08-19 00:31:10	10.0.3.8
+wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii	2005-08-19 01:45:24	10.0.3.8
+range	a înşira, a clasifica, şir, rînd, domeniu, ordine, rază (de extindere), zonă, arie	2005-08-19 02:06:18	10.0.3.8
+range	a înşira, a clasifica, şir, rînd, domeniu, ordine, rază (de extindere), zonă, arie, interval	2005-08-19 02:06:33	10.0.3.8
+backticks	ghilimele inverse	2005-08-19 02:18:52	10.0.3.8
+core	de bază, nucleu	2005-08-19 02:44:22	10.0.3.8
+core file	fişier de depanare	2005-08-19 02:44:45	10.0.3.8
+statement	comandă, instrucţiune	2005-08-19 02:57:55	10.0.3.8
+whitespace	spaţii?, caractere de tip spaţiu?	2005-08-19 03:01:30	10.0.3.8
+makefile	fişier make	2005-08-19 03:02:26	10.0.3.8
+data mining	data mining	2005-08-19 03:05:24	10.0.3.8
+misspelled	ortografiat greşit	2005-08-19 18:46:08	10.0.0.246
+cite	citat	2005-08-19 18:47:08	10.0.0.246
+occurrence	apariţie	2005-08-19 19:27:59	10.0.0.246
+border	contur, bordură?	2005-08-20 02:42:01	10.0.3.5
+gateway	poartă, intrare, gateway, calculator "poartă" de iesire	2005-08-20 12:30:49	193.226.12.32
+issuer	emiţător	2005-08-20 12:50:45	193.226.12.32
+credits	credit, recunoaşterea meritelor, echipa?, mulţumiri	2005-08-20 13:27:08	193.226.12.32
+root	[director] rădăcină, [utilizator] administrator (root)	2005-08-20 14:05:44	193.226.12.32
+root	rădăcină, administrator (root)	2005-08-20 14:05:56	193.226.12.32
+recipient	destinatar	2005-08-20 14:11:30	193.226.12.32
+bracket	acoladă, paranteză?	2005-08-20 14:37:44	193.226.12.32
+junk	nefolositor, spam	2005-08-20 14:54:33	193.226.12.32
+spam	mesaj nedorit (de regula cu caracter publicitar), spam	2005-08-20 14:57:02	193.226.12.32
+superscript	scris sus (cum este puterea), antet, exponent	2005-08-20 15:14:36	193.226.12.32
+hook	furca de telefon	2005-08-20 17:02:13	193.226.12.32
+popup	? (apariţie, a apărea)	2005-08-20 17:10:40	193.226.12.32
+popup menu	meniu contextual	2005-08-20 17:11:10	193.226.12.32
+popup	? (apariţie, a apărea), meniu contextual, dialog	2005-08-20 17:11:19	193.226.12.32
+checkbox	căsuţă de bifare	2005-08-20 17:22:00	193.226.12.32
+store	stocare	2005-08-20 17:38:35	193.226.12.32
+environment variable	variabilă a mediului, variabilă de mediu	2005-08-20 17:40:12	193.226.12.32
+border	margine, contur, bordură?	2005-08-20 18:53:52	193.226.12.32
+stream	flux	2005-08-20 19:19:36	193.226.12.32
+alert	atenţionare	2005-08-20 23:07:09	10.0.3.9
+alert	atenţionare, alertă?	2005-08-20 23:18:24	10.0.3.9
+occurr	a apărea, a se produce	2005-08-21 00:08:30	10.0.3.9
+messenger	mesager	2005-08-21 00:10:17	10.0.3.9
+instant messaging	mesagerie instantă	2005-08-21 00:20:54	10.0.3.9
+magnifier	lupă	2005-08-21 00:25:01	10.0.3.9
+zoom	lupă, zoom	2005-08-21 00:25:12	10.0.3.9
+screenreader	narator ecran	2005-08-21 00:26:54	10.0.3.9
+on-screen keyboard	tastatură virtuală	2005-08-21 00:27:11	10.0.3.9
+smiley	iconiţă simbolică	2005-08-21 17:32:21	10.0.3.24
+execute	a executa, a rula, a porni	2005-08-21 17:32:32	10.0.3.24
+ping	ping	2005-08-21 17:50:24	10.0.3.24
+whack	a închide (cel puţin în cazul gdm)	2005-08-21 17:54:06	10.0.3.24
+hibernate	a hiberna	2005-08-21 20:57:58	10.0.3.24
+handle	a manevra, a gestiona, referinţă	2005-08-21 23:25:21	10.0.3.24
+defaults	setări implicite	2005-08-22 03:32:45	10.0.3.12
+entry	element	2005-08-22 03:40:26	10.0.3.12
+kill	a omorî, a termina	2005-08-22 04:36:15	10.0.3.12
+autofill	umplere automată, completare automată?	2005-08-22 05:00:33	10.0.3.12
+autocomplete	completare automată	2005-08-22 05:00:50	10.0.3.12
+bulleted list	listă cu buline	2005-08-23 01:12:51	10.0.3.33
+typewriter text	text dactilografiat	2005-08-23 01:17:49	10.0.3.33
+justified	aliniat la margini	2005-08-23 01:21:50	10.0.3.33
+typewriter	stil dactilografiat	2005-08-23 01:22:45	10.0.3.33
+layout	machetă, aranjament, aspect	2005-08-23 01:34:34	10.0.3.33
+scope	proporţii, anvergură, spaţiu, scop, ţel, vizibilitate, domeniu	2005-08-23 01:35:43	10.0.3.33
+strikeout	tăiat	2005-08-23 01:49:37	10.0.3.33
+factory	factory	2005-08-23 01:55:10	10.0.3.33
+custom	personalizat, specific	2005-08-23 01:57:25	10.0.3.33
+custom window	fereastră specifică	2005-08-23 01:57:33	10.0.3.33
+span	întindere	2005-08-23 01:59:57	10.0.3.33
+padding	umplutură, margine interioară	2005-08-23 02:02:40	10.0.3.33
+padding	umplutură, spaţiu interior	2005-08-23 02:03:33	10.0.3.33
+sample	eşantion, mostră	2005-08-23 02:09:55	10.0.3.33
+core	de bază, nucleu, principal	2005-08-23 02:29:20	10.0.3.33
+grab	a apuca, a acapara	2005-08-23 02:30:21	10.0.3.33
+grab	a apuca, a obţine	2005-08-23 02:30:53	10.0.3.33
+listener	proces de ascultare	2005-08-23 12:57:52	10.0.0.246
+thread	fir, fir de execuţie, thread	2005-08-23 12:58:07	10.0.0.246
+nickname	poreclă, alias	2005-08-27 01:02:12	10.0.3.40
+delta	diferenţă	2005-08-27 01:10:34	10.0.3.40
+proxy	împuternicire, mandat, mandatar, proxy	2005-08-27 01:17:43	10.0.3.40
+spool	a bobina [<-what?, dand], director [<- not really, dand], spool	2005-08-27 01:53:08	10.0.3.40
+spool	a bobina [<-what?, dand], director [<- not really, dand], spool, coadă de aşteptare	2005-08-27 02:00:24	10.0.3.40
+junk	nefolositor, spam, mesaje nesolicitate	2005-08-27 02:01:47	10.0.3.40
+hint	sugestie, indiciu	2005-08-27 02:23:21	10.0.3.40
+hint	sugestie, indiciu, informaţie indicativă	2005-08-27 02:23:41	10.0.3.40
+credits	credit, recunoaşterea meritelor, echipa?, mulţumiri, autori [aşa e în gnome]	2005-08-27 13:59:08	83.103.205.136
+passphrase	parolă tip frază	2005-08-27 19:21:27	10.0.3.56
+slider	cursor, patină, derulator, glisor	2005-08-31 11:22:53	194.138.39.53
+spin button	(buton cu) contor (?)	2005-08-31 11:23:42	194.138.39.53
+spin button	buton incremental, (buton cu) contor (?)	2005-08-31 11:26:13	194.138.39.53
+embedded	încapsulat, înglobat?	2005-09-01 12:51:51	82.208.179.146
+run	a alerga, a executa un program, a rula	2005-09-01 14:53:05	10.0.0.246
+pane	vedere	2005-09-02 01:14:17	10.0.0.246
+envelope	plic, sumar [context:IMAP]	2005-09-03 00:54:43	10.0.3.13
+control	control, comanda	2005-09-03 12:27:14	193.226.12.32
+raster	imagine raster	2005-09-03 12:44:29	10.0.3.16
+flip	a întoarce, a inversa	2005-09-03 13:01:00	10.0.3.16
+get	a primi, a obţine, primeşte, a primi; a obţine, extrage	2005-09-03 13:03:53	193.226.12.32
+design	schiţă, model	2005-09-03 13:15:55	193.226.12.32
+list box	căsuţa de tip lista	2005-09-03 13:22:20	193.226.12.32
+combo box	listă de selecţie	2005-09-03 13:26:58	193.226.12.32
+currency	răspândire	2005-09-03 13:30:33	193.226.12.32
+scrollbar	bară de derulare	2005-09-03 13:37:26	193.226.12.32
+navigation bar	bară de navigare	2005-09-03 13:38:38	193.226.12.32
+assignment	desemnare	2005-09-03 13:43:42	86.125.132.140
+case	condiţie, caz	2005-09-03 13:46:23	193.226.12.32
+pattern	model, proprietate	2005-09-03 14:37:55	193.226.12.32
+slide	diapozitiv	2005-09-03 14:55:56	82.208.179.146
+clockwise	sens orar	2005-09-03 15:17:56	82.208.179.146
+counter-clockwise	sens trigonometric	2005-09-03 15:18:16	82.208.179.146
+bookmark	favorit, semn de carte	2005-09-03 16:19:51	82.208.179.146
+footnote	notă de subsol	2005-09-03 16:22:53	82.208.179.146
+chart	schemă, hartă, diagramă	2005-09-03 16:35:27	193.226.12.32
+chart	schemă, hartă, diagramă, grafic	2005-09-03 16:36:36	193.226.12.32
+semicolons	mai multe semne de punct şi virgulă, 	2005-09-03 16:42:01	193.226.12.32
+heading	subtitlu	2005-09-03 16:45:04	193.226.12.32
+printable	bun de tipar;publicabil	2005-09-03 16:47:41	86.125.132.140
+split	a impărţi,a separa 	2005-09-03 16:47:47	193.226.12.32
+single	unic;celibatar	2005-09-03 16:48:12	86.125.132.140
+shear	a tăia;a tunde	2005-09-03 16:49:12	86.125.132.140
+amount	total, sumă	2005-09-03 16:50:49	193.226.12.32
+outline	contur, a sublinia, subliniat	2005-09-03 17:02:17	86.125.132.140
+text flow	aranjament textual	2005-09-03 17:02:18	193.226.12.32
+text direction	orientarea textului,	2005-09-03 17:22:25	193.226.12.32
+text direction	orientare text,	2005-09-03 17:23:31	193.226.12.32
+read-only	(mod) strict citire, protejat la scriere	2005-09-03 17:31:09	82.208.179.146
+endnote	notă de final	2005-09-03 17:31:43	82.208.179.146
+numbering	numerotare	2005-09-03 17:42:52	82.208.179.146
+by	alaturi;aproape de;cu;prin;de;linga	2005-09-03 17:48:28	86.125.132.140
+keyfile	fişier de chei	2005-09-03 17:54:23	193.226.12.32
+hiperlink	hiperlegatura	2005-09-03 18:04:05	193.226.12.32
+hiperlink	hiperlegatură	2005-09-03 18:04:19	193.226.12.32
+hiperlink	hiperlegătură	2005-09-03 18:04:29	193.226.12.32
+placeholder	înlocuitor	2005-09-03 18:04:31	10.0.3.15
+page break	delimitator de pagină	2005-09-03 18:05:02	10.0.3.15
+through	prin; printre	2005-09-03 18:06:01	86.125.132.140
+table heading	cap de tabel	2005-09-03 18:11:26	193.226.12.32
+hypen	cratimă	2005-09-03 18:51:03	10.0.3.15
+non breaking space	spaţiu neîntreruptibil, fix, fixat, spaţiu inseparabil	2005-09-03 18:54:41	10.0.3.15
+passphrase	parolă tip frază, parolă-frază	2005-09-03 18:56:32	193.226.12.32
+line break	rând/linie nouă	2005-09-03 18:58:49	193.226.12.32
+column break	coloană nouă	2005-09-03 18:59:13	193.226.12.32
+outline	schiţă, contur, a sublinia, subliniat	2005-09-03 19:03:53	82.208.179.146
+outline	schiţă, contur, a sublinia, subliniat, sumar	2005-09-03 19:11:41	10.0.3.15
+outline	schiţă, contur, a sublinia, subliniat, structură	2005-09-03 19:19:33	10.0.3.15
+find	căutare, a căuta	2005-09-03 19:31:49	193.226.12.32
+find	a căuta, căutare	2005-09-03 19:32:07	193.226.12.32
+topic	topică, subiect	2005-09-03 19:42:12	10.0.3.15
+text flow	aranjament text	2005-09-03 19:44:15	10.0.3.15
+western	vest-european	2005-09-03 19:49:41	10.0.3.15
+drop caps	majusculă multilinie	2005-09-03 20:01:45	10.0.3.15
+align bottom	aliniere la bază	2005-09-03 20:07:27	10.0.3.15
+drop caps	majusculă multilinie, letrină	2005-09-03 20:11:32	10.0.3.15
+thesaurus	lexicon	2005-09-03 20:59:42	85.204.91.2
+drop down list	listă de selecţie	2005-09-04 19:09:21	195.229.241.180
+unhandled	nemavrabil	2005-09-05 10:54:08	194.138.39.53
+required	necesar, necesară	2005-09-05 10:57:20	194.138.39.53
+scan	a examina, a cerceta amănunţit, a scana, scanare	2005-09-06 12:34:44	194.138.39.53
+scan	a examina, a cerceta amănunţit, a analiza, a scana, scanare	2005-09-06 12:36:24	194.138.39.53
+even	par;neted;orizontal;egal;	2005-09-06 17:04:06	86.125.132.140
+odd	impar	2005-09-06 17:05:16	86.125.132.140
+wizard	asistent, vrăjitor [dand: gresit]	2005-09-06 17:58:09	10.0.0.246
+asset	bun; lucru de pret; avere; profit;	2005-09-06 19:04:02	86.125.132.140
+salvage	salvare; recuperare	2005-09-06 19:05:27	86.125.132.140
+issue	  s  număr (de ziar)  n; ediţie  f; problemă  f; rezultat  n	2005-09-06 19:10:40	86.125.132.140
+issue	  s  număr (de ziar)  n; ediţie  f; problemă  f; rezultat  n; vi/vt  a ieşi; a emite; a publica	2005-09-06 19:11:59	86.125.132.140
+discount	#  s  rabat  n; deconectare  f	2005-09-06 19:17:02	86.125.132.140
+discount	#  s  rabat  n; deconectare  f;  vt  a deconta; a sconta	2005-09-06 19:17:26	86.125.132.140
+redemption	  s  răscumpărare 	2005-09-06 19:19:06	86.125.132.140
+coupon	#   s  cupon 	2005-09-06 19:38:03	86.125.132.140
+yield	  s  producţie  f; recoltă  f; beneficiu  n	2005-09-06 19:38:40	86.125.132.140
+bond	  s  legătură  f; obligaţie  f; angajament  n; robie  f	2005-09-06 19:53:58	86.125.132.140
+currency	1. circulaţie monetară, 2. monedă, 3. valută, 4. răspândire	2005-09-06 21:00:39	195.229.241.180
+suitable	 1.  convenabil. 2. (to, for) potrivit (cu, pentru)	2005-09-06 21:41:02	195.229.241.180
+toolbar	bară de unelte	2005-09-07 00:35:46	10.0.3.31
+paste	a lipi, a plasa?, a insera?	2005-09-07 00:38:02	10.0.3.31
+outdated	învechit, depăşit	2005-09-07 00:39:40	10.0.3.31
+writer	editor	2005-09-07 00:40:50	10.0.3.31
+available	disponibil	2005-09-07 12:07:44	86.125.132.140
+pressed	  adj  (d. cărămidă) presat; presat de timp	2005-09-07 14:20:36	86.125.132.140
+overflow	a deborda; inundare	2005-09-07 14:21:59	86.125.132.140
+hiperlink	legătură	2005-09-07 14:22:56	86.125.132.140
+hiperlink	hiperlegătură	2005-09-07 14:23:34	86.125.132.140
+mirror	oglindă, site alternativ, site-oglindă	2005-09-09 10:34:58	10.0.0.246
+pipeline		2005-09-10 18:49:36	193.226.12.32
+workaround	metodă (procedeu, soluţie) alternativă	2005-09-12 13:08:46	81.180.92.43
+overflow	a deborda [dand: va rog, nu!]; inundare [dand: nimeni nu se va gandi la ce trebuie]; overflow	2005-09-12 21:39:12	10.0.3.62
+overflow	overflow	2005-09-14 12:13:30	10.0.0.246
+topic	topică, subiect, discuţie	2005-09-14 16:55:53	10.0.0.246
+support	asistenţă	2005-09-16 12:10:18	10.0.0.246
+help	ajutor, asistenţă	2005-09-16 12:10:26	10.0.0.246
+schedule	planificare, programare	2005-09-21 17:04:30	193.226.114.19
+invalid	nevalid(ă), invalid(ă)	2005-09-29 02:28:30	217.156.51.213
+downgrade	de-gradare, învechire, degradare? retrogradare	2005-09-30 10:53:07	213.164.225.71
+analysis	analiză 1	2005-10-03 00:43:09	81.196.249.50
+scrollbar	bară defilare	2005-10-03 15:19:33	10.0.0.246
+scrollbar	bară defilare (fost: bară de derulare)	2005-10-03 15:19:46	10.0.0.246
+scroll	a defila (fost: a derula, rulou, spirală, filet, a (se) rula)	2005-10-03 15:20:04	10.0.0.246
+analysis	analiză	2005-10-03 15:20:30	10.0.0.246
+install	a instala, instalare	2005-10-03 15:24:49	10.0.0.246
+upgrade	a îmbunataţi, îmbunataţire, a actualiza	2005-10-03 15:25:11	10.0.0.246
+upgradable	actualizabil	2005-10-03 15:29:13	10.0.0.246
+counter	contor	2005-10-03 15:49:32	10.0.0.246
+retrieve	a descărca	2005-10-03 16:52:56	10.0.0.246
+abort	a abandona	2005-10-03 16:53:08	10.0.0.246
+abstract	abstract	2005-10-03 16:53:15	10.0.0.246
+accept	a accepta	2005-10-03 16:53:48	10.0.0.246
+access	a accesa	2005-10-03 16:53:54	10.0.0.246
+active matrix display	afişaj cu matrice activă	2005-10-03 16:54:13	10.0.0.246
+add	a adăuga	2005-10-03 16:54:29	10.0.0.246
+add-in	modul	2005-10-03 16:57:19	10.0.0.246
+additional	adiţional, suplimentar	2005-10-03 16:57:29	10.0.0.246
+alert	atenţionare	2005-10-03 16:58:41	10.0.0.246
+applix	Applix	2005-10-03 17:02:57	10.0.0.246
+antialiasing	netezire	2005-10-03 17:03:52	10.0.0.246
+align	a alinia	2005-10-03 17:06:48	10.0.0.246
+amount	sumă	2005-10-03 17:07:47	10.0.0.246
+apply	a aplica	2005-10-03 17:08:45	10.0.0.246
+area	suprafaţă	2005-10-03 17:10:34	10.0.0.246
+about	despre	2005-10-03 17:17:58	10.0.0.246
+applet	mini-aplicaţie	2005-10-03 17:19:15	10.0.0.246
+area grid	grilă suprafaţă	2005-10-03 17:19:36	10.0.0.246
+array	tablou	2005-10-03 17:20:22	10.0.0.246
+workaround	metodă (procedeu, soluţie) alternativă / ocolitoare	2005-10-03 17:33:37	194.138.39.53
+assert	aserţiune	2005-10-03 17:34:45	10.0.0.246
+asset	resursă	2005-10-03 17:35:54	10.0.0.246
+assign	a asigna	2005-10-03 17:36:46	10.0.0.246
+attach	a anexa, a ataşa	2005-10-03 17:37:48	10.0.0.246
+attachment	anexă, ataşament	2005-10-03 17:38:00	10.0.0.246
+autofill	completare automată	2005-10-03 17:38:27	10.0.0.246
+lock	a bloca, a încuia, drept exclusiv, a obţine access exclusiv	2005-10-03 22:40:44	10.0.3.31
+malformed	diform, greşit, deteriorat, eronat	2005-10-03 22:43:38	10.0.3.31
+unsupported	fără suport	2005-10-03 22:44:56	10.0.3.31
+quit	a ieşi, a termina, a părăsi	2005-10-03 22:51:33	10.0.3.31
+lock	a bloca, a încuia, drept exclusiv, a obţine acces exclusiv	2005-10-03 23:07:49	10.0.3.31
+warning	avertizare, atenţie	2005-10-03 23:11:58	10.0.3.31
+output	a produce, produs, ieşire, rezultat	2005-10-03 23:47:27	10.0.3.31
+listed	afişat	2005-10-04 00:10:18	10.0.3.31
+log	jurnal, istoric	2005-10-04 00:15:53	10.0.3.31
+change log	istoric modificări	2005-10-04 00:16:10	10.0.3.31
+lock	a bloca, a obţine acces exclusiv	2005-10-04 02:04:53	10.0.3.31
+cache	cache, memorie tampon	2005-10-04 15:50:06	10.0.0.246
+cached	salvat temporar	2005-10-04 15:50:28	10.0.0.246
+icon	icon	2005-10-04 16:52:36	10.0.0.246
+mouse cursor	cursor mouse	2005-10-04 16:52:46	10.0.0.246
+folder	director	2005-10-04 16:52:54	10.0.0.246
+cache	cache	2005-10-04 16:53:04	10.0.0.246
+tab	filă	2005-10-04 16:53:14	10.0.0.246
+scroll	a defila	2005-10-04 16:54:02	10.0.0.246
+scrollbar	bară defilare	2005-10-04 16:54:07	10.0.0.246
+scsi	scsi	2005-10-04 16:54:41	10.0.0.246
+save as	salvează ca	2005-10-04 16:54:53	10.0.0.246
+setting	setare	2005-10-04 16:55:50	10.0.0.246
+standard deviation	deviere standard	2005-10-04 16:56:10	10.0.0.246
+banned	blocat	2005-10-04 16:57:27	10.0.0.246
+backslash	backslash	2005-10-04 16:57:36	10.0.0.246
+redo	a reface	2005-10-04 17:11:10	10.0.0.246
+undo	a anula	2005-10-04 17:11:16	10.0.0.246
+proxy	proxy	2005-10-04 17:18:00	10.0.0.246
+click	clic	2005-10-04 21:42:04	10.0.3.42
+host	gazdă, server	2005-10-04 21:47:22	10.0.3.42
+prepare	a pregăti	2005-10-04 22:19:00	10.0.3.42
+computer	calculator	2005-10-04 22:22:28	10.0.3.42
+dialog box	fereastră de dialog	2005-10-04 22:28:07	10.0.3.42
+dialog	dialog, fereastră	2005-10-04 22:28:17	10.0.3.42
+double click	dublu-clic	2005-10-04 22:32:45	10.0.3.42
+icon	icon (pl: icon-uri)	2005-10-04 22:59:04	10.0.3.42
+run	a porni	2005-10-04 23:04:22	10.0.3.42
+run	a porni, a executa	2005-10-04 23:04:36	10.0.3.42
+tray	zonă de notificare	2005-10-05 00:06:33	10.0.3.42
+print	a tipări	2005-10-05 01:56:02	83.103.205.67
+chipset		2005-10-08 20:34:20	217.156.51.213
+driver	pilot, driver, modul de nucleu	2005-10-08 20:51:00	217.156.51.213
+setting	setare, mediu, cadru	2005-10-08 20:52:19	217.156.51.213
+watermark	scris de fundal	2005-10-09 03:24:04	217.156.51.213
+bullet	marcatori	2005-10-09 03:27:02	217.156.51.213
+bullet	marcator, bulină	2005-10-09 03:27:40	217.156.51.213
+anuar	anuar	2005-10-09 21:31:53	81.181.67.153
+scroll	a derula	2005-10-12 02:51:17	10.0.3.29
+scrollbar	bară de derulare	2005-10-12 02:51:22	10.0.3.29
+backtrace	stiva de apeluri	2005-10-24 17:09:21	194.138.39.52
+tray	zonă de notificar	2005-10-27 20:30:03	82.79.81.6
+tray	zonă de notificare	2005-10-27 20:30:17	82.79.81.6
+charset	set de caractere	2005-10-30 00:07:59	10.0.3.41
+interchange file format	alternează, schimbă cu altceva,  formatarea fişierului	2005-11-04 16:41:37	193.231.117.179
+interlaced	întreţesut	2005-11-09 20:19:18	10.0.3.6
+tip	sfat, vîrf	2005-11-11 00:51:30	10.0.3.14
+sex	sex	2005-11-16 15:22:10	80.96.84.107
+sidebar	bara laterala	2005-11-21 00:58:20	80.96.84.107
+sidebar	bară laterală	2005-11-21 00:58:59	80.96.84.107
+font	font	2005-11-21 14:31:09	10.0.0.223
+howto	reţetar	2005-11-24 01:12:39	217.156.51.213
+wizard	asistent	2005-11-25 20:06:28	10.0.3.44
+clu	ciorchine, mănuchi, cluster; ciorchine; baterie? - TRUNCHI ? -	2005-11-26 19:58:28	80.96.84.107
+cluster	ciorchine, mănuchi, cluster; ciorchine; baterie?; trunchi ?	2005-11-26 19:59:01	80.96.84.107
+clu		2005-11-26 19:59:09	80.96.84.107
+howto	ghid	2005-11-26 20:39:40	10.0.3.52
+icon	icon (pl: icon-uri), pictogramă	2005-11-30 21:32:03	81.180.214.2
+recorder	inscriptor	2005-11-30 22:31:24	81.180.214.2
+change case	Schimbare tip literă, Schimbare casetă tipografică, Modificare majuscule/minuscule, Modificare după caz?	2005-12-04 16:13:26	193.226.119.180
+fill	a umple, umplutură, completare?	2005-12-05 12:23:16	193.226.119.180
+callout	explicaţie, rezumat?	2005-12-05 12:56:50	193.226.119.180
+flowchart	flux, schemă logică, flowchart (hartă a fluxurilor), flux tehnologic, organigramă	2005-12-05 13:08:05	193.226.119.180
+toolbox	trusă (de unelte), trusă, listă de opţiuni	2005-12-06 10:15:00	80.96.84.107
+toolbar	bară de unelte, bară de opţiuni	2005-12-06 10:15:24	80.96.84.107
+tool menu	meniu de unelte, meniu de opţiuni	2005-12-06 10:15:57	80.96.84.107
+owner	proprietar, titular	2005-12-06 12:31:40	80.96.84.107
+management	gestiune	2005-12-14 19:55:00	80.86.100.52
+design	schiţă, model, proiect, plan	2005-12-29 13:15:54	213.157.171.42
+networking	reţelistică	2006-01-10 16:02:37	86.125.21.164
+fullscreen	întreg ecranul	2006-01-10 17:17:36	82.76.12.174
+skin	decoraţiune	2006-01-12 02:09:10	85.186.168.29
+skin	decoraţiune, aspect	2006-01-16 00:48:19	81.180.214.2
+skin	decoraţiune	2006-01-16 00:51:02	81.180.214.2
+skill	aptitudine, abilitate	2006-01-16 15:57:29	80.96.84.107
+runlevel	nivel de execuţie; nivel de rulare	2006-01-17 15:12:31	195.229.242.52
+skin	veșmînt; decor	2006-01-17 19:17:11	86.55.4.218
+toolbar	bara uneltelor	2006-01-17 19:18:26	86.55.4.218
+clu	sugestie	2006-01-17 19:19:25	86.55.4.218
+cluster	mănunchi	2006-01-17 19:19:53	86.55.4.218
+tip	chichiță [tips & tricks = chichițe și șmecherii]	2006-01-17 19:21:22	86.55.4.218
+interchange file format	format intershimbabil de fișier	2006-01-17 19:22:36	86.55.4.218
+watermark	filigran	2006-01-17 19:23:28	86.55.4.218
+bullet	bumb	2006-01-17 19:23:47	86.55.4.218
+bug	ploșniță [este singurul echivalent rezonabil; altfel „hibă” etc. ar merge]	2006-01-18 09:56:32	86.55.4.218
+tips & tricks	chichițe și șmecherii	2006-01-18 09:57:31	86.55.4.218
+print	a imprima [nu a tipări, deoarece printer = imprimantă]	2006-01-18 09:59:50	86.55.4.218
+print	a imprima [nu a tipări, deoarece printer = imprimantă]; în menu: imprimă [pagina/paginile]	2006-01-18 10:00:24	86.55.4.218
+print area	suprafața tipărită [efectiv]	2006-01-18 10:01:33	86.55.4.218
+undo	desfă [cf. redo]	2006-01-18 10:02:09	86.55.4.218
+redo	refă [uzual în menu; a reface]	2006-01-18 10:02:38	86.55.4.218
+header	colontitlu [termen tipografic consacrat]	2006-01-18 10:03:50	86.55.4.218
+footer	coloncifru [termen tipo consacrat; în nici un caz subsol]	2006-01-18 10:04:30	86.55.4.218
+footnote	notă de pagină [nu „de subsol”; vezi footer]	2006-01-18 10:05:05	86.55.4.218
+tab	tab[ulator]; abrevierea tab = tabulator  mi se pare OK	2006-01-18 10:06:24	86.55.4.218
+table of contents	tabla de materii; cuprins	2006-01-18 10:06:46	86.55.4.218
+line	rînd [procesare text]; linie [grafică]	2006-01-18 10:07:28	86.55.4.218
+row	rînd [în tabele]; șir [inadecvat ca termen IT]; cf. line	2006-01-18 10:08:53	86.55.4.218
+hide	a (se) ascunde; în menu: ascunde [aplicația]; hide all = ascunde‑le pe toate	2006-01-18 10:10:09	86.55.4.218
+select	a selecta; select all = selectează tot	2006-01-18 10:12:04	86.55.4.218
+selection	selecție [nu alegere]	2006-01-18 10:12:27	86.55.4.218
+copy	[în menu: copiază]	2006-01-18 10:13:07	86.55.4.218
+copy	copie; a copia; în menu: copiază [selecția]	2006-01-18 10:14:00	86.55.4.218
+paste	a insera [cf. copy: copy-paste = copiază - inserează]	2006-01-18 10:14:56	86.55.4.218
+endnote	notă finală	2006-01-18 10:17:06	86.55.4.218
+endnote	notă finală [cf. footnote]	2006-01-18 10:17:24	86.55.4.218
+en-dash	linie en [trad „paranteză orizontală” este complet greșită; cf. em-dash]	2006-01-18 10:24:14	86.55.4.218
+engineering	inginerie; echipa de programatori: MS/Apple engineering = programatorii MS/Apple	2006-01-18 10:25:17	86.55.4.218
+entry	cuvînt-titlu [„element” nu merge; cf. item]	2006-01-18 10:26:10	86.55.4.218
+abstract	abstract; sumar[ul unui text mai lung]	2006-01-18 10:27:29	86.55.4.218
+activate	a activa, activare; activate settings = activează setările	2006-01-18 10:27:59	86.55.4.218
+add	a adăuga; add contents = adaugă conținutul	2006-01-18 10:28:42	86.55.4.218
+backup	copie de ajutor [backup = a ajuta; ajutor, sprijin]	2006-01-18 10:29:35	86.55.4.218
+bcc	blind carbon copy = copie indigo invizibilă	2006-01-18 10:30:14	86.55.4.218
+backtrace	lista de mesaje	2006-01-18 10:31:04	86.55.4.218
+backslash	linie oblică inversă [cf. slash]	2006-01-18 10:32:08	86.55.4.218
+slash	linie oblică [cf. backslash]	2006-01-18 10:32:39	86.55.4.218
+sleeping	somn	2006-01-18 10:33:28	86.55.4.218
+sleep	somn; put to sleep = adoarme [calculatorul]	2006-01-18 10:34:22	86.55.4.218
+slot	fantă; nişă	2006-01-18 10:34:51	86.55.4.218
+default	standard; default install[ation] = instalare standard	2006-01-18 10:35:37	86.55.4.218
+defaults	setări standard	2006-01-18 10:35:58	86.55.4.218
+decrease	a micșora; decrease / increase [size etc.] = micșorează / mărește [dimensiunea] etc.	2006-01-18 10:36:54	86.55.4.218
+debug	a deparatiza [cf. bug = ploșniță]	2006-01-18 10:37:46	86.55.4.218
+desktop	birou; desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou	2006-01-18 10:39:32	86.55.4.218
+desktop background	fondul [ecranului/biroului] [„fundal” este cacofonic, a se evita]	2006-01-18 10:40:52	86.55.4.218
+desktop environment	ambientul de lucru / biroului	2006-01-18 10:41:25	86.55.4.218
+delete	a şterge, ştergere; delete all = șterge tot / șterge‑le pe toate	2006-01-18 10:41:57	86.55.4.218
+debug	a deparazita [cf. bug = ploșniță]	2006-01-18 10:42:21	86.55.4.218
+edit	a modifica, a edita, editare; edit notes = editează notele	2006-01-18 10:43:46	86.55.4.218
+eject	a scoate, a arunca; eject CD = scoate CD‑ul / scoate discul	2006-01-18 10:44:36	86.55.4.218
+em-dash	linie em; linie de dialog [cf. en-dash]	2006-01-18 10:45:08	86.55.4.218
+forward	înainte; trimitere mai departe [pentru e-mail]	2006-01-18 19:21:40	82.76.12.174
+sender	expeditor	2006-01-19 15:30:04	82.76.12.174
+skin	costum; veșmînt; decor	2006-01-20 00:12:58	86.34.72.26
+inline	intercalat, inline	2006-01-20 02:08:25	85.186.168.29
+passphrase	parolă tip frază, parolă-frază, frază secretă	2006-01-21 03:15:14	85.186.168.29
+feature	caracteristică; însușire	2006-01-21 10:16:54	86.55.4.218
+file transfer protocol	protocol de transfer al fişierelor	2006-01-21 10:17:52	86.55.4.218
+fill	a completa; fill in data = completează datele	2006-01-21 10:18:31	86.55.4.218
+find	a căuta, căutare; find words = caută cuvintele	2006-01-21 10:19:02	86.55.4.218
+firewall	zid de protecție	2006-01-21 10:19:26	86.55.4.218
+fail	a eşua, eşec; action failed = acțiunea a eșuat	2006-01-21 10:19:50	86.55.4.218
+fetch	a potrivi [datele]; fetch data = potrivește datele	2006-01-21 10:20:44	86.55.4.218
+go	start, navigare, du-te, încarcă; go! = pornește; go to page = du‑te la pagina;	2006-01-21 10:22:29	86.55.4.218
+grab	a strînge, a aduna	2006-01-21 10:22:55	86.55.4.218
+fetch	a potrivi [datele]; fetch data = potrivește datele; a aduce, a scoate; fetch mail = adu mail-ul [de pe server]	2006-01-21 14:03:13	85.186.168.29
+entry	cuvînt-titlu [„element” nu merge; cf. item], înregistrare	2006-01-22 03:09:42	85.186.168.29
+preset	a prestabili, a stabili anticipat	2006-01-22 14:51:12	85.186.168.29
+em-dash	linie em; [cf. en-dash]	2006-01-22 23:28:35	86.55.4.218
+factory	fabrică; factory settings = setările din fabrică	2006-01-22 23:29:19	86.55.4.218
+i/o subsystem	subsistemul de intrări şi ieşiri	2006-01-22 23:30:27	86.55.4.218
+import	a importa, import; import file = importă fișierul / un fișier	2006-01-22 23:31:08	86.55.4.218
+increase	a mări, a creşte; increase size = mărește dimensiunea	2006-01-22 23:32:02	86.55.4.218
+incremental update	actualizare incrementală [prin adăugarea datelor noi]	2006-01-22 23:32:53	86.55.4.218
+indent	indentare [retragere a paragrafului cu x mm față de margine]	2006-01-22 23:33:45	86.55.4.218
+index	indice	2006-01-22 23:33:56	86.55.4.218
+jump	a sări, salt; jump to page = sari la pagina	2006-01-22 23:34:22	86.55.4.218
+jump to...	sari la... [imperativ, pers. a 2-a sing, verb a sări]	2006-01-22 23:34:52	86.55.4.218
+justified	aliniat la [ambele] margini	2006-01-22 23:35:37	86.55.4.218
+justify	a alinia la margini; justify [text] = aliniază [textul] la margini	2006-01-22 23:36:29	86.55.4.218
+keyboard shortcut	scurtătură [cu ajutorul tastelor]	2006-01-22 23:37:21	86.55.4.218
+landscape	peisaj; [print] landscape = imprimă [format] peisaj [adică avînd hîrtia cu latura lungă pe orizonatală; cf. portrait]	2006-01-22 23:38:39	86.55.4.218
+landscape	peisaj; [print] landscape = imprimă [format] peisaj [adică avînd hîrtia cu latura lungă pe orizontală; cf. portrait]	2006-01-22 23:39:09	86.55.4.218
+legacy	moştenire	2006-01-22 23:39:38	86.55.4.218
+letter	literă, scrisoare; format Letter [scrisoare, standard în SUA]	2006-01-22 23:40:18	86.55.4.218
+license agreement	acord de licențiere	2006-01-22 23:40:43	86.55.4.218
+magenta	[culoarea] magenta [folosită în descompunerea culorilor]	2006-01-22 23:41:28	86.55.4.218
+magenta	[culoarea] magenta = purpuriu [folosită în descompunerea culorilor]	2006-01-22 23:41:44	86.55.4.218
+mainstream	fluxul principal	2006-01-22 23:42:10	86.55.4.218
+mapping	cartare, cartografiere; mapare	2006-01-22 23:42:40	86.55.4.218
+numbered list	listă numerotată	2006-01-22 23:45:19	86.55.4.218
+notify	a înştiinţa, înştiinţare; notify me if.. ≠ anunță‑mă atunci cînd...	2006-01-22 23:45:46	86.55.4.218
+none	nimic; nespecificat [ultima formă de preferat în multe aplicații]	2006-01-22 23:46:26	86.55.4.218
+non breaking space	spaţiu inseparabil [adică nu poate fi despărțit la final de rînd]	2006-01-22 23:47:02	86.55.4.218
+non-breaking hyphen	cratimă inseparabilă = liniuță de unire [termen IT recent; esențial pentru limba română, deși încă neinclus de Acad. Română în lista de termeni lingvistici]	2006-01-22 23:48:30	86.55.4.218
+soft hyphen	cratimă variabilă [apare doar dacă e necesar și dispare la repaginare]	2006-01-22 23:49:30	86.55.4.218
+header	colontitlu [termen tipografic consacrat; nu 'antet' = siglă, logo, cf. def. în DEX: Indicaţie tipărită în partea de sus a unei foi de hârtie sau a unui plic, cuprinzând numele, adresa etc. unei instituţii sau ale unei persoane. ]	2006-01-23 08:42:40	86.55.4.218
+occurrence	manifestare; recurență	2006-01-23 08:45:17	86.55.4.218
+only	doar, numai [limitativ]	2006-01-23 08:45:50	86.55.4.218
+open source	sursă deschisă / publică - aplicaţii ale căror surse sînt publice	2006-01-23 08:46:13	86.55.4.218
+option	opţiune; tasta „Option” [Opțiune] pe tastaturile Macintosh.	2006-01-23 08:46:50	86.55.4.218
+page break	întreruperea paginii	2006-01-23 08:47:39	86.55.4.218
+parse	a analiza; a converti [dintr‑un format în altul]	2006-01-23 08:48:28	86.55.4.218
+patch	petec; a peteci [se referă la mici aduceri la zi a unor aplicații, cărora le „peticește” unele hibe]	2006-01-23 08:49:31	86.55.4.218
+patch	petec; a peteci [se referă la mici aduceri la zi ale unor aplicații, cărora le „peticește” unele hibe]	2006-01-23 08:49:51	86.55.4.218
+peer	conexiune, conexiune-pereche	2006-01-23 08:50:42	86.55.4.218
+pending	în suspensie, în lucru	2006-01-23 08:50:59	86.55.4.218
+cached	salvat temporar, stocat temporar	2006-01-30 02:21:39	85.186.168.29
+summary	rezumat, sumar [summary view = vizualizare sumară]	2006-01-30 02:29:51	85.186.168.29
+log	jurnal, istoric, înregistrări	2006-01-30 22:13:34	85.186.180.116
+nick	alias, pseudonim, nume ales, poreclă	2006-02-04 22:22:01	193.231.29.34
+nick	alias, pseudonim	2006-02-04 22:22:22	193.231.29.34
+nickname	pseudonim, nume ales, poreclă, alias	2006-02-04 22:22:43	193.231.29.34
+header	colontitlu [termen tipografic consacrat; nu 'antet' = siglă, logo, cf. def. în DEX: Indicaţie tipărită în partea de sus a unei foi de hârtie sau a unui plic, cuprinzând numele, adresa etc. unei instituţii sau ale unei persoane. ], antet (în cazul unui mail header)	2006-02-04 22:24:09	193.231.29.34
+non-breaking hyphen	cratimă inseparabilă = liniuţă de unire [termen IT recent; esenţial pentru limba română, deşi încă neinclus de Acad. Română în lista de termeni lingvistici]	2006-02-04 22:25:32	193.231.29.34
+option	opţiune, setare; tasta „Option” [Opțiune] pe tastaturile Macintosh.	2006-02-04 22:26:07	193.231.29.34
+option	opţiune, setare; tasta „Option” [Opţiune] pe tastaturile Macintosh.	2006-02-04 22:26:18	193.231.29.34
+indent	indentare [retragere a paragrafului cu x mm faţă de margine]	2006-02-04 22:26:51	193.231.29.34
+occurrence	apariţie, manifestare; recurenţă;	2006-02-04 22:27:39	193.231.29.34
+guest	musafir, oaspete, vizitator	2006-02-04 22:29:43	193.231.29.34
+non-breaking hyphen	liniuţă de unire [Unicode 2011; caracter cu specific IT; esenţial pentru limba română]	2006-02-10 20:21:41	82.76.12.174
+soft hyphen	liniuţă de despărţire [Unicode 00AD; invizibilă în mod normal, vizibilă doar dacă este cazul la despărţire în silabe]	2006-02-10 20:25:13	82.76.12.174
+non-breaking space	spaţiu de unire [Unicode 002D; caracter cu specific IT]	2006-02-10 20:27:14	82.76.12.174
+background	fundal, plan secund	2006-02-16 12:53:19	80.139.207.131
+map	hartă	2006-02-18 16:38:15	82.79.169.93
+chart	schemă, diagramă, grafic	2006-02-18 16:39:18	82.79.169.93
+core	de bază, nucleu, principal, vital	2006-02-25 23:29:24	84.234.107.62
+link	a lega, legătură, a trimite?, trimitere?, relaţionare	2006-02-26 11:07:31	84.234.107.62
+submit	a trimite, trimitere, propunere	2006-02-26 21:06:13	84.234.107.62
+footer	coloncifru [termen tipo consacrat; în nici un caz subsol] discutie:http://www.macuser.ro/index.php/forums/viewthread/345/P15/	2006-02-27 12:06:38	80.139.226.132
+detach	a desprinde, a detaşa	2006-03-01 22:21:59	85.186.180.116
+fingerprint	amprentă	2006-03-04 15:41:36	85.186.180.116
+broadcast	a anunţa (în reţea)?	2006-03-04 15:47:01	85.186.180.116
+parse	a analiza, a prelucra; a converti [dintr‑un format în altul]	2006-03-04 16:15:25	85.186.180.116
+render	a da, a preda, a livra, a înapoia, a exprima	2006-03-08 01:36:11	86.123.4.95
+toolbar	bară cu unelte	2006-03-11 16:22:48	85.186.180.116
+markup	marcare, evidenţiere	2006-03-11 16:44:05	85.186.180.116
+fork	a clona, a bifurca, furculiţă	2006-03-11 20:46:07	85.186.180.116
+undock	a detaşa	2006-03-12 23:26:21	85.186.180.116
+detach	a desprinde	2006-03-12 23:26:48	85.186.180.116
+fork	a clona, a bifurca, fork	2006-03-12 23:27:26	85.186.180.116
+reset	a repune, a restabili, a reseta [a reseta există în DOOM 2005]	2006-03-13 13:09:15	82.76.12.174
+reset	a restabili, a reseta [a reseta există în DOOM 2005]	2006-03-13 13:10:54	82.76.12.174
+snippet	bucată de cod	2006-03-14 16:49:54	10.0.0.65
+bound	a lega, legătură, a legă, a asocia	2006-03-14 17:14:10	10.0.0.65
+hotlist	listă fierbinte	2006-03-15 19:01:14	82.76.12.174
+footer	coloncifru [termen tipografic consacrat; în nici un caz subsol] discutie:http://www.macuser.ro/index.php/forums/viewthread/345/P15/	2006-03-16 11:06:34	193.231.104.5
+count	a contoriza, a socoti	2006-03-17 15:56:48	82.76.12.174
+fingerprint	amprentă (digitală)	2006-03-21 16:12:48	193.231.29.34
+engine	motor	2006-03-21 16:47:38	193.231.29.34
+unavailable	indisponibil	2006-04-03 17:30:54	217.156.83.1
+condescending	desconsiderat, NU condescendent (sensul este invers în română)	2006-04-05 13:52:23	194.138.39.52
+condescending	desconsiderat, dispreţuitor, NU condescendent (sensul este invers în română)	2006-04-05 13:52:47	194.138.39.52
+toolbar	bară cu instrumente	2006-04-09 20:43:25	86.121.231.242
+patch	petic; a petici [se referă la mici aduceri la zi ale unor aplicații, cărora le „peticește” unele hibe]	2006-04-09 20:46:37	86.121.231.242
+peer	conexiune, conexiune-pereche, partener	2006-04-09 20:47:34	86.121.231.242
+peering	parteneriat	2006-04-09 20:49:24	86.121.231.242
+skin	decoraţiune; costum; veșmînt	2006-04-10 19:16:53	81.12.219.114
+render	a reda, a randa (in special pentru imagini 3D)	2006-04-15 20:05:18	86.121.231.242
+broadcast	a emite, a anunţa (în reţea)?	2006-04-15 20:06:37	86.121.231.242
+diaeresis	tremă	2006-04-20 22:05:14	86.123.244.175
+subtitle	subtitrare , subtitlu	2006-04-26 14:24:51	81.181.177.182
+layout	machetă, aranjament, aspect ,plan general, proiect	2006-04-26 14:27:13	81.181.177.182
+row	rând [în tabele]; șir [inadecvat ca termen IT]; cf. line	2006-04-26 14:28:16	81.181.177.182
+layout	machetă, aranjament, aspect, plan general, proiect	2006-04-26 14:31:37	81.181.177.182
+blog	jurnal	2006-05-01 01:19:02	195.7.3.238
+blog	jurnal personal	2006-05-01 01:19:31	195.7.3.238
+directory	director, dosar	2006-05-02 21:01:26	195.7.3.238
+inbox	Primite	2006-05-03 09:48:36	195.7.3.238
+signer	semnatar, certificator	2006-05-03 10:06:00	195.7.3.238
+wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	2006-05-03 10:37:42	195.7.3.238
+idle	în aşteptare, liber, nefolosit, neutilizat, inutil, disponibil	2006-05-04 23:07:15	195.7.3.238
+dump	a remite, a reda	2006-05-05 17:11:47	195.7.3.238
+progress	progres, evoluţie	2006-05-05 17:23:05	195.7.3.238
+firmware		2006-05-05 20:56:52	86.123.244.42
+drag and drop	trage şi lasă să cadă, tragere şi plasare ?, trage şi plasează	2006-05-06 09:45:52	195.7.3.238
+profile	profil , contur	2006-05-07 11:50:22	81.181.177.182
+view	vizualizare, vedere, afişare; arată; vizualizare; perspectivă	2006-05-07 11:54:24	81.181.177.182
+certificate	adeverinţă ,certificat	2006-05-07 12:03:03	81.181.177.182
+valid	valabil , justificat	2006-05-07 12:06:26	81.181.177.182
+detail	amănunt , detaliu 	2006-05-07 12:12:56	81.181.177.182
+certification	 certificare; adeverire; atestare	2006-05-07 15:02:05	81.181.177.182
+from	din , de la , de	2006-05-07 15:12:56	81.181.177.182
+thumbprint	amprentă	2006-05-07 15:24:48	81.181.177.182
+low	jos , scăzut , redus	2006-05-08 16:44:48	81.181.177.182
+trusted	de încredere , sigură	2006-05-08 17:28:37	81.181.177.182
+titlebar	bară de titlu	2006-05-14 11:23:32	82.79.75.170
+swap	a înlocui, a schimba	2006-05-14 12:33:22	82.79.75.170
+floating	plutitor	2006-05-14 12:50:05	82.79.75.170
+mail	poştă, poştă electronică	2006-05-15 00:08:38	195.7.3.238
+item	element, articol	2006-05-15 00:12:03	195.7.3.238
+set	a seta, mulţime, a pune, a plasa, a apune, a activa, a atribui	2006-05-19 01:07:55	195.7.3.238
+consistent	consecvent	2006-05-21 00:21:54	81.181.100.130
+slideshow	album, prezentare album	2006-05-25 00:40:12	86.121.113.146
+timeout	timp expirat; timpul alocat a expirat; limită de timp	2006-05-27 12:33:06	85.186.180.116
+toolbar	bară cu instrumente; bară cu unelte	2006-05-27 12:38:26	85.186.180.116
+toolbar	bară cu unelte	2006-05-27 12:39:01	85.186.180.116
+copyright	drepturi de autor	2006-05-27 12:53:07	85.186.180.116
+display	a afişa, afişaj, ecran (pentru display X)	2006-05-27 13:07:48	85.186.180.116
+owner	deţinător, proprietar, titular	2006-05-27 15:11:01	85.186.180.116
+handler	descriptor, gestionar (dand: descriptor e greşit folosit în afara fişierelor), administrator	2006-05-27 15:16:45	85.186.180.116
+root window	fereastră rădăcină; fereastră fundal	2006-05-27 15:36:19	85.186.180.116
+mount point	punctul de montare	2006-05-27 15:37:54	85.186.180.116
+mount point	locul de montare	2006-05-27 15:38:20	85.186.180.116
+info	info, detalii	2006-05-27 15:50:54	85.186.180.116
+permission	drept, drepturi	2006-05-27 17:52:04	85.186.180.116
+permission	drept, drepturi, permisiuni	2006-05-27 17:52:13	85.186.180.116
+broken	invalid, deteriorat	2006-05-27 18:09:58	85.186.180.116
+please wait	aşteptaţi puţin	2006-05-27 19:12:02	85.186.180.116
+caption	legendă, titlu (de articol), antet, etichetă	2006-05-27 19:33:57	85.186.180.116
+emblem	emblemă	2006-05-27 19:37:19	85.186.180.116
+systray	zonă de notificare	2006-05-28 10:28:47	85.186.180.116
+system tray	zonă de notificare	2006-05-28 10:28:59	85.186.180.116
+paned	încastrat, lateral	2006-05-28 10:32:15	85.186.180.116
+skip	a omite, a sări, salt	2006-05-28 17:43:05	193.231.29.34
+prepend	a prefixa	2006-06-03 22:26:05	85.186.237.237
+sequence	succesiune	2006-06-08 13:31:30	89.136.96.38
+toolbar	cutia cu unelte	2006-06-15 03:06:32	66.72.192.5
+toolbar	bara uneltelor	2006-06-15 03:10:28	66.72.192.5
+toolbar	bara instrumentelor	2006-06-15 03:10:45	66.72.192.5
+please wait	asteapta te rog	2006-06-15 03:12:16	66.72.192.5
+handler	utilizator	2006-06-15 03:17:18	66.72.192.5
+timeout	pauza	2006-06-15 03:18:15	66.72.192.5
+slideshow	prezentare imagini	2006-06-15 03:19:14	66.72.192.5
+slideshow	prezentare diapozitive	2006-06-15 03:19:25	66.72.192.5
+set	a aseza	2006-06-15 03:20:24	66.72.192.5
+set	a aplica	2006-06-15 03:20:50	66.72.192.5
+valid	corect	2006-06-15 03:22:18	66.72.192.5
+valid	potrivit	2006-06-15 03:22:40	66.72.192.5
+view	punct de vedere	2006-06-15 03:23:38	66.72.192.5
+view	imagine	2006-06-15 03:24:04	66.72.192.5
+firmware	program intrinsec	2006-06-15 03:27:08	66.72.192.5
+dump	a renunta, a anula, a arunca	2006-06-15 03:30:14	66.72.192.5
+repertory	depozit, arhivă	2006-06-17 06:48:01	86.123.244.232
+repertory	depozit, arhivă; repertoriu	2006-06-17 06:48:34	86.123.244.232
+hard link	legătură fizică, legătură dură	2006-06-17 07:13:37	86.123.244.232
+verbose	vorbăreţ, detaliat, gălăgios	2006-06-17 07:17:48	86.123.244.232
+hardware	fierărie, hardware (componentele fizice ale unui calculator), componente, echipament	2006-06-17 08:23:25	86.123.244.28
+hard	greu, dificil, hard(?)	2006-06-17 08:23:56	86.123.244.28
+double quote	ghilimele, semne de citare	2006-06-17 08:48:26	86.123.244.28
+range	rază (de extindere), zonă, arie, interval, plajă (de valori), a înşira, a clasifica, şir, domeniu, ordine	2006-06-17 09:14:25	86.123.244.28
+weighted	ponderat, cântărit	2006-06-21 10:25:27	194.138.39.52
+khmer	khmer	2006-07-04 20:10:25	86.123.244.63
+drop	a refuza	2006-07-19 11:20:28	193.230.245.6
+note that	Atenţie:, Nu uitaţi că:, A se reţine că	2006-07-22 13:35:33	86.123.244.124
+blank	blanc(?), gol, vid	2006-07-22 13:38:29	86.123.244.124
+take advantage of	a beneficia de	2006-07-22 13:59:27	86.123.244.124
+feature	caracteristică; însușire; facilitate; capabilitate	2006-07-22 14:00:16	86.123.244.124
+to deal with	a trata (ceva)	2006-07-22 14:01:37	86.123.244.124
+clear text password	parole în clar	2006-07-22 14:49:06	86.123.244.124
+clear text password	parolă în clar	2006-07-22 14:49:15	86.123.244.124
+clear text password	parolă necriptată, parolă în clar	2006-07-22 14:49:44	86.123.244.124
+backend	backend, suport	2006-07-22 16:30:48	86.123.244.124
+mundane	uzual	2006-07-23 02:55:38	86.123.244.124
+mailing list	listă de discuţii, listă de discuţii prin poştă electronică	2006-07-23 12:09:46	86.123.244.124
+shell	scoică, carapace, shell, interfaţă(?)	2006-07-23 12:15:29	86.123.244.124
+command line shell	consolă pentru linia de comandă	2006-07-23 12:17:01	86.123.244.124
+bewilder	a dezorienta	2006-07-23 12:19:27	86.123.244.124
+crash	cădere, a avea o pană, pană, defect	2006-07-23 13:40:18	86.123.244.124
+link	a lega, legătură, a crea link, link, a trimite?, trimitere?, relaţionare	2006-07-24 15:22:22	85.186.180.116
+issuer	emitent	2006-07-31 02:14:42	84.232.238.155
+threaded	grupat pe [fir de] discuţii, threaded	2006-08-02 18:36:36	82.76.12.174
+printable	bun de tipar;publicabil;imprimabil	2006-08-11 12:45:25	86.104.73.39
+parent directory	director superior	2006-08-11 14:23:19	82.76.12.174
+handle	a manevra, a gestiona, a trata	2006-08-11 21:00:38	84.232.238.155
+legal notice	notă juridică	2006-08-13 02:59:37	86.123.24.228
+multiboot	(sistem cu mai multe sisteme de operare)?	2006-08-13 03:11:26	86.123.24.228
+bullet	bumb,bulină	2006-08-13 19:47:14	86.35.211.151
+bundle	a include, includere, inclus, legat, includere; inclus, pachet	2006-08-13 19:47:47	86.35.211.151
+fullscreen	întreg ecranul, tot ecranul	2006-08-13 20:12:36	86.35.211.151
+bug	ploșniță [este singurul echivalent rezonabil; altfel „hibă” etc. ar merge], defect, deficienţă,, incident	2006-08-14 13:14:34	86.104.73.39
+debug	a depana, a corecta, a corija, a pune la punct	2006-08-14 13:16:10	86.104.73.39
+sorry	a părea rău	2006-08-14 13:26:33	86.104.73.39
+sorry	îmi pare rău	2006-08-14 13:27:06	86.104.73.39
+set	a aplica, a pune	2006-08-14 15:40:01	86.104.73.39
+turn	rundă	2006-08-17 00:55:21	86.104.73.39
+set	a aplica, a pune, a stabili, mulţime	2006-08-18 13:31:11	86.104.73.39
+tile	mozaic, mozaic; tapetat ?,parcelă	2006-08-18 13:35:54	86.104.73.39
+pedestrian	pieton	2006-08-18 16:23:41	217.156.83.1
+probe	a testa, a explora, a investiga	2006-08-19 15:54:30	86.123.24.228
+stage	etapă	2006-08-20 15:43:39	86.123.24.228
+bug	ploșniță [este singurul echivalent rezonabil; altfel „hibă” etc. ar merge], defect, deficienţă,, incident, defecţiune	2006-08-26 11:42:27	86.104.73.39
+restore	a restabili, a restaura, a repara, a recupera, restaurare; a reface, refacere	2006-09-07 17:50:16	86.125.255.155
+expander	extensor	2006-09-07 19:16:07	86.125.255.155
+embedded	încapsulat, înglobat	2006-09-07 20:48:51	86.125.255.155
+tile	mozaic, mozaic; tapetat ?,parcelă, formă (geometric)ă	2006-09-10 13:49:44	86.104.73.39
+tile based	joc bazat pe forme (geometrice)	2006-09-10 13:50:19	86.104.73.39
+tile based	bazat pe forme (geometrice)	2006-09-10 13:50:31	86.104.73.39
+display manager	administrator de ecran	2006-09-12 13:17:37	86.104.73.39
+registry	registru (de configurare, ex.: pt. Windows registry)	2006-09-16 13:24:35	89.165.181.14
+az anyatok istenit	anyatok	2006-09-25 10:05:03	81.180.27.134
+alternatively	există şi posibilitatea să 	2006-09-27 23:56:46	217.156.83.1
+workflow	flux de lucru; mod de lucru; mod de operare	2006-10-01 19:12:14	84.234.104.139
+drop	a renunţa la, a refuza	2006-10-03 19:36:29	217.156.83.1
+upstream	(de la) autorii originari, upstream, amonte?	2006-10-03 19:37:10	217.156.83.1
+toolchain	ansamblu de unelte	2006-10-03 19:37:51	217.156.83.1
+bleeding edge <something>	cele mai recente, <chestii> foarte recente	2006-10-03 20:13:19	217.156.83.1
+keyring	inel de chei (de la breloc)	2006-10-04 16:23:07	217.156.83.1
+owner	deţinător, proprietar, titular, posesor	2006-10-04 16:23:21	217.156.83.1
+keymap	mapare de tastatură	2006-10-06 16:29:52	217.156.83.1
+keymap	harta de tastatură	2006-10-06 16:32:45	217.156.83.1
+policy	politică, protocol(ul de a face ceva)	2006-10-06 16:35:00	217.156.83.1
+handling	manevrare, gestionare, tratare/tratament	2006-10-06 16:36:17	217.156.83.1
+listing	~înşiruire	2006-10-06 17:00:18	217.156.83.1
+specified	precizat, (rar) specificat	2006-10-13 23:21:56	217.156.83.1
+specified	menţionat, precizat, (rar) specificat	2006-10-13 23:22:12	217.156.83.1
+colon	simbolul „două puncte”	2006-10-14 01:03:43	217.156.83.1
+listed	afişat, enumerat	2006-10-14 01:04:05	217.156.83.1
+factored	creat(ă)	2006-10-14 01:58:54	217.156.83.1
+layout	machetă, aranjament, aspect, plan general, proiect, dispunere	2006-10-17 15:29:48	82.76.93.14
+scale	balanţă, scală, a scala, scalare; scară	2006-10-17 15:31:53	217.156.83.1
+valuable	valuable	2006-10-18 10:37:28	81.196.163.214
+layout	machetă, aranjament, aspect, plan general, proiect, dispunere, formatare	2006-10-20 10:58:40	82.76.93.14
+front	faţadă	2006-10-20 11:12:34	82.76.93.14
+frontend	interfaţă, faţadă	2006-10-20 11:13:19	82.76.93.14
+trash	gunoi, maculatură	2006-10-23 10:35:15	82.76.93.14
+default	standard; default install[ation] = instalare standard; implicit ("reset to default" nu e musai să fie resetat la un standard universal, ci poate fi un preset particular al aplicaţiei respective)	2006-10-26 15:16:11	82.76.12.174
+setup	a pregăti, pregătire (iniţial); configurare (ulterior)	2006-10-27 14:35:44	82.76.12.174
+setup	a pregăti, pregătire (iniţial); configuraţie (ulterior)	2006-10-27 14:47:53	82.76.12.174
+setup	a pregăti, pregătire (iniţial); a configura, configuraţie (ulterior)	2006-10-27 14:50:16	82.76.12.174
+setup	a pregăti, pregătire (iniţial); a configura, configurare (ulterior)	2006-10-27 14:52:55	82.76.12.174
+cookie	cookie; fursec	2006-10-29 12:49:26	84.232.238.155
+hotlist	listă fierbinte, listă favorită	2006-10-29 21:20:06	84.232.238.155
+acknowledgements	mulţumiri	2006-10-30 19:11:01	84.234.104.139
+framerate	frecvenţă cadre	2006-11-02 22:52:08	84.232.238.155
+backup	copie de siguranţă [backup = a ajuta; ajutor, sprijin]	2006-11-04 01:21:31	80.96.84.108
+line break	rând/linie nouăţţţţîăââ	2006-11-07 16:57:24	89.136.45.209
+urge	to ~ somebody to = a cere cuiva să	2006-11-07 17:11:31	217.156.83.1
+drop	a renunţa la, a refuza, a abandona	2006-11-07 17:24:05	217.156.83.1
+override	a strivi, a înlocui, înlocuieşte, supracomanda?	2006-11-07 18:17:24	217.156.83.1
+anvil	nicovală	2006-11-09 18:53:45	217.156.83.1
+blowtorch	lampă de sudură (cu flacără deschisă)	2006-11-09 19:04:51	217.156.83.1
+jetpack	propulsor personal	2006-11-09 19:25:23	217.156.83.1
+line break	rând/linie nouă	2006-11-10 17:42:36	217.156.83.1
+light	1. lumină, 2. uşor, sumar, (cu) amprentă mică	2006-11-10 17:47:38	217.156.83.1
+polish	1. a crea luciu 2. a rafina, a face ceva să arate mai bine	2006-11-10 17:56:04	217.156.83.1
+polished	1. (ceva) cu luciu 2. rafinat(a), îngrijit(a)	2006-11-10 17:57:35	217.156.83.1
+hourly	la fiecare oră	2006-11-10 18:11:29	217.156.83.1
+hourly	1. la fiecare oră 2. orar(ă) - (ex. rată ~)	2006-11-10 18:12:09	217.156.83.1
+distribution	distribuţie	2006-11-13 12:38:02	82.76.123.129
+licence	licenţa	2006-11-13 12:38:37	82.76.123.129
+override	a strivi, a înlocui, (a supracomanda?), a interveni	2006-11-14 22:43:21	84.232.245.223
+url		2006-11-15 12:26:07	193.17.220.89
+token	semn, simbol, jeton, element; atom; obiect; semn; simbol; ştafetă; marcaj	2006-11-16 12:39:30	82.76.93.14
+braces	acolade	2006-11-17 21:54:53	89.37.127.47
+bracket	paranteză pătrată	2006-11-17 21:55:53	89.37.127.47
+parantheses	paranteze rotunde	2006-11-17 21:56:29	89.37.127.47
+fqdn	acronim pentru Fully-Qualified Domain Name, domeniu de nume integral conform	2006-11-18 18:59:57	89.35.59.231
+url	acronim pentru Universal Resource Locator, resursa de localizare universală	2006-11-18 19:01:45	89.35.59.231
+resolver	aplicaţie pentru găsirea adreselor IP asociate numelor de server	2006-11-18 19:12:09	89.35.59.231
+resolver	aplicaţie pentru soluţionarea (rezolvarea) echivalenţei adresă IP -- denumire de server	2006-11-18 19:13:28	89.35.59.231
+opponent	adversar	2006-11-21 17:17:17	217.156.83.1
+pinging	testarea conexiunii	2006-11-22 23:24:11	89.35.59.231
+ping	ping, testarea conxiunii de reţea prin pachete care cer un ecou (ICMP ECHO_REQUEST packets)	2006-11-22 23:25:32	89.35.59.231
+ping	ping, testează conxiunea de reţea prin pachete care cer un ecou (ICMP ECHO_REQUEST packets)	2006-11-22 23:26:04	89.35.59.231
+pinging	testarea conexiunii de reţea	2006-11-22 23:26:16	89.35.59.231
+ping	ping, testează conexiunea de reţea prin pachete care cer un ecou (ICMP ECHO_REQUEST packets)	2006-11-26 22:48:19	86.122.50.98
+ping	ping, testează conexiunea de reţea prin pachete care cer un 'pachet de răspuns' (ICMP ECHO_REQUEST packets)	2006-11-26 22:48:58	86.122.50.98
+override	a strivi, a înlocui, a prelua comanda, a suprascrie, a interveni	2006-11-26 22:53:27	86.122.50.98
+valuable	cu valoare	2006-11-26 22:54:43	86.122.50.98
+line	rînd [procesare text]; linie [grafică]; undiţă [pescuit]	2006-11-28 14:11:12	213.233.94.225
+line	rînd [procesare text]; linie [grafică]; fir de undiţă/undiţă [pescuit]	2006-11-28 14:31:31	213.233.94.225
+read-only	(mod) strict citire, protejat la scriere, doar citire	2006-12-03 10:04:37	193.231.29.34
+antialiasing	antialiere	2006-12-03 15:49:45	84.232.248.18
+runlevel	nivel de executare; nivel de rulare	2006-12-06 11:53:51	217.156.83.1
+runtime	la execuţie, în timpul executării	2006-12-06 11:54:24	217.156.83.1
+runtime	la executare, în timpul executării	2006-12-06 11:54:39	217.156.83.1
+runtime error	eroare la executare	2006-12-06 11:54:53	217.156.83.1
+recover	a recupera, recuperare, a reveni	2006-12-06 18:08:24	217.156.83.1
+dependency	dependență (NU dependință)	2006-12-07 17:27:55	217.156.83.1
+shadow password	parolă criptată	2006-12-11 20:27:43	10.0.3.62
+slideshow	prezentare diapozitive, succesiune imagini	2006-12-12 12:42:31	193.226.43.88
+go	start, salt, navigare, du-te, încarcă; go! = pornește; go to page = du‑te la pagina;	2006-12-13 13:55:41	193.226.43.88
+go	start, salt, navigare, du-te, încarcă; go! = porneşte; go to page = du‑te la pagina;	2006-12-13 13:55:59	193.226.43.88
+shopping	shopping	2006-12-15 21:27:48	89.136.118.13
+software	cart software	2006-12-15 21:29:04	89.136.118.13
+folder	dosar	2006-12-16 00:16:19	84.232.248.18
+spreadsheet	operator de baze de date, calcul tabelar?	2006-12-18 00:42:12	86.34.141.86
+daemon	serviciu	2006-12-18 03:55:08	10.0.0.131
+software	software	2006-12-18 03:55:33	10.0.0.131
+localhost	buclă locală	2006-12-23 23:27:39	86.121.146.24
+site	poziţie, situaţie, amplasament, sit, prezență web	2006-12-25 11:00:18	84.61.40.221
+disclaimer	declaraţie de neasumare a responsabiltăţii, certificat de negaranţie	2006-12-25 11:43:43	84.61.40.221
+plain text	text simplu, text clar [când se referă la o transmisie necriptată]	2006-12-25 14:15:41	84.232.245.223
+break	pauză, a face pauză, a deteriora, a rupe (break row across columns)	2007-01-03 12:19:23	86.104.203.150
+break	pauză, a face pauză, a deteriora, a întrerupe (break row across columns)	2007-01-03 12:22:02	86.104.203.150
+suppress	a suprima	2007-01-03 15:00:46	86.104.203.150
+proceedings	proceedings	2007-01-03 21:53:29	86.104.203.150
+amount	sumă, valoare (total amount = valoare totală)	2007-01-03 22:42:15	86.104.203.150
+amount	sumă, valoare (în unele cazuri: total amount = valoare totală)	2007-01-03 22:42:29	86.104.203.150
+hanging indent	indentare atârnată	2007-01-03 22:59:59	86.104.203.150
+word processor	procesor de text (de ex. OOo.writer, AbiWord - NU editoare de text cum e notepad, etc)	2007-01-04 13:46:04	86.104.203.150
+header	colontitlu [termen tipografic consacrat; nu 'antet' = siglă, logo, cf. def. în DEX: Indicaţie tipărită în partea de sus a unei foi de hârtie sau a unui plic, cuprinzând numele, adresa etc. unei instituţii sau ale unei persoane. ], antet (în cazul unui mail header; de asemenea antet este varianta aleasă _deocamdata_ pt traducerea OOo)	2007-01-05 00:30:02	86.104.203.150
+footer	coloncifru [termen tipografic consacrat; în nici un caz subsol] discutie:http://www.macuser.ro/index.php/forums/viewthread/345/P15/; subsol (varianta aleasă _deocamdată_ pt traducerea OOo)	2007-01-05 00:30:43	86.104.203.150
+area	suprafaţă, arie, zonă	2007-01-05 01:02:05	86.104.203.150
+well-formed	bine-întocmit	2007-01-05 12:32:02	82.76.93.14
+compress	a compresa (nu "a comprima")	2007-01-10 02:11:49	86.104.203.150
+compression	compresie	2007-01-10 02:12:01	86.104.203.150
+compress	a compresa, a comprima	2007-01-10 10:10:19	86.104.203.150
+compression	compresie, comprimare	2007-01-10 10:10:28	86.104.203.150
+compression	compresie, comprimare (data compression = compresie a datelor)	2007-01-10 10:11:33	86.104.203.150
+to fix	~  a problem, a remedia, a repara, rareori a fixa	2007-01-16 21:31:13	217.156.83.1
+radio button	buton radio, (nu potenţiometru)	2007-01-17 00:55:23	86.104.203.150
+graphic	grafică (cu pluralul grafici, dacă nu e vorba de grafice matematice)	2007-01-17 17:40:28	86.104.203.150
+graphic	grafică (cu pluralul grafici, dacă nu e vorba de grafice matematice - vezi DEX)	2007-01-17 17:41:20	86.104.203.150
+usability	uşurinţa, intuitiviatea de utilizare 	2007-01-18 12:39:11	82.77.126.3
+usability	uşurinţa, intuitiviatea în utilizare	2007-01-18 12:40:19	82.77.126.3
+refactoring	perfectare, reorganizare, rescriere	2007-01-18 16:09:02	82.77.126.3
+changeset	set de schimbări (legat de vcs)	2007-01-20 14:06:53	89.136.170.108
+annotation	notă explicativă	2007-01-20 16:22:46	86.104.203.150
+tip	chichiță [tips & tricks = sugestii şi ponturi; chichițe și șmecherii]	2007-01-20 21:32:26	193.231.29.34
+fortune	zicere, vorbă de duh	2007-01-20 22:12:02	193.231.29.34
+system tray	zonă (sistem) de notificare	2007-01-20 22:59:22	193.231.29.34
+daemon	serviciu, demon	2007-01-20 23:58:01	193.231.29.34
+set	1. a aplica, a pune, a stabili, a defini ca, a desemna ca 2. mulţime	2007-01-21 11:37:12	89.136.170.108
+setting	opţiune de configurare, mediu, cadru, setare	2007-01-21 11:38:10	89.136.170.108
+setting	1. opţiune de configurare, setare 2. mediu, cadru	2007-01-21 11:38:37	89.136.170.108
+escape sequence	secvenţă de citare (referitor la formatarea şirurilor în C); caractere de eludare	2007-01-23 20:06:50	84.234.104.139
+various	divers (various options = opțiuni diverse)	2007-01-27 13:57:41	84.232.245.223
+subsidear		2007-01-30 10:27:26	193.230.156.8
+bug	ploșniță [este singurul echivalent rezonabil; altfel „hibă” etc. ar merge], defect, deficienţă, incident, defecţiune, disfuncţionalitate	2007-01-31 13:33:46	82.77.126.3
+aggregator	agregator, sumator, totalizator	2007-02-01 12:02:39	82.76.93.14
+case folding	toate caracterele cu aceeaşi mărime	2007-02-05 14:45:56	82.76.93.14
+perfectionare continua	perfectionare continua	2007-02-07 17:26:46	89.165.187.82
+interfata	interfaţă	2007-02-16 18:18:32	80.96.135.67
+tutorial	ghid	2007-02-18 13:53:40	89.136.170.108
+reliable	fiabil	2007-02-19 09:51:45	89.136.170.108
+dummy	marionetă?, înlocuitor temporar?, figurant, machetă	2007-02-21 11:51:43	82.76.93.14
+blend	a contopi	2007-02-24 13:36:05	85.186.103.52
+blended	contopit	2007-02-24 13:36:15	85.186.103.52
+directory	director (desi nu e corect d.p.d.v. DEX?), dosar	2007-02-25 00:26:58	84.232.248.18
+grab	a strînge, a aduna, a înhăţa	2007-02-28 14:46:05	82.76.12.174
+daemon	serviciu	2007-03-04 23:57:28	89.136.170.108
+as of	începând cu	2007-03-05 00:37:55	89.136.170.108
+typically	în general, de cele mai mute ori	2007-03-05 00:47:20	89.136.170.108
+typically	în mod normal, în general, de cele mai mute ori	2007-03-05 00:47:47	89.136.170.108
+dash	liniuţă	2007-03-10 02:21:52	86.120.27.15
+request	cerere	2007-03-10 12:33:02	86.125.56.140
+fault	eroare	2007-03-10 12:50:39	86.125.56.140
+tracker	monitor	2007-03-11 15:07:13	86.123.247.251
+retrieve	a descărca, a obţine	2007-03-11 15:14:56	86.123.247.251
+location	loc, adresă	2007-03-11 18:37:59	86.123.247.251
+handle	a opera, a manevra, a gestiona, a trata	2007-03-11 18:40:53	86.123.247.251
+highlight	a evidenţia	2007-03-11 19:44:32	86.123.247.251
+crash	cădere, a avea o pană, pană, defect, terminare prematură	2007-03-11 19:45:11	86.123.247.251
+shell	shell, consolă	2007-03-11 19:47:37	86.123.247.251
+build	a construi, versiune compilată, build	2007-03-11 19:51:02	86.123.247.251
+browse	a naviga	2007-03-11 19:58:11	86.123.247.251
+trash	gunoi	2007-03-11 20:00:57	86.123.247.251
+uri	adresă URI	2007-03-11 20:02:11	86.123.247.251
+timeout	timp alocat expirat, limită de timp	2007-03-11 20:22:09	86.123.247.251
+snippet	bucată de cod, bloc de cod	2007-03-11 23:22:57	86.123.247.251
+trigger	declanşator	2007-03-11 23:24:53	86.123.247.251
+report	relataţi	2007-03-12 15:07:10	193.226.7.11
+power management	administrarea consumului de energie electrică	2007-03-13 17:10:59	193.226.7.11
+power management	administrarea consumului de energie	2007-03-13 17:11:23	193.226.7.11
+power	consum	2007-03-13 17:37:11	193.226.7.11
+power management	administrarea consumului	2007-03-13 17:37:24	193.226.7.11
+feed	flux	2007-03-15 22:03:45	86.120.233.82
+rss feed	flux RSS	2007-03-15 22:04:01	86.120.233.82
+hostname	nume de gazdă, nume de calculator, hostname	2007-03-16 14:33:11	217.156.83.1
+by default	implicit	2007-03-17 17:47:20	89.136.170.108
+pair	a asocia	2007-03-19 17:25:57	212.93.140.102
+headset	caşti	2007-03-19 17:45:00	212.93.140.102
+locate	a localiza	2007-03-19 17:55:39	212.93.140.102
+section	capitol, secţiune	2007-03-20 00:46:52	86.105.124.15
+ignore	a ignora	2007-03-20 10:19:11	212.93.140.102
+empty	vid, gol	2007-03-20 10:25:12	212.93.140.102
+quota	cotă	2007-03-20 10:29:57	212.93.140.102
+graphic tablet	tabletă grafică	2007-03-20 10:33:06	212.93.140.102
+grant	a împuternicii, a permite (grant access)	2007-03-20 10:40:51	212.93.140.102
+addon	modul	2007-03-20 14:19:33	212.93.140.102
+assistive	de asistenţă	2007-03-20 14:20:14	212.93.140.102
+dummy	marionetă?, înlocuitor temporar?, figurant, machetă, de formă	2007-03-21 02:22:35	86.105.124.15
+pipeline	ansamblu	2007-03-21 03:38:05	86.105.124.15
+queue	coadă (eventual stivă?) 	2007-03-22 15:51:39	193.226.7.11
+buddy	prieten	2007-03-23 10:41:22	212.93.140.102
+spool	coadă de aşteptare	2007-03-23 12:20:25	212.93.140.102
+path	cale [folosit in contextul fisierelor], traseu	2007-03-23 13:07:22	212.93.140.102
+idle	în aşteptare, inactiv, liber, nefolosit, neutilizat, inutil, disponibil	2007-03-23 13:39:54	212.93.140.102
+resolve	a rezolva [în contextul DNS]	2007-03-26 10:24:47	212.93.140.102
+set	0. a definii 1. a aplica, a pune, a stabili, a defini ca, a desemna ca 2. mulţime	2007-03-28 10:58:03	212.93.140.102
+restricted	cu restricţii	2007-03-29 10:30:30	212.93.140.102
+invalid	nevalid(ă), nu traduceţi cu invalid	2007-03-31 12:29:32	86.105.124.15
+size	mărime	2007-03-31 12:42:33	86.105.124.15
+assign	a desemna delega, a asocia ceva cuiva, (a asigna e greşit, vezi DEX)	2007-04-01 05:58:07	89.136.170.108
+assign	a desemna, a delega, a asocia ceva cuiva, (a asigna e greşit, vezi DEX)	2007-04-01 05:58:18	89.136.170.108
+ad-hoc	ad-hoc	2007-04-01 12:20:20	86.105.124.15
+notably	cel mai cunoscut, în mod evident	2007-04-01 21:04:41	89.136.170.108
+cancel	a renunţa, a anula, a revoca	2007-04-03 17:12:02	80.97.161.22
+highly recommanded	(este) indicat (să)	2007-04-03 17:12:19	217.156.83.1
+highly recommanded	it is ~ to = (este) indicat (să)	2007-04-03 17:25:53	217.156.83.1
+done	gata, ?realizat?	2007-04-03 18:45:14	80.97.161.22
+bluetooth	Bluetooth	2007-04-04 10:17:56	212.93.140.102
+bluetooth	Bluetooth (numele unei tehnologii)	2007-04-04 10:18:11	212.93.140.102
+bluetooth	Bluetooth [numele unei tehnologii]	2007-04-04 10:18:19	212.93.140.102
+fix	a repara [vb], remediu [s]	2007-04-04 22:58:34	86.105.124.15
+frown	a se încrunta	2007-04-04 23:04:13	86.105.124.15
+emoticon	emoticon	2007-04-04 23:10:10	86.105.124.15
+greeter application	aplicaţie de întâmpinare	2007-04-04 23:20:26	86.105.124.15
+forwarding	înaintare	2007-04-04 23:53:37	86.105.124.15
+shake	a zgudui, a scutura	2007-04-05 00:30:26	86.105.124.15
+hazard	risc	2007-04-05 00:32:38	86.105.124.15
+bitrate		2007-04-06 00:11:41	85.204.111.197
+bitrate	?	2007-04-06 00:11:48	85.204.111.197
+caret	semnul '^', circumflex	2007-04-06 12:55:47	80.97.161.22
+slash	per (termen tipografic existent în română) [cf. backslash]	2007-04-06 12:56:34	80.97.161.22
+dummy	marionetă?, înlocuitor temporar?, figurant, machetă, de formă, elementar, banal	2007-04-06 13:00:18	80.97.161.22
+unset	deselectaţi, deselecteazâ	2007-04-07 15:01:31	62.217.232.55
+revision	revizia	2007-04-10 00:55:52	85.204.111.197
+credits	autori [aşa e în gnome], credit, recunoaşterea meritelor, echipa?, mulţumiri	2007-04-10 10:49:22	212.93.140.102
+firmware	firmware [la fel ca software si hardware], program intrinsec	2007-04-10 12:24:52	212.93.140.102
+criterion	criteriu	2007-04-10 16:11:10	212.93.140.102
+list	a enumera	2007-04-10 16:15:20	212.93.140.102
+gap	decalaj, lipsă, gaură	2007-04-12 11:48:06	212.93.140.102
+playlist	listă [simplu, se inţelege din context],listă redare?	2007-04-12 11:54:20	212.93.140.102
+view	mod afişare [in meniuri], imagine	2007-04-12 12:00:18	212.93.140.102
+conversion	transformare, conversie	2007-04-12 13:20:30	212.93.140.102
+look and feel	aspect şi comportament	2007-04-14 18:23:04	86.105.124.15
+provider	furnizor	2007-04-14 18:36:27	86.105.124.15
+malicious	maliţios	2007-04-14 18:38:16	86.105.124.15
+host	gazdă, server sau calculator [dacă e în reţea]	2007-04-15 00:35:06	86.105.124.15
+relevance	relevanţă	2007-04-15 00:58:59	86.105.124.15
+presentation	prezentare	2007-04-15 01:13:30	86.105.124.15
+sign-up	înregistrare [într-un cont]	2007-04-17 13:28:27	82.76.12.174
+icon	iconiţă, pictogramă	2007-04-19 10:06:54	193.231.29.34
+favicon	favicon (pl. faviconuri)	2007-04-19 10:07:17	193.231.29.34
+tab	1. tab[ulator]; abrevierea tab = tabulator  mi se pare OK; 2. categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	2007-04-20 23:50:08	82.78.108.89
+undo	desfă [cf. redo]; refacere (în special în cadrul GUI-ului şi cu referire la acesta; redo = repetare)	2007-04-21 00:12:44	82.78.108.89
+crop	a recolta, a tăia, a tunde	2007-04-22 23:09:50	84.232.245.223
+dummy	marionetă?, înlocuitor temporar?, figurant, machetă, de formă, elementar, banal, manechin	2007-04-22 23:12:43	84.232.245.223
+crop	a recolta, a tăia, a tunde, crop	2007-04-23 01:17:43	84.232.245.223
+retained	reţinut	2007-04-24 14:36:53	141.85.0.67
+retain	a reţine	2007-04-24 14:37:09	141.85.0.67
+checksum	sumă de control	2007-04-24 14:42:47	141.85.0.67
+preserve	a păstra	2007-04-24 14:47:50	141.85.0.67
+discard	a anula, anulare, a renunţa, renunţare, a ignora, ignorare	2007-04-24 16:15:25	82.207.140.3
+heat	heat	2007-04-25 10:50:42	80.97.142.14
+skin	decoraţiune; costum; veșmânt; ținută	2007-04-29 20:30:13	89.136.170.108
+patch	petic; a petici [se referă la mici aduceri la zi ale unor aplicații, cărora le „peticește” unele hibe]; plasture	2007-05-01 15:44:04	80.97.161.22
+softkey	tastă funcţională	2007-05-09 12:15:57	82.207.140.3
+set	0. a defini 1. a aplica, a pune, a stabili, a defini ca, a desemna ca 2. mulţime	2007-05-13 14:46:56	86.127.76.195
+manager	manager, administrator, gestionar (de ferestre)	2007-05-13 15:40:17	85.204.111.197
+rewind	derulează înapoi	2007-05-24 09:40:21	86.120.193.29
+bitrate	rată (de) biţi	2007-05-28 01:13:15	84.232.245.223
+print	a tipări	2007-06-11 17:16:15	82.76.12.174
+printable	bun de tipar, tipăribil	2007-06-11 17:18:31	82.76.12.174
+power manager	administrare consum	2007-06-11 19:43:08	89.120.196.59
+dim	a micşora	2007-06-11 19:48:17	89.120.196.59
+brightness	luminozitate	2007-06-11 20:49:09	89.120.196.59
+instant messaging	mesagerie instant	2007-06-12 22:52:24	84.232.245.223
+dim	a micşora; (de ce nu a diminua ? dim the light -> diminuează lumina (C.S.))	2007-06-12 22:55:22	84.232.245.223
+cached	salvat temporar, stocat temporar, salvat / stocat în cache	2007-06-13 23:45:06	84.232.245.223
+Înainte	a edita	2007-06-14 01:23:10	82.77.79.175
+Înainte		2007-06-14 01:24:41	82.77.79.175
+foe	duşman	2007-06-14 12:56:42	74.68.39.38
+unset	deselectaţi, deselectează	2007-06-16 00:17:07	82.76.35.13
+shuffle	a amesteca	2007-06-18 21:56:36	82.76.12.174
+warning	avertisment, atenţie	2007-06-19 21:13:21	82.76.12.174
+blog	jurnal personal (gresit, mai ales ca exista si company blog sau bloguri tematice la care scriu mai multi autori)	2007-06-20 21:41:48	82.76.35.13
+blog	jurnal personal (gresit, mai ales ca exista si company blog sau bloguri tematice la care scriu mai multi autori). In plus jurnal se suprapune peste termenul de log.	2007-06-20 21:42:07	82.76.35.13
+blog	blog (de ce trebuie tradus neapărat ? este un concept. C.S.); jurnal personal (gresit, mai ales ca exista si company blog sau bloguri tematice la care scriu mai multi autori). In plus jurnal se suprapune peste termenul de log.	2007-06-25 23:46:16	84.232.245.223
+spelling	ortografie	2007-06-30 03:03:24	82.78.108.89
+tab stop	spaţiere tab, pl. (tab stops) spaţiere taburi	2007-07-01 13:13:30	82.78.108.89
+workshop	seminar, laborator?, prezentare	2007-07-03 21:24:59	86.106.70.103
+dangling	agăţat	2007-07-08 19:08:37	89.120.196.59
+contacts	agendă	2007-07-08 20:00:29	89.120.196.59
+user	utiliza	2007-07-25 18:04:12	82.76.17.224
+user	utilizator	2007-07-25 18:04:46	82.76.17.224
+burner	utilitar de scriere	2007-07-26 12:09:20	217.156.83.1
+glos	glos	2007-08-05 19:24:38	86.122.136.14
+work	muncă, activitate	2007-08-10 17:31:47	195.212.29.187
+bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate	2007-08-13 23:03:04	86.121.172.165
+sign-in	intrare	2007-08-31 15:37:42	193.239.134.1
+sign-out	ieşire	2007-08-31 15:38:00	193.239.134.1
+sign-in	intrare [într-un cont]	2007-08-31 15:38:35	193.239.134.1
+sign-out	ieşire [dintr-un cont]	2007-08-31 15:38:47	193.239.134.1
+expand	a extinde, a desfăşura	2007-09-08 00:10:12	194.54.128.86
+memo	notiţă, notă	2007-09-09 22:27:03	89.37.100.242
+select	a alege, a sorta	2007-09-09 22:40:35	89.37.100.242
+report	relataţi, (s) raport	2007-09-09 23:06:06	89.37.100.242
+report	relataţi, (s) raport, (vt) a relata	2007-09-09 23:06:51	89.37.100.242
+unlock	a descuia (nu am altă idee)	2007-09-10 00:12:08	89.37.100.242
+issue	a emite; a publica, ediţie, problemă (curatat dupa copia de pe dictionare.com)	2007-09-10 23:08:08	89.37.100.242
+issue	a emite; a publica, ediţie, problemă	2007-09-10 23:08:24	89.37.100.242
+desktop	birou; suprafaţă de lucru, desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou	2007-09-11 01:03:40	89.37.100.242
+maintainance	mentenanţă	2007-09-11 23:32:16	89.37.100.242
+photo	fotografie	2007-09-11 23:37:58	89.37.100.242
+self-signed	semnat în nume propriu?	2007-09-13 12:48:42	193.231.29.34
+unregister	deînregistrare?, ştergere înregistrare	2007-09-13 18:29:13	193.231.29.34
+user-agent	Antet „User-Agent”	2007-09-17 16:12:22	193.230.245.6
+widget	accesoriu	2007-09-17 17:54:47	92.80.218.108
+widget	accesoriu ?	2007-09-17 17:55:01	92.80.218.108
+superscript	exponent, scris sus (cum este puterea), antet	2007-09-17 19:35:25	92.80.218.108
+lru	fişiere accesate recent	2007-09-20 21:58:59	193.239.131.103
+user experience	ăăăăă... cum traducem asta ?! Experienţă Utilizator ?	2007-09-28 21:29:57	86.106.70.103
+cache	cache, memorie tampon	2007-10-01 12:03:42	217.73.162.204
+widget	controale (butoate, bare de derulare, etc)	2007-10-03 19:37:54	92.80.192.50
+widget	controale (butoane, bare de derulare, etc)	2007-10-03 19:38:07	92.80.192.50
+widget	control (butoane, bare de derulare, etc)	2007-10-03 19:38:24	92.80.192.50
+checkout	???	2007-10-04 12:21:13	89.38.147.13
+shopping	cumpărături	2007-10-04 12:21:43	89.38.147.13
+bootloader	încărcător de sistem, program de pornire a sistemului	2007-10-06 13:22:57	78.96.76.106
+dialog	dialog, fereastră, conversaţie, discuţie	2007-10-08 17:09:12	89.123.85.199
+dialog	dialog, fereastră	2007-10-08 17:10:20	89.123.85.199
+contributor	colaborator	2007-10-08 23:07:24	78.96.76.106
+designate	a desemna	2007-10-09 00:08:12	78.96.76.106
+bold	îngroşat, aldin	2007-10-11 09:19:40	86.127.119.35
+italic	înclinat, cursiv	2007-10-11 09:20:26	86.127.119.35
+grab	a strînge, a aduna, a înhăţa, a capta (ecranul)	2007-10-11 20:26:00	78.96.76.106
+grab	a strînge, a aduna, a înhăţa, a bloca (ecranul)	2007-10-11 20:27:24	78.96.76.106
+subdirectory	subdosar	2007-10-11 20:33:48	78.96.76.106
+home	acasă, pagina principală, dosar personal	2007-10-11 20:34:33	78.96.76.106
+strength	complexitate (referitor la algoritmi de criptare)	2007-10-13 03:57:21	89.137.210.124
+desktop	birou; suprafaţă de lucru, desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou; tehnoredactare?	2007-10-17 17:37:07	193.230.245.6
+hash	valoare de dispersie	2007-10-18 10:35:24	212.93.140.102
+hash element	element tabelă de dispersie	2007-10-18 10:35:48	212.93.140.102
+hash bucket	clasă din tabela de dispersie	2007-10-18 10:36:21	212.93.140.102
+hash table	tabelă de dispersie	2007-10-18 10:36:41	212.93.140.102
+hash algorithm	algoritm de dispersie	2007-10-18 13:28:47	193.226.5.33
+user experience	experienţă utilizator[ului]	2007-10-20 19:16:19	92.80.198.93
+api	API	2007-10-21 03:42:54	193.226.6.226
+manage	gestionează	2007-10-24 18:51:54	89.136.170.52
+manage	gestionează, a gestiona	2007-10-24 18:52:09	89.136.170.52
+pending	în suspensie, în lucru, în așteptare	2007-10-26 01:59:12	89.137.210.124
+straightforward	liniară, lipsită de ocolișuri, simplă	2007-10-26 02:12:37	89.137.210.124
+straightforward	(adj.) liniară, lipsită de ocolișuri, simplă	2007-10-26 02:12:45	89.137.210.124
+straightforward	(adj.) liniar, lipsit de ocolișuri, simplu	2007-10-26 02:12:55	89.137.210.124
+skin	decoraţiune; costum; veșmânt; ținută, fațetă (conform Windows Media Player)	2007-10-27 20:15:12	84.232.245.223
+playlist	listă [simplu, se inţelege din context], listă de redare	2007-10-28 14:28:11	84.232.245.223
+paginile	paginile	2007-10-29 08:25:24	86.123.188.100
+sensitive	sensibil, rezonabil [sensible value = valoare rezonabilă]	2007-10-29 17:59:14	82.76.12.174
+sensitive	sensibil	2007-10-29 18:00:06	82.76.12.174
+cache	cache, memorie tampon, prestocare	2007-10-30 13:56:45	82.76.93.14
+skin	decoraţiune; veșmânt; fațetă (conform Windows Media Player)	2007-10-31 13:28:19	82.76.12.174
+skin	decorațiune; veșmânt; fațetă (conform Windows Media Player)	2007-10-31 13:28:38	82.76.12.174
+skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile), decorațiune; veșmânt	2007-10-31 13:44:50	82.76.12.174
+meter	măsură	2007-11-01 11:06:52	92.80.45.238
+poll	sondaj	2007-11-04 15:44:43	92.81.22.239
+tip	chichiță [tips & tricks = sugestii şi ponturi; chichițe și șmecherii], propun găselniţă	2007-11-06 18:42:53	89.38.7.2
+tips & tricks	chichițe și șmecherii, găselniţe?	2007-11-06 18:43:11	89.38.7.2
+next	următor, înainte (neutru, plus se poate pastra shorcutul pe N)	2007-11-07 18:59:23	89.38.7.2
+previous	precedent, înapoi (neutru, in plus se poate pastra shorcut-ul pe P)	2007-11-07 18:59:48	89.38.7.2
+previous	înapoi (neutru, in plus se poate pastra shorcut-ul pe P), precedent (alternativa veche)	2007-11-07 19:00:10	89.38.7.2
+next	înainte (neutru, plus se poate pastra shorcutul pe N), următor (alternativa veche)	2007-11-07 19:00:30	89.38.7.2
+tips & tricks	chichițe și șmecherii, găselniţe? sau mai bine: "Sfaturi utile"	2007-11-07 19:10:59	89.38.7.2
+progress	(in) desfăsurare, progres, evoluţie	2007-11-07 19:22:58	89.38.7.2
+deselect	??? - daca select=alege ,,, deselect ar fi...?	2007-11-07 19:26:55	89.38.7.2
+statement	comandă, instrucţiune, extras de cont (bancar)	2007-11-08 00:49:21	89.38.7.2
+onsite	cu deplasare	2007-11-08 11:40:44	89.38.7.2
+pie chart	grafic caşcaval, grafic plăcintă (care e mai bun???)	2007-11-08 11:43:08	89.38.7.2
+dashboard	tablou de bord	2007-11-08 11:50:17	89.38.7.2
+newsletter	buletin informativ	2007-11-08 12:20:17	212.93.140.102
+general	general, generic ???	2007-11-08 12:47:16	89.38.7.2
+newsletter	buletin informativ [daca e periodic] , buletin de ştire [daca e zilnic]	2007-11-08 14:11:44	212.93.140.102
+workgroup	???	2007-11-08 17:15:34	89.38.7.2
+overflow	overflow; excedent ? [Cristi S]	2007-11-09 23:39:37	84.232.245.223
+streaming	difuzare sub formă de flux [Cristi S]	2007-11-10 01:22:14	84.232.245.223
+newsletter	buletin informativ [dacă e periodic], buletin de ştiri [dacă e zilnic]	2007-11-10 12:06:27	84.232.245.223
+underscore	liniuţă de subliniere (am mai auzit „talpă”)	2007-11-10 17:33:25	86.125.188.48
+streaming	difuzare sub formă de flux [Cristi S]; streaming [lumea reală; mă tem că deși corect, exprimarea cu „difuzare sub formă de ...” nu va fi vorbită niciodată; Cristi S]	2007-11-11 09:46:17	84.232.245.223
+underscore	liniuţă de subliniere (am mai auzit „talpă”); linia joasă [conf. std. ISO/IEC 8859-16:2001 (Latin 10) adoptat (tradus), SR 13392:2004; Cristi S]	2007-11-11 09:57:26	84.232.245.223
+multicast	difuzare multiplă	2007-11-11 23:08:11	84.232.245.223
+hot key	tastă rapidă; tastă fierbinte [hm ?]	2007-11-12 01:20:11	84.232.245.223
+hot key	combinație de taste; tastă rapidă	2007-11-12 01:22:41	84.232.245.223
+multicast	difuzare multiplă; multicast	2007-11-12 02:26:37	84.232.245.223
+hot key	tastă rapidă; combinație de taste	2007-11-12 02:27:18	84.232.245.223
+screenshot	Captură de ecran	2007-11-14 00:46:33	89.137.8.106
+screenshot	captură de ecran	2007-11-14 00:46:46	89.137.8.106
+helpdesk	???	2007-11-16 18:50:15	89.38.7.2
+override	a strivi, a înlocui, a prelua comanda, a suprascrie, a interveni, a prevala	2007-11-18 02:48:44	84.232.245.223
+slot	fantă; nişă; spaţiu alocat	2007-11-18 16:39:21	193.231.29.37
+card	placă (u, de acces), carte (de debit, de credit, de vizită, placă (hardware); cartelă (telefonică, de acces); carte (de debit, de vizită)	2007-11-19 13:44:04	85.9.59.162
+c	limbajul de sadasdsaprogramare c, litera c	2007-11-19 13:44:18	85.9.59.162
+c	limbajul de programare c, litera c	2007-11-19 13:44:27	85.9.59.162
+incentive	permis auto	2007-11-21 12:22:01	89.136.183.207
+mentor	mentor	2007-11-22 10:20:07	212.93.140.102
+mentoring	îndrumare	2007-11-22 10:20:19	212.93.140.102
+incentive	stimulent [Adi R]	2007-11-22 10:24:16	212.93.140.102
+erase	șterge	2007-11-23 00:54:33	89.137.8.106
+host	gazdă, server sau calculator [dacă e în reţea], computer gazdă	2007-11-23 10:28:53	82.76.93.14
+undo	anulează [gnome, Adi R], desfă [cf. redo]; refacere (în special în cadrul GUI-ului şi cu referire la acesta; redo = repetare)	2007-11-24 21:03:10	89.137.8.106
+invalid	nevalid(ă), invalid [de evitat], nu este valid [de preferat]	2007-11-26 21:41:46	89.137.8.106
+helpdesk	suport tehnic	2007-11-28 15:38:24	89.35.217.202
+virtual file system	sistem de fişiere virtualâ	2007-11-29 00:51:09	86.124.214.90
+median	mediană	2007-12-05 12:04:13	89.35.217.202
+mean	medie	2007-12-05 12:04:30	89.35.217.202
+decline	a refuza [Adi R]	2007-12-05 13:40:26	212.93.140.102
+fail	a eşua ; action failed = acțiunea a eșuat	2007-12-05 13:41:10	212.93.140.102
+double click	dublu clic	2007-12-05 13:57:23	212.93.140.102
+codec	codec, codecuri [codec video, Adi R]	2007-12-05 14:42:07	212.93.140.102
+virtual file system	sistem virtual de fişiere	2007-12-08 18:22:56	89.137.8.106
+embed	incorporat	2007-12-08 19:36:16	86.55.5.206
+placeholder	înlocuitor, marcaj	2007-12-08 19:43:08	86.55.5.206
+icon	pictogramă [recomandat], iconiţă	2007-12-09 01:57:51	89.137.8.106
+crossfade	intercalare	2007-12-09 02:05:22	89.137.8.106
+site	site [folosit curent], sit, sait	2007-12-09 02:34:38	89.137.8.106
+manager	administrator, gestionar (de ferestre)	2007-12-09 02:36:31	89.137.8.106
+site	site [folosit curent], sit, sait [[site]]	2007-12-16 19:03:55	89.38.7.2
+mouse	maus [[mouse]]	2007-12-17 00:06:51	89.38.7.2
+mouse (animal)	șoarece [[mouse]]	2007-12-17 00:07:37	89.38.7.2
+cancel	a renunţa, a anula, a revoca [cancel]	2007-12-19 18:58:43	89.38.7.2
+cancel	a renunţa, a anula, a revoca [[cancel]]	2007-12-19 18:58:50	89.38.7.2
+mean	!medie	2007-12-19 19:14:41	89.38.7.2
+print	a tipări [[print]]	2007-12-20 11:40:27	89.38.7.2
+card (business)	carte de vizită	2007-12-20 12:27:11	89.38.7.2
+card (access)	cartelă (de acces)	2007-12-20 12:27:37	89.38.7.2
+card (bank)	card (bancar)	2007-12-20 12:28:30	89.38.7.2
+card (device)	placă	2007-12-20 12:29:10	89.38.7.2
+print	a tipări [[print]] 111	2007-12-20 21:26:34	89.38.7.2
+print	a tipări [[print]] 333	2007-12-20 21:27:45	89.38.7.2
+print	a tipări [[print]] 555	2007-12-20 21:27:58	89.38.7.2
+print	a tipări [[print]] 777	2007-12-20 21:29:03	89.38.7.2
+print	a tipări [[print]] 888	2007-12-20 21:30:39	89.38.7.2
+print	a tipări [[print]] 999	2007-12-20 21:31:09	89.38.7.2
+print	a tipări [[print]] 999sss	2007-12-20 21:39:20	89.38.7.2
+print	a tipări [[print]] 999sssss	2007-12-20 21:40:53	89.38.7.2
+print	a tipări [[print]] 111	2007-12-20 21:41:22	89.38.7.2
+print	a tipări [[print]] 222	2007-12-20 21:52:18	89.38.7.2
+print	a tipări [[print]] 33	2007-12-20 21:53:14	89.38.7.2
+print	a tipări [[print]] 555xxxu666	2007-12-20 21:54:13	89.38.7.2
+print	a tipări [[print]] dddxxxddd	2007-12-20 21:55:13	89.38.7.2
+print	a tipări [[print]] aaaxxxbbb	2007-12-20 21:55:43	89.38.7.2
+print	a tipări [[print]] cccxxxddd	2007-12-20 21:56:20	89.38.7.2
+print	a tipări [[print]] 111xxx222	2007-12-20 21:56:38	89.38.7.2
+print	a tipări [[print]] qqq www	2007-12-20 21:57:20	89.38.7.2
+print	a tipări	[[print]]	2007-12-20 22:06:30	89.38.7.2
+print	a tipări	[[print]] cucu	2007-12-20 22:19:13	89.38.7.2
+print	a tipări	[[print]]	2007-12-20 22:26:51	89.38.7.2
+abstract	abstract		2007-12-20 22:32:53	89.38.7.2
+abstract (text)	sumar		2007-12-20 22:33:07	89.38.7.2
+service	serviciu	[[service-daemon]]	2007-12-20 22:55:20	89.38.7.2
+daemon	serviciu	[[service-daemon]]	2007-12-20 22:55:29	89.38.7.2
+about	despre	!	2007-12-20 22:57:14	89.38.7.2
+abstract	abstract	!	2007-12-20 22:57:19	89.38.7.2
+abstract (text)	sumar	!	2007-12-20 22:57:24	89.38.7.2
+accelerator	accelerator	!	2007-12-20 22:57:29	89.38.7.2
+account	cont	!	2007-12-20 22:57:33	89.38.7.2
+active	activ	!	2007-12-20 22:57:41	89.38.7.2
+actor	actor	!	2007-12-20 22:57:46	89.38.7.2
+active matrix display	afişaj cu matrice activă	!	2007-12-20 22:58:00	89.38.7.2
+add contents	adaugă conţinutul	!	2007-12-20 22:58:48	89.38.7.2
+add	a adăuga	!	2007-12-20 22:58:58	89.38.7.2
+add-in	modul	[[addin-module-plugin-extension-applet]]	2007-12-20 22:59:28	89.38.7.2
+module	modul	[[Addin-module-plugin-extension-applet]]	2007-12-20 23:11:23	89.38.7.2
+plug-in	modul	[[Addin-module-plugin-extension-applet]]	2007-12-20 23:20:21	89.38.7.2
+extension	extensie	[[Addin-module-plugin-extension-applet]]	2007-12-20 23:20:35	89.38.7.2
+applet	mini-aplicaţie	[[Addin-module-plugin-extension-applet]]	2007-12-20 23:20:58	89.38.7.2
+activate	a activa	!	2007-12-20 23:27:19	89.38.7.2
+animation	animaţie	!	2007-12-20 23:33:37	89.38.7.2
+mouse	maus	[[mouse]] ?	2007-12-20 23:48:34	89.38.7.2
+mouse (animal)	șoarece	! [[mouse]]	2007-12-20 23:48:51	89.38.7.2
+mouse cursor	cursor mause	[[mouse]]	2007-12-20 23:49:03	89.38.7.2
+mouse cursor	cursor mause	[[mouse]] ?	2007-12-20 23:49:09	89.38.7.2
+site	sit	[site] ?	2007-12-20 23:49:29	89.38.7.2
+site	sit	[[site]] ?	2007-12-20 23:49:36	89.38.7.2
+save	a salva	!	2007-12-20 23:50:42	89.38.7.2
+save as	salvează ca	!	2007-12-20 23:50:48	89.38.7.2
+scalable	scalabil	!	2007-12-20 23:50:55	89.38.7.2
+scalar	scalar	!	2007-12-20 23:51:00	89.38.7.2
+schema	schemă	!	2007-12-20 23:51:07	89.38.7.2
+screen	ecran	[[screen-display]] ?	2007-12-20 23:51:49	89.38.7.2
+display	a afişa, afişaj, ecran (pentru display X)	[[screen-display]] ?	2007-12-20 23:51:57	89.38.7.2
+address	adresă	!	2007-12-21 00:02:48	89.38.7.2
+address book	agendă	? [[addressbook]]	2007-12-21 00:03:22	89.38.7.2
+alarm	alarmă	!	2007-12-21 00:03:33	89.38.7.2
+aggregate	agregat	!	2007-12-21 00:03:39	89.38.7.2
+screensaver	ecran de veghe	[[screensaver]] ?	2007-12-21 00:09:18	89.38.7.2
+scroll	a derula	!	2007-12-21 00:10:27	89.38.7.2
+scrollbar	bară de derulare	!	2007-12-21 00:10:37	89.38.7.2
+allow	a permite	!	2007-12-21 00:40:04	89.38.7.2
+alpha	alfa	!	2007-12-21 00:40:12	89.38.7.2
+anonymous	anonim	!	2007-12-21 00:40:21	89.38.7.2
+and	şi	!	2007-12-21 00:40:27	89.38.7.2
+average	medie	!	2007-12-21 00:40:33	89.38.7.2
+asynchronous	asincron	!	2007-12-21 00:40:44	89.38.7.2
+analog	analog	!	2007-12-21 00:40:59	89.38.7.2
+axis	axă	!	2007-12-21 00:41:10	89.38.7.2
+availability	disponibilitate	!	2007-12-21 00:41:22	89.38.7.2
+audio	audio	!	2007-12-21 00:41:28	89.38.7.2
+alpha channel	canal alfa	!	2007-12-21 00:41:37	89.38.7.2
+analysis	analiză	!	2007-12-21 00:41:50	89.38.7.2
+access	a accesa	!	2007-12-21 00:42:15	89.38.7.2
+application	aplicaţie	!	2007-12-21 00:42:46	89.38.7.2
+base	bază	!	2007-12-21 00:45:47	89.38.7.2
+beep	bip	!	2007-12-21 00:45:54	89.38.7.2
+beta	beta	!	2007-12-21 00:46:00	89.38.7.2
+binary	binar	!	2007-12-21 00:46:11	89.38.7.2
+bandwidth	lăţime de bandă	!	2007-12-21 00:46:17	89.38.7.2
+bit	bit	!	2007-12-21 00:46:23	89.38.7.2
+bluetooth	bluetooth	!	2007-12-21 00:47:05	89.38.7.2
+bricks	cărămizi	!	2007-12-21 00:47:22	89.38.7.2
+busy	ocupat	!	2007-12-21 00:47:54	89.38.7.2
+body	corp	!	2007-12-21 00:47:59	89.38.7.2
+button	buton	!	2007-12-21 00:48:10	89.38.7.2
+byte	octet	!	2007-12-21 00:48:25	89.38.7.2
+by default	implicit	!	2007-12-21 00:48:36	89.38.7.2
+bracket	paranteză pătrată	? [[brackets]]	2007-12-21 00:50:12	89.38.7.2
+parantheses	paranteze rotunde	! [[brackets]]	2007-12-21 00:55:12	89.38.7.2
+braces	acolade	! [[brackets]]	2007-12-21 00:55:42	89.38.7.2
+curly brackets	acolade	! [[brackets]]	2007-12-21 00:56:13	89.38.7.2
+square brackets	paranteze pătrate	! [[brackets]]	2007-12-21 00:56:42	89.38.7.2
+blog	blog (de ce trebuie tradus neapărat ? este un concept. C.S.); jurnal personal (gresit, mai ales ca exista si company blog sau bloguri tematice la care scriu mai multi autori). In plus jurnal se suprapune peste termenul de log.	! [[blog]]	2007-12-21 00:57:28	89.38.7.2
+blog	blog	? [[blog]]	2007-12-21 00:57:47	89.38.7.2
+basic (language)	Basic	[[basic]]	2007-12-21 00:59:28	89.38.7.2
+card (access)	cartelă (de acces)	! [[card]]	2007-12-21 01:00:35	89.38.7.2
+card (business)	carte de vizită	! [[card]]	2007-12-21 01:00:45	89.38.7.2
+card (bank)	card (bancar)	! [[card]]	2007-12-21 01:00:51	89.38.7.2
+card (device)	placă	! [[card]]	2007-12-21 01:00:59	89.38.7.2
+card	placă (u, de acces), carte (de debit, de credit, de vizită, placă (hardware); cartelă (telefonică, de acces); carte (de debit, de vizită)	! [[card]]	2007-12-21 01:01:08	89.38.7.2
+card	placă (u, de acces), carte (de debit, de credit, de vizită, placă (hardware); cartelă (telefonică, de acces); carte (de debit, de vizită)	? [[card]]	2007-12-21 01:01:17	89.38.7.2
+categories	categorii	!	2007-12-21 01:01:45	89.38.7.2
+cell	celulă	!	2007-12-21 01:01:55	89.38.7.2
+channel	canal	!	2007-12-21 01:02:06	89.38.7.2
+character set	set de caractere	!	2007-12-21 01:02:30	89.38.7.2
+charset	set de caractere	!	2007-12-21 01:02:41	89.38.7.2
+child	copil	!	2007-12-21 01:02:52	89.38.7.2
+class	clasă	!	2007-12-21 01:03:01	89.38.7.2
+click	clic	!	2007-12-21 01:03:09	89.38.7.2
+condition	condiţie	!	2007-12-21 01:03:26	89.38.7.2
+content	conţinut	!	2007-12-21 01:03:44	89.38.7.2
+contacts	agendă	! [[addressbook]]	2007-12-21 01:04:11	89.38.7.2
+checksum	sumă de control	!	2007-12-21 01:05:07	89.38.7.2
+change log	istoric modificări	!	2007-12-21 01:05:15	89.38.7.2
+classification	clasificare	!	2007-12-21 01:05:22	89.38.7.2
+compliant	conform cu	!	2007-12-21 01:05:54	89.38.7.2
+confidential	confidenţial	!	2007-12-21 01:06:23	89.38.7.2
+compare	a compara	!	2007-12-21 01:06:35	89.38.7.2
+cyan	cyan	! [[cyan]]	2007-12-21 01:09:11	89.38.7.2
+cancel	a renunţa, a anula, a revoca [[cancel]]	? [[cancel]]	2007-12-21 01:11:00	89.38.7.2
+dashboard	tablou de bord	!	2007-12-21 01:11:32	89.38.7.2
+data	informaţie, date	?	2007-12-21 01:11:50	89.38.7.2
+data	date	!	2007-12-21 01:12:09	89.38.7.2
+date	dată	!	2007-12-21 01:12:19	89.38.7.2
+datastream	flux de date	!	2007-12-21 01:12:32	89.38.7.2
+decimal	zecimal	!	2007-12-21 01:12:46	89.38.7.2
+device	dispozitiv	!	2007-12-21 01:13:21	89.38.7.2
+diagonal	diagonală	!	2007-12-21 01:13:31	89.38.7.2
+destination	destinaţie	!	2007-12-21 01:13:35	89.38.7.2
+domain	domeniu	!	2007-12-21 01:13:42	89.38.7.2
+designate	a desemna	!	2007-12-21 01:13:51	89.38.7.2
+digits	cifre	!	2007-12-21 01:13:59	89.38.7.2
+digit	cifră	!	2007-12-21 01:14:07	89.38.7.2
+disk	disc	!	2007-12-21 01:14:19	89.38.7.2
+diagram	diagramă	!	2007-12-21 01:14:29	89.38.7.2
+drawer	sertar	!	2007-12-21 01:14:37	89.38.7.2
+drive	unitate	!	2007-12-21 01:14:57	89.38.7.2
+dynamic	dinamic	!	2007-12-21 01:15:09	89.38.7.2
+dot	punct	!	2007-12-21 01:15:19	89.38.7.2
+database	bază de date	!	2007-12-21 01:17:59	89.38.7.2
+decoder	decodor	!	2007-12-21 01:18:25	89.38.7.2
+duplicate	a duplica	!	2007-12-21 01:19:17	89.38.7.2
+echo	ecou	! [echo]	2007-12-21 01:19:47	89.38.7.2
+echo	ecou	! [[echo]]	2007-12-21 01:20:03	89.38.7.2
+encoder	codor	!	2007-12-21 01:21:11	89.38.7.2
+encode	codare	!	2007-12-21 01:21:17	89.38.7.2
+encode	codare	?	2007-12-21 01:21:36	89.38.7.2
+engine	motor	!	2007-12-21 01:21:42	89.38.7.2
+ethernet	ethernet	!	2007-12-21 01:21:47	89.38.7.2
+event	eveniment	!	2007-12-21 01:21:53	89.38.7.2
+even (number)	par	!	2007-12-21 01:22:32	89.38.7.2
+odd	impar	!	2007-12-21 01:22:42	89.38.7.2
+edge	margine	? [[edge-margin-border]]	2007-12-21 01:23:15	89.38.7.2
+margin	margine	? [[edge-margin-border]]	2007-12-21 01:23:23	89.38.7.2
+margins		? [[edge-margin-border]]	2007-12-21 01:23:30	89.38.7.2
+border	margine, contur, bordură?	? [[edge-margin-border]]	2007-12-21 01:23:40	89.38.7.2
+continue	continuă	!	2007-12-21 01:24:10	89.38.7.2
+erase	șterge	? [[erase-delete-remove]]	2007-12-21 01:25:15	89.38.7.2
+remove	a şterge, a îndepărta, a elimina	? [[erase-delete-remove]]	2007-12-21 01:25:25	89.38.7.2
+delete	a şterge, ştergere; delete all = șterge tot / șterge‑le pe toate	? [[erase-delete-remove]]	2007-12-21 01:25:38	89.38.7.2
+clean	a curăţa, curăţare	? [[erase-delete-remove-clean]]	2007-12-21 01:27:43	89.38.7.2
+expunge	a elimina	? [[erase-delete-remove-clean]]	2007-12-21 01:30:35	89.38.7.2
+remove	scoade, îndepărtează, ...	? [[erase-delete-remove]]	2007-12-21 01:39:54	89.38.7.2
+delete all	şterge tot, şterge toate	? [[Erase-delete-remove-clean-expunge]]	2007-12-21 01:41:29	89.38.7.2
+delete all	şterge tot, şterge toate	! [[Erase-delete-remove-clean-expunge]]	2007-12-21 01:41:39	89.38.7.2
+delete	a şterge	? [[erase-delete-remove]]	2007-12-21 01:41:51	89.38.7.2
+erase	șterge	! [[erase-delete-remove]]	2007-12-21 01:42:12	89.38.7.2
+clean	a curăţa, curăţare	! [[erase-delete-remove-clean]]	2007-12-21 01:42:23	89.38.7.2
+clear	şterge, curăţare, a şterge, ştergere; a goli, golire	? [[Erase-delete-remove-clean-clear-expunge]]	2007-12-21 01:45:45	89.38.7.2
+clear	a limpezi, clarifica, evidenţia, a goli, a elibera	? [[Erase-delete-remove-clean-clear-expunge]]	2007-12-21 01:46:05	89.38.7.2
+clear text password	parolă necriptată, parolă în clar	? [[clear-text-password]]	2007-12-21 01:47:46	89.38.7.2
+clear text password	parolă în clar	! [[clear-text-password]]	2007-12-21 01:49:26	89.38.7.2
+closed	închis		2007-12-21 01:49:49	89.38.7.2
+closed	închis	!	2007-12-21 01:49:54	89.38.7.2
+close	a închide		2007-12-21 01:50:02	89.38.7.2
+close	a închide	!	2007-12-21 01:50:08	89.38.7.2
+clockwise	sens orar	!	2007-12-21 01:50:33	89.38.7.2
+checkbox	căsuţă de bifare	? [[checkbox]]	2007-12-21 01:51:03	89.38.7.2
+check box	căsuţă de bifare	? [[checkbox]]	2007-12-21 01:51:17	89.38.7.2
+checkout		?	2007-12-21 01:51:41	89.38.7.2
+check (control)	a bifa, bifează		2007-12-21 01:53:11	89.38.7.2
+check (control)	a bifa, bifează	!	2007-12-21 01:53:22	89.38.7.2
+check	a verifica	!	2007-12-21 01:53:41	89.38.7.2
+check button	buton de bifare	!	2007-12-21 01:53:58	89.38.7.2
+check bit	bit de verificare	!	2007-12-21 01:54:14	89.38.7.2
+call (phone)	a apela, apel telefonic	!	2007-12-21 01:55:39	89.38.7.2
+call	a apela, apel	? [[call]]	2007-12-21 01:56:15	89.38.7.2
+call (function)	apel (de funcţie)	!	2007-12-21 01:56:31	89.38.7.2
+raw	brut	!	2007-12-21 01:57:16	89.38.7.2
+raw data	date brute	!	2007-12-21 01:57:20	89.38.7.2
+raw memory	memorie brută	!	2007-12-21 01:57:26	89.38.7.2
+ready	gata	!	2007-12-21 01:57:35	89.38.7.2
+path (file)	cale	!	2007-12-21 01:58:06	89.38.7.2
+path	traseu		2007-12-21 01:58:22	89.38.7.2
+path (to follow)	traseu		2007-12-21 01:58:55	89.38.7.2
+path (to follow)	traseu	!	2007-12-21 01:59:08	89.38.7.2
+package	pachet	!	2007-12-21 01:59:17	89.38.7.2
+palette	paletă	!	2007-12-21 01:59:23	89.38.7.2
+paste	a insera [cf. copy: copy-paste = copiază - inserează]	? [[cut-copy-paste]]	2007-12-21 01:59:46	89.38.7.2
+cut	a decupa, a tăia?	? [[cut-copy-paste]]	2007-12-21 01:59:55	89.38.7.2
+copy	copie; a copia; în menu: copiază [selecția]	? [[cut-copy-paste]]	2007-12-21 02:00:13	89.38.7.2
+copyright	drepturi de autor	!	2007-12-21 02:00:26	89.38.7.2
+pixel	pixel	!	2007-12-21 02:00:48	89.38.7.2
+peak	vârf	!	2007-12-21 02:00:58	89.38.7.2
+place	loc	!	2007-12-21 02:01:07	89.38.7.2
+photo	fotografie	? [[photo-image-picture-graph]]	2007-12-21 02:01:41	89.38.7.2
+image	imagine	? [[photo-image-picture-graph]]	2007-12-21 02:01:53	89.38.7.2
+picture	poză, imagine	? [[photo-image-picture-graph]]	2007-12-21 02:02:12	89.38.7.2
+graph	grafic	? [[photo-image-picture-graph]]	2007-12-21 02:02:25	89.38.7.2
+graphic	grafică (cu pluralul grafici, dacă nu e vorba de grafice matematice - vezi DEX)	? [[photo-image-picture-graph]]	2007-12-21 02:02:31	89.38.7.2
+implement	a implementa, implementare	!	2007-12-21 02:04:01	89.38.7.2
+import	a importa, import; import file = importă fișierul / un fișier	!	2007-12-21 02:04:18	89.38.7.2
+export	a exporta, export	!	2007-12-21 02:04:25	89.38.7.2
+quit	a ieşi, a termina, a părăsi	? [[quit-exit-terminate-finish]]	2007-12-21 02:05:06	89.38.7.2
+exit	ieşire	? [[quit-exit-terminate-finish]]	2007-12-21 02:05:14	89.38.7.2
+finish		? [[quit-exit-terminate-finish]]	2007-12-21 02:05:26	89.38.7.2
+terminate	a termina	? [[quit-exit-terminate-finish]]	2007-12-21 02:05:35	89.38.7.2
+terminal	terminal	!	2007-12-21 02:05:44	89.38.7.2
+terminal variable	variabilă a terminalului	!	2007-12-21 02:05:49	89.38.7.2
+table	tabel	!	2007-12-21 02:06:16	89.38.7.2
+table (database)	tabelă	!	2007-12-21 02:07:26	89.38.7.2
+table footer		?	2007-12-21 02:07:52	89.38.7.2
+table heading	cap de tabel	!	2007-12-21 02:07:59	89.38.7.2
+table of contents	tabla de materii; cuprins	? [[table-of-contents]]	2007-12-21 02:08:26	89.38.7.2
+tall	înalt	!	2007-12-21 02:08:36	89.38.7.2
+task	sarcină	! [[task]]	2007-12-21 02:10:55	89.38.7.2
+target file	fişier destinaţie	!	2007-12-21 02:11:00	89.38.7.2
+tar archive	arhivă tar	!	2007-12-21 02:11:07	89.38.7.2
+take advantage of	a beneficia de	!	2007-12-21 02:11:12	89.38.7.2
+telnet	telnet	!	2007-12-21 02:11:27	89.38.7.2
+temporary file	fişier temporar	!	2007-12-21 02:11:33	89.38.7.2
+text	text	!	2007-12-21 02:11:40	89.38.7.2
+text direction	orientare text	!	2007-12-21 02:11:50	89.38.7.2
+thumbprint	amprentă	!	2007-12-21 02:12:05	89.38.7.2
+theme	temă	? [[theme-scheme-skin]]	2007-12-21 02:12:45	89.38.7.2
+skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile), decorațiune; veșmânt	? [[theme-scheme-skin]]	2007-12-21 02:13:09	89.38.7.2
+your	dumneavoastră	!	2007-12-21 02:13:33	89.38.7.2
+unicode	unicode	!	2007-12-21 02:13:46	89.38.7.2
+unit	unitate	!	2007-12-21 02:13:52	89.38.7.2
+unix	UNIX	!	2007-12-21 02:14:00	89.38.7.2
+urgent	urgent	!	2007-12-21 02:14:13	89.38.7.2
+user	utilizator	!	2007-12-21 02:14:27	89.38.7.2
+username	nume utilizator	!	2007-12-21 02:14:39	89.38.7.2
+user defined	definit de către utilizator	!	2007-12-21 02:14:50	89.38.7.2
+directory	director (desi nu e corect d.p.d.v. DEX?), dosar	? [[directory-folder]]	2007-12-21 02:15:20	89.38.7.2
+folder	dosar	? [[folder-directory]]	2007-12-21 02:18:12	89.38.7.2
+folder	dosar	? [[directory-folder]]	2007-12-21 02:18:31	89.38.7.2
+folder	dosar	! [[directory-folder]]	2007-12-21 02:19:13	89.38.7.2
+field	câmp	!	2007-12-21 02:19:35	89.38.7.2
+fax	fax	!	2007-12-21 02:19:41	89.38.7.2
+faq	întrebări frecvente	!	2007-12-21 02:19:52	89.38.7.2
+file transfer protocol	protocol de transfer al fişierelor	!	2007-12-21 02:20:05	89.38.7.2
+search	a căuta, căutare	? [[search-find]]	2007-12-21 02:20:49	89.38.7.2
+search domain	domeniu căutării	? [[search-find]]	2007-12-21 02:20:53	89.38.7.2
+search string	şir de căutat	? [[search-find]]	2007-12-21 02:20:59	89.38.7.2
+find	a căuta, căutare; find words = caută cuvintele	? [[search-find]]	2007-12-21 02:21:10	89.38.7.2
+fingerprint	amprentă	!	2007-12-21 02:21:31	89.38.7.2
+final	final	!	2007-12-21 02:21:42	89.38.7.2
+filter	filtru	!	2007-12-21 02:21:54	89.38.7.2
+filename	nume de fişier	!	2007-12-21 02:22:04	89.38.7.2
+file	fişier	!	2007-12-21 02:22:08	89.38.7.2
+filesystem	sistem de fişiere	!	2007-12-21 02:22:18	89.38.7.2
+font	font	!	2007-12-21 02:22:44	89.38.7.2
+fixed font	font fix	!	2007-12-21 02:23:02	89.38.7.2
+floppy	dischetă	!	2007-12-21 02:23:16	89.38.7.2
+fraction	fracţie	!	2007-12-21 02:23:35	89.38.7.2
+full pathname	cale completă	!	2007-12-21 02:23:48	89.38.7.2
+fourier analysis	analiză fourier	!	2007-12-21 02:23:56	89.38.7.2
+footer	coloncifru [termen tipografic consacrat; în nici un caz subsol] discutie:http://www.macuser.ro/index.php/forums/viewthread/345/P15/; subsol (varianta aleasă _deocamdată_ pt traducerea OOo)	? [[header-footer]]	2007-12-21 02:25:35	89.38.7.2
+footnote	notă de pagină [nu „de subsol”; vezi footer]	? [[header-footer]]	2007-12-21 02:25:46	89.38.7.2
+header	colontitlu [termen tipografic consacrat; nu 'antet' = siglă, logo, cf. def. în DEX: Indicaţie tipărită în partea de sus a unei foi de hârtie sau a unui plic, cuprinzând numele, adresa etc. unei instituţii sau ale unei persoane. ], antet (în cazul unui mail header; de asemenea antet este varianta aleasă _deocamdata_ pt traducerea OOo)	? [[header-footer]]	2007-12-21 02:26:01	89.38.7.2
+tips & tricks	chichițe și șmecherii, găselniţe? sau mai bine: "Sfaturi utile"	? [[tips-and-tricks]]	2007-12-21 02:33:50	89.38.7.2
+tip	chichiță [tips & tricks = sugestii şi ponturi; chichițe și șmecherii], propun găselniţă	? [[tips-and-tricks]]	2007-12-21 02:35:17	89.38.7.2
+standard	standard	!	2007-12-21 02:39:21	89.38.7.2
+status	stare	!	2007-12-21 02:39:32	89.38.7.2
+stereotype	stereotip	!	2007-12-21 02:39:39	89.38.7.2
+strikeout	tăiat	!	2007-12-21 02:40:02	89.38.7.2
+strikethrough	tăiat	!	2007-12-21 02:40:12	89.38.7.2
+string	şir	!	2007-12-21 02:40:18	89.38.7.2
+statistics	statistici	!	2007-12-21 02:41:20	89.38.7.2
+statistics (science)	statistică	!	2007-12-21 02:42:02	89.38.7.2
+statistics (reports)	statistici		2007-12-21 02:42:14	89.38.7.2
+scsi	SCSI	!	2007-12-21 02:42:35	89.38.7.2
+secure channel	canal sigur	!	2007-12-21 02:42:46	89.38.7.2
+segment	segment	!	2007-12-21 02:42:55	89.38.7.2
+secondary color	culoare secundară	!	2007-12-21 02:43:03	89.38.7.2
+separator	separator	!	2007-12-21 02:43:16	89.38.7.2
+send	a trimite	!	2007-12-21 02:43:26	89.38.7.2
+session	sesiune	!	2007-12-21 02:43:41	89.38.7.2
+shopping	cumpărături	!	2007-12-21 02:44:01	89.38.7.2
+send to	trimite către	!	2007-12-21 02:44:12	89.38.7.2
+service	serviciu	! [[service-daemon]]	2007-12-21 02:44:25	89.38.7.2
+slide	diapozitiv	!	2007-12-21 02:44:36	89.38.7.2
+symbol	simbol	!	2007-12-21 02:44:48	89.38.7.2
+spell checker	corector ortografic	!	2007-12-21 02:45:09	89.38.7.2
+system	sistem	!	2007-12-21 02:45:23	89.38.7.2
+sex	sex	!	2007-12-21 02:45:28	89.38.7.2
+signature	semnatură	!	2007-12-21 02:45:39	89.38.7.2
+signal	semnal	!	2007-12-21 02:45:50	89.38.7.2
+shareware	shareware	!	2007-12-21 02:46:09	89.38.7.2
+software bug	scamă software	? [[bug]]	2007-12-21 02:46:53	89.38.7.2
+bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate	? [[bug]]	2007-12-21 02:47:00	89.38.7.2
+perl	perl	!	2007-12-21 02:47:45	89.38.7.2
+pedestrian	pieton	!	2007-12-21 02:48:06	89.38.7.2
+postal box	casuţă poştală	!	2007-12-21 02:48:18	89.38.7.2
+please	vă rog	!	2007-12-21 02:48:59	89.38.7.2
+please wait	vă rog să asteaptaţi	!	2007-12-21 02:49:30	89.38.7.2
+pie chart	grafic caşcaval, grafic plăcintă (care e mai bun???)	? [[pie chart]]	2007-12-21 02:50:10	89.38.7.2
+fuck	dute dracu (e o glumă, vă mai amintiţi?)		2007-12-21 02:52:28	89.38.7.2
+error	eroare	!	2007-12-21 02:52:42	89.38.7.2
+fault	defecţiune	!	2007-12-21 02:52:55	89.38.7.2
+undo	anulează [gnome, Adi R], desfă [cf. redo]; refacere (în special în cadrul GUI-ului şi cu referire la acesta; redo = repetare)	? [[undo-redo]]	2007-12-21 02:53:44	89.38.7.2
+redo	refă [uzual în menu; a reface]	? [[undo-redo]]	2007-12-21 02:53:55	89.38.7.2
+lambda	lambda	!	2007-12-21 02:54:07	89.38.7.2
+label	etichetă	!	2007-12-21 02:54:12	89.38.7.2
+legal	legal	!	2007-12-21 02:54:27	89.38.7.2
+link	a lega, legătură, a crea link, link, a trimite?, trimitere?, relaţionare	? [[link-hyperlink-shortcut]]	2007-12-21 02:56:03	89.38.7.2
+hyperlink	hiperlegătură	? [[link-hyperlink-shortcut]]	2007-12-21 02:56:12	89.38.7.2
+shortcut	scurtătură, combinaţie (de taste)	? [[link-hyperlink-shortcut]]	2007-12-21 02:56:23	89.38.7.2
+symbolic link	legătură simbolică	? [[link-hyperlink-shortcut]]	2007-12-21 02:57:06	89.38.7.2
+hard link	legătură fizică, legătură dură	? [[link-hyperlink-shortcut]]	2007-12-21 02:59:39	89.38.7.2
+magenta	magenta	!	2007-12-21 03:03:53	89.38.7.2
+manual	manual	!	2007-12-21 03:04:06	89.38.7.2
+meeting	întâlnire	!	2007-12-21 03:04:16	89.38.7.2
+monochrome	monocrom	!	2007-12-21 03:04:25	89.38.7.2
+mode	mod	!	2007-12-21 03:04:37	89.38.7.2
+mentor	mentor	!	2007-12-21 03:04:46	89.38.7.2
+memory	memorie	!	2007-12-21 03:04:55	89.38.7.2
+move	a muta	!	2007-12-21 03:05:16	89.38.7.2
+menu	meniu	!	2007-12-21 03:05:26	89.38.7.2
+item	element, articol	? [[item-element]]	2007-12-21 03:06:01	89.38.7.2
+element		? [[item-element]]	2007-12-21 03:06:14	89.38.7.2
+article	articol	? [[item-element]]	2007-12-21 03:07:33	89.38.7.2
+man page	pagină de manual	!	2007-12-21 03:08:09	89.38.7.2
+man pages	pagini de manual	!	2007-12-21 03:08:18	89.38.7.2
+map	hartă	!	2007-12-21 03:08:29	89.38.7.2
+message	mesaj	!	2007-12-21 03:08:40	89.38.7.2
+model	model	!	2007-12-21 03:08:48	89.38.7.2
+unmount	a demonta, demontare	!	2007-12-21 03:10:00	89.38.7.2
+mount	a monta, montare	!	2007-12-21 03:10:07	89.38.7.2
+mount point	loc de montare	!	2007-12-21 03:10:19	89.38.7.2
+heading	subtitlu	?	2007-12-21 03:13:32	89.38.7.2
+headset	căşti	!	2007-12-21 03:13:50	89.38.7.2
+headword		?	2007-12-21 03:14:27	89.38.7.2
+password	parolă	!	2007-12-21 03:14:53	89.38.7.2
+polish	lustrui	? [polish]	2007-12-21 03:17:08	89.38.7.2
+polish	lustrui	? [[polish]]	2007-12-21 03:17:23	89.38.7.2
+polished	lustruit	? [[polish]]	2007-12-21 03:18:51	89.38.7.2
+policy	politică	politică	2007-12-21 03:19:15	89.38.7.2
+poll	sondaj	!	2007-12-21 03:19:23	89.38.7.2
+policy	politică	!	2007-12-21 03:19:31	89.38.7.2
+polygon	poligon	!	2007-12-21 03:19:36	89.38.7.2
+postscript	postscript	!	2007-12-21 03:20:09	89.38.7.2
+ppp	ppp	!	2007-12-21 03:20:27	89.38.7.2
+pack	a împacheta	!	2007-12-21 03:20:44	89.38.7.2
+package	pachet	! [[packet-package]]	2007-12-21 03:21:15	89.38.7.2
+packet	pachet (mai mic decît package)	! [[packet-package]]	2007-12-21 03:21:21	89.38.7.2
+page	pagină	!	2007-12-21 03:22:57	89.38.7.2
+palmtop	palmtop	!	2007-12-21 03:23:17	89.38.7.2
+parameter	parametru	!	2007-12-21 03:23:28	89.38.7.2
+kde	KDE	!	2007-12-21 03:24:00	89.38.7.2
+keyboard	tastatură	!	2007-12-21 03:24:07	89.38.7.2
+keyring	inel de chei	!	2007-12-21 03:24:26	89.38.7.2
+kilobyte	kilooctet	!	2007-12-21 03:24:33	89.38.7.2
+keyword	cuvânt cheie	!	2007-12-21 03:24:44	89.38.7.2
+khmer	khmer	!	2007-12-21 03:24:49	89.38.7.2
+keyboard shortcut	taste rapide	Link-hyperlink-shortcut	2007-12-21 03:25:48	89.38.7.2
+keyboard shortcut	taste rapide	! [[Link-hyperlink-shortcut]]	2007-12-21 03:26:04	89.38.7.2
+keyfile	fişier de chei	!	2007-12-21 03:26:18	89.38.7.2
+keybinding	combinaţie de taste	!	2007-12-21 03:26:31	89.38.7.2
+gnu	GNU	!	2007-12-21 03:26:45	89.38.7.2
+gpl		GPL	2007-12-21 03:26:53	89.38.7.2
+gpl	GPL	!	2007-12-21 03:27:01	89.38.7.2
+group	grup	!	2007-12-21 03:27:08	89.38.7.2
+grid	grilă	!	2007-12-21 03:27:13	89.38.7.2
+gtk	GTK	!	2007-12-21 03:27:25	89.38.7.2
+gtk+	GTK+	!	2007-12-21 03:27:34	89.38.7.2
+gnome	GNOME	!	2007-12-21 03:28:09	89.38.7.2
+gigabyte	gigaoctet	!	2007-12-21 03:28:14	89.38.7.2
+kb	KO	!	2007-12-21 03:29:02	89.38.7.2
+basic (language)	Basic	! [[basic]]	2007-12-21 03:30:06	89.38.7.2
+blinking cursor	cursor clipitor	!	2007-12-21 03:30:20	89.38.7.2
+bus (vehicle)	autobuz		2007-12-21 03:31:33	89.38.7.2
+bus	magistrală		2007-12-21 03:31:46	89.38.7.2
+data bus	magistrală de date		2007-12-21 03:32:17	89.38.7.2
+data bus	magistrală de date	!	2007-12-21 03:32:22	89.38.7.2
+emblem	emblemă	!	2007-12-21 03:32:54	89.38.7.2
+endnote	notă finală [cf. footnote]	? [[Header-footer]]	2007-12-21 03:33:33	89.38.7.2
+tag	etichetă, marcaj	? [[label-tag]]	2007-12-21 03:35:06	89.38.7.2
+label	etichetă	! [[label-tag]]	2007-12-21 03:35:42	89.38.7.2
+getting started	primii paşi	!	2007-12-21 03:36:10	89.38.7.2
+geometry	geometrie	!	2007-12-21 03:36:19	89.38.7.2
+glitch	scăpare	!	2007-12-21 03:36:29	89.38.7.2
+logo	siglă	? [[logo]]	2007-12-21 03:39:31	89.38.7.2
+language (computer)	limbaj	!	2007-12-21 11:44:48	89.38.7.2
+language (human)	limbă	!	2007-12-21 11:45:08	89.38.7.2
+latex	Latex	!	2007-12-21 11:46:08	89.38.7.2
+latency	latenţă	!	2007-12-21 11:46:21	89.38.7.2
+length	lungime	!	2007-12-21 11:46:38	89.38.7.2
+lookup	căutare	? [[find-search]]	2007-12-21 11:47:08	89.38.7.2
+lookup	căutare	? [[search-find]]	2007-12-21 11:47:33	89.38.7.2
+search	a căuta, căutare	? [[find-lookup-search]]	2007-12-21 11:48:42	89.38.7.2
+search domain	domeniu căutării	? [[find-lookup-search-]]	2007-12-21 11:54:04	89.38.7.2
+search string	şir de căutat	? [[find-lookup-search-]]	2007-12-21 11:54:11	89.38.7.2
+search string	şir de căutat	? [[find-lookup-search]]	2007-12-21 11:54:22	89.38.7.2
+search domain	domeniu căutării	? [[find-lookup-search]]	2007-12-21 11:54:28	89.38.7.2
+seascape	(pentru imprimare) orizontal răsturnat, orizontal răsturnat - asta e o glumă proastă, nu ştiu să existe acest termen în engleză!	?	2007-12-21 11:56:50	89.38.7.2
+select	a alege		2007-12-21 11:57:14	89.38.7.2
+sort	fel, soi, a tria, a sorta	? [[order-sort]]	2007-12-21 11:57:55	89.38.7.2
+pipeline	ansamblu	sau ceva	2007-12-21 13:41:42	212.93.140.102
+pipeline	ansamblu	? sau ceva	2007-12-21 18:30:51	89.38.147.13
+network	reţea	!	2007-12-25 11:34:00	89.38.7.2
+networking	reţelistică	!	2007-12-25 11:34:07	89.38.7.2
+nickname	pseudonim	! [nickname]	2007-12-25 11:34:41	89.38.7.2
+nickname	pseudonim	! [[nickname]]	2007-12-25 11:34:58	89.38.7.2
+nick	pseudonim	! [[nickname]]	2007-12-25 11:36:59	89.38.7.2
+node	nod	!	2007-12-25 11:37:07	89.38.7.2
+number	număr	!	2007-12-25 11:37:15	89.38.7.2
+number of	număr de	!	2007-12-25 11:37:23	89.38.7.2
+numbered list	listă numerotată	!	2007-12-25 11:37:36	89.38.7.2
+numbering	numerotare	!	2007-12-25 11:37:41	89.38.7.2
+numeric	numeric	!	2007-12-25 11:37:46	89.38.7.2
+non breaking space	spaţiu inseparabil [adică nu poate fi despărțit la final de rînd]	? [[spaces-and-hypens]]	2007-12-25 11:39:04	89.38.7.2
+non-breaking hyphen	liniuţă de unire [Unicode 2011; caracter cu specific IT; esenţial pentru limba română]	? [[spaces-and-hypens]]	2007-12-25 11:39:10	89.38.7.2
+non-breaking space	spaţiu de unire [Unicode 002D; caracter cu specific IT]	? [[spaces-and-hypens]]	2007-12-25 11:39:16	89.38.7.2
+space character	caracterul spaţiu	? [[spaces-and-hypens]]	2007-12-25 11:39:27	89.38.7.2
+non-breaking space	spaţiu de unire	? [[spaces-and-hypens]]	2007-12-25 11:43:29	89.38.7.2
+non breaking space	spaţiu de unire	? [[spaces-and-hypens]]	2007-12-25 11:43:36	89.38.7.2
+non-breaking hyphen	liniuţă de unire	? [[spaces-and-hypens]]	2007-12-25 11:43:46	89.38.7.2
+normal distribution	distribuţie normală	!	2007-12-25 11:44:07	89.38.7.2
+notify me	anunţă-mă	!	2007-12-25 11:45:04	89.38.7.2
+notify	a înştiinţa, înştiinţare		2007-12-25 11:45:18	89.38.7.2
+maintainance	mentenanţă	!	2007-12-25 11:45:44	89.38.7.2
+malicious	maliţios	!	2007-12-25 11:45:52	89.38.7.2
+mean	medie	!	2007-12-25 11:46:22	89.38.7.2
+megabyte	megaoctet	!	2007-12-25 11:46:40	89.38.7.2
+modem	modem	!	2007-12-25 11:46:45	89.38.7.2
+menubar	bara de meniu	!	2007-12-25 11:46:59	89.38.7.2
+module	modul	? [[Addin-module-plugin-extension-applet]]	2007-12-25 11:47:19	89.38.7.2
+multitier	multistrat	!	2007-12-25 11:47:30	89.38.7.2
+mtu	unitatea maximă de transmisie		2007-12-25 11:47:53	89.38.7.2
+median	mediană	!	2007-12-25 11:48:25	89.38.7.2
+manual page	pagină de manual	!	2007-12-25 11:49:11	89.38.7.2
+mask	mască	!	2007-12-25 11:49:22	89.38.7.2
+dock	doc, a ataşa, ataşare, doc; a ataşa	? [[dock-undock]]	2007-12-25 11:50:15	89.38.7.2
+undock	a detaşa	! [[dock-undock]]	2007-12-25 11:50:33	89.38.7.2
+undock	a detaşa	? [[dock-undock]]	2007-12-25 11:50:41	89.38.7.2
+unexpected	neaşteptat	!	2007-12-25 11:50:50	89.38.7.2
+uninstall	a dezinstala, dezinstalare	!	2007-12-25 11:51:05	89.38.7.2
+lock	a bloca, a obţine acces exclusiv	? [[lock-unlock]]	2007-12-25 11:51:50	89.38.7.2
+unlock	a descuia (nu am altă idee)	? [[lock-unlock]]	2007-12-25 11:52:12	89.38.7.2
+blocked	blocat	[[Lock-unlock-block-unblock]]	2007-12-25 11:53:51	89.38.7.2
+localization	localizare	!	2007-12-25 12:01:35	89.38.7.2
+locate	a localiza	!	2007-12-25 12:01:48	89.38.7.2
+location	loc		2007-12-25 12:02:01	89.38.7.2
+local	local	!	2007-12-25 12:02:05	89.38.7.2
+location	loc	!	2007-12-25 12:02:17	89.38.7.2
+loop	ciclu, buclă		2007-12-25 12:02:29	89.38.7.2
+library	bibliotecă	!	2007-12-25 12:03:30	89.38.7.2
+patern	a modela, a copia, şablon, model	!	2007-12-25 12:05:43	89.38.7.2
+preferences	preferinţe	!	2007-12-25 12:06:35	89.38.7.2
+preemptive	preemptiv	!	2007-12-25 12:06:45	89.38.7.2
+presentation	prezentare	!	2007-12-25 12:06:55	89.38.7.2
+portrait	portret	!	2007-12-25 12:07:03	89.38.7.2
+real path	calea reală	!	2007-12-25 12:07:58	89.38.7.2
+recursion	recursivitate	!	2007-12-25 12:08:06	89.38.7.2
+real time	timp real	!	2007-12-25 12:08:11	89.38.7.2
+rectangle	dreptunghi	!	2007-12-25 12:08:23	89.38.7.2
+recurrence	recurenţă	!	2007-12-25 12:08:30	89.38.7.2
+region	regiune	!	2007-12-25 12:08:46	89.38.7.2
+repeat	a repeta	!	2007-12-25 12:09:01	89.38.7.2
+rename	a redenumi	!	2007-12-25 12:09:07	89.38.7.2
+reliable	fiabil	!	2007-12-25 12:09:15	89.38.7.2
+required	necesar, necesară	!	2007-12-25 12:09:28	89.38.7.2
+revision	revizie	!	2007-12-25 12:09:39	89.38.7.2
+reveal	a dezvălui	!	2007-12-25 12:10:00	89.38.7.2
+ruler	riglă	!	2007-12-25 12:10:13	89.38.7.2
+reset	a restabili, a reseta [a reseta există în DOOM 2005]	?	2007-12-25 12:12:39	89.38.7.2
+registry	registru	! (de configurare, ex.: pt. Windows registry)	2007-12-25 12:13:00	89.38.7.2
+row	rând	! [în tabele]; șir [inadecvat ca termen IT]; cf. line	2007-12-25 12:13:33	89.38.7.2
+by	alături;aproape de;cu;prin;de;lângă		2007-12-25 12:14:52	89.38.7.2
+bus (vehicle)	autobuz	!	2007-12-25 19:46:43	89.38.7.2
+by	alături;aproape de;cu;prin;de;lângă	!	2007-12-25 19:46:54	89.38.7.2
+trend	tendinţă	?	2007-12-30 11:43:51	89.38.7.2
+tab	1. tab[ulator]; abrevierea tab = tabulator  mi se pare OK; 2. categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]	2007-12-30 11:51:51	89.38.7.2
+tab stop	spaţiere tab, pl. (tab stops) spaţiere taburi	? [tab]	2007-12-30 12:16:01	89.38.7.2
+temp file	fişier temporar	!	2007-12-30 12:17:22	89.38.7.2
+recycle bin	gunoi		2007-12-30 12:19:51	89.38.7.2
+oblique	oblic	!	2007-12-30 12:20:12	89.38.7.2
+or	sau	!	2007-12-30 12:20:21	89.38.7.2
+online	conectat	? [[online-offline-connected-disconnected]]	2007-12-30 12:22:59	89.38.7.2
+offline	deconectat	? [[online-offline-connected-disconnected]]	2007-12-30 12:23:08	89.38.7.2
+connect	conectare, conectare; connecting=mă conectez	? [[online-offline-connected-disconnected]]	2007-12-30 12:23:22	89.38.7.2
+connection	conexiune	? [[online-offline-connected-disconnected]]	2007-12-30 12:23:32	89.38.7.2
+disconnecting	deconectez	? [[online-offline-connected-disconnected]]	2007-12-30 12:23:44	89.38.7.2
+disconnect	deconectare, deconectare; disconnecting=mă deconectez	? [[online-offline-connected-disconnected]]	2007-12-30 12:23:51	89.38.7.2
+disclose	a divulga	!	2007-12-30 12:24:06	89.38.7.2
+addon	modul	? [[Addin-module-plugin-extension-applet]]	2007-12-30 12:47:04	89.38.7.2
+add-in	modul	? [[addin-module-plugin-extension-applet]]	2007-12-30 12:47:24	89.38.7.2
+accept	a accepta	!	2007-12-30 12:50:16	89.38.7.2
+author	autor	!	2007-12-30 12:51:17	89.38.7.2
+home	acasă, pagina principală, dosar personal	? [[home]]	2007-12-30 12:55:47	89.38.7.2
+home directory	directorul personal al unui utilizator	? [[home]]	2007-12-30 12:55:53	89.38.7.2
+home page	pagina principală	? [[home]]	2007-12-30 12:55:59	89.38.7.2
+hook	furcă de telefon		2007-12-30 13:02:19	89.38.7.2
+highlight	a evidenţia	!	2007-12-30 13:02:42	89.38.7.2
+histogram	histogramă	!	2007-12-30 13:02:51	89.38.7.2
+alias	alias	!	2007-12-31 17:24:39	89.38.147.13
+anchor	ancoră	!	2007-12-31 17:25:00	89.38.147.13
+attachment	anexă, ataşament	? [[attachement]]	2007-12-31 17:25:57	89.38.147.13
+attribute	atribut	!	2007-12-31 17:26:49	89.38.147.13
+attach	a anexa, a ataşa	? [[attachment]]	2007-12-31 17:27:02	89.38.147.13
+attachment	anexă, ataşament	? [[attachment]]	2007-12-31 17:27:13	89.38.147.13
+help	ajutor, asistenţă	? [[help]]	2008-01-02 13:51:16	89.38.7.2
+decline	a refuza	!	2008-01-03 10:39:21	89.38.7.2
+derived	derivat	!	2008-01-03 10:39:45	89.38.7.2
+dialog	dialog	!	2008-01-03 10:40:18	89.38.7.2
+distribution	distribuţie	!	2008-01-03 10:40:31	89.38.7.2
+document	document	!	2008-01-03 10:40:51	89.38.7.2
+acknowledgements	mulţumiri	!	2008-01-03 12:38:28	89.38.7.2
+authentication	autentificare	? [[Online-offline-connected-disconnected]]	2008-01-03 12:40:34	89.38.7.2
+autocomplete	completare automată	!	2008-01-03 12:40:49	89.38.7.2
+autofill	completare automată	!	2008-01-03 12:40:54	89.38.7.2
+available	disponibil	!	2008-01-03 12:41:19	89.38.7.2
+anvil	nicovală	!	2008-01-03 12:42:12	89.38.7.2
+amplitude modulation	modulare în amplitudine	!	2008-01-03 12:42:26	89.38.7.2
+arc	arc	!	2008-01-03 12:43:04	89.38.7.2
+ad-hoc	ad-hoc	!	2008-01-03 12:43:26	89.38.7.2
+administration	administrare	!	2008-01-03 12:43:51	89.38.7.2
+bottom	bază	!	2008-01-03 12:44:14	89.38.7.2
+align bottom	aliniere la bază	!	2008-01-03 12:44:24	89.38.7.2
+align	a alinia	!	2008-01-03 12:44:30	89.38.7.2
+applet	mini-aplicaţie	? [[Addin-module-plugin-extension-applet]]	2008-01-03 12:44:55	89.38.7.2
+ascending	crescător	!	2008-01-03 12:45:11	89.38.7.2
+ascending order	ordine crescătoare	!	2008-01-03 12:45:18	89.38.7.2
+watermark	filigran	!	2008-01-03 12:46:34	89.38.7.2
+forecast	previziune	!	2008-01-03 12:47:22	89.38.7.2
+function	funcţie	!	2008-01-03 12:47:40	89.38.7.2
+licence	licenţa	!	2008-01-03 13:20:24	89.38.7.2
+zero	zero	!	2008-01-03 13:36:45	89.38.7.2
+zip drive	unitate zip	!	2008-01-03 13:37:00	89.38.7.2
+garbage collector	colector de memorie reziduală, gunoier		2008-01-03 14:10:08	89.38.7.2
+garbage collector	colector de memorie reziduală	!	2008-01-03 14:10:23	89.38.7.2
+graphic tablet	tabletă grafică	!	2008-01-03 14:10:36	89.38.7.2
+operating system	sistem de operare	!	2008-01-03 15:02:37	89.38.7.2
+orientation	orientare	!	2008-01-03 15:02:48	89.38.7.2
+overwrite	a suprascrie, suprascriere	!	2008-01-03 15:03:13	89.38.7.2
+quota	cotă	!	2008-01-03 15:03:30	89.38.7.2
+queue	coadă	! [[queue-stack]]	2008-01-03 15:04:05	89.38.7.2
+stack	stivă	! [[queue-stack]]	2008-01-03 15:04:58	89.38.7.2
+query	interogare	! [[query]]	2008-01-03 15:05:55	89.38.7.2
+query	interogare	? [[query]]	2008-01-03 15:06:04	89.38.7.2
+query	interogare	! [[query]]	2008-01-03 15:07:54	89.38.7.2
+western	vestic	!	2008-01-03 15:08:24	89.38.7.2
+word	cuvânt	!	2008-01-03 15:08:38	89.38.7.2
+word processor	procesor de text	!	2008-01-03 15:09:15	89.38.7.2
+width	lăţime	!	2008-01-03 15:09:26	89.38.7.2
+web page	pagină web	!	2008-01-03 15:09:49	89.38.7.2
+window	fereastră	!	2008-01-03 15:10:05	89.38.7.2
+hello world	salut lume	!	2008-01-03 15:11:28	89.38.7.2
+hazard	risc	!	2008-01-03 15:12:42	89.38.7.2
+term	termen	!	2008-01-03 15:13:21	89.38.7.2
+timer	cronometru	!	2008-01-03 15:14:24	89.38.7.2
+timezone	fus orar	!	2008-01-03 15:14:33	89.38.7.2
+timing	cronometrare	!	2008-01-03 15:14:45	89.38.7.2
+top	vârf		2008-01-03 15:15:08	89.38.7.2
+tree	arbore	!	2008-01-03 15:15:20	89.38.7.2
+type	tip	!	2008-01-03 15:15:54	89.38.7.2
+type mismatch	nepotrivire de tip	!	2008-01-03 15:16:04	89.38.7.2
+typically	în mod normal, în general, de cele mai mute ori	!	2008-01-03 15:16:16	89.38.7.2
+trigger	declanşator	!	2008-01-03 15:16:30	89.38.7.2
+trusted	de încredere	!	2008-01-03 15:16:55	89.38.7.2
+threshold	prag	!	2008-01-03 15:17:08	89.38.7.2
+transparent	transparent	!	2008-01-03 15:17:17	89.38.7.2
+title	titlu	!	2008-01-03 15:17:25	89.38.7.2
+tolerance	toleranţă	!	2008-01-03 15:17:57	89.38.7.2
+turn	rundă	!	2008-01-03 15:18:06	89.38.7.2
+type bindings	corelări de tip	!	2008-01-03 15:18:17	89.38.7.2
+titlebar	bară de titlu	!	2008-01-03 15:18:52	89.38.7.2
+term variable	variabilă a terminalului	!	2008-01-03 15:19:43	89.38.7.2
+trap	a captura, capcană	!	2008-01-03 15:20:02	89.38.7.2
+hidden file	fişier ascuns	!	2008-01-03 15:32:49	89.38.7.2
+backticks	ghilimele inverse	!	2008-01-03 18:45:28	89.38.7.2
+binomial distribution	distribuţia binomială	!	2008-01-03 18:45:48	89.38.7.2
+bold	îngroşat, aldin	? [[bold-italic]]	2008-01-03 18:46:15	89.38.7.2
+italic	înclinat, cursiv	? [[bold-italic]]	2008-01-03 18:46:24	89.38.7.2
+if	dacă	!	2008-01-03 19:04:01	89.38.7.2
+illegal	ilegal	!	2008-01-03 19:04:06	89.38.7.2
+inch	ţol	!	2008-01-03 19:04:16	89.38.7.2
+install	a instala, instalare	!	2008-01-03 19:04:32	89.38.7.2
+interface	interfaţă	!	2008-01-03 19:04:42	89.38.7.2
+interrupt	întrerupere	!	2008-01-03 19:04:53	89.38.7.2
+invisible	invizibil	!	2008-01-03 19:05:27	89.38.7.2
+international	internaţional	!	2008-01-03 19:05:35	89.38.7.2
+dash	liniuţă	[[dashes]]	2008-01-09 17:55:59	89.38.147.13
+em-dash	linie em; [cf. en-dash]	[[dashes]]	2008-01-09 17:56:09	89.38.147.13
+en-dash	linie en [trad „paranteză orizontală” este complet greșită; cf. em-dash]	[[dashes]]	2008-01-09 17:56:20	89.38.147.13
+en-dash	linie en [trad „paranteză orizontală” este complet greșită; cf. em-dash]	? [[dashes]]	2008-01-09 17:56:29	89.38.147.13
+em-dash	linie em; [cf. en-dash]	? [[dashes]]	2008-01-09 17:56:35	89.38.147.13
+hyphen	cratimă	? [[dashes]]	2008-01-09 17:56:48	89.38.147.13
+apply	a aplica	!	2008-01-11 18:53:23	89.38.7.2
+blink	clipeşte	!	2008-01-11 18:53:58	89.38.7.2
+macro	macro?, macrocomandă?	? [[macro]]	2008-01-11 19:51:10	89.38.7.2
+maintainer	responsabil	!	2008-01-11 19:52:54	89.38.7.2
+mtu	MTU (unitatea maximă de transmisie)		2008-01-11 19:53:42	89.38.7.2
+misspelled	ortografiat greşit	!	2008-01-11 19:53:59	89.38.7.2
+minor faults	defecțiuni minore		2008-01-11 19:54:24	89.38.7.2
+minor faults	defecțiuni minore	!	2008-01-11 19:54:29	89.38.7.2
+post office	oficiu poştal	!	2008-01-11 19:55:52	89.38.7.2
+ratio	proporţie	!	2008-01-11 19:56:30	89.38.7.2
+reject	a respinge	!	2008-01-11 19:57:01	89.38.7.2
+retry	a reîncerca, reîncearcă	!	2008-01-11 19:57:19	89.38.7.2
+retain	a reţine	!	2008-01-11 19:57:32	89.38.7.2
+run	a porni, a executa	? [run-start-execute]	2008-01-11 19:58:31	89.38.7.2
+run	a porni, a executa	? [[execute-run-start]]	2008-01-11 19:59:06	89.38.7.2
+execute	a executa, a rula, a porni	? [[execute-run-start]]	2008-01-11 19:59:17	89.38.7.2
+start	start, a porni	? [[execute-run-start]]	2008-01-11 19:59:29	89.38.7.2
+browse	a naviga	!	2008-01-11 21:13:41	89.38.7.2
+uplink	uplink	?	2008-01-13 02:17:05	79.113.242.130
+goal	obiectiv, ţel	? [[goal-objective-target]]	2008-01-13 22:15:14	89.38.7.2
+target	destinaţie, ţintă	? [[goal-objective-target]]	2008-01-13 22:15:25	89.38.7.2
+objective	obiectiv	? [[goal-objective-target]]	2008-01-13 22:15:45	89.38.7.2
+optional	opţional	!	2008-01-13 22:18:56	89.38.7.2
+aditive inverse	inversă aditivă		2008-01-16 14:17:51	89.38.7.2
+adjust	a ajusta, ajustare	!	2008-01-17 23:45:50	89.38.7.2
+as of	începând cu	!	2008-01-17 23:46:29	89.38.7.2
+benchmark	test de performanţă	!	2008-01-17 23:47:50	89.38.7.2
+brightness	luminozitate	!	2008-01-17 23:48:32	89.38.7.2
+origin	origine	!	2008-01-17 23:49:43	89.38.7.2
+operation	operaţie	!	2008-01-17 23:50:09	89.38.7.2
+open	deschis, deschide	!	2008-01-17 23:50:19	89.38.7.2
+diaeresis	tremă	cele două punte de deasupra unei litere	2008-01-18 10:44:07	89.38.7.2
+on	pornit	? [active-inactive-on-off]	2008-01-18 16:46:26	89.38.7.2
+off	oprit	? [active-inactive-on-off]	2008-01-18 16:46:40	89.38.7.2
+off	oprit	? [[active-inactive-on-off]]	2008-01-18 16:46:57	89.38.7.2
+on	pornit	? [[active-inactive-on-off]]	2008-01-18 16:47:09	89.38.7.2
+active	activ	! [[active-inactive-on-off]]	2008-01-18 16:47:27	89.38.7.2
+inactive	inactiv	! [[active-inactive-on-off]]	2008-01-18 16:47:46	89.38.7.2
+involved	implicat		2008-01-20 12:03:18	89.38.7.2
+breadcrumbs	linie de navigare	?	2008-01-22 14:30:32	86.122.9.2
+debugger	depanator		2008-01-22 22:05:26	89.137.8.106
+debug	a depana, a corecta		2008-01-22 22:05:41	89.137.8.106
+mute	mut		2008-01-23 13:00:36	212.93.140.102
+unmute	cu sunet		2008-01-23 13:00:51	212.93.140.102
+pause	pauză		2008-01-23 13:01:18	212.93.140.102
+remove	scoade, îndepărtează, ...	? [[erase-delete-remove-clean-clear-expunge]]	2008-01-23 13:06:40	212.93.140.102
+shuffle	a amesteca, aleator		2008-01-23 13:07:46	212.93.140.102
+parse	a analiza, a prelucra	[[Glosar/Discutii/parse]]	2008-01-24 00:35:44	78.96.193.43
+lockdown	interdicţie	tradus în pessulus	2008-01-24 00:39:06	89.137.8.106
+player	player	[[Glosar/Discutii/player]]	2008-01-24 09:12:05	84.232.245.223
+proofreader	verificator?	?	2008-01-24 10:27:26	82.78.39.13
+fit	potrivește		2008-01-25 23:37:17	89.137.8.106
+downgrade	retrogradare, a aduce la o versiune anterioară	dacă se poate folosiți traducerea lungă	2008-01-25 23:38:28	89.137.8.106
+downgrade	a aduce la o versiune anterioară, retrogradare	dacă se poate folosiți traducerea lungă	2008-01-25 23:38:38	89.137.8.106
+current	curent, prezent, actual		2008-01-25 23:43:33	87.175.73.79
+note	notiță		2008-01-27 14:32:51	89.137.8.106
+scan	a examina, a scana [pentru scanner]		2008-01-27 15:47:53	89.137.8.106
+point to point	punct la punct	asa ramane	2008-01-28 20:54:18	89.137.8.106
+point to point	punct la punct	!	2008-01-28 20:58:21	89.137.8.106
+embedded	încapsulat, înglobat, încastrat		2008-01-29 13:36:56	217.156.83.1
+notification	înștiințare, aducere la cunoștință		2008-02-07 07:47:58	89.34.181.20
+nested	imbricat, (cu i, dand: îmbricat nu este corect, vezi dex)		2008-02-10 11:22:35	89.137.8.106
+remove	scoade, îndepărtează, dezinstala [pt programe]...	? [[erase-delete-remove-clean-clear-expunge]]	2008-02-10 11:33:38	89.137.8.106
+remove	scoade, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]	2008-02-10 11:44:55	89.137.8.106
+setting	1. opţiune de configurare, setare, ajustare 2. mediu, cadru		2008-02-11 02:37:50	89.137.228.34
+entry	intrare, înregistrare	nu ştiu ce e cu cuvânt-titlu	2008-02-13 22:20:51	89.137.8.106
+pie chart	diagramă circulară, grafic caşcaval, grafic plăcintă (care e mai bun???)	? [[pie chart]]	2008-02-14 16:33:06	89.34.181.20
+keyring	inel de chei	!portchei	2008-02-15 17:48:52	86.124.235.170
+keyring	portchei	?	2008-02-15 17:51:05	86.124.235.170
+target	destinaţie, ţintă [a se folosi doar în cazul în care reprezintă ceva vizual]	? [[goal-objective-target]]	2008-02-18 12:34:49	212.93.140.102
+target	destinaţie [recomandat], ţintă [a se folosi doar în cazul în care reprezintă ceva vizual]	? [[goal-objective-target]]	2008-02-18 12:35:04	212.93.140.102
+locale	locală, locale		2008-02-18 23:06:37	89.137.228.34
+locale	locală		2008-02-18 23:06:56	89.137.228.34
+remove	elimină, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]	2008-02-18 23:23:39	89.137.8.106
+unlock	a descuia (nu am altă idee), a debloca	? [[lock-unlock]]	2008-02-19 08:36:40	89.34.181.20
+todo	de făcut, sarcină (angajament)		2008-02-23 17:19:54	87.175.115.193
+browse	a naviga	? [[browse]]	2008-02-29 17:14:12	82.78.39.13
+polling	verificare ciclică		2008-03-02 23:15:38	193.231.29.37
+polling	verificare ciclică	?	2008-03-02 23:17:11	193.231.29.37
+handle	a opera, a manevra, a gestiona, a trata, a deschide (un tip de fişiere)		2008-03-02 23:22:34	193.231.29.37
+handle	a opera, a manevra, a gestiona, a trata, a deschide (un tip de fişiere)	?	2008-03-02 23:22:44	193.231.29.37
+handler	utilizator	?	2008-03-02 23:23:10	193.231.29.37
+handling	manevrare, gestionare, tratare/tratament	?	2008-03-02 23:23:13	193.231.29.37
+truncate	a aproxima, a reduce, a tăia	?	2008-03-02 23:26:02	193.231.29.37
+top-level	de prim nivel, de nivel zero	?	2008-03-02 23:37:25	193.231.29.37
+descriptor	descriptor (de fişier)	?	2008-03-02 23:45:54	193.231.29.37
+truncate	a aproxima, a reduce, a tăia, a trunca/truncare	?	2008-03-02 23:53:33	193.231.29.37
+array	tablou, matrice	?	2008-03-02 23:56:51	193.231.29.37
+vendor	producător		2008-03-03 01:36:26	89.137.8.106
+browse	a răsfoi	? [[browse]]	2008-03-03 10:10:29	81.180.68.6
+browse	a răsfoi, a naviga	? [[browse]]	2008-03-03 10:11:02	81.180.68.6
+interlace	a întrețese, întrețesere	?	2008-03-03 10:41:58	81.180.68.6
+deinterlace	a estompa întrețeserea, estompare întrețesere	?	2008-03-03 10:42:54	81.180.68.6
+supported	admis		2008-03-03 10:51:27	81.180.68.6
+attempt	a încerca, tentativă, încercare		2008-03-03 11:09:11	81.180.68.6
+time-quantum	cuantă de timp		2008-03-03 12:24:04	81.180.68.6
+hover	a plana, planare	?	2008-03-03 17:13:10	81.180.68.6
+chop	cioplire	?	2008-03-04 10:38:51	81.180.68.6
+ligature	ligatură	!	2008-03-04 10:39:04	81.180.68.6
+shutter	obturator (foto.)	!	2008-03-04 10:43:00	81.180.68.6
+burn	a scrie [un cd, un dvd]		2008-03-09 19:16:05	89.137.8.106
+default	implicit		2008-03-09 19:19:16	89.137.8.106
+defaults	implicite		2008-03-09 19:19:32	89.137.8.106
+layout	aspect, aranjament, plan general, proiect, dispunere, formatare		2008-03-09 19:27:36	89.137.8.106
+rip	jupui		2008-03-10 19:20:48	81.180.68.8
+dpi	PPȚ (Puncte Pe Țol)		2008-03-11 14:53:29	81.180.68.8
+skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile), decorațiune; veșmânt, înfățișare	? [[theme-scheme-skin]]	2008-03-13 13:04:30	81.180.68.8
+translucent	străveziu		2008-03-13 13:06:13	81.180.68.8
+translucent	!străveziu		2008-03-13 13:06:25	81.180.68.8
+translucent	străveziu !		2008-03-13 13:06:31	81.180.68.8
+translucent	străveziu	!	2008-03-13 13:06:39	81.180.68.8
+artist	interpret	!	2008-03-13 13:54:40	81.180.68.8
+length	lungime; durată (muzică, filme)	!	2008-03-13 14:30:36	81.180.68.8
+vpn	RPV (Rețea Privată Virtuală)		2008-03-13 14:52:55	81.180.68.8
+publishing	publicare		2008-03-17 11:53:10	212.93.140.102
+publishing application	aplicaţie pentru editarea de publicaţii		2008-03-17 11:54:17	212.93.140.102
+pairing	asociere		2008-03-17 12:18:43	212.93.140.102
+dewpoint	punct de condensare	!	2008-03-17 12:36:43	81.180.68.6
+return key	tasta Enter		2008-03-18 11:18:31	212.93.140.102
+tab	1. tab;  2. categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]	2008-03-18 11:22:54	212.93.140.102
+firewall	firewall, zid de protecție		2008-03-18 11:24:57	212.93.140.102
+firewall	firewall		2008-03-18 11:26:11	212.93.140.102
+wireless network	reţea fără fir		2008-03-18 11:52:02	212.93.140.102
+driver	driver (drivere), modul de nucleu		2008-03-18 11:53:40	212.93.140.102
+wired network	reţea cu fir		2008-03-18 11:53:54	212.93.140.102
+driver	driver (driver-e), modul de nucleu		2008-03-18 12:13:31	212.93.140.102
+driver	driver (drivere), modul de nucleu		2008-03-18 12:13:48	212.93.140.102
+genuine	autentic		2008-03-18 12:37:25	212.93.140.102
+handshake	strângere de mână		2008-03-19 09:27:52	89.38.147.13
+repository	arhivă, depozit		2008-03-23 21:58:09	89.137.8.106
+launch	pornește		2008-03-23 22:02:52	89.137.8.106
+launch	pornește (un program)		2008-03-23 22:03:02	89.137.8.106
+notification area	zona de notificare		2008-03-23 22:20:38	89.137.8.106
+zoom in	măreşte, depărtează		2008-03-25 10:09:22	212.93.140.102
+zoom out	măreşte, depărtează		2008-03-25 10:09:49	212.93.140.102
+zoom out	micşorează, depărtează		2008-03-25 10:10:33	212.93.140.102
+zoom in	măreşte, apropie		2008-03-25 10:10:43	212.93.140.102
+touchpad	touchpad		2008-03-25 10:47:03	212.93.140.102
+touchscreen	touchscreen [de preferat] , ecran sensibil la atingere		2008-03-26 10:20:41	212.93.140.102
+tutorial	îndrumar		2008-03-27 09:49:23	81.180.68.6
+blur image	estompează imaginea		2008-03-27 09:58:31	81.180.68.6
+blur	a estompa; difuz, neclar, înceţoşat, difuz; neclar		2008-03-27 09:58:53	81.180.68.6
+dim	împăienjeni (despre efectul vizual de încețoșare a ferestrei)	!	2008-03-27 10:07:40	81.180.68.6
+fall apart	a dezagrega; dezagregare	!	2008-03-27 10:08:23	81.180.68.6
+runaround	circumscriere		2008-03-27 22:04:42	89.40.226.90
+test			2008-03-27 22:18:54	86.105.67.31
+test	a testa, test		2008-03-27 22:18:58	86.105.67.31
+test			2008-03-27 22:19:35	86.105.67.31
+test	a testa, test		2008-03-27 22:19:42	86.105.67.31
+touchscreen	touchscreen [de preferat] , ecran sensibil la atingere, ecran tactil		2008-04-22 14:56:55	147.173.197.234
+torrent	torent		2008-04-23 20:24:49	89.137.8.106
+workspace	spaţiu de lucru	!	2008-04-28 10:48:47	89.38.147.13
+desktop	birou; suprafaţă de lucru, desktop PC = calculator de birou; desktop publishing = editarea [cărților] în birou; tehnoredactare	? [[desktop]]	2008-04-28 10:56:39	89.38.147.13
+sidepanel	panou lateral		2008-04-30 15:33:04	212.93.140.102
+bitwise	binar		2008-05-01 12:21:43	89.137.8.106
+readiness	?		2008-05-05 23:51:24	89.38.147.13
+occlusion	ocluziune	!	2008-05-10 12:57:19	81.180.68.7
+mipmap	hartă MIP (lat. „multum in parvo”)	!	2008-05-10 13:11:10	81.180.68.7
+mipmap	hartă MIP (lat. „multum in parvo”=mult în puțin)	!	2008-05-10 13:11:48	81.180.68.7
+overlap	suprapune	!	2008-05-10 14:06:34	81.180.68.7
+overlapping	suprapunere	!	2008-05-10 14:06:47	81.180.68.7
+fold	pliere	!	2008-05-10 14:32:44	81.180.68.7
+fade	decolorare	!	2008-05-10 15:10:36	81.180.68.7
+flag	a marca, fanion, steag, indicator, semnalizator		2008-05-14 23:54:14	140.77.129.55
+unflag	a demarca		2008-05-14 23:54:27	140.77.129.55
+lid	capac (la laptop)		2008-05-15 21:06:43	89.137.8.106
+viewport	punct de vedere, vizor	?	2008-05-15 21:27:28	82.78.39.13
+readiness	disponibilitate		2008-05-15 23:51:00	86.105.67.31
+readiness	pregătire		2008-05-15 23:51:28	86.105.67.31
+removable media	Mediu detașabil		2008-05-17 12:41:20	89.137.8.106
+sort	a sorta, fel, soi, a tria		2008-05-17 13:42:03	89.137.8.106
+snap	muşcătură, apucare rapidă; agățare (ferestre)	!	2008-05-19 18:19:54	81.180.68.7
+vertex	culme, zenit (astron.)	!	2008-05-19 18:23:06	81.180.68.7
+spring	resort	!	2008-05-19 18:32:23	81.180.68.7
+snapoff	desprindere	!	2008-05-19 19:39:16	81.180.68.7
+spreadsheet	foaie de calcul		2008-05-25 17:29:17	89.137.8.106
+scene	scenă		2008-05-25 17:30:19	89.137.8.106
+dump	a arunca		2008-05-28 11:50:46	212.93.140.102
+statement (programming)	insctrucțiune	!	2008-06-01 20:21:59	89.38.147.13
+statement (banking)	extras de cont	!	2008-06-01 20:22:55	89.38.147.13
+xml	xml	!	2008-06-01 20:23:27	89.38.147.13
+resolver	rezolvator	[[resolver]]	2008-06-04 11:35:21	212.93.140.102
+time stamp	marcaj de timp, etichetă de timp		2008-06-04 15:22:33	212.93.140.102
+copyright	!drepturi de autor		2008-06-06 09:56:21	212.93.140.102
+filed	clasat		2008-06-06 10:02:18	212.93.140.102
+subscribe	a abona		2008-06-06 11:44:21	212.93.140.102
+subscription	abonament		2008-06-06 11:44:35	212.93.140.102
+port	port	!	2008-06-15 13:40:39	89.38.147.13
+port (verb)	a porta	!	2008-06-15 13:41:18	89.38.147.13
+port (connectivity)	port		2008-06-15 13:42:18	89.38.147.13
+port	portare	!	2008-06-15 13:42:31	89.38.147.13
+port (connectivity)	port	!	2008-06-15 13:42:43	89.38.147.13
+hierachy	ierarhie	!	2008-06-15 14:19:20	89.38.147.13
+stand-alone	de sine stătător		2008-06-15 15:35:20	89.38.147.13
+layout	dispunere	? alte variante: aspect, aranjament, plan general, proiect, dispunere, formatare	2008-06-15 16:46:51	89.38.147.13
+tip	indicație [tips & tricks = sugestii şi ponturi; chichițe și șmecherii], propun găselniţă	? [[tips-and-tricks]]	2008-06-23 14:50:50	212.93.140.102
+tip	indicație	? [[tips-and-tricks]]	2008-06-23 14:51:01	212.93.140.102
+requirement	cerință		2008-06-23 14:59:21	212.93.140.102
+embed	încorporat		2008-06-25 10:56:03	212.93.140.102
+verbose	detaliat, vorbăreţ, gălăgios		2008-06-25 11:04:33	212.93.140.102
+location	locație	!	2008-06-25 14:52:16	212.93.140.102
+location	locație	[[location]]	2008-06-25 17:19:20	212.93.140.102
+illustration	ilustrație		2008-07-01 08:05:52	82.78.39.13
+time	oră, timp (depinde de context)		2008-07-02 10:12:21	212.93.140.102
+time	oră (date and time - data și ora), timp (it is about time)		2008-07-02 10:13:02	212.93.140.102
+role-playing game	joc de rol		2008-07-04 10:49:51	82.78.39.13
+passphrase	frază secretă, parolă tip frază, parolă-frază		2008-07-04 14:32:42	212.93.140.102
+layout	aspect, aranjament, plan general, proiect, dispunere, formatare	Modificat: Adi Roiban	2008-07-07 11:16:23	212.93.140.102
+newsgroup	grup de știri	? [[newsgroup]]	2008-07-09 20:13:21	89.38.147.13
+credentials	credențiale		2008-07-10 10:20:20	212.93.140.102
+credentials	credențiale	Modificiat: Adi Roiban	2008-07-10 10:20:33	212.93.140.102
+credentials	credențiale	Modificat: Adi Roiban	2008-07-10 10:20:41	212.93.140.102
+violation	violation	încălcare	2008-07-10 13:56:01	92.84.79.180
+violation	încălcare		2008-07-10 13:56:17	92.84.79.180
+master	principal		2008-07-11 19:12:49	78.97.211.199
+applet factory	uzina mini-aplicației	Adi Roiban	2008-07-11 19:22:01	78.97.211.199
+wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	! [[wrap]]	2008-07-14 20:13:48	82.78.39.13
+wrap	a înfăşura, a împacheta, formatat, a despărţi pe linii, aranjat	? [[wrap]]	2008-07-14 20:14:04	82.78.39.13
+e-mail	e-mail, email, mesaj electronic	Adi Roiban	2008-07-16 10:50:51	212.93.140.102
+email	email; mesaj	Adi Roiban	2008-07-16 10:51:20	212.93.140.102
+roaming	roaming	Adi Roiban	2008-07-24 09:16:05	212.93.140.102
+controller	controlor, controler [ide controller]		2008-07-24 09:30:53	212.93.140.102
+workaround	metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban	2008-07-24 09:39:15	212.93.140.102
+realm	domeni	Adi Roiban	2008-07-24 09:51:28	212.93.140.102
+realm	domeni (la AD și Kerberos)	Adi Roiban	2008-07-24 09:51:46	212.93.140.102
+seek	a căuta, a parcurge		2008-07-29 09:34:05	212.93.140.102
+seek	a căuta, a parcurge	Adi R.	2008-07-29 09:34:11	212.93.140.102
+handling	gestionare, operare	?	2008-07-29 09:35:23	212.93.140.102
+handle	a gestiona, a opera, deschide (un tip de fişiere)	Adi R	2008-07-29 09:36:56	212.93.140.102
+wrap	a încadra [text wrap], a împacheta, formatat, a despărţi pe linii, aranjat	? [[wrap]]	2008-07-29 09:37:59	212.93.140.102
+wrap	a încadra [text wrap], a împacheta, a despărţi pe linii, aranjat	? [[wrap]]	2008-07-29 09:38:09	212.93.140.102
+codec	codec, codecuri [codec video]	Adi R	2008-07-29 10:13:53	212.93.140.102
+prerequisite	condiție esențială	Adi R	2008-08-10 10:54:48	194.54.128.86
+driver	pilot, driver, modul de nucleu	!	2008-08-12 09:32:13	171.18.2.101
+doable	făcubil	!	2008-08-26 16:08:52	82.78.39.13
+prerequisite	cerință prealabilă		2008-08-27 10:33:50	92.80.17.97
+grant	a acorda; a împuternici, a permite (grant access)		2008-08-27 10:35:26	92.80.17.97
+gradient	degradeu	cf. DEX	2008-08-27 10:36:09	92.80.17.97
+verbose	detaliat; vorbăreţ, gălăgios		2008-08-27 10:37:06	92.80.17.97
+violation	violare; încălcare (drepturi)	cf. DEX	2008-08-27 10:38:11	92.80.17.97
+applet factory	fabrica de mini-aplicații	rz	2008-08-27 10:38:59	92.80.17.97
+doable	realizabil	?	2008-08-27 10:39:32	92.80.17.97
+swap	a interschimba, a schimba, a înlocui		2008-08-27 10:50:36	92.80.17.97
+menu item	element de meniu		2008-08-27 10:51:16	92.80.17.97
+merge	a fuziona, a combina, a îmbina		2008-08-27 10:51:51	92.80.17.97
+metadata	metadate	?	2008-08-27 10:52:11	92.80.17.97
+metafile	metafisier	?	2008-08-27 10:52:22	92.80.17.97
+meter	metru, măsură, măsurător/măsurătoare		2008-08-27 10:53:35	92.80.17.97
+macro	macro, macrocomandă	? [[macro]]	2008-08-27 10:54:02	92.80.17.97
+artist	interpret, artist	!	2008-08-27 10:56:27	92.80.17.97
+alternatively	alternativ, există şi posibilitatea să		2008-08-27 11:01:11	92.80.17.97
+basic	fundamental, de bază; simplu, rudimentar		2008-08-27 11:04:01	92.80.17.97
+branch	ramură, ramificaţie, filială		2008-08-27 11:07:30	92.80.17.97
+burn	a scrie, a inscripţiona [un cd, un dvd]		2008-08-27 11:09:01	92.80.17.97
+bootstrap	iniţializare; bootstrap?	?	2008-08-27 11:10:55	92.80.17.97
+buddy	amic, prieten		2008-08-27 11:11:19	92.80.17.97
+bulletin board	avizier	?	2008-08-27 11:12:04	92.80.17.97
+char cell	celulă caracter	?	2008-08-27 11:14:41	92.80.17.97
+code segment	segment de cod	?	2008-08-27 11:15:43	92.80.17.97
+cos	cos, cosinus		2008-08-27 11:16:14	92.80.17.97
+cross-reference	referinţă încrucişată	?	2008-08-27 11:16:55	92.80.17.97
+deselect	deselectează, şterge/anulează selecţia	?	2008-08-27 11:29:06	92.80.17.97
+detach	a detaşa, a desprinde		2008-08-27 11:30:35	92.80.17.97
+detection	detectare, identificare, descoperire		2008-08-27 11:31:08	92.80.17.97
+distribution list	listă de 	distribuţie		2008-08-27 11:32:13	92.80.17.97
+done	gata, terminat, ?realizat?	?	2008-08-27 11:32:57	92.80.17.97
+emulation	emulare		2008-08-27 11:35:41	92.80.17.97
+explicit state	statut explicit, stare explicită	?	2008-08-27 11:37:55	92.80.17.97
+embed	a încapsula, a încorpora		2008-08-27 11:38:37	92.80.17.97
+fade	a estompa, a decolora	!	2008-08-27 11:41:33	92.80.17.97
+fill	a umple (un contur), a completa; fill in data = completează datele		2008-08-27 11:42:50	92.80.17.97
+floating	plutitor, flotant (floating point=virgulă flotantă)		2008-08-27 11:43:31	92.80.17.97
+fork	a bifurca, ramificaţie; fork?	?	2008-08-27 11:44:48	92.80.17.97
+guest	vizitator, musafir, oaspete		2008-08-27 11:47:30	92.80.17.97
+hacker	hacker		2008-08-27 11:47:51	92.80.17.97
+hierarchy	ierarhie		2008-08-27 11:48:32	92.80.17.97
+hierachy	ierarhie	? ortografie gresita in eng	2008-08-27 11:48:51	92.80.17.97
+highly recommanded	it is ~ to = (este) indicat (să)	? ortografie gresita in eng	2008-08-27 11:49:39	92.80.17.97
+heat	căldură		2008-08-27 11:49:58	92.80.17.97
+hot spot	punct fierbinte, hotspot		2008-08-27 11:50:28	92.80.17.97
+hype	senzaţionalism?	?	2008-08-27 11:52:01	92.80.17.97
+id	id		2008-08-27 11:52:38	92.80.17.97
+irc	irc (internet relay chat)		2008-08-27 11:53:17	92.80.17.97
+instruction pointer	pointer instrucţiuni	?	2008-08-27 11:53:33	92.80.17.97
+jpeg	jpeg		2008-08-27 11:55:56	92.80.17.97
+jaz drive	jaz drive, unitate jaz		2008-08-27 11:56:57	92.80.17.97
+jaz drive	jaz drive, unitate jaz	?	2008-08-27 11:57:01	92.80.17.97
+launch	pornește, lansează (un program)		2008-08-27 11:58:00	92.80.17.97
+licence	licenţă	!	2008-08-27 11:58:39	92.80.17.97
+limits	limite		2008-08-27 11:58:57	92.80.17.97
+linux	linux	!	2008-08-27 11:59:12	92.80.17.97
+localhost	gazdă locală		2008-08-27 11:59:45	92.80.17.97
+locale	[configuraţie] locală, localizare?	?	2008-08-27 12:00:24	92.80.17.97
+mail to	mesaj către	?	2008-08-27 12:01:27	92.80.17.97
+main body	corp principal, corpul mesajului - mesajul propriu-zis	? in functie de context	2008-08-27 12:01:57	92.80.17.97
+mime type	tip mime		2008-08-27 12:02:23	92.80.17.97
+mini icons	mini pictograme		2008-08-27 12:02:53	92.80.17.97
+nautilus	nautilus	!	2008-08-27 12:03:28	92.80.17.97
+observation	observaţie		2008-08-27 12:04:47	92.80.17.97
+observations	observaţii		2008-08-27 12:04:52	92.80.17.97
+options	opţiuni		2008-08-27 12:05:08	92.80.17.97
+overlay	suprapune	?	2008-08-27 12:05:36	92.80.17.97
+pearson correlation	corelaţie Pearson		2008-08-27 12:06:15	92.80.17.97
+rpm package	pachet rpm		2008-08-27 12:09:50	92.80.17.97
+slow terminal	terminal lent		2008-08-27 12:11:00	92.80.17.97
+smtp	smtp (acronim)	?	2008-08-27 12:11:52	92.80.17.97
+turing machine	maşină Turing		2008-08-27 12:12:55	92.80.17.97
+featured	recomandări		2008-08-30 21:19:08	89.38.147.13
+rated	?		2008-08-30 21:22:14	89.38.147.13
+top rated	?		2008-08-30 21:22:25	89.38.147.13
+floating	plutitor, mobil (floating point=virgulă mobilă)		2008-08-31 17:27:42	193.230.245.5
+setting	1. opţiune, configurare, preferință 2. mediu, cadru		2008-08-31 17:29:33	193.230.245.5
+recoverable	recuperabil, corectabil		2008-08-31 18:36:47	193.230.245.5
+cancel	a renunţa, a anula [[cancel]]	? [[cancel]]	2008-09-03 17:27:14	212.93.140.102
+cancel	a renunţa, a anula	? [[cancel]]	2008-09-03 17:27:20	212.93.140.102
+popup windows	fereastră „popup”		2008-09-04 11:33:18	212.93.140.102
+jaz drive	unitate jaz	!	2008-09-04 19:33:55	82.78.39.13
+driver	pilot, driver (pl. drivere), modul de nucleu	!	2008-09-05 09:51:11	212.93.140.102
+driver	pilot, driver (pl. drivere), modul de nucleu	! Adi. R	2008-09-05 09:51:28	212.93.140.102
+policy	politică, regulă	! Adi. R	2008-09-05 11:09:32	212.93.140.102
+print job	sarcină de tipărire	! adi r	2008-09-05 12:42:45	212.93.140.102
+viewport	vizor	?	2008-09-06 16:48:31	193.230.245.5
+broadcast	a emite, a anunţa (în reţea)?, a difuza		2008-09-10 00:17:47	88.161.18.39
+bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate, scamă	? [[bug]]	2008-09-10 00:20:14	88.161.18.39
+scale	a scala, scalare, balanţă, scală; scară	!	2008-09-12 20:47:53	78.97.211.199
+ink	cerneală, tuș		2008-09-12 20:57:33	78.97.211.199
+appointment	întâlnire		2008-09-13 15:12:21	78.97.211.199
+workspaces	spații de lucru	!	2008-09-16 17:53:15	82.78.39.13
+work	muncă	! activitare a fost scos pentru că se suprapune cu activity	2008-09-16 17:54:10	82.78.39.13
+appointment	întâlnire	!	2008-09-16 17:55:45	82.78.39.13
+print	a tipări	! [[print]]	2008-09-16 17:57:40	82.78.39.13
+print area	suprafață de tipărire	!	2008-09-16 17:58:08	82.78.39.13
+printer	imprimantă	!	2008-09-16 17:58:14	82.78.39.13
+range	interval, rază (de extindere), zonă, arie, plajă (de valori), a înşira, a clasifica, şir, domeniu, ordine		2008-09-16 19:45:37	78.97.211.199
+maintained	întreținut		2008-09-16 20:39:58	78.97.211.199
+perform	a executa	adir	2008-09-16 20:44:32	78.97.211.199
+timestamp	datare; marcaj de timp		2008-09-17 22:08:42	193.231.29.34
+scaling factor	factor de scalare, factor de redimensionare		2008-09-18 00:41:53	193.231.29.34
+scalable	scalabil, ce poate fi redimensionat	!	2008-09-18 00:42:03	193.231.29.34
+scale	a scala, a redimensiona; scalare, balanţă, scală; scară	!	2008-09-18 00:42:25	193.231.29.34
+entry	intrare, înregistrare	? [[record-entry-element-item-row]]	2008-09-18 09:53:26	82.78.39.13
+draft	ciornă	!	2008-09-18 21:17:05	89.38.147.13
+post	a plasa, mesaj, a trimite	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:37:59	89.38.147.13
+article	articol	? [[[[record-entry-element-item-row-article-post-message]]	2008-09-18 21:38:11	89.38.147.13
+message	mesaj	! [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:38:23	89.38.147.13
+row	rând	! [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:38:54	89.38.147.13
+item	element, articol	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:39:13	89.38.147.13
+element		? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:39:31	89.38.147.13
+element	element	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:39:41	89.38.147.13
+element	element	! [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:39:47	89.38.147.13
+entry	intrare, înregistrare	? [[record-entry-element-item-row-article-post-message]]	2008-09-18 21:40:00	89.38.147.13
+record	a înregistra, înregistrare	[[record-entry-element-item-row-article-post-message]]	2008-09-18 21:40:11	89.38.147.13
+skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile); decorațiune; veșmânt; înfățișare; skin	? [[theme-scheme-skin]]	2008-09-19 20:27:38	82.76.12.174
+post (verb)	trimite	!	2008-09-20 14:15:38	89.38.147.13
+post	articol	? [[record-entry-element-item-row-article-post-message]]	2008-09-20 14:16:12	89.38.147.13
+post (forums)	mesaj	!	2008-09-20 14:16:28	89.38.147.13
+post processor	procesator de mesaje	!	2008-09-20 14:16:53	89.38.147.13
+page break	întrerupere pagină	!	2008-09-20 14:17:09	89.38.147.13
+patch	petic; a petici [se referă la mici aduceri la zi ale unor aplicații, cărora le „peticește” unele hibe]; plasture	!	2008-09-20 14:17:22	89.38.147.13
+path	cale	!	2008-09-20 14:17:34	89.38.147.13
+pause	pauză	!	2008-09-20 14:17:49	89.38.147.13
+plugin	modul	? [[addin-module-plugin-extension-applet]]	2008-09-20 14:18:50	89.38.147.13
+plug-in	modul	? [[Addin-module-plugin-extension-applet]]	2008-09-20 14:18:56	89.38.147.13
+ok	ok	!	2008-09-20 14:20:40	89.38.147.13
+cite	citat	!	2008-09-20 14:21:22	89.38.147.13
+confirm	a confirma	!	2008-09-20 14:21:35	89.38.147.13
+clu	sugestie	!	2008-09-20 14:21:43	89.38.147.13
+cumulative	cumulativ	!	2008-09-20 14:21:57	89.38.147.13
+changeset	set de schimbări (legat de vcs)	!	2008-09-20 14:22:30	89.38.147.13
+ctrl	ctrl	!	2008-09-20 14:22:57	89.38.147.13
+curve	curbă	!	2008-09-20 14:23:05	89.38.147.13
+ascii	ascii	!	2008-09-20 14:23:41	89.38.147.13
+anuar	anuar	!	2008-09-20 14:23:58	89.38.147.13
+blog	blog	! [[blog]]	2008-09-20 14:24:34	89.38.147.13
+bullet	bulină	!	2008-09-20 14:24:56	89.38.147.13
+burner	utilitar de scriere, inscriptor		2008-09-20 14:25:32	89.38.147.13
+banned	blocat	[[Lock-unlock-block-unblock-ban]]	2008-09-20 14:27:18	89.38.147.13
+banned	blocat	! [[Lock-unlock-block-unblock-ban]]	2008-09-20 14:27:24	89.38.147.13
+banned	blocat	? [[Lock-unlock-block-unblock-ban]]	2008-09-20 14:27:31	89.38.147.13
+emoticon	emoticon	!	2008-09-20 14:27:55	89.38.147.13
+emulation	emulare	!	2008-09-20 14:28:01	89.38.147.13
+exception	excepţie	!	2008-09-20 14:28:06	89.38.147.13
+expression	expresie	!	2008-09-20 14:28:14	89.38.147.13
+extension	extensie	! [[Addin-module-plugin-extension-applet]]	2008-09-20 14:28:30	89.38.147.13
+extract	a extrage	!	2008-09-20 14:28:35	89.38.147.13
+equation	ecuaţie	!	2008-09-20 14:28:51	89.38.147.13
+feed	flux	!	2008-09-20 14:29:15	89.38.147.13
+format	format	!	2008-09-20 14:29:27	89.38.147.13
+formula	formulă	!	2008-09-20 14:29:41	89.38.147.13
+fqdn	FQDN (acronim pentru Fully-Qualified Domain Name, domeniu de nume integral conform)		2008-09-20 14:30:03	89.38.147.13
+frequency	frecvenţă	!	2008-09-20 14:30:13	89.38.147.13
+fqdn	FQDN (acronim pentru Fully-Qualified Domain Name, domeniu de nume integral conform)	!	2008-09-20 14:30:36	89.38.147.13
+featured	recomandări	!	2008-09-20 14:30:53	89.38.147.13
+file manager	administrator de fişiere	!	2008-09-20 14:31:04	89.38.147.13
+global	global	!	2008-09-20 14:31:22	89.38.147.13
+gradient	degradeu	! cf. DEX	2008-09-20 14:31:33	89.38.147.13
+grayscale	scală de gri	!	2008-09-20 14:31:39	89.38.147.13
+guide	a ghida, ghid	!	2008-09-20 14:31:55	89.38.147.13
+heat	căldură	!	2008-09-20 14:32:16	89.38.147.13
+html	HTML (limbajul de marcare a hipertextului)	!	2008-09-20 14:32:44	89.38.147.13
+housekeeping	întreţinere	!	2008-09-20 14:32:59	89.38.147.13
+ignore	a ignora	!	2008-09-20 14:33:14	89.38.147.13
+index	indice	!	2008-09-20 14:33:21	89.38.147.13
+internet	internet	!	2008-09-20 14:33:26	89.38.147.13
+indicator	indicator	!	2008-09-20 14:33:29	89.38.147.13
+irc	irc (internet relay chat)	!	2008-09-20 14:33:47	89.38.147.13
+ip address	adresă IP	!	2008-09-20 14:33:52	89.38.147.13
+intercept	a intercepta, interceptare	!	2008-09-20 14:34:04	89.38.147.13
+illustration	ilustrație	!	2008-09-20 14:34:09	89.38.147.13
+inactive window	fereastra inactivă	!	2008-09-20 14:34:23	89.38.147.13
+ink	cerneală	! (tuș este nerecomandat)	2008-09-20 14:34:45	89.38.147.13
+internal error	eroare internă	!	2008-09-20 14:34:52	89.38.147.13
+jpeg	jpeg	!	2008-09-20 14:35:13	89.38.147.13
+opacity	opacitate	!	2008-09-20 14:35:40	89.38.147.13
+opponent	adversar	!	2008-09-20 14:35:45	89.38.147.13
+options	opţiuni	!	2008-09-20 14:36:03	89.38.147.13
+observations	observaţii	!	2008-09-20 14:36:23	89.38.147.13
+observation	observaţie	!	2008-09-20 14:36:26	89.38.147.13
+web	web	!	2008-09-20 14:37:05	89.38.147.13
+write	a scrie	!	2008-09-20 14:37:13	89.38.147.13
+layer	strat	!	2008-09-20 14:38:14	89.38.147.13
+legal notice	notă juridică	!	2008-09-20 14:38:21	89.38.147.13
+lid	capac (la laptop)	!	2008-09-20 14:38:29	89.38.147.13
+linear transfer	transfer liniar	!	2008-09-20 14:38:35	89.38.147.13
+limit	limită	!	2008-09-20 14:38:39	89.38.147.13
+limits	limite	!	2008-09-20 14:38:43	89.38.147.13
+license agreement	acord de licențiere	!	2008-09-20 14:39:14	89.38.147.13
+launcher	lansator	!	2008-09-20 14:39:19	89.38.147.13
+laptop	laptop	!	2008-09-20 14:39:39	89.38.147.13
+legacy system	sistem moştenit	!	2008-09-20 14:39:57	89.38.147.13
+legacy	moştenire	!	2008-09-20 14:40:04	89.38.147.13
+line	linie [grafică]; fir de undiţă/undiţă [pescuit]	!	2008-09-20 14:40:42	89.38.147.13
+line arguments	argumentele din linia de comandă	!	2008-09-20 14:41:05	89.38.147.13
+register	a înregistra	!	2008-09-20 14:41:58	89.38.147.13
+record	a înregistra, înregistrare	! [[record-entry-element-item-row-article-post-message]]	2008-09-20 14:42:09	89.38.147.13
+recorder	inscriptor	!	2008-09-20 14:42:19	89.38.147.13
+recorder	inscriptor	?	2008-09-20 14:42:33	89.38.147.13
+recycle bin	coș de gunoi		2008-09-20 14:42:50	89.38.147.13
+redisplay	a reafişa	!	2008-09-20 14:43:05	89.38.147.13
+relationship	relaţie	!	2008-09-20 14:43:12	89.38.147.13
+raster	imagine raster	!	2008-09-20 14:43:26	89.38.147.13
+read out	a citi cu voce tare	!	2008-09-20 14:43:34	89.38.147.13
+replace	a înlocui	!	2008-09-20 14:44:31	89.38.147.13
+relevance	relevanţă	!	2008-09-20 14:45:08	89.38.147.13
+recovery	recuperare	!	2008-09-20 14:45:13	89.38.147.13
+recycle bin	coș de gunoi	!	2008-09-20 14:45:20	89.38.147.13
+unknown	necunoscut	!	2008-09-20 14:45:34	89.38.147.13
+usb	USB	!	2008-09-20 14:45:48	89.38.147.13
+usage	utilizare, mod de utilizare	!	2008-09-20 14:46:10	89.38.147.13
+untitled	fără titlu	!	2008-09-20 14:46:25	89.38.147.13
+virtual	virtual	!	2008-09-20 14:46:43	89.38.147.13
+volume	volum	!	2008-09-20 14:46:47	89.38.147.13
+vertical	vertical	!	2008-09-20 14:46:52	89.38.147.13
+version	versiune	!	2008-09-20 14:47:13	89.38.147.13
+visualization	vizualizare	!	2008-09-20 14:47:37	89.38.147.13
+vpn	RPV (Rețea Privată Virtuală)	?	2008-09-20 14:47:49	89.38.147.13
+valid chars	caractere valide	!	2008-09-20 14:48:05	89.38.147.13
+value	valoare	!	2008-09-20 14:48:10	89.38.147.13
+vector graphics	grafică vectorială	!	2008-09-20 14:48:19	89.38.147.13
+dialout device	dispozitiv de apel în exterior		2008-09-22 18:09:38	171.18.2.101
+dma	alocare dinamică de memorie		2008-09-22 18:10:25	171.18.2.101
+dns	server de nume de domeniu		2008-09-22 18:10:42	171.18.2.101
+referrer	menționant		2008-09-23 00:26:35	78.97.211.199
+referrer	menționat de	adi r	2008-09-23 00:27:54	78.97.211.199
+toolbar	bară cu unelte [adir], bara instrumentelor		2008-09-23 11:07:04	212.93.140.102
+toolbar	bară cu unelte [adir], bara instrumentelor	? [[toolbar]]	2008-09-23 11:14:46	82.78.39.13
+referrer	menționat de	[[referrer]]	2008-09-23 11:24:44	82.78.39.13
+toolbar	bară de unelte [adir], bara instrumentelor	? [[toolbar]]	2008-09-23 12:11:12	212.93.140.102
+file manager	gestionar de fişiere	!	2008-09-23 18:21:18	171.18.2.109
+finish	a termina, terminare, încheiere, sfârşit	? [[quit-exit-terminate-finish]]	2008-09-23 18:29:00	171.18.2.109
+firewall	parafoc, paravan de protecţie, firewall		2008-09-23 18:29:45	171.18.2.109
+formatting	formatare; se formatează... [acţiune în curs] 		2008-09-23 18:38:14	171.18.2.109
+fortune	zicală, vorbă de duh		2008-09-23 18:39:14	171.18.2.109
+fqdn	FQDN (acronim pentru Fully-Qualified Domain Name, nume de domeniu integral conform / nume de domeniu întreg-calificat / nume de domeniu complet calificat)	!	2008-09-23 18:45:03	171.18.2.109
+gateway	pasarelă, poartă, calculator "poartă" de iesire		2008-09-23 18:59:21	171.18.2.109
+logging	jurnalizare		2008-09-23 23:43:50	89.38.147.13
+hardware	fierărie, material, hardware (componentele fizice ale unui calculator), componente, echipament		2008-09-24 17:31:58	171.18.2.81
+feedback	reacţie, comentarii, reacţie; comentarii, sugestii ?		2008-09-24 22:24:40	89.38.147.13
+polling	verificare periodică	adir	2008-09-25 09:31:53	212.93.140.102
+api	API	!	2008-09-25 17:10:04	89.38.147.13
+adaptive routing	rutare adaptivă	!	2008-09-25 17:10:17	89.38.147.13
+bus	magistrală	!	2008-09-25 17:11:39	89.38.147.13
+seed	sursă completă [pt bittorrent]	adir	2008-09-25 23:52:34	78.97.211.199
+leech	sursă incompletă [pt bittorrent]	adir	2008-09-25 23:53:00	78.97.211.199
+torrent	torent (pl. torente)	adir	2008-09-26 00:23:43	78.97.211.199
+thin	thin	subțire	2008-09-26 03:08:18	141.85.0.116
+thin	subțire		2008-09-26 03:08:29	141.85.0.116
+port binding	asociere port	adir	2008-09-26 15:04:02	212.93.140.102
+speech	vorbire		2008-09-26 15:57:36	192.88.166.35
+speech	discurs		2008-09-26 15:57:48	192.88.166.35
+speech	vorbire, discurs		2008-09-26 15:58:08	192.88.166.35
+ide	IDE [controler IDE]		2008-09-26 18:00:11	88.161.18.39
+id	id, identificator		2008-09-26 18:00:30	88.161.18.39
+installer	program de instalare, instalator		2008-09-26 19:42:42	88.161.18.39
+instruction pointer	indicator de instrucţiuni	?	2008-09-26 19:47:42	88.161.18.39
+intersect	a intersecta		2008-09-26 19:50:52	88.161.18.39
+inode	inod		2008-09-26 19:51:05	88.161.18.39
+inbox	Primite, căsuţă de recepţie		2008-09-26 19:52:03	88.161.18.39
+insensitive version	versiune neimpresionantă		2008-09-26 19:53:25	88.161.18.39
+keyring	inel de chei, portchei	?	2008-09-26 23:00:00	78.97.211.199
+keyring	inel de chei, portchei	adir 	2008-09-26 23:00:20	78.97.211.199
+light precipitation	precipitaţii uşoare		2008-09-26 23:02:53	88.161.18.39
+setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru		2008-09-27 12:47:25	78.97.211.199
+setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	adir	2008-09-27 12:47:45	78.97.211.199
+keyring	inel de chei	adir	2008-09-27 12:48:38	78.97.211.199
+uniform resource identifier	identificator uniform de resurse		2008-09-28 01:25:57	141.85.0.116
+uniform resource locator	Localizator uniform de resurse		2008-09-28 01:26:18	141.85.0.116
+configuration	configuraţie	[configuration-options-preferences-settings]	2008-09-28 10:13:32	89.38.147.13
+configuration	configuraţie	[[configuration-options-preferences-settings]]	2008-09-28 10:13:57	89.38.147.13
+options	opţiuni	! [[configuration-options-preferences-settings]]	2008-09-28 10:14:12	89.38.147.13
+preferences	preferinţe	! [[configuration-options-preferences-settings]]	2008-09-28 10:14:27	89.38.147.13
+setting	1. configurare (când e vorba de sistem), preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	? adir [[configuration-options-preferences-settings]]	2008-09-28 10:14:52	89.38.147.13
+drop shadow	umbră de perspectivă		2008-09-28 22:25:37	79.115.21.189
+setting	1. configurare (când e vorba de sistem), setare, preferință (cand e vorba de utilizator), opţiune 2. mediu, cadru	? adir [[configuration-options-preferences-settings]]	2008-09-28 22:26:33	79.115.21.189
+snap	a acroșa, a agăța (ferestre); apucare rapidă	!	2008-09-29 00:39:05	79.115.21.189
+snap	a acroșa, a agăța (ferestre); apucare rapidă		2008-09-29 00:39:32	79.115.21.189
+mailbox	căsuţă poştală, cutie poştală		2008-09-29 17:20:25	171.18.2.81
+mail client	client de mesagerie, client de poştă electronică, client de mail		2008-09-29 17:20:41	171.18.2.81
+mail server	server de mesagerie, server de poştă electronică, server de mail		2008-09-29 17:20:57	171.18.2.81
+mixer device	dispozitiv de mixaj		2008-09-30 11:59:16	171.18.2.82
+modal (value)	valoare modală, valoare probabilă maximă		2008-09-30 12:27:35	171.18.2.82
+mouse cursor	cursor maus	[[mouse]] ?	2008-09-30 13:58:55	171.18.2.82
+msdos	MS-DOS (Microsoft Disk Operating System)		2008-09-30 14:00:23	171.18.2.82
+multiboot	demaraj multiplu (sistem cu mai multe sisteme de operare)		2008-09-30 14:01:24	171.18.2.82
+negative binomial	binom negativ		2008-09-30 15:59:29	171.18.2.82
+netmask	mască de reţea		2008-09-30 16:00:19	171.18.2.82
+netscape	Netscape		2008-09-30 16:00:33	171.18.2.82
+news site	sit de ştiri		2008-09-30 16:01:29	171.18.2.82
+next	înainte (neutru, plus se poate păstra tasta rapiă pe N), următor (alternativa veche) 		2008-09-30 16:03:26	171.18.2.82
+notebook	agendă, calculator portabil, notebook		2008-09-30 16:07:48	171.18.2.82
+notepad	carneţel		2008-09-30 16:08:43	171.18.2.82
+number converter	convertor de numere		2008-09-30 16:10:47	171.18.2.82
+number theory	teoria numerelor		2008-09-30 16:11:20	171.18.2.82
+overflow	revărsare, excedent		2008-09-30 19:23:18	171.18.2.82
+framework	framework	adir 	2008-09-30 22:14:11	78.97.211.199
+framework	platformă	[[framework]]	2008-10-01 03:10:47	92.81.24.84
+hindi	Indiană	?	2008-10-01 03:31:40	92.81.24.84
+bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate, scamă, hibă	? [[bug]]	2008-10-01 15:46:21	171.18.2.101
+pattern	model, desen, tipar,  mostră, probă, eşantion		2008-10-01 15:49:36	171.18.2.101
+peak indicator	indicator de suprasarcină		2008-10-01 15:54:53	171.18.2.101
+peer	conexiune, conexiune-pereche, partener, egal, pereche		2008-10-01 15:56:34	171.18.2.101
+pending	în suspensie, în așteptare		2008-10-01 15:59:08	171.18.2.101
+perl script	script perl		2008-10-01 16:15:26	171.18.2.101
+picker button	buton tachet, buton picon		2008-10-01 16:21:36	171.18.2.101
+pid	PID (process identifier) identificator de proces		2008-10-01 18:25:25	171.18.2.101
+pilot device	dispozitiv pilot		2008-10-01 18:26:47	171.18.2.101
+pixmap	pixmap, hartă de pixeli		2008-10-01 18:31:39	171.18.2.101
+player	lector, redator	[[Glosar/Discutii/player]]	2008-10-01 18:32:51	171.18.2.101
+popup windows	fereastră contextuală		2008-10-01 18:53:14	171.18.2.101
+port binding	asociere de port	adir	2008-10-01 18:54:51	171.18.2.101
+preview	previzualizare, avanpremieră, preafişare		2008-10-01 19:01:00	171.18.2.101
+authorization	autorizație		2008-10-01 21:55:36	92.81.26.20
+setting	1. configurare (când e vorba de sistem),  preferință (cand e vorba de utilizator), opţiune 	? adir [[configuration-options-preferences-settings]]	2008-10-01 23:57:09	78.97.211.199
+proceedings	procedee		2008-10-03 13:24:02	171.18.2.109
+process id	identificator de proces		2008-10-03 13:25:21	171.18.2.109
+progress	(în) desfăşurare, progres, evoluţie		2008-10-03 13:27:04	171.18.2.109
+proofreader	verificator, corector (de erori în cărţile tipărite), verificator-corector	?	2008-10-03 13:31:27	171.18.2.109
+provider	furnizor, FAI (furnizor de acces Internet)		2008-10-03 13:34:41	171.18.2.109
+proxy	proxy, server mandatar		2008-10-03 13:35:51	171.18.2.109
+radar map	hartă radar, ecran radar		2008-10-03 14:16:39	171.18.2.109
+radio	radio		2008-10-03 14:16:45	171.18.2.109
+radio button	buton radio (nu potenţiometru)		2008-10-03 14:17:23	171.18.2.109
+rated	cotat		2008-10-03 14:19:06	171.18.2.109
+readout	rezultat (afişarea rezultatelor într-o formă lizibilă)		2008-10-03 14:49:03	171.18.2.109
+relief	relief, uşurare, descărcare, reducere		2008-10-03 18:28:48	171.18.2.109
+remapping	recartografiere, reasociere		2008-10-03 18:31:12	171.18.2.109
+removable media	mediu amovibil, mediu detașabil		2008-10-03 18:33:08	171.18.2.109
+upgrade	a îmbunataţi, îmbunataţire, a actualiza	? [[update-upgrade]]	2008-10-06 18:21:11	82.78.39.13
+update	a actualiza, actualizare	? [[update-upgrade]]	2008-10-06 18:21:21	82.78.39.13
+upgradable	actualizabil	? [[update-upgrade]]	2008-10-06 18:21:40	82.78.39.13
+feather	??	? [[feather]]	2008-10-06 18:22:03	82.78.39.13
+glow	luminescență		2008-10-06 22:50:42	79.115.20.103
+glow	strălucire, luminescență		2008-10-06 22:59:25	79.115.20.103
+glow	incandescență, luminescență, strălucire		2008-10-06 23:12:11	79.115.20.103
+assign	a desemna, a delega, a asocia ceva cuiva, a atribui (a asigna e greşit, vezi DEX)		2008-10-07 10:15:04	91.84.18.189
+layout	aranjament (ex de tastatură), aspect, plan general, proiect, dispunere, formatare	Modificat: Adi Roiban	2008-10-07 10:20:41	91.84.18.189
+reverse video	video invers		2008-10-07 13:46:04	171.18.2.82
+review	recenzie, prezentare, a revedea, a trece în revistă,		2008-10-07 13:58:28	171.18.2.82
+review	recenzie, prezentare, a revedea, a trece în revistă, a recenza		2008-10-07 13:59:27	171.18.2.82
+rip	a exctrage (în context CD/DVD), a jupui, a spinteca		2008-10-07 14:01:06	171.18.2.82
+rip	a extrage (în context CD/DVD), a jupui, a spinteca		2008-10-07 14:01:32	171.18.2.82
+roaming	itinerant (profilul itinerant al utilizatorului)	Adi Roiban	2008-10-07 14:03:32	171.18.2.82
+flash	licărire	adir	2008-10-07 14:09:21	91.84.18.189
+router	ruter, distribuitor		2008-10-07 14:09:26	171.18.2.82
+run	a porni, a executa, a rula	? [[execute-run-start]]	2008-10-07 14:10:58	171.18.2.82
+schedule manager	administrator orar, administrator planificări, gestionar de planificări		2008-10-07 15:15:49	171.18.2.82
+search domain	domeniu căutării, domeniu de căutare	? [[find-lookup-search]]	2008-10-07 17:19:11	171.18.2.82
+seascape	(pentru imprimare) orizontal răsturnat, privelişte marină, vedere la mare	?	2008-10-07 17:21:51	171.18.2.82
+secure keyboard	tastatură sigură, tastatură securizată		2008-10-07 17:26:58	171.18.2.82
+self-signed	subsemnat		2008-10-07 17:56:11	171.18.2.82
+sequence	succesiune, ordine, concordanţă, secvenţă		2008-10-07 17:59:49	171.18.2.82
+shaped text	text conturat		2008-10-07 18:05:28	171.18.2.82
+snippet	bucată de cod, bloc de cod, fragment		2008-10-08 14:56:42	82.76.12.174
+antialiasing	anticrenelare, antialias		2008-10-08 23:06:05	79.115.21.64
+signature block	semnătură, cadru de  semnătură		2008-10-09 13:29:28	171.18.2.81
+size box	căsuţă de dimensiune		2008-10-09 13:30:54	171.18.2.81
+skewness	caracter oblic, catacter pieziş		2008-10-09 13:32:21	171.18.2.81
+skewness	caracter oblic, catacter pieziş, înclinare, asimetrie, oblicitate		2008-10-09 13:33:19	171.18.2.81
+slash	per (termen tipografic existent în română) [cf. Backslash], bară oblică, linie oblică		2008-10-09 13:36:47	171.18.2.81
+sleep	somn; put to sleep = adoarme [calculatorul], stare de veghe [calculator]		2008-10-09 13:41:10	171.18.2.81
+sleeping	somn, de veghe [calculator]		2008-10-09 13:41:43	171.18.2.81
+slider	cursor, patină, derulator, glisor, ascensor, culisor 		2008-10-09 13:43:46	171.18.2.81
+slideshow	prezentare diapozitive, succesiune imagini, diaporamă		2008-10-09 13:44:26	171.18.2.81
+slot	fantă, nişă, spaţiu alocat, conector, apertură, alveolă (dacă este vorba de librării de stocat casete cu copii de rezervă)		2008-10-09 13:47:27	171.18.2.81
+smiley	pictogramă simbolică		2008-10-09 13:48:45	171.18.2.81
+smtp	SMTP (acronim de la Simple Mail Transfer Protocol)	?	2008-10-09 18:27:42	171.18.2.81
+soft	program, moale, soft (fir de mătase, vezi DEX) 		2008-10-09 18:49:19	171.18.2.81
+soft keys	taste funcţionale		2008-10-09 18:50:52	171.18.2.81
+software	programe, programe de calculator, aplicaţii informatice, software		2008-10-09 18:53:03	171.18.2.81
+software bug	eroare în program, defecţiune în program, scamă în program, scamă software	? [[bug]]	2008-10-09 18:58:14	171.18.2.81
+spam	indezirabil, mesaj nedorit (de regula cu caracter publicitar), spam		2008-10-09 19:01:02	171.18.2.81
+stage	etapă, stagiu		2008-10-09 19:08:27	171.18.2.81
+stand-alone	de sine stătător, autonom		2008-10-09 19:09:16	171.18.2.81
+standby	în aşteptare, starea de veghe, gata de intervenţie, pregătit, de rezervă		2008-10-09 19:12:32	171.18.2.81
+startup files	fişiere de pornire		2008-10-09 19:13:33	171.18.2.81
+startup program	program de pornire		2008-10-09 19:13:59	171.18.2.81
+structure diagram	organigramă		2008-10-09 19:24:50	171.18.2.81
+subsidear	cuvânt scris greşit???		2008-10-09 19:30:39	171.18.2.81
+superblock	superbloc		2008-10-09 19:32:51	171.18.2.81
+system settings	parametri sistem		2008-10-09 19:38:26	171.18.2.81
+home directory	dosar/driector personal (al unui utilizator)	? [[home]]	2008-10-10 10:49:18	171.18.2.109
+tab	1. tab (tastă);  2. filă, categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]	2008-10-10 13:28:14	171.18.2.109
+page up	pagină mai sus		2008-10-10 13:31:41	141.85.0.116
+page down	pagina mai jos		2008-10-10 13:31:51	141.85.0.116
+backspace	backspace		2008-10-10 13:32:38	141.85.0.116
+table footer	subsol de tabel	?	2008-10-10 13:37:31	171.18.2.109
+tcp/ip	TCP/IP (acronim de la Transmission Control Protocol / Internet Protocol), protocol de comunicare		2008-10-10 13:54:08	171.18.2.109
+template	şablon, model		2008-10-10 14:08:22	171.18.2.109
+review	recenzie, prezentare, a revedea, a trece în revistă, a recenza, a revizui		2008-10-10 15:07:37	141.85.0.116
+tip	indicație, sfat	? [[tips-and-tricks]]	2008-10-10 18:50:35	171.18.2.109
+todo list	listă cu ce mai este de făcut		2008-10-10 18:54:04	171.18.2.109
+top rated	bine cotat		2008-10-10 19:00:20	171.18.2.109
+top	vârf, cotă		2008-10-10 19:00:50	171.18.2.109
+pad	suport, tabletă, tuşieră, bloc de desen, bloc de scris		2008-10-10 19:07:03	171.18.2.109
+pad	suport, tabletă, tuşieră, bloc de desen, bloc de scris, blocnotes, carneţel		2008-10-10 19:09:09	171.18.2.109
+trap	a captura, capcană, trapă	!	2008-10-10 19:12:31	171.18.2.109
+tty	tty (termen generic pentru un teminal de calculator sau interfaţa serială asociată), comandă unix ce afişează numele terminalului curent		2008-10-10 19:18:41	171.18.2.109
+unwrap	a desfăşura, a despacheta		2008-10-10 19:33:10	171.18.2.109
+upgrade	a îmbunataţi, îmbunataţire, înnoire, a actualiza, actualizare majoră, aducere le nivel	? [[update-upgrade]]	2008-10-10 19:35:12	171.18.2.109
+upside down	răsturnat vertical, cu susu-n jos		2008-10-10 19:41:27	171.18.2.109
+urgent condition	condiţie urgentă		2008-10-10 19:45:01	171.18.2.109
+ripple	a ondula		2008-10-11 12:35:13	79.115.21.64
+ripple	a ondula, a încreți		2008-10-11 12:40:16	79.115.21.64
+home	acasă, pagina principală, dosar personal	? [[traducere-home]]	2008-10-13 17:40:56	82.78.39.13
+home directory	dosar/driector personal (al unui utilizator)	? [[traducere-home]]	2008-10-13 17:41:03	82.78.39.13
+home page	pagina principală	? [[traducere-home]]	2008-10-13 17:41:09	82.78.39.13
+home folder	dosar personal	? [[traducere-home]]	2008-10-13 17:41:53	82.78.39.13
+home directory	director personal	? [[traducere-home]]	2008-10-13 17:42:12	82.78.39.13
+home	acasă, pagina principală	? [[traducere-home]]	2008-10-13 17:42:27	82.78.39.13
+valid	potrivit, autorizat		2008-10-15 16:43:33	171.18.2.101
+valid	valid, corect, potrivit, autorizat		2008-10-15 16:44:18	171.18.2.101
+variable	variabil, variabilă (în programare)		2008-10-15 16:45:42	171.18.2.101
+vfs	VFS (acronim de la Virtual File System), sistem de fişiere virtual		2008-10-15 16:48:25	171.18.2.101
+virtual desktop	birou virtual		2008-10-15 16:51:02	171.18.2.101
+vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtuală)	?	2008-10-15 16:53:16	171.18.2.101
+wallpaper	fundal (de birou, ex: desktop wallpaper), tapet (pentru pereţi)		2008-10-15 16:59:50	171.18.2.101
+wallpaper	fundal [de birou] (ex: desktop wallpaper), tapet (pentru pereţi)		2008-10-15 17:00:45	171.18.2.101
+watch dog	câine de pază, dispozitiv supraveghetor, serviciu de supravegehre		2008-10-15 17:02:43	171.18.2.101
+watch file	fişier observator, fişier supraveghetor		2008-10-15 17:03:23	171.18.2.101
+whitelist	a permite, listă permisiuni, lista albă, utilizatori autorizaţi		2008-10-15 18:27:53	171.18.2.101
+whitespace	spaţiu gol (fără imagini),spaţiu continu (secvenţă de spaţii, tab sau enter), caractere de tip spaţiu		2008-10-15 18:33:33	171.18.2.101
+whitespace	spaţiu gol (fără imagini),spaţiu continuu (secvenţă de spaţii, tab sau enter), caractere de tip spaţiu		2008-10-15 18:36:25	171.18.2.101
+widget	control (butoane, bare de derulare, etc), gadget		2008-10-15 18:36:46	171.18.2.101
+window manager	gestionar de ferestre, administrator de ferestre		2008-10-15 18:38:59	171.18.2.101
+workaround	conturnare, metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban	2008-10-15 18:42:02	171.18.2.101
+workbook	instrucţiuni / manual / îndreptar (broşura explicând modul de funcţionare a unui aparat, etc.),  culegere de exerciţii, agendă		2008-10-15 18:44:51	171.18.2.101
+workgroup	grup de lucru		2008-10-15 18:45:34	171.18.2.101
+workshop	atelier, seminar, prezentare		2008-10-15 18:46:44	171.18.2.101
+writer	editor [de texte], scriitor		2008-10-15 18:48:18	171.18.2.101
+wysiwyg	occv, obţii ceea ce vezi (acronim de la What You See Is What You Get)		2008-10-15 18:49:25	171.18.2.101
+x server	server X (grafic)		2008-10-15 18:51:53	171.18.2.101
+your computer	calculatorul dvs		2008-10-15 18:53:03	171.18.2.101
+lock	a bloca, a obţine acces exclusiv, lacăt	? [[lock-unlock]]	2008-10-17 18:28:36	141.85.0.116
+log in	a deschide sesiunea		2008-10-17 18:33:11	141.85.0.116
+log out	a închide sesiunea		2008-10-17 18:33:27	141.85.0.116
+uppercase	majuscule		2008-10-17 18:43:39	141.85.0.116
+shift	a deplasa, a muta		2008-10-17 19:10:26	141.85.0.116
+report	(s) raport, (vt) a relata, (vt) a raporta		2008-10-17 20:02:39	141.85.0.116
+shell	shell, consolă	[[shell-console-terminal-command-line]]	2008-10-18 08:23:13	89.38.147.13
+shell	shell, consolă	? [[shell-console-terminal-command-line]]	2008-10-18 12:50:16	89.38.147.13
+sheet	foaie	!	2008-10-18 13:08:04	89.38.147.13
+sheet	foaie	? [[page-sheet]]	2008-10-18 13:20:12	89.38.147.13
+sheet	foaie, filă	? [[page-sheet]]	2008-10-18 13:20:21	89.38.147.13
+page	pagină	! [[page-sheet]]	2008-10-18 13:20:33	89.38.147.13
+uppercase	majuscule	!	2008-10-18 13:25:07	89.38.147.13
+lowercase	minuscule	!	2008-10-18 13:25:27	89.38.147.13
+shell	shell	? [[shell-console-terminal-command-line]]	2008-10-18 13:58:12	89.38.147.13
+attachment	anexă, ataşament	! [[attachment]]	2008-10-18 14:14:49	89.38.147.13
+attachment	ataşament	! [[attachment]]	2008-10-18 14:15:01	89.38.147.13
+attach	a ataşa	! [[attachment]]	2008-10-18 14:15:12	89.38.147.13
+vfs	VFS (acronim de la Virtual File System), sistem de fişiere virtual	!	2008-10-18 14:16:12	89.38.147.13
+video	video	!	2008-10-18 14:16:33	89.38.147.13
+verify	a verifica, verificare	!	2008-10-18 14:17:03	89.38.147.13
+vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtuală)	!	2008-10-18 14:17:29	89.38.147.13
+only	doar, numai [limitativ]	!	2008-10-18 14:18:11	89.38.147.13
+crosshair	reticul		2008-10-18 16:01:01	141.85.0.110
+console	consolă		2008-10-18 16:22:12	141.85.0.110
+shell script	script de shell		2008-10-18 16:22:43	141.85.0.110
+margin	margine, marjă	? [[edge-margin-border]]	2008-10-18 16:33:05	141.85.0.110
+kernel	nucleu (de sistem)	!	2008-10-21 22:10:17	89.38.147.13
+additional	adiţional, suplimentar	!	2008-10-21 22:15:52	89.38.147.13
+appendix	anexă	!	2008-10-21 22:16:13	89.38.147.13
+authorization	autorizație	!	2008-10-21 22:16:30	89.38.147.13
+aggregate bandwidth	lăţime de bandă cumulată	!	2008-10-21 22:16:45	89.38.147.13
+archive file	fişier arhivă	!	2008-10-21 22:17:02	89.38.147.13
+heading	antet, titlu [de rubrică], rubrică	?	2008-10-27 23:10:03	82.76.12.174
+location	locație, poziţie	[[location]]	2008-11-08 08:20:25	89.137.245.38
+drop	a renunța la, a refuza, a abandona; a arunca, a da drumul să cadă [pentru situații gen drag and drop]		2008-11-09 11:20:47	79.115.20.61
+crash	cădere, a avea o pană, pană, defect, terminare prematură, avarie		2008-11-09 11:43:51	79.115.20.61
+crash	cădere, a avea o pană, pană, defect, terminare prematură, avarie a programului		2008-11-09 11:47:57	79.115.20.61
+truncate	a aproxima, a reduce, a tăia, a trunchia	?	2008-11-11 00:41:59	79.115.21.127
+wysiwyg	wysiwyg		2008-11-18 20:04:41	78.97.211.199
+fetch	a potrivi [datele]; fetch data = potrivește datele; a aduce, a scoate; fetch mail = adu mail-ul [de pe server]; a recupera (cu sensul de a aduce)		2008-11-19 02:11:28	79.115.21.54
+location	locație, poziţie, amplasare	[[location]]	2008-11-19 02:13:27	79.115.21.54
+embedded	încapsulat, înglobat, încastrat, îmbarcat, integrat		2008-11-19 16:41:30	171.18.2.101
+embedded system	sistem incorporat		2008-11-19 22:52:34	141.85.0.116
+handout		?	2008-11-21 12:33:06	89.38.147.13
+pinwheel		?	2008-11-21 12:34:22	89.38.147.13
+peek out		?	2008-11-21 12:46:04	89.38.147.13
+typeface		?	2008-11-21 13:05:27	89.38.147.13
+tristate	stare triplă		2008-11-21 13:13:16	89.38.147.13
+tristate	stare triplă	!	2008-11-21 13:13:24	89.38.147.13
+authentication	autentificare	? [[online-offline-connected-disconnected]]	2008-11-21 14:00:54	89.38.147.13
+embedded	încorporat, încapsulat, înglobat, încastrat, îmbarcat, integrat		2008-11-21 18:56:49	171.18.2.82
+emoticon	emoticon, emotigramă? (de la pictogramă)	!	2008-11-21 18:57:40	171.18.2.82
+makefile	fişier make, makefile (numele implicit al fișierului make)		2008-11-23 16:45:12	78.97.56.35
+stitch	a însăila, a monta (prin analogie cu termenul cinematografic: montaj)	?[[stitch]]	2008-11-26 22:45:53	79.113.149.11
+assistive	de asistenţă	ajutător	2008-11-27 01:32:02	92.82.1.107
+slider	cursor, patină, derulator, glisor, ascensor, culisor	slider-to-slide	2008-11-27 03:37:16	141.85.0.116
+slider	cursor, patină, derulator, glisor, ascensor, culisor	[slider-to-slide]	2008-11-27 03:37:33	141.85.0.116
+slider	cursor, patină, derulator, glisor, ascensor, culisor	? slider-to-slide	2008-11-27 03:37:58	141.85.0.116
+slider	cursor, patină, derulator, glisor, ascensor, culisor	? [[slider-to-slide]]	2008-11-27 03:38:08	141.85.0.116
+firmware	microcod, firmware [la fel ca software si hardware], program intrinsec		2008-11-27 12:10:52	78.97.158.176
+syndication	a redifuza, redifuzare		2008-11-27 17:56:13	81.180.68.14
+unhandled	negestionat	Adi R.	2008-11-29 19:45:44	194.54.128.86
+logging	jurnalizare, înregistrare	? Adi R	2008-11-29 19:49:37	194.54.128.86
+cruft	reziduu		2008-11-29 19:59:34	194.54.128.86
+cruft	reziduu	? Adi R	2008-11-29 19:59:44	194.54.128.86
+recordable	inscriptibil	Adi R	2008-11-29 22:36:51	194.54.128.86
+medium	mediu	Adi r	2008-12-01 00:13:16	194.54.128.86
+writable	inscriptibil	Adi R	2008-12-01 00:20:48	194.54.128.86
+rewritable	reinscriptibil	Adi R	2008-12-01 00:20:58	194.54.128.86
+rewritable	reinscriptibil	! Adi R	2008-12-01 00:31:00	194.54.128.86
+writable	inscriptibil	! Adi R	2008-12-01 00:31:13	194.54.128.86
+writer	editor [de texte], scriitor, inscriptor [de cd-uri]	Adi R	2008-12-01 00:31:42	194.54.128.86
+padding	completare, umplutură, spaţiu interior		2008-12-01 00:43:32	194.54.128.86
+hash	valoare de dispersie	! adi r	2008-12-01 01:09:26	194.54.128.86
+hash algorithm	algoritm de dispersie	! adi r	2008-12-01 01:09:36	194.54.128.86
+hash table	tabelă de dispersie	! adi r	2008-12-01 01:09:47	194.54.128.86
+hash element	element tabelă de dispersie	! adi r	2008-12-01 01:09:59	194.54.128.86
+hash bucket	clasă din tabela de dispersie	! adi r	2008-12-01 01:10:08	194.54.128.86
+tab	1. tab (tastă);  2. filă, tab [în GNOME], categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]	2008-12-01 02:01:27	194.54.128.86
+skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile); veșmânt; înfățișare; skin	? [[theme-scheme-skin]]	2008-12-09 00:46:27	79.115.23.216
+recordable	inscriptibil; înregistrabil [dacă se referă strict la înregistrări audio-video]	Adi R	2008-12-09 00:49:05	79.115.23.216
+recordable	inscriptibil; înregistrabil (dacă se referă strict la înregistrări audio-video)	Adi R	2008-12-09 00:49:39	79.115.23.216
+peer	conexiune, conexiune-pereche, partener, egal, pereche	partener de conexiune	2008-12-14 17:10:24	86.125.139.54
+peer	partener de conexiune, partener, pereche, egal		2008-12-14 17:11:29	86.125.139.54
+peer	[[peer]]		2008-12-14 17:13:25	86.125.139.54
+peer	partener de conexiune, partener, pereche, egal	[[peer]]	2008-12-14 17:14:32	86.125.139.54
+peer	partener, partener de conexiune, pereche, egal	[[peer]]	2008-12-14 18:14:02	79.115.20.22
+desktop	suprafață de lucru, birou (?), desktop PC = calculator de birou	? [[desktop]]	2008-12-14 18:15:45	79.115.20.22
+desktop publishing	tehnoredactare, editare [a cărților] în birou (?)		2008-12-14 18:16:43	79.115.20.22
+desktop	suprafață de lucru, birou (?), desktop PC = calculator de birou	[[desktop]]	2008-12-14 18:17:09	79.115.20.22
+desktop background	fundal, fond [al ecranului, etc.]		2008-12-14 18:20:59	79.115.20.22
+handshake	[[handshake]]		2008-12-14 19:37:30	86.125.139.54
+handshake	conectare, stabilire/inițiere conexiune	[[handshake]]	2008-12-14 19:41:25	86.125.139.54
+handout	[[handout]]	?	2008-12-17 02:01:31	86.125.139.54
+handout	set foi pentru notițe	[[handout]]	2008-12-17 02:02:59	86.125.139.54
+zzz	(ignoră traducerea, termenul este folosit pentru testare)		2008-12-17 13:03:05	82.78.39.13
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-17 13:03:10	82.78.39.13
+zzz	test (ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 01:25:11	Adiroiban
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 02:43:19	Adiroiban (194.54.128.86)
+zzz	iaca si eu (ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 02:47:16	Adiroiban (194.54.128.86)
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	!	2008-12-24 02:54:47	Semnat Anonim (194.54.128.86)
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	! f	2008-12-24 03:17:40	Semnat Anonim (194.54.128.86)
+zzz	(ignoră traducerea, termenul este folosit pentru testare)	! șuieră	2008-12-24 11:41:56	Semnat Anonim (82.78.39.13)
+zzz	blah, blah (blah) [sau blah ?]; (ignoră traducerea, termenul este folosit pentru testare)	! șuieră	2008-12-24 15:19:04	Secarica (82.76.12.174)
