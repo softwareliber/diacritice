@@ -1,9 +1,17 @@
 == Release 2.03 ==
 2009-MM-DD  Adi Roiban <adi@roiban.ro>
 	
-	* add config.inc.php.dist
+	* add and update config.inc.php.dist
 	
 	* Update Install
+
+    * add recent.rss2.php - RSS2 feed for last 15 modification
+
+    * add unfixed.rss2.php - RSS2 feed for a random unfixed term
+
+    * add report.php - list fixed, unfixed and unsorted terms
+
+    * add functions/misc.php
 
 == Release 2.02 ==
 2008-12-23  Adi Roiban <adi@roiban.ro>
