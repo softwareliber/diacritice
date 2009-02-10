@@ -1,0 +1,72 @@
+[version]
+Signature="$Windows NT$"
+Provider=%secarica%
+DriverVer=12/12/2006,5.1.2.3
+
+[DefaultInstall]
+CopyFiles=KBD_files_NT
+AddReg=KBD_Add_Reg_NT
+
+[KBD_files_NT]
+kbdro1.dll,,,2
+kbdro2.dll,,,2
+kbdrost.dll,,,2
+kbdropr.dll,,,2
+
+[DestinationDirs]
+KBD_files_NT=11 ; Destination is System32
+
+[SourceDisksNames]
+1=%dsk_lbl_1%,,,""
+
+[SourceDisksFiles]
+kbdro1.dll=1
+kbdro2.dll=1
+kbdrost.dll=1
+kbdropr.dll=1
+
+[KBD_Add_Reg_NT]
+HKLM,SYSTEM\CurrentControlSet\Control\Nls\Locale,00000418,,%kbd_locale_NT%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00000418,"Layout File",,%kbd_0_file_NT%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00000418,"Layout Display Name",,%kbd_0_display_name%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00000418,"Layout Text",,%kbd_0_text%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00010418,"Layout File",,%kbd_st_file_NT%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00010418,"Layout Display Name",,%kbd_st_display_name%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00010418,"Layout Text",,%kbd_st_text%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00010418,"Layout Id",,%kbd_st_ID%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00020418,"Layout File",,%kbd_pr_file_NT%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00020418,"Layout Display Name",,%kbd_pr_display_name%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00020418,"Layout Text",,%kbd_pr_text%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00020418,"Layout Id",,%kbd_pr_ID%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00030418,"Layout File",,%kbd_1_file_NT%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00030418,"Layout Display Name",,%kbd_1_display_name%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00030418,"Layout Text",,%kbd_1_text%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00030418,"Layout Id",,%kbd_1_ID%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00040418,"Layout File",,%kbd_2_file_NT%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00040418,"Layout Display Name",,%kbd_2_display_name%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00040418,"Layout Text",,%kbd_2_text%
+HKLM,SYSTEM\CurrentControlSet\Control\"Keyboard Layouts"\00040418,"Layout Id",,%kbd_2_ID%
+
+[Strings]
+kbd_locale_NT="2" ; Central Europe
+kbd_0_file_NT="kbdro.dll"
+kbd_0_display_name="Romanian (Legacy)"
+kbd_0_text="Romanian (Legacy)"
+kbd_st_file_NT="kbdrost.dll"
+kbd_st_display_name="Romanian (Standard)"
+kbd_st_text="Romanian (Standard)"
+kbd_st_ID="00A5"
+kbd_pr_file_NT="kbdropr.dll"
+kbd_pr_display_name="Romanian (Programmers)"
+kbd_pr_text="Romanian (Programmers)"
+kbd_pr_ID="00A6"
+kbd_1_file_NT="kbdro1.dll"
+kbd_1_display_name="Romanian (Standard, cu sedile)"
+kbd_1_text="Romanian (Standard, cu sedile)"
+kbd_1_ID="003F"
+kbd_2_file_NT="kbdro2.dll"
+kbd_2_display_name="Romanian (Programmers, cu sedile)"
+kbd_2_text="Romanian (Programmers, cu sedile)"
+kbd_2_ID="003E"
+dsk_lbl_1="RoKBD_WinXP"
+secarica="Cristian Secara"
