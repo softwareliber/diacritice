@@ -1,0 +1,19 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Keyboard Layout]
+
+[HKEY_CURRENT_USER\Keyboard Layout\Preload]
+"1"="00000418"
+"2"="00000409"
+
+; 0418 - Romanian - we'll force usage of Romanian Standard
+; 0409 - English - we'll force usage of Romanian (Programmers)
+
+[HKEY_CURRENT_USER\Keyboard Layout\Substitutes]
+"00000418"="00010418"
+"00000409"="00020418"
+
+; enable language swich using Shift+Alt
+[HKEY_CURRENT_USER\Keyboard Layout\Toggle]
+"Hotkey"="3"
+"Language Hotkey"="3"

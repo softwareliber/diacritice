@@ -1,0 +1,5 @@
+REGEDIT4
+
+; disable autorun - virus protection !
+[HKEY_USERS\S-1-5-21-762979615-2031575299-929701000-177552\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoDriveAutoRun"=hex(3):FF,FF,FF,03
