@@ -18,7 +18,7 @@
 ;General
 
   ;Name and file
-	!define VERSION 0.3
+	!define VERSION 0.4
 ;  VIAddVersionKey "FileVersion" ${VERSION}
 
 	!define NAME Romanizator
@@ -86,6 +86,9 @@ Section /o "Windows XP Font Update pack (manual)" section_euupdate
 SectionEnd
 
 Section "DejaVu Fonts" section_dejavu
+
+  ; do not remove next line !
+  StrCpy $FONT_DIR $FONTS
   !insertmacro InstallTTF 'dejavu\\DejaVuSans-Bold.ttf'
   !insertmacro InstallTTF 'dejavu\\DejaVuSans-BoldOblique.ttf'
   !insertmacro InstallTTF 'dejavu\\DejaVuSans-ExtraLight.ttf'
@@ -110,6 +113,28 @@ Section "DejaVu Fonts" section_dejavu
   SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
   ;LogText "Setting DejaVu as default console font in applications"
   !insertmacro LoadRegFile "reg\dejavu.reg"
+SectionEnd
+
+Section "Gentium Fonts" section_gentium
+
+  ; do not remove next line !
+  StrCpy $FONT_DIR $FONTS
+  !insertmacro InstallTTF 'gentium\\genai102.ttf'
+  !insertmacro InstallTTF 'gentium\\genar102.ttf'
+  !insertmacro InstallTTF 'gentium\\geni102.ttf'
+  !insertmacro InstallTTF 'gentium\\genr102.ttf'
+
+; Genitum Basic * fonts are not RO-ready
+;  !insertmacro InstallTTF 'gentium\\genbasb.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbasbi.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbasi.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbasr.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbkbasb.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbkbasbi.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbkbasi.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbkbasr.ttf'
+
+  SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
 SectionEnd
 
 SubSectionEnd
@@ -139,8 +164,8 @@ Section /o "OpenOffice.org Romanian Dictionary Extension (online)" section_ooo
             Pop $0
             StrCmp $0 "success" oooinstall
             DetailPrint "Nu am putut descarca extensia OOo ($0)"
-            MessageBox MB_ABORTRETRYIGNORE|MB_ICONEXCLAMATION $(LANG_MDAC_DOWNLOAD_ERR) IDRETRY ooodownload IDIGNORE oooinstall
-            Abort $(LANG_INSTALL_CANCELED)
+            MessageBox MB_ABORTRETRYIGNORE|MB_ICONEXCLAMATION "Nu am putut descarca extensia OOo ($0)" IDRETRY ooodownload IDIGNORE oooinstall
+            Abort "Instalare cu terminare fortata."
           oooinstall:
         ;      File /a /r "ooo\dictionaries-ro.oxt"
  
@@ -223,6 +248,12 @@ myexit:
   !insertmacro SelectSection ${section_dejavu}
 skip_dejavu: 
 
+  !insertmacro UnselectSection ${section_gentium}
+  IfFileExists "$WINDIR\Fonts\genbasr.ttf" skip_gentium 0
+  !insertmacro SelectSection ${section_gentium}
+skip_gentium: 
+
+
 	!insertmacro UnselectSection ${section_kbro}
 
 
@@ -231,7 +262,7 @@ skip_dejavu:
 ;  MessageBox MB_OK "WindowsVersion: $R0"
   ${VersionCompare} $R0 "6.0" $R1
   IntCmp $R1 2 0 skip_kbro 
-  ; we have and old windows (<6.0), so we have to check if we have the keyboard files
+  ; we have and old windows aka XP (<6.0), so we have to check if we have the keyboard files
 
   IfFileExists "$SYSDIR\kbdro1.dll" skip_kbro 0
   MessageBox MB_OK "notepad is installed"
@@ -243,7 +274,7 @@ skip_kbro:
 after_kbro:
 
 
-; --- check if OOo is installed
+; --- check if OOo is installed 
   ReadRegStr $1 HKCR ".oxt" ""  ; read default key, it should exist
   IfErrors 0 skip_ooo
     SectionSetFlags ${section_ooo}  ${SF_RO}  
