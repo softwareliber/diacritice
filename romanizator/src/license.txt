@@ -1,10 +1,9 @@
-﻿Nu putem fi făcuți vinovați de nici o pagugă produsă de acest program.
+﻿Nu putem fi făcuți vinovați de nici o pagubă produsă de acest program.
 
 Românizatorul este o aplicație open-source cu licență LGPL/GPL/MPL. Aceasta poate conține sau instala produse cu licențe diferite de aceasta. 
 
-Scopul acestei aplicații este de a facilita configuratul calculatorului pentru folosirea limbi române: tastatură (inclusiv pentru programatori), fonturi, corector ortografic, etc.
+Scopul acestei aplicații este de a facilita configuratul calculatorului pentru folosirea limbii române: tastatură (inclusiv pentru programatori), fonturi, corector ortografic, etc.
 
 Mențiuni:
 * Este recomandat să rulați aplicația când sunteți conectat la Internet deoarece kitul de instalare poate să mai descarce anumite componente pe care nu le aveți. Acestea nu au fost incluse în executabil pentru ca dimensiunea acestuia să fie cât mai mică.
-* Aplicația dezactiveaza funcția AutoRun - asta pentru a evita virusarea calculatorului.
 * Dacă o opțiune este dezactivată înseamnă că nu este necesară pe sistemul dumneavoastră.
