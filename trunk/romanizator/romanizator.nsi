@@ -18,7 +18,7 @@
 ;General
 
   ;Name and file
-	!define VERSION 0.4
+	!define VERSION 0.5
 ;  VIAddVersionKey "FileVersion" ${VERSION}
 
 	!define NAME Romanizator
@@ -123,6 +123,31 @@ Section "Gentium Fonts" section_gentium
   !insertmacro InstallTTF 'gentium\\genar102.ttf'
   !insertmacro InstallTTF 'gentium\\geni102.ttf'
   !insertmacro InstallTTF 'gentium\\genr102.ttf'
+
+; Genitum Basic * fonts are not RO-ready
+;  !insertmacro InstallTTF 'gentium\\genbasb.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbasbi.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbasi.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbasr.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbkbasb.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbkbasbi.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbkbasi.ttf'
+;  !insertmacro InstallTTF 'gentium\\genbkbasr.ttf'
+
+  SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
+SectionEnd
+
+Section "Linux Libertine Fonts" section_libertine
+
+  ; do not remove next line !
+  StrCpy $FONT_DIR $FONTS
+  !insertmacro InstallTTF 'libertine\\LinLibertine_Re-4.1.8.ttf'
+  !insertmacro InstallTTF 'libertine\\LinLibertine_Bd-4.0.2.ttf'
+  !insertmacro InstallTTF 'libertine\\LinLibertine_BI-4.0.3.ttf'
+  !insertmacro InstallTTF 'libertine\\LinLibertine_It-4.0.3.ttf'
+  !insertmacro InstallTTF 'libertine\\LinLibertineC_Re-4.0.1.ttf'
+; we do not install OTF variants - OOo doesn't support them
+;  !insertmacro InstallFONFont 'libertine\\LinLibertine_Re-4.1.8.otf' LinLibertine_Re
 
 ; Genitum Basic * fonts are not RO-ready
 ;  !insertmacro InstallTTF 'gentium\\genbasb.ttf'
@@ -252,6 +277,11 @@ skip_dejavu:
   IfFileExists "$WINDIR\Fonts\genbasr.ttf" skip_gentium 0
   !insertmacro SelectSection ${section_gentium}
 skip_gentium: 
+
+  !insertmacro UnselectSection ${section_libertine}
+  IfFileExists "$WINDIR\Fonts\LinLibertine_Re-4.1.8.ttf" skip_libertine 0
+  !insertmacro SelectSection ${section_libertine}
+skip_libertine: 
 
 
 	!insertmacro UnselectSection ${section_kbro}
