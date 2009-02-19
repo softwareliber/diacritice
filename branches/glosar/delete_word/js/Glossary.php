@@ -155,8 +155,11 @@ class Glossary {
 			return;
 		}
 
+		/*
+		// feedback on the mailing list: keep entries in history
 		$result = $this->persister->deleteFromHistory($term);
 		if (is_error($result)) return $result;
+		*/
 
 		return $this->persister->deleteDefinition($term);
 		 
