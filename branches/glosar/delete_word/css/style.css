@@ -1,0 +1,37 @@
+body, td, th { font-family: arial; font-size: 1em; }
+#content { width: 100% }
+#count { font-size: 0.8em; color: #aaa; margin-top: 0px; margin-bottom: 10px; }
+#help { font-size: 1em; margin-top: 10px;}
+#beta { margin-top: 5px; color: #9b6; width: 350px; font-size: 11px;}
+#beta a, #beta a:visited { color: #aaf }
+
+INPUT[type="text"]{
+width: 20em;
+}
+/*
+#keywordField { width: 120px }
+#definitionField { width: 240px }
+*/
+
+a, a:visited { color: #00a }
+table { background: #eef; margin: 5px; border-bottom: 1px solid #bbd; border-collapse: collapse; }
+th { background: #ccf }
+td { padding: 3px; }
+h1 { color: #aaa; font-weight: normal; font-size: 1.5em; margin-bottom: 0px;}
+em { color: #f88; font-style: normal }
+
+/* background rows alternative colors*/
+.dark { background: #F7F7F7 }
+.light { background: white }
+
+.hint { font-size: 0.8em; color: #888 }
+.date { font-size: 1em; color: #aaa }
+.clickable tr:hover { background: #ceb; cursor: pointer }
+.clickable th:hover { cursor: default }
+
+/* terms colors based on status*/
+.term_locked { color: green; }
+
+.term_old { color: orange; }
+
+.term_debate { color: red; }
