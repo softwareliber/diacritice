@@ -145,6 +145,22 @@ class Glossary {
 		$result['history'] = $history . "</table>";
 		return $result;
 	}
+	
+	function delete_word($term) {
+		$tmp = 'delete_word(' . $term . ')';
+		error_log($tmp);
+		$term = strtolower($this->_filterSpecialChars(trim($term)));
+
+		if (!isset($this->definitions[$term])) {
+			return;
+		}
+
+		$result = $this->persister->deleteFromHistory($term);
+		if (is_error($result)) return $result;
+
+		return $this->persister->deleteDefinition($term);
+		 
+	}
 
 	function save($term, $definition) {
 		
