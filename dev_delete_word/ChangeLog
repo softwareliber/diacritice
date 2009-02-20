@@ -1,0 +1,64 @@
+== Release 2.03 ==
+2009-MM-DD  Adi Roiban <adi@roiban.ro>
+	
+	* add and update config.inc.php.dist
+	
+	* Update Install
+
+    * add recent.rss2.php - RSS2 feed for last 15 modification
+
+    * add unfixed.rss2.php - RSS2 feed for a random unfixed term
+
+    * add report.php - list fixed, unfixed and unsorted terms
+
+    * add functions/misc.php
+
+== Release 2.02 ==
+2008-12-23  Adi Roiban <adi@roiban.ro>
+	
+	* folder organization cleanup
+	* config.inc.php : was added and all files were modified to include it
+	* add perl script for fetching  changes report and unfixed term to be sent via email  
+
+	* log username in "recent.txt"
+
+	* recent.txt and glosar.txt moved in data/ folder
+	
+== Release 2.01 ==
+2008-02-01  Sorin Sbarnea (http://nusunt.eu)
+
+	* add Context field
+	* Link comments to mediawiki pages
+	* Permit editing only to authenticated mediawiki users
+
+== Release 0.2 ==
+
+2005-05-04  Dan Damian  <dand@codemonkey.ro>
+
+	* ChangeLog: Cleaned up ChangeLog.
+	* ChangeLog: Added ChangeLog
+	* help.php, style.css: Fixed link color.
+	* help.php, recent.php, style.css: Fixed layout.
+	* glossary.js:
+	Fixed bogus warning when editing terms with empty translation.
+
+2005-05-02  Dan Damian  <dand@codemonkey.ro>
+
+	* help.php: Added mention about Opera not working.
+
+
+== Release 0.1 ==
+
+2005-04-25  Dan Damian  <dand@codemonkey.ro>
+
+	* help.php: Changed tab delimited file license to GPL
+	* glossary.js: Empty definitions.value on save().
+	* index.php: Removed test warning message
+	* help.php: Added source code download reference.
+	* test.php: Removed test.php
+
+2005-04-24  Dan Damian  <dand@codemonkey.ro>
+
+	* JPSpan-LICENSE.txt, LICENSE-JPSpan.txt: Renamed JPSpan license file.
+	* .cvsignore: Ignoring glosar.txt, history.txt.
+
