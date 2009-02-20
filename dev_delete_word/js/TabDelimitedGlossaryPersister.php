@@ -77,6 +77,37 @@ class TabDelimitedGlossaryPersister {
 	}
 
 
+	function deleteLinesWithPrefix($fname, $prefix) {
+		if (is_file($fname) == false ||
+			is_writable($fname) == false) {
+			return error('Could not open file "' . $fname . '" for writing.');
+		}
+		$lines = file($fname);
+
+		// writeback all lines exept the ones that begin with the prefix
+		$results = "";
+		foreach ($lines as $line) {
+			if (stristr($line, $prefix) != FALSE)
+				continue;
+			$results .= "$line";
+		}
+
+		$fd = fopen($fname, 'w');
+		fwrite($fd, $results);
+		fclose($fd);
+	}
+
+	
+	function deleteDefinition($term) {
+		$prefix = $term . "\t";
+		return $this->deleteLinesWithPrefix($this->filename, $prefix);
+	}
+
+
+	function deleteFromHistory($term) {
+		$prefix = $term . "\t";
+		return $this->deleteLinesWithPrefix($this->historyFilename, $prefix);
+	}
 }
 
 ?>

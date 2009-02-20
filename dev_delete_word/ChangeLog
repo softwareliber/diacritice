@@ -1,4 +1,8 @@
 == Release 2.03 ==
+2009-02-19  Lucian Adrian Grijincu <lucian.grijincu@gmail.com>
+
+	* added support for deleting entries
+
 2009-MM-DD  Adi Roiban <adi@roiban.ro>
 	
 	* add and update config.inc.php.dist

@@ -66,7 +66,7 @@ Ideal ar trebui ca toţi termenii să aibă un marcator de stare, pentru a-i put
 <tr>
 <td align="right">
 <input type="button" value="Renunţă" onClick="cancel()">
-
+<input type="button" value="Șterge" onClick="delete_word();">
 <?php
 /*
  * Show save button only when allowed

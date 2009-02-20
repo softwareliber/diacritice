@@ -64,6 +64,17 @@ function save() {
 	definitionField.value = "";
 	metaField.value = "";
 }
+function delete_word() {
+	if (confirm("Doriti sa stergeti complet termenul '" + keywordField.value + "' din glosar?") == false) {
+		return;
+	}
+	hideDefinitionDiv();
+	isCallInProgress = true;
+	glossaryRemote.delete_word(keywordField.value);
+	definitionField.value = "";
+	metaField.value = "";
+}
+
 
 function cancel() {
 	hideDefinitionDiv();
@@ -127,6 +138,13 @@ var GlossaryHandler = {
 	},
 
 	save: function(result) {
+		isCallInProgress = false;
+		isCountFetched = false;
+		keywordField.value = lastKeyword;
+		lastKeyword = "";
+	},
+
+	delete_word: function(result) {
 		isCallInProgress = false;
 		isCountFetched = false;
 		keywordField.value = lastKeyword;
