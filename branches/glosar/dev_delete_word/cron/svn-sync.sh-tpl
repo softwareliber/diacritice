@@ -1,0 +1,3 @@
+#!/bin/bash
+svn commit --username glosar --password REPLACE_WITH_PASSWORD --non-interactive -m 'bot-glosar: update'
+

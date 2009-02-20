@@ -1,0 +1,15 @@
+Glosary Install Instructions
+===========================
+
+1. Copy this directory to a public location on your web server.
+
+2. Create data/glosar.txt and data/history.txt and give write acces on them to the web
+server.
+
+3. Rename config.inc.php.dist to config.inc.php
+
+4. Look at config.inc.php to see how you can customize the glossary.
+
+That's about it.
+
+--

@@ -1,0 +1,26 @@
+Please use the subversion carrefully
+"svn update" - run it before making any changes
+
+"svn stat" - to see what have you changed
+"svn diff" - to see exactly what have you changed
+
+If you added new files do not forget to run:
+"svn add filename.ext"
+
+When you are sure, commit your changes
+"svn commit"
+
+Commit stepts
+svn update
+svn stat
+svn add
+svn stat - if you do not have "?" or "C" (conflicts) you can go to the next step
+svn commit --username YOURUSERNAME
+
+# never use 'glosar' subversion user for code !
+
+
+How to ignore a file fron sync:
+
+svn propset svn:ignore youfile.txt .
+
