@@ -1,0 +1,5 @@
+content     submitword    chrome/content/
+skin submitword classic skin/classic/submitword/
+overlay chrome://browser/content/browser.xul chrome://submitword/content/submitword/submitwordOverlay.xul
+locale submitword en-US chrome/locale/en-US/
+locale submitword ro-RO chrome/locale/ro-RO/
