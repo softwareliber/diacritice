@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<RDF:RDF xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:chrome="http://www.mozilla.org/rdf/chrome#">
+
+	<RDF:Seq RDF:about="urn:mozilla:package:root">
+		<RDF:li RDF:resource="urn:mozilla:package:submitword"/>
+	</RDF:Seq>
+
+	<RDF:Seq RDF:about="urn:mozilla:overlays">
+		<RDF:li RDF:resource="chrome://browser/content/browser.xul"/>
+		<RDF:li RDF:resource="chrome://navigator/content/navigator.xul"/>
+	</RDF:Seq>
+
+	<RDF:Seq RDF:about="chrome://browser/content/browser.xul">
+		<RDF:li>chrome://submitword/content/submitwordOverlay.xul</RDF:li>
+	</RDF:Seq>
+
+	<RDF:Seq about="chrome://navigator/content/navigator.xul">
+		<RDF:li>chrome://submitword/content/submitwordOverlay.xul</RDF:li>
+	</RDF:Seq>
+
+	<RDF:Description RDF:about="urn:mozilla:package:wordcount"
+		chrome:displayName="Submit Word 1.0"
+		chrome:author="Strainu"
+		chrome:authorURL="http://www.strainu.ro"
+		chrome:name="submitword"
+		chrome:extension="true"
+		chrome:description="An extention that allows users to submit words for inclusion in the Romanian dictionary.">
+	</RDF:Description>
+
+</RDF:RDF>

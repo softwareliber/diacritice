@@ -1,0 +1,10 @@
+<!ENTITY  about.author.label     "Creat de:">
+<!ENTITY  about.site.label     "Sit web:">
+<!ENTITY  about.email.label     "E-Mail:">
+<!ENTITY  about.close.label     "Închide">
+<!ENTITY  about.version     "ver. 1.0">
+
+<!ENTITY  options.title    "Opţiuni">
+<!ENTITY  options.pane.label     "URL">
+<!ENTITY  options.pane.textbox.label     "Adresa web unde va fi trimisă sugestia:">
+<!ENTITY  options.pane.description     "Introduceti un URL care permite primirea cuvintelor ca parametri GET. Folosiţi o steluţă (*) pentru a marca locul unde va fi introdus cuvântul.">
