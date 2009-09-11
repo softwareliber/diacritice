@@ -44,7 +44,7 @@
     function getUrl(){
         this.prefs = Components.classes["@mozilla.org/preferences-service;1"]
                                                             .getService(Components.interfaces.nsIPrefService)
-                                                            .getBranch("submitword.");
+                                                            .getBranch("extensions.submitword.");
                     this.prefs.QueryInterface(Components.interfaces.nsIPrefBranch2);
                     
                     try{
