@@ -10,37 +10,7 @@
 
     window.addEventListener("load", submitInit, true);
 
-    //changes the addToDictionary function to sent info to the server
-    function submitInit() {
-        var loader = Components.classes["@mozilla.org/moz/jssubscript-loader;1"].getService(Components.interfaces.mozIJSSubScriptLoader);
-        loader.loadSubScript("chrome://global/content/inlineSpellCheckUI.js",  this);
-        
-        /*var dict = Components.classes["@mozilla.org/spellchecker/personaldictionary;1"].createInstance();
-        var persdict = dict.QueryInterface(Components.interfaces.mozIPersonalDictionary);
-        
-        while(persdict.wordList.hasMore() ){//WARNING: infinite loop
-            var word = persdict.wordList.getNext();
-            alert(word);
-        }*/
-
-        this.InlineSpellCheckerUI.addToDictionary = function(nativeObj) {
-            return function() {
-                var spellchecker = nativeObj.mInlineSpellChecker.spellChecker;
-                var curlang = spellchecker.GetCurrentDictionary();
-                if(curlang.substr(0, 2) == "ro") {
-                    this.url = getUrl();
-                    this.url = this.url.replace("*", nativeObj.mMisspelling);
-                    var ios = Components.classes["@mozilla.org/network/io-service;1"]
-                                    .getService(Components.interfaces.nsIIOService);
-                     var chan = ios.newChannel(this.url, null, null);
-                     chan.open();//TODO blocking call, should try-catch
-                }
-                //previous functionality of the function
-                nativeObj.mInlineSpellChecker.addWordToDictionary(nativeObj.mMisspelling);
-            }
-        }(this.InlineSpellCheckerUI);
-    }
-
+     //obtain the upload URL from the preferences
     function getUrl(){
         this.prefs = Components.classes["@mozilla.org/preferences-service;1"]
                                                             .getService(Components.interfaces.nsIPrefService)
@@ -54,7 +24,35 @@
                         //error handling
                     };
     }
+    
+    function uploadWord(url){
+        var ios = Components.classes["@mozilla.org/network/io-service;1"]
+                                            .getService(Components.interfaces.nsIIOService);
+         var chan = ios.newChannel(url, null, null);
+         chan.open();//TODO blocking call, should try-catch
+    }
 
+    //changes the addToDictionary function to sent info to the server
+    function submitInit() {
+        var loader = Components.classes["@mozilla.org/moz/jssubscript-loader;1"].getService(Components.interfaces.mozIJSSubScriptLoader);
+        loader.loadSubScript("chrome://global/content/inlineSpellCheckUI.js",  this);
+
+        this.InlineSpellCheckerUI.addToDictionary = function(nativeObj) {
+            return function() {
+                var spellchecker = nativeObj.mInlineSpellChecker.spellChecker;
+                var curlang = spellchecker.GetCurrentDictionary();
+                if(curlang.substr(0, 2) == "ro") {
+                    this.url = getUrl();
+                    this.url = this.url.replace("*", nativeObj.mMisspelling);
+                    
+                    uploadWord(this.url);
+                }
+                //previous functionality of the function
+                nativeObj.mInlineSpellChecker.addWordToDictionary(nativeObj.mMisspelling);
+            }
+        }(this.InlineSpellCheckerUI);
+    }
+    
     ]]>
 
     </script>

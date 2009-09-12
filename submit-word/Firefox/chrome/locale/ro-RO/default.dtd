@@ -1,8 +1,11 @@
 <!ENTITY  about.author.label     "Creat de:">
+<!ENTITY  about.author.name    "Strainu">
+<!ENTITY  about.author.help    "cu ajutorul lui Alex Szasz (partea de server) şi Sorin Sbârnea (hosting)">
+
 <!ENTITY  about.site.label     "Sit web:">
 <!ENTITY  about.email.label     "E-Mail:">
 <!ENTITY  about.close.label     "Închide">
-<!ENTITY  about.version     "ver. 1.0">
+<!ENTITY  about.version     "ver. 1.0.1">
 
 <!ENTITY  options.title    "Opţiuni">
 <!ENTITY  options.pane.label     "URL">

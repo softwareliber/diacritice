@@ -1,8 +1,11 @@
 <!ENTITY  about.author.label     "Created By:">
+<!ENTITY  about.author.name    "Strainu">
+<!ENTITY  about.author.help    "with help from Alex Szasz (the server part) and Sorin Sbârnea (hosting)">
+
 <!ENTITY  about.site.label     "Home Page">
 <!ENTITY  about.email.label     "E-Mail">
 <!ENTITY  about.close.label     "Close">
-<!ENTITY  about.version     "ver. 1.0">
+<!ENTITY  about.version     "ver. 1.0.1">
 
 <!ENTITY  options.title    "Options">
 <!ENTITY  options.pane.label     "URL">

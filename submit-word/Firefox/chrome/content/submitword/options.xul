@@ -13,7 +13,7 @@
      
       <hbox align="center">
         <label control="url" value="&options.pane.textbox.label;"/>
-        <textbox preference="pref_url" id="url" maxlength="256" size="100"/>
+        <textbox preference="pref_url" id="url" maxlength="256" size="50"/>
       </hbox>
       
       <text id="description" value="&options.pane.description;"/>
