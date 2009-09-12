@@ -1,0 +1,13 @@
+== Release 1.0.1 ==
+2009-09-12  Strainu  <strainu@strainu.ro>
+    * submitwordOverlay.xul : Cleanup the code
+    * ChangeLog : Created the ChangeLog
+    * about.xul : Changed the homepage to the i18n.ro wiki page. Added all the contributors to the about box.
+    * install.rdf : Added Thuderbird support
+
+== Release 1.0.0 ==
+2009-09-11  Strainu  <strainu@strainu.ro>
+    * submitwordOverlay.xul : Fix path to the preferences
+    
+2009-09-10  Strainu  <strainu@strainu.ro>
+    * Initial version uploaded

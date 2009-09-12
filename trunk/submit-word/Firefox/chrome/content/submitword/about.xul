@@ -16,13 +16,14 @@
   <text value="&about.version;"/>
   <separator class="thin"/>
   <text value="&about.author.label;" style="font-weight: bold;"/>
-  <text value="Strainu" class="url"
+  <text value="&about.author.name;" class="url"
         onclick="window.open('http://www.strainu.ro/'); window.close();"/>
+  <text value="&about.author.help;"/>
   <separator class="thin"/>
   <text value="&about.site.label;" style="font-weight: bold;"/>
-  <text value="http://www.strainu.ro/software/submit-word/"
+  <text value="http://i18n.ro/dictionaries-ro/Submit_Word"
         class="url"
-        onclick="window.open('http://www.strainu.ro/software/submit-word/'); window.close();"/>
+        onclick="window.open('http://i18n.ro/dictionaries-ro/Submit_Word'); window.close();"/>
   <separator class="thin"/>
   <text value="&about.email.label;" style="font-weight: bold;"/>
   <text value="strainu@strainu.ro"

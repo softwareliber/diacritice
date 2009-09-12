@@ -9,7 +9,7 @@
             <em:locale>en-US</em:locale>
             <em:name>Submit Word</em:name>
             <em:creator>Strainu</em:creator>
-            <em:homepageURL>http://www.strainu.ro/</em:homepageURL>
+            <em:homepageURL>http://i18n.ro/dictionaries-ro/Submit_Word</em:homepageURL>
             <em:description>An extention that allows users to submit words for inclusion in the Romanian dictionary.</em:description>
           </Description>
         </em:localized>
@@ -18,14 +18,14 @@
             <em:locale>ro-RO</em:locale>
             <em:name>Submit Word</em:name>
             <em:creator>Strainu</em:creator>
-            <em:homepageURL>http://www.strainu.ro/</em:homepageURL>
+            <em:homepageURL>http://i18n.ro/dictionaries-ro/Submit_Word</em:homepageURL>
             <em:description>O extensie ce permite utilizatorului să propună cuvinte pentru dicţionarul român folosit de Firefox.</em:description>
           </Description>
         </em:localized>
-		<em:version>1.0</em:version>
+		<em:version>1.0.1</em:version>
         <em:type>2</em:type>
 		<em:aboutURL>chrome://submitword/content/submitword/about.xul/</em:aboutURL>
-		<em:updateURL>http://www.strainu.ro/software/submit-word/</em:updateURL>
+		<em:updateURL>https://diacritice.googlecode.com/files/SubmitWord.rdf</em:updateURL>
         <em:optionsURL>chrome://submitword/content/submitword/options.xul</em:optionsURL>
 
 
@@ -35,6 +35,15 @@
 				<em:minVersion>3.5</em:minVersion>
 				<em:maxVersion>3.5.*</em:maxVersion>
 			</Description>
+		</em:targetApplication>
+		
+		<em:targetApplication>
+			<Description>
+				<!-- Mozilla Thunderbird -->
+				<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+				<em:minVersion>2.0</em:minVersion>
+				<em:maxVersion>3.*</em:maxVersion>
+                        </Description>
 		</em:targetApplication>
 
 		<!-- Flock web 2.0 AKA TEH INTARWEB IS SERIOUS BUSINESS-->
