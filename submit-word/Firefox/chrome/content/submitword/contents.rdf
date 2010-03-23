@@ -20,7 +20,7 @@
 	</RDF:Seq>
 
 	<RDF:Description RDF:about="urn:mozilla:package:wordcount"
-		chrome:displayName="Submit Word 1.0.1"
+		chrome:displayName="Submit Word 1.1.0"
 		chrome:author="Strainu"
 		chrome:authorURL="http://www.strainu.ro"
 		chrome:name="submitword"

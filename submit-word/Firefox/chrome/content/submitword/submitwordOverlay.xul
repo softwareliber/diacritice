@@ -7,51 +7,70 @@
     <script type="application/x-javascript">
 
     <![CDATA[
+	var submitWordNS = function() {
+        
+         //obtain the upload URL from the preferences
+        this.getUrl = function(){
+            this.prefs = Components.classes["@mozilla.org/preferences-service;1"]
+                                    .getService(Components.interfaces.nsIPrefService)
+                                    .getBranch("extensions.submitword.");
+            this.prefs.QueryInterface(Components.interfaces.nsIPrefBranch2);
+                        
+            try{
+                this.url = this.prefs.getCharPref("url");
+                return this.url;
+            }catch(e){
+                return "";
+            };
+        };
+        
+        this.uploadWord = function(url){
+            var ios = Components.classes["@mozilla.org/network/io-service;1"]
+                                .getService(Components.interfaces.nsIIOService);
+            var chan = ios.newChannel(url, null, null);
+            chan.open();//TODO blocking call, should try-catch
+        };
 
-    window.addEventListener("load", submitInit, true);
-
-     //obtain the upload URL from the preferences
-    function getUrl(){
-        this.prefs = Components.classes["@mozilla.org/preferences-service;1"]
-                                                            .getService(Components.interfaces.nsIPrefService)
-                                                            .getBranch("extensions.submitword.");
-                    this.prefs.QueryInterface(Components.interfaces.nsIPrefBranch2);
-                    
-                    try{
-                        this.url = this.prefs.getCharPref("url");
-                        return this.url;
-                    }catch(e){
-                        //error handling
-                    };
-    }
-    
-    function uploadWord(url){
-        var ios = Components.classes["@mozilla.org/network/io-service;1"]
-                                            .getService(Components.interfaces.nsIIOService);
-         var chan = ios.newChannel(url, null, null);
-         chan.open();//TODO blocking call, should try-catch
-    }
-
-    //changes the addToDictionary function to sent info to the server
-    function submitInit() {
-        var loader = Components.classes["@mozilla.org/moz/jssubscript-loader;1"].getService(Components.interfaces.mozIJSSubScriptLoader);
-        loader.loadSubScript("chrome://global/content/inlineSpellCheckUI.js",  this);
-
-        this.InlineSpellCheckerUI.addToDictionary = function(nativeObj) {
-            return function() {
-                var spellchecker = nativeObj.mInlineSpellChecker.spellChecker;
-                var curlang = spellchecker.GetCurrentDictionary();
-                if(curlang.substr(0, 2) == "ro") {
-                    this.url = getUrl();
-                    this.url = this.url.replace("*", nativeObj.mMisspelling);
-                    
-                    uploadWord(this.url);
+        //changes the addToDictionary function to sent info to the server
+        this.submitInit = function() {
+            var loader = Components.classes["@mozilla.org/moz/jssubscript-loader;1"]
+                                    .getService(Components.interfaces.mozIJSSubScriptLoader);
+            loader.loadSubScript("chrome://global/content/inlineSpellCheckUI.js",  this);
+            
+            this.InlineSpellCheckerUI.addToDictionary = function(nativeObj) {
+                return function() {
+                    var spellchecker = nativeObj.mInlineSpellChecker.spellChecker;
+                    var curlang = spellchecker.GetCurrentDictionary();
+                    if(curlang.substr(0, 2) == "ro") {
+                        this.url = getUrl();
+                        if(this.url != "") {
+                            this.url = this.url.replace("*", nativeObj.mMisspelling);
+                            uploadWord(this.url);
+                        }
+                    }
+                    //previous functionality of the function
+                    nativeObj.mInlineSpellChecker.addWordToDictionary(nativeObj.mMisspelling);
                 }
-                //previous functionality of the function
-                nativeObj.mInlineSpellChecker.addWordToDictionary(nativeObj.mMisspelling);
+            }(this.InlineSpellCheckerUI);
+        };
+        
+        return {
+            // Initialization
+            initialize: function() {
+                this.submitInit();
+            },
+            
+            // Clean up
+            shutdown: function() {
+                window.removeEventListener("load", submitWordNS.initialize, true);
+                window.removeEventListener("unload", submitWordNS.shutdown, true);
             }
-        }(this.InlineSpellCheckerUI);
-    }
+        };
+	}();
+    
+    // Register handlers to maintain extension life cycle.
+    window.addEventListener("load", submitWordNS.initialize, true);
+    window.addEventListener("unload", submitWordNS.shutdown, true);
     
     ]]>
 

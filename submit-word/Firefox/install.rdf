@@ -22,7 +22,7 @@
             <em:description>O extensie ce permite utilizatorului să propună cuvinte pentru dicţionarul român folosit de Firefox.</em:description>
           </Description>
         </em:localized>
-		<em:version>1.0.1</em:version>
+		<em:version>1.1.0</em:version>
         <em:type>2</em:type>
 		<em:aboutURL>chrome://submitword/content/submitword/about.xul/</em:aboutURL>
 		<em:updateURL>https://diacritice.googlecode.com/files/SubmitWord.rdf</em:updateURL>
@@ -31,9 +31,10 @@
 
 		<em:targetApplication>
 			<Description>
+                <!--Firefox-->
 				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
 				<em:minVersion>3.0</em:minVersion>
-				<em:maxVersion>3.*</em:maxVersion>
+				<em:maxVersion>3.7.*</em:maxVersion>
 			</Description>
 		</em:targetApplication>
 
@@ -46,11 +47,11 @@
                         </Description>
 		</em:targetApplication>
 
-		<!-- Flock web 2.0 AKA TEH INTARWEB IS SERIOUS BUSINESS-->
 		<em:targetApplication>
 		  <Description>
+            <!-- Flock-->
 		    <em:id>{a463f10c-3994-11da-9945-000d60ca027b}</em:id>
-		<!-- This baby will never expire -->
+            <!-- This will never expire -->
 		    <em:maxVersion>9999.0+</em:maxVersion>
 		    <em:minVersion>1.0+</em:minVersion>
 		  </Description>
