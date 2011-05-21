@@ -4,11 +4,12 @@
 
 	<Description about="urn:mozilla:install-manifest">
         <em:id>submitword@suseromania.ro</em:id>
+		<em:name>Submit Word</em:name>
         <em:localized>
           <Description>
             <em:locale>en-US</em:locale>
-            <em:name>Submit Word</em:name>
             <em:creator>Strainu</em:creator>
+			<em:name>Submit Word</em:name>
             <em:homepageURL>http://i18n.ro/dictionaries-ro/Submit_Word</em:homepageURL>
             <em:description>An extention that allows users to submit words for inclusion in the Romanian dictionary.</em:description>
           </Description>
@@ -16,13 +17,13 @@
         <em:localized>
           <Description>
             <em:locale>ro-RO</em:locale>
-            <em:name>Submit Word</em:name>
             <em:creator>Strainu</em:creator>
+			<em:name>Submit Word</em:name>
             <em:homepageURL>http://i18n.ro/dictionaries-ro/Submit_Word</em:homepageURL>
             <em:description>O extensie ce permite utilizatorului să propună cuvinte pentru dicţionarul român folosit de Firefox.</em:description>
           </Description>
         </em:localized>
-		<em:version>1.1.0</em:version>
+		<em:version>1.1.1</em:version>
         <em:type>2</em:type>
 		<em:aboutURL>chrome://submitword/content/submitword/about.xul/</em:aboutURL>
 		<!--em:updateURL>https://diacritice.googlecode.com/files/SubmitWord.rdf</em:updateURL-->
@@ -34,7 +35,7 @@
                 <!--Firefox-->
 				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
 				<em:minVersion>3.0</em:minVersion>
-				<em:maxVersion>3.7a4pre</em:maxVersion>
+				<em:maxVersion>4.0.*/em:maxVersion>
 			</Description>
 		</em:targetApplication>
 
@@ -43,7 +44,7 @@
 				<!-- Mozilla Thunderbird -->
 				<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
 				<em:minVersion>2.0</em:minVersion>
-				<em:maxVersion>3.2a1pre</em:maxVersion>
+				<em:maxVersion>3.3a4pre</em:maxVersion>
             </Description>
 		</em:targetApplication>
 

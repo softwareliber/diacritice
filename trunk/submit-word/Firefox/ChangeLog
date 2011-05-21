@@ -1,3 +1,7 @@
+== Release 1.1.1 ==
+2011-05-21 Strainu <strainu@strainu.ro>
+	* install.rdf : Added support for the latest versions of Firefox and Thunderbird; fix things that mozilla doesn't like, like localized em:name
+
 == Release 1.1.0 ==
 2010-03-24  Strainu  <strainu@strainu.ro>
 	* install.rdf : Added Firefox 3.6 and 3.7
