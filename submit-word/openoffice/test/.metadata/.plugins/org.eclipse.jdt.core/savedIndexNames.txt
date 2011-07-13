@@ -1,1 +1,0 @@
-INDEX VERSION 1.126+D:\Documents\submit-word\openoffice\test\.metadata\.plugins\org.eclipse.jdt.core
