@@ -1,0 +1,12 @@
+#ifndef __org_openoffice_adrianbelgun_i18n_simple_xsimpleextension_idl__
+#define __org_openoffice_adrianbelgun_i18n_simple_xsimpleextension_idl__
+
+module org { module openoffice { module adrianbelgun { module i18n { module simple { 	
+
+	interface XSimpleExtension {
+		void printSomething();
+
+	};
+
+ }; }; }; }; };
+#endif
