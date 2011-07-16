@@ -1,0 +1,12 @@
+#UNO project configuration file
+#Sat Jul 16 13:23:46 EEST 2011
+project.srcdir=/source
+javaversion=java5
+regclassname=org.openoffice.adrianbelgun.i18n.simple.comp.RegistrationHandler
+project.sdk=330m16
+project.ooo=OpenOffice.org 3.3
+project.implementation=comp
+project.build=build
+project.language=Java
+project.prefix=org.openoffice.adrianbelgun.i18n.simple
+project.idl=/idl

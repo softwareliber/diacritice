@@ -1,0 +1,2 @@
+ManifestVersion: 1.0
+RegistrationClassName: org.openoffice.adrianbelgun.i18n.simple.comp.RegistrationHandler
