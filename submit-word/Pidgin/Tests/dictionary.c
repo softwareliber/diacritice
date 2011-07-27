@@ -22,7 +22,7 @@ static PidginConversation *curconv;
 static gboolean
 get_word (PidginConversation *gtkconv)
 {
-    GtkIMHtml *imhtml = GTK_IMHTML (gtkconv->imhtml);
+    curconv = gtkconv;
     /*GtkTextBuffer *buffer = imhtml->text_buffer;
     GtkTextIter start, *pstart = &start, end, *pend = &end;
     gchar *pBuf = "";*/
@@ -40,9 +40,13 @@ get_word (PidginConversation *gtkconv)
 static gboolean menu_cb (GtkWidget *item, gpointer data) {
     PurplePlugin *plugin = data;
     PidginConversation *gtkconv;
-
+    //GtkIMHtml *imhtml = GTK_IMHTML (curconv->imhtml);
    // purple_signal_connect(purple_conversations_get_handle(), "conversation-created", G_CALLBACK(get_word), NULL);
     //gchar *aux =get_word(gtkconv);
+    if( curconv->imhtml == NULL){
+        purple_notify_message (purple_notify_get_handle(), PURPLE_NOTIFY_MSG_INFO, "test", "A scos NULL", NULL, NULL, NULL);
+        return TRUE;
+    }
 
     purple_notify_message (purple_notify_get_handle(), PURPLE_NOTIFY_MSG_INFO, "test", "aux", NULL, NULL, NULL);
 
@@ -76,18 +80,18 @@ static void init_plugin (PurplePlugin *plugin)
 
 static gboolean plugin_load (PurplePlugin *plugin)
 {
-   // gpointer klass = NULL;
 
-    //klass = g_type_class_ref(GTK_TYPE_TEXT_VIEW);
-
+    if ( !get_word(curconv) ){
+        purple_notify_message (purple_notify_get_handle(), PURPLE_NOTIFY_MSG_INFO, "test", "A scos NULL", NULL, NULL, NULL);
+        return TRUE;
+        } else {
     purple_signal_connect(purple_conversations_get_handle(),
-						"conversation-created",
-						plugin, PURPLE_CALLBACK(get_word), NULL);
+						"wrote_im_msg_cb",
+						plugin, PURPLE_CALLBACK(get_word), NULL);}
 
     g_signal_parse_name("populate_popup", GTK_TYPE_TEXT_VIEW, &signal_id, NULL, FALSE);
 	hook_id = g_signal_add_emission_hook(signal_id, 0, add_menu_item_cb, plugin, NULL);
 
-    //g_type_class_unref(klass);
 
     return TRUE;
 }
