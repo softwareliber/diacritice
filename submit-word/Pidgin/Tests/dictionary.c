@@ -16,7 +16,7 @@
 
 static guint signal_id;
 static gulong hook_id;
-
+static PidginConversation *curconv;
 
 
 static void
@@ -62,7 +62,12 @@ menu_cb (GtkWidget *item, gpointer data)
     PurplePlugin *plugin = data;
     PidginConversation *gtkconv;
 
+    GetActiveConversation(&curconv);
+        if(curconv == NULL){
 
+        purple_notify_message (purple_notify_get_handle(), PURPLE_NOTIFY_MSG_INFO, "test", "A scos NULL", NULL, NULL, NULL);
+        return;
+    }
 
     //GtkIMHtml *imhtml = GTK_IMHTML (curconv->imhtml);
    // purple_signal_connect(purple_conversations_get_handle(), "conversation-created", G_CALLBACK(get_word), NULL);
@@ -120,7 +125,7 @@ init_plugin (PurplePlugin *plugin)
 static gboolean
 plugin_load (PurplePlugin *plugin)
 {
-    static PidginConversation *curconv;
+
 
     g_signal_parse_name("populate_popup", GTK_TYPE_TEXT_VIEW, &signal_id, NULL, FALSE);
 
