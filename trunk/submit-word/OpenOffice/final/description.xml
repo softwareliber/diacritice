@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:d="http://openoffice.org/extensions/description/2006">
+	<identifier value="ro.i18n.submitword.ContextMenuHandler" />
+	<display-name>
+        <name>i18n.ro Submit-Word</name>
+    </display-name>
+	<version value="1.0.0" />
+</description>
