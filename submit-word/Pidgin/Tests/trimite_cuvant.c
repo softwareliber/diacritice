@@ -13,6 +13,11 @@
 #include "gtkutils.h"
 
 #include "gtkimhtml.h"
+#include "stdio.h"
+#include "curl/curl.h"
+
+#include "string.h"
+
 
 static guint signal_id;
 static gulong hook_id;
@@ -37,6 +42,23 @@ get_word ()
     return text;
 }
 
+// Functie pentru trimiterea cuvantului selectat
+
+static void
+send_word (gchar *text)
+{
+    CURL *curl;
+    CURLcode code;
+
+    curl = curl_easy_init();
+    if (curl) {
+        curl_easy_setopt(curl, CURLOPT_URL, strcat( "http://i18n.ro/submit-word/word_add.php?word=", text ));
+        code = curl_easy_perform(curl);
+
+        curl_easy_cleanup (curl);
+    }
+}
+
 /* Functia apelata atunci cand se apasa butonul din meniul contextual */
 
 static gboolean
@@ -49,6 +71,7 @@ menu_cb (GtkWidget *item, gpointer data)
 
     purple_notify_message (purple_notify_get_handle(), PURPLE_NOTIFY_MSG_INFO, "trimite_cuvant", text, NULL, NULL, NULL);
 
+    send_word(text);
 
     return TRUE;
 }
