@@ -5,8 +5,8 @@ require_once('functions/misc.php');
  * $prod_name - a string for this glosary name
  * $prod_ver - a string for the code version
  */
-$prod_name = "Terminologie traduceri programe în limba română";
-$prod_ver = "2.03";
+$prod_name = "The glosary for our team";
+$prod_ver = "N.N";
 
 
 /*
@@ -45,16 +45,16 @@ $base_url_open_trans = "http://en.ro.open-tran.eu/suggest/";
  * Do your magic to get this variable from an external source.
  */
 if (
-    ( isset ( $_REQUEST['i18n_wikiUserID'] )) &&
-    ( isset ( $_REQUEST['i18n_wikiUserName'] ))
+    ( isset ( $_REQUEST['i18n_dev_wikiUserID'] )) &&
+    ( isset ( $_REQUEST['i18n_dev_wikiUserName'] ))
     )  {
-    $username = $_REQUEST['i18n_wikiUserName'];
+    $username = $_REQUEST['i18n_dev_wikiUserName'];
 } else {
     $username = "";
 }
 
 # 0 - deny anonymous editing
 # 1 - permit anonymous editing
-$permit_anon_edit = 0;
+$permit_anon_edit = 1;
 
 ?>

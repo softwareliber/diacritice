@@ -1,5 +1,6 @@
 <?php
-require ('config.inc.php');
+require_once ('config.inc.php');
+require_once ('functions/misc.php');
 header("Content-Type: text/html; charset=UTF-8");
 header( "Expires: Mon, 26 Jul 1997 05:00:00 GMT" );
 header( "Last-Modified: " . gmdate( "D, d M Y H:i:s" ) . "GMT" );
@@ -7,6 +8,7 @@ header( "Cache-Control: no-cache, must-revalidate" );
 header( "Pragma: no-cache" );
 
 $keyword = $_GET['keyword'];
+
 ?>
 <html>
 <head>
@@ -15,6 +17,8 @@ $keyword = $_GET['keyword'];
 <script type='text/javascript' src='js/server.php?client'></script>
 <script type='text/javascript' src='js/glossary.js'></script>
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
+<link rel="alternate" type="application/rss+xml" title="Glosar modificări recente - RSS Feed" href="<?php print $base_url; ?>recent.rss2.php" />
+<link rel="alternate" type="application/rss+xml" title="Glosar termen nefixat - RSS Feed" href="<?php print $base_url; ?>unfixed.rss2.php" />
 </head>
 <body>
 
@@ -81,7 +85,12 @@ if (($username)||($permit_anon_edit)) {
 
 <div id="results"></div>
 
-<div id="help"><a href="recent.php">Modificări recente</a> &middot; <a href="help.php">Ajutor</a> &middot;  <a href="changelog.php">Changelog</a></div>
+<div id="help">
+    <a href="recent.php">Modificări recente</a> [ <a href="recent.rss2.php">RSS2</a> ] &middot; 
+    <a href="report.php">termeni nefixați</a> [<a href="unfixed.rss2.php">RSS2</a>] &middot;
+    <a href="report.php?type=fixed">termeni fixați</a> &middot;
+    <a href="report.php?type=unsorted">termeni nesortați</a> 
+</br><a href="help.php">Ajutor</a> &middot;  <a href="changelog.php">Changelog</a></div>
 
 </div>
 

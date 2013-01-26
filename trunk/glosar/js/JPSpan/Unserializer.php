@@ -47,12 +47,12 @@ class JPSpan_Unserializer {
         switch ( $encoding ) {
             case 'php':
                 require_once JPSPAN . 'Unserializer/PHP.php';
-                $U = & new JPSpan_Unserializer_PHP();
+                $U = new JPSpan_Unserializer_PHP();
             break;
             case 'xml':
             default:
                 require_once JPSPAN . 'Unserializer/XML.php';
-                $U = & new JPSpan_Unserializer_XML();
+                $U = new JPSpan_Unserializer_XML();
             break;
         }
         return $U->unserialize($data);

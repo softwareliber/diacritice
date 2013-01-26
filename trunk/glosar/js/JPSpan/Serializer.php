@@ -87,8 +87,8 @@ class JPSpan_Serializer {
     */
     function serialize($data) {
         JPSpan_getTmpVar(TRUE);
-        $code = & new JPSpan_CodeWriter();
-        $root = & new JPSpan_RootElement($data);
+        $code = new JPSpan_CodeWriter();
+        $root = new JPSpan_RootElement($data);
         $root->generate($code);
         return $code->toString();
     }
@@ -129,9 +129,9 @@ class JPSpan_Serializer {
             if ( !is_null($file) ) {
                 require_once $file;
             }
-            $element = & new $class();
+            $element = new $class();
         } else {
-            $element = & new JPSpan_SerializedNull();
+            $element = new JPSpan_SerializedNull();
         }
         $element->setTmpVar();
         $element->setValue($data);

@@ -10,7 +10,6 @@ If you added new files do not forget to run:
 When you are sure, commit your changes
 "svn commit"
 
-
 Commit stepts
 svn update
 svn stat
@@ -21,4 +20,7 @@ svn commit --username YOURUSERNAME
 # never use 'glosar' subversion user for code !
 
 
+How to ignore a file fron sync:
+
+svn propset svn:ignore youfile.txt .
 
