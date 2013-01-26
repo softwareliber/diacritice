@@ -1,39 +1,47 @@
-abandon	a abandona, abandonare	
-abort	a abandona	
+abandon	a abandona, abandonare	!
+abort	renunţă	?
 about	despre	!
 abstract	abstract	!
 abstract (text)	sumar	!
 accelerator	accelerator	!
 accept	a accepta	!
 access	a accesa	!
+accessibility	accesibilitate	!
 account	cont	!
+accuracy	precizie, exactitate, acuratețe	!
 acknowledgements	mulţumiri	!
+acte accent	accent ascuțit	!
 activate	a activa	!
 active	activ	! [[active-inactive-on-off]]
 active matrix display	afişaj cu matrice activă	!
 actor	actor	!
-actuator	efector (domeniu: robotica)	
+actuator	actuator (domeniu: robotica)	!
+acute accent	accent ascuțit	!
 ad-hoc	ad-hoc	!
 adaptive routing	rutare adaptivă	!
 add	a adăuga	!
 add contents	adaugă conţinutul	!
 add-in	modul	? [[addin-module-plugin-extension-applet]]
+add-on	supliment (așa este la Firefox), adaos	
 additional	adiţional, suplimentar	!
-addon	modul	? [[Addin-module-plugin-extension-applet]]
+addon	(a se vedea add-on; aici a fost: modul, care de fapt este corespondentul lui plug-in)	? [[addin-module-plugin-extension-applet]]
 address	adresă	!
-address book	agendă	? [[addressbook]]
+address book	agendă	!
 aditive inverse	inversă aditivă	
-adjust	a ajusta, ajustare	!
+adjust	a ajusta, a adapta, a regla	!
 administration	administrare	!
 aggregate	agregat	!
 aggregate bandwidth	lăţime de bandă cumulată	!
 aggregator	agregator, sumator, totalizator	
+aging	învechire	?
+ago	acum ..., în urmă cu ..., cu ... înainte	
 alarm	alarmă	!
 alert	atenţionare	
 alias	alias	!
 align	a alinia	!
 align bottom	aliniere la bază	!
 allow	a permite	!
+alogen	alogen	
 alpha	alfa	!
 alpha channel	canal alfa	!
 alternatively	alternativ, există şi posibilitatea să	
@@ -43,72 +51,80 @@ analog	analog	!
 analysis	analiză	!
 anchor	ancoră	!
 and	şi	!
+angle bracket	paranteză unghiulară	!
 animation	animaţie	!
-annotation	notă explicativă	
+annotate	a adnota, adnotare	!
+annotation	adnotare, notă explicativă	!
 anonymous	anonim	!
 answer mode	mod răspundere	
 antialiasing	anticrenelare, antialias	
 anuar	anuar	!
 anvil	nicovală	!
 api	API	!
-appearance	aspect	
+appearance	aspect	!
 append	a adăuga, adăugare	
 appendix	anexă	!
-applet	mini-aplicaţie	? [[Addin-module-plugin-extension-applet]]
-applet factory	fabrica de mini-aplicații	rz
+applet	miniaplicaţie	?
+applet factory	șablon miniaplicație	!
+appliance	aparat (combină audio, home theater)	?
 application	aplicaţie	!
 application launcher	lansator aplicaţie	
-applix	Applix	
+applix	Applix	DE ȘTERS
 apply	a aplica	!
-appointment	întâlnire	!
+appointment	programare	!
 arc	arc	!
 archive	a arhiva, arhivă	
 archive file	fişier arhivă	!
-area	suprafaţă, arie, zonă	
+area	zonă, suprafaţă, arie	
 area grid	grilă suprafaţă	
-argument	argument	
-array	tablou, matrice	?
+argument	argument	!
+array	tablou, matrice (RAID array->matrice RAID)	?
 arrow key	tastă săgeată	
-article	articol	? [[[[record-entry-element-item-row-article-post-message]]
+article	articol	! [[record-entry-element-item-row-article-post-message]]
 artist	interpret, artist	!
 as of	începând cu	!
+asanare		
 ascending	crescător	!
 ascending order	ordine crescătoare	!
 ascii	ascii	!
 aspect ratio	proporţie aspect	
 assert	aserţiune	
 asserted signal	semnal asigurat?, semnal activat?	
+assesment	evaluare	
 asset	resursă	
-assign	a desemna, a delega, a asocia ceva cuiva, a atribui (a asigna e greşit, vezi DEX)	
-assistive	de asistenţă	ajutător
+assign	a atribui, a desemna, a delega, a asocia ceva cuiva	?
+assistive	de asistență	?
 asynchronous	asincron	!
 attach	a ataşa	! [[attachment]]
 attachment	ataşament	! [[attachment]]
 attempt	a încerca, tentativă, încercare	
 attribute	atribut	!
 audio	audio	!
-authentication	autentificare	? [[online-offline-connected-disconnected]]
+authentication	autentificare	! [[online-offline-connected-disconnected]]
 author	autor	!
 authorization	autorizație	!
 autocomplete	completare automată	!
 autofill	completare automată	!
 availability	disponibilitate	!
 available	disponibil	!
-avatar	avatar	
+avatar	avatar	!
 average	medie	!
 axis	axă	!
 az anyatok istenit	anyatok	
 baby feeding algorithm	algoritmul de alimentare la cerere, algoritmul de alimentare la cerere?	
 backend	backend, suport	
 background	fundal, plan secund	
-backport	portare înapoi, portare pentru versiunea anterioară	
+backlight	ecran cu iluminare din spate, iluminare din spate a ecranului	!
+backport	retroportare, portare înapoi, portare pentru versiunea anterioară	
 backslash	linie oblică inversă [cf. slash]	
 backspace	backspace	
 backticks	ghilimele inverse	!
 backtrace	lista de mesaje	
-backup	copie de siguranţă [backup = a ajuta; ajutor, sprijin]	
+backup	(copie de) rezervă	
+backup.gho	backup.gho	DE ȘTERS
 backward	înapoi	
-backward compatibility	compatibilitate cu versiunile anterioare, compatibilitate retroactivă	
+backward compatibility	compatibilitate inversă	! [[backward-compatibility]]
+bad sector	sector defect	!
 balance	balanţă, echilibru, blianţ	
 band gap	bandă de separare	
 bandwidth	lăţime de bandă	!
@@ -116,11 +132,13 @@ banned	blocat	? [[Lock-unlock-block-unblock-ban]]
 base	bază	!
 basic	fundamental, de bază; simplu, rudimentar	
 basic (language)	Basic	! [[basic]]
-batch	lot, serie	
-batch system	sistem de prelucrare pe loturi	
-bcc	blind carbon copy = copie indigo invizibilă	
+batch	lot, serie	?
+batch system	sistem de prelucrare pe loturi, sistem prelucrare în serie	?
+bcc	copie indigo invizibilă, copie ascunsă (către)	?
 beep	bip	!
+bell	bip (sunet de sistem), sonerie (sonerie de sistem), clopoțel (sensul propriu)	
 benchmark	test de performanţă	!
+best fit	cea mai bună potrivire	!
 best fit algorithm	algoritmul 'cea mai bună potrivire'	
 beta	beta	!
 bewilder	a dezorienta	
@@ -142,51 +160,63 @@ blended	contopit
 blink	clipeşte	!
 blinking cursor	cursor clipitor	!
 block buffer		
+block justification	aliniere stânga-dreapta; alinierea paragrafului	
 block-level parallelism	paralelism la nivel de bloc	
 blocked	blocat	[[Lock-unlock-block-unblock]]
-blog	blog	! [[blog]]
+blog	blog, jurnal, jurnal de internet	?
 blowtorch	lampă de sudură (cu flacără deschisă)	
 bluetooth	bluetooth	!
+bluetooth pairing	ascociere / împerechere bluetooth	?
 blur	a estompa; difuz, neclar, înceţoşat, difuz; neclar	
 blur image	estompează imaginea	
+board games	jocuri de masă	!
 body	corp	!
+bogus	fictiv	
 bold	îngroşat, aldin	? [[bold-italic]]
-bond	  s  legătură  f; obligaţie  f; angajament  n; robie  f	
-book mark		
-bookmark	favorit, semn de carte	
+bond	a se asocia, a se lega (întâlnit în Bluetooth)	?
+book mark	marcaj, adaugă un marcaj	
+bookmark	marcaj, adaugă un marcaj, favorit, semn de carte	
+bookmarklet		DE ȘTERS
 boolean	boolean, logic (tip de date)	
 boot	a porni sistemul, a iniţializa sistemul	
 bootable	mediu (de pe) care (se) poate porni sistemul, capabil să pornească sistemul (de operare)	
 bootloader	încărcător de sistem, program de pornire a sistemului	
 bootstrap	iniţializare; bootstrap?	?
-border	margine, contur, bordură?	? [[edge-margin-border]]
+border	chenar, bordură	?
 bottleneck	gâtuire, loc strimt, timp mort	
 bottom	bază	!
+bounce keys	taste fără repetiție	
 bound	a lega, legătură, a legă, a asocia	
+boundary	limită [de separație]	
 box	căsuţă, casetă, cutie, container	
 braces	acolade	! [[brackets]]
-bracket	paranteză pătrată	? [[brackets]]
+bracket	paranteză pătrată	! [[brackets]]
 branch	ramură, ramificaţie, filială	
 branch history shift register	registru de deplasare pentru istoria ramificaţiilor	
+brand	marcă	!
 breadcrumbs	linie de navigare	?
-break	pauză, a face pauză, a deteriora, a întrerupe (break row across columns)	
+break	a deteriora, a întrerupe (break row across columns); pauză	?
 bricks	cărămizi	!
+bridge	punte	! chiar și pentru termeni de rețelistică
 brightness	luminozitate	!
+bring to front	adu în față	
+broadband	bandă largă, (rețea de ...)	
 broadcast	a emite, a anunţa (în reţea)?, a difuza	
 broken	invalid, deteriorat	
 browse	a răsfoi, a naviga	? [[browse]]
-browser	navigator (web)	
+browser	navigator (poate fi de internet, de fișiere, etc.)	!
 buddy	amic, prieten	
-buffer	[zona de] memorie tampon, editor	
+buffer	[zona de] memorie tampon	?
 buffering	preîncărcare, încărcarea/folosirea memoriei tampon	
 bug	defect, deficienţă, incident, defecţiune, disfuncţionalitate, scamă, hibă	? [[bug]]
-build	a construi, versiune compilată, build	
-built in	nativ	
+bug tracker	sistemul de urmărire a defecțiunilor	!
+build	a construi, versiune compilată, build, generare	
+built in	integrat	?
 bulk	brut, masiv	
 bullet	bulină	!
 bulleted list	listă cu buline	
 bulletin board	avizier	?
-bundle	a include, includere, inclus, legat, includere; inclus, pachet	
+bundle	a include, inclus, pachet	?
 burn	a scrie, a inscripţiona [un cd, un dvd]	
 burner	utilitar de scriere, inscriptor	
 bus	magistrală	!
@@ -197,39 +227,43 @@ by	alături;aproape de;cu;prin;de;lângă	!
 by default	implicit	!
 byte	octet	!
 c	limbajul de programare c, litera c	
-cache	cache, memorie tampon, prestocare	
+cache	cache, prestocare	?
+cache memory	memorie tampon	?
 cached	salvat temporar, stocat temporar, salvat / stocat în cache	
 calculator	calculator	
 calendar	calendar, agendă	
-call	a apela, apel	? [[call]]
+call	a apela, apel	!
 call (function)	apel (de funcţie)	!
 call (phone)	a apela, apel telefonic	!
-callback	chemare (în raspuns), chemare; apel invers?	
+callback	callback (funcție ce va fi chemată mai târziu), apelare inversă (telefonie), retroapel	
 callout	explicaţie, rezumat?	
-cancel	a renunţa, a anula	? [[cancel]]
+cancel	a anula, a renunţa	? [[cancel]]
 canvas	ţesătură, pînză, plan, proiect	
 capability	capacitate, posibilitate, capacitate; posibilitate	
 caption	legendă, titlu (de articol), antet, etichetă	
+carbon-copy	copie-către	copie la indigo
 card	placă (u, de acces), carte (de debit, de credit, de vizită, placă (hardware); cartelă (telefonică, de acces); carte (de debit, de vizită)	? [[card]]
 card (access)	cartelă (de acces)	! [[card]]
 card (bank)	card (bancar)	! [[card]]
 card (business)	carte de vizită	! [[card]]
 card (device)	placă	! [[card]]
 caret	semnul '^', circumflex	
+caret browsing	navigare cu cursorul	!
 case	condiţie, caz	
 case (in)sensitive	cu majuscule (ne)semnificative	
 case folding	toate caracterele cu aceeaşi mărime	
-case insensitive	cu majuscule nesemnificative	
-case sensitive	cu majuscule semnificative	
-categorie	categorie	
+case insensitive	cu majuscule nesemnificative, insensibil la majuscule	
+case sensitive	cu majuscule semnificative, sensibil la majuscule	
+categorie	categorie	!
 categories	categorii	!
-cc	carbon copy, copie la indigo	
+cc	carbon copy, copie la indigo, copie către	?
 cd	compact disc	
 cell	celulă	!
-cellular	celular	
+cellular	telefon mobil	!
 center	centru, centrat	
 certificate	adeverinţă ,certificat	
 certification	 certificare; adeverire; atestare	
+challenge	interogare (folosit în criptografie)	?
 change case	Schimbare tip literă, Schimbare casetă tipografică, Modificare majuscule/minuscule, Modificare după caz?	
 change log	istoric modificări	!
 changeset	set de schimbări (legat de vcs)	!
@@ -238,15 +272,17 @@ char cell	celulă caracter	?
 character set	set de caractere	!
 charset	set de caractere	!
 chart	schemă, diagramă, grafic	
-chat	discuţie, conversaţie	
+chat	discuţie, conversaţie	?
+chat (im)	chat, chaturi	[[chat]] ?
 check	a verifica	!
 check (control)	a bifa, bifează	!
 check bit	bit de verificare	!
 check box	căsuţă de bifare	? [[checkbox]]
 check button	buton de bifare	!
 checkbox	căsuţă de bifare	? [[checkbox]]
-checkout		?
+checkout	a aduce	?
 checksum	sumă de control	!
+chevron	paranteză unghiulară	!
 child	copil	!
 child process	sub-proces, proces copil, proces inferior	
 chipset		
@@ -258,23 +294,28 @@ classification	clasificare	!
 clean	a curăţa, curăţare	! [[erase-delete-remove-clean]]
 clear	a limpezi, clarifica, evidenţia, a goli, a elibera	? [[Erase-delete-remove-clean-clear-expunge]]
 clear text password	parolă în clar	! [[clear-text-password]]
-click	clic	!
+click	clic, a da clic	!
 clipboard	clipboard	
+cloack	a ascunde	?
+cloacked	ascuns	?
 clockwise	sens orar	!
 close	a închide	!
 closed	închis	!
+closed caption	subtitrare pentru persoane cu dizabilități	!
 clu	sugestie	!
 cluster	mănunchi	
 code	cod, program	
 code segment	segment de cod	?
-codec	codec, codecuri [codec video]	Adi R
+codec	codec, codecuri [codec video]	!
 codepage	pagină de codare	
 coefficient	coeficient	
 collaboration	colaborare	
-collapse	prăbuşire, cădere, a plia	
-collate	a uni	
+collapse	prăbuşire, cădere, a plia; a restrânge	
+collate	a asambla, a uni	când se tipăresc mai multe copii ale unui document multi-pagină specifică cum sunt asamblate foile. de ex. 111122223333 sau 123123123123
+collation	ordine alfabetică	
 collision	ciocnire	
 colon	simbolul „două puncte”	
+colorimeter	culorimetru	!
 colormap	hartă de culori, hartă de culoare	
 column break	coloană nouă	
 combo box	listă de selecţie	
@@ -282,12 +323,15 @@ command	comandă, ordin
 command line	linie de comandă	
 command line options	parametrii liniei de comandă	
 command line shell	consolă pentru linia de comandă	
+common	uzual, comun	
 common properties	proprietăţi comune	
 compare	a compara	!
 compliant	conform cu	!
+comply	a se conforma, a corespunde	?
+compose	a redacta (un email), a compune	?
 compress	a compresa, a comprima	
 compression	compresie, comprimare (data compression = compresie a datelor)	
-computer	calculator	
+computer	calculator	!
 concatenate	a înlănţui	
 condescending	desconsiderat, dispreţuitor, NU condescendent (sensul este invers în română)	
 condition	condiţie	!
@@ -299,20 +343,20 @@ confirmation	confirmare
 connect	conectare, conectare; connecting=mă conectez	? [[online-offline-connected-disconnected]]
 connection	conexiune	? [[online-offline-connected-disconnected]]
 consistent	consecvent	
-console	consolă	
+console	consolă, terminal	!
 constraint	restricţie, constrîngere	
 contacts	agendă	! [[addressbook]]
 content	conţinut	!
 contents	sumar, conţinut	
 continue	continuă	!
-contributor	colaborator	
+contributor	contribuitor	
 control	control, comanda	
-controller	controlor, controler [ide controller]	
+controller	controler [ide controller], controlor	?
 conversion	transformare, conversie	
 convert	a converti, convertire; a schimba, schimbare	
 cookie	cookie; fursec	
 copy	copie; a copia; în menu: copiază [selecția]	? [[cut-copy-paste]]
-copyright	!drepturi de autor	
+copyright	drepturi de autor	!
 corba		
 core	de bază, nucleu, principal, vital	
 core file	fişier de depanare	
@@ -326,38 +370,43 @@ counter	contor
 counter-clockwise	sens trigonometric	
 coupon	#   s  cupon	
 covariance	covariaţie	
-cpu	procesor, unitatea centrală de procesare, microprocesor	
+cpu	CPU, procesor	acronimele nu se traduc
 crash	cădere, a avea o pană, pană, defect, terminare prematură, avarie a programului	
 create	a crea	
-credentials	credențiale	Modificat: Adi Roiban
+credentials	autorizări, certificări	?
 credits	autori [aşa e în gnome], credit, recunoaşterea meritelor, echipa?, mulţumiri	
 criteria range		
 criterion	criteriu	
 critical error	eroare critică	
-crop	a recolta, a tăia, a tunde, crop	
+crop	a decupa, decupare	
 cross-reference	referinţă încrucişată	?
 crossfade	intercalare	
 crosshair	reticul	
 cruft	reziduu	? Adi R
 ctrl	ctrl	!
+cue	indicație	
+cum fac o imagine nfs		
 cumulative	cumulativ	!
 curly brackets	acolade	! [[brackets]]
 currency	1. circulaţie monetară, 2. monedă, 3. valută, 4. răspândire	
+currency sign	simbol monetar	!
 current	curent, prezent, actual	
 cursor	cursor	
 curve	curbă	!
-custom	personalizat, specific	
+custom	personalizat, specificat	
 custom window	fereastră specifică	
+customer relationship manager	program de management al relatiilor	
 customize	a personaliza	
-cut	a decupa, a tăia?	? [[cut-copy-paste]]
+cut	a tăia, a decupa (a decupa este mai potrivit pentru crop)	[[cut-copy-paste]]
 cyan	cyan	! [[cyan]]
-daemon	serviciu	[[service-daemon]]
+daemon	serviciu, demon	![[service-daemon]] serviciu - preferat în GNOME
+damage	daună, defect, deteriorare, avarie, pierdere, deranjament	
 dangling	agăţat	
 dash	liniuţă	[[dashes]]
 dashboard	tablou de bord	!
 data	date	!
 data bus	magistrală de date	!
-data mining	data mining	
+data mining	minerit de date, data mining	
 database	bază de date	!
 datastream	flux de date	!
 date	dată	!
@@ -369,33 +418,36 @@ decline	a refuza	!
 decode	decodare	
 decoder	decodor	!
 decrease	a micșora; decrease / increase [size etc.] = micșorează / mărește [dimensiunea] etc.	
-default	implicit	
+default	implicit	!
 defaults	implicite	
 deinterlace	a estompa întrețeserea, estompare întrețesere	?
-delete	a şterge	? [[erase-delete-remove]]
-delete all	şterge tot, şterge toate	! [[Erase-delete-remove-clean-expunge]]
-delta	diferenţă	
-deny	a refuza, refuzare, a refuza; refuzare	
+delete	a șterge	!
+delete all	şterge tot, şterge toate	!
+delta	diferenţă, delta	!
+deny	a refuza, refuză	!
 dependence	dependenţă	
 dependency	dependență (NU dependință)	
 deploy	a desfăşura, desfăşurare	
-deprecated	învechit, depăşit	
+deprecated	învechit, depășit	!
 derived	derivat	!
 descending sort	ordonare descrescătoare	
 descriptor	descriptor (de fişier)	?
 deselect	deselectează, şterge/anulează selecţia	?
-design	schiţă, model, proiect, plan	
+design	schiţă, model, proiect, plan, concept	
 designate	a desemna	!
-desktop	suprafață de lucru, birou (?), desktop PC = calculator de birou	[[desktop]]
+designed	creat, conceput	?
+designer	creator	?
+desktop	desktop, birou, planşetă, fundal (şi wallpaper =imagine de fundal)	[[desktop]] !
 desktop background	fundal, fond [al ecranului, etc.]	
 desktop environment	ambientul de lucru / biroului	
-desktop publishing	tehnoredactare, editare [a cărților] în birou (?)	
+desktop publishing	tehnoredactare computerizată	!
 destination	destinaţie	!
 destroy	a distruge, distrugere	
 detach	a detaşa, a desprinde	
 detail	amănunt , detaliu	
 detection	detectare, identificare, descoperire	
-develop	a dezvolta, dezvoltare, [software] developer = dezvoltator [software]	
+develop	a dezvolta, dezvoltare	!
+developer	dezvoltator	!
 device	dispozitiv	!
 dewpoint	punct de condensare	!
 diaeresis	tremă	cele două punte de deasupra unei litere
@@ -405,13 +457,14 @@ dial	a apela, apelator
 dialog	dialog	!
 dialog box	fereastră de dialog	
 dialout device	dispozitiv de apel în exterior	
+dialpad	tastatură (telefon)	?
 diff	diff	
 digit	cifră	!
 digits	cifre	!
-dim	împăienjeni (despre efectul vizual de încețoșare a ferestrei)	!
+dim	a reduce (intensitatea), împăienjeni (despre efectul vizual de încețoșare a ferestrei)	?
 dimension	dimensiune	
 direction	direcţie	
-directory	director (desi nu e corect d.p.d.v. DEX?), dosar	? [[directory-folder]]
+directory	dosar, director (desi nu e corect d.p.d.v. DEX?)	? [[directory-folder]]
 disable	a dezactiva, dezactivare	
 discard	a anula, anulare, a renunţa, renunţare, a ignora, ignorare	
 disclaimer	declaraţie de neasumare a responsabiltăţii, certificat de negaranţie	
@@ -422,7 +475,7 @@ discount	#  s  rabat  n; deconectare  f;  vt  a deconta; a sconta
 discrete	discret	
 disk	disc	!
 dismiss	a da afara, a elibera, a da drumul, a dizolva, a înceta	
-display	a afişa, afişaj, ecran (pentru display X)	[[screen-display]] ?
+display	a afişa, afişaj (screen e ecran)	![[screen-display]]
 display manager	administrator de ecran	
 dissipation	risipire, cheltuială, disipaţie	
 distribute	a distribui	
@@ -433,61 +486,68 @@ diversion	redirectare, diversiune
 divert	redirecţionare, a (re)direcţiona	
 division by zero	împărţire la zero	
 dma	alocare dinamică de memorie	
-dns	server de nume de domeniu	
-doable	realizabil	?
-dock	doc, a ataşa, ataşare, doc; a ataşa	? [[dock-undock]]
+dns	dns, server nume domenii	!
+doable	posibil, realizabil, fezabil, care se poate face	!
+dock	a andoca, doc, a fix, a atașa, atașare 2. doc (Mac OS X)	Sensul „doc” în Mac OS X este în aprinsă dezbatere
 document	document	!
 domain	domeniu	!
-done	gata, terminat, ?realizat?	?
+done	gata, terminat, realizat, încheiat, definitivat	!
 dot	punct	!
-double click	dublu clic	
+double click	clic dublu, dublu-clic	!
 double quote	ghilimele, semne de citare	
 downgrade	a aduce la o versiune anterioară, retrogradare	dacă se poate folosiți traducerea lungă
-download	a descărca, descărcare	
+download	a descărca; descărcare	!
 downstream	aval, în josul apei, downstream; aval?	
 dpi	PPȚ (Puncte Pe Țol)	
 draft	ciornă	!
-drag and drop	trage şi lasă să cadă, tragere şi plasare ?, trage şi plasează	
+drag and drop	trage şi plasează, trage şi lasă să cadă, tragere şi plasare	?
 drawer	sertar	!
+drawing	desenare, trasare	?
 drawing area	zona de desenat	
 drive	unitate	!
-driver	pilot, driver (pl. drivere), modul de nucleu	! Adi. R
+driver	driver (pl. drivere), modul de nucleu, pilot	! Adi. R
 drop	a renunța la, a refuza, a abandona; a arunca, a da drumul să cadă [pentru situații gen drag and drop]	
 drop caps	majusculă multilinie, letrină	
 drop down list	listă de selecţie	
 drop shadow	umbră de perspectivă	
 druid	druid	
+dst	oră de vară (daylight saving time)	?
+due	scadent	!
 dumb terminal	terminal prost/mut	
 dummy	marionetă?, înlocuitor temporar?, figurant, machetă, de formă, elementar, banal, manechin	
-dump	a arunca	
+dump	a arunca, a transfera (acolo unde a arunca se poate interpreta cu a arunca la gunoi)	
 duplicate	a duplica	!
 duplicate...		
+dwell	staționar (clic)	!
 dynamic	dinamic	!
-e-mail	e-mail, email, mesaj electronic	Adi Roiban
+e-mail	email (rar: mesaj electronic)	!
+ebook	ebook, carte electronică	!
+ebook reader	cititor de cărți electronice	!
 echo	ecou	! [[echo]]
 edge	margine	? [[edge-margin-border]]
-edit	a modifica, a edita, editare; edit notes = editează notele	
+edit	a modifica (recomandat), a edita, editare (în meniu)	?
 effects	efecte	
 eject	a scoate, a arunca; eject CD = scoate CD‑ul / scoate discul	
 electronic mail	poştă electronică, mesaj electronic	
 element	element	! [[record-entry-element-item-row-article-post-message]]
 em-dash	linie em; [cf. en-dash]	? [[dashes]]
-email	email; mesaj	Adi Roiban
-embed	a încapsula, a încorpora	
+email	scrisoare (electronică), poștă (electronică), email	?
+embed	a încapsula, a încorpora, a îngloba, a integra	
 embedded	încorporat, încapsulat, înglobat, încastrat, îmbarcat, integrat	
-embedded system	sistem incorporat	
+embedded system	sistem încorporat	
 emblem	emblemă	!
 embossed	reliefat	
-emoticon	emoticon, emotigramă? (de la pictogramă)	!
+emoticon	emoticon, pictogramă	?
 empty	vid, gol	
 emulate	a emula, emulare	
 emulation	emulare	!
 en-dash	linie en [trad „paranteză orizontală” este complet greșită; cf. em-dash]	? [[dashes]]
-enable	a activa, activare, a permite, activare; a permite	
+enable	a activa, activare, a permite, activare; a permite	!
 encapsulated postscript	postscript încapsulat	
-encode	codare	?
+encode	codare	!
 encoder	codor	!
-encoding	codare,cifrare	
+encoding	codare,cifrare	!
+encrypt	a cripta, criptare	! (vezi dexonline.ro)
 endnote	notă finală [cf. footnote]	? [[Header-footer]]
 engine	motor	!
 engineering	inginerie; echipa de programatori: MS/Apple engineering = programatorii MS/Apple	
@@ -495,100 +555,111 @@ enhance	a imbunătăţi, îmbunătăţire
 entity	entitate, esenţă	
 entry	intrare, înregistrare	? [[record-entry-element-item-row-article-post-message]]
 envelope	plic, sumar [context:IMAP]	
-environment variable	variabilă a mediului, variabilă de mediu	
+environment variable	variabilă de mediu, variabilă a mediului	!
 equation	ecuaţie	!
 erase	șterge	! [[erase-delete-remove]]
 error	eroare	!
 escape	a scăpa, a evada, evadare, fugă, escape	
+escape character	caracter folosit pentru a evita interpretarea caracterelor speciale	Character used to escape special characters
 escape sequence	secvenţă de citare (referitor la formatarea şirurilor în C); caractere de eludare	
 ethernet	ethernet	!
 even	par;neted;orizontal;egal;	
 even (number)	par	!
 event	eveniment	!
+exceed	a depăși, a întrece	!
 exception	excepţie	!
 exclusive or	sau exclusiv	
 executable file	fişier executabil	
 execute	a executa, a rula, a porni	? [[execute-run-start]]
+exhausted	epuizat	
 exit	ieşire	? [[quit-exit-terminate-finish]]
 expand	a extinde, a desfăşura	
 expanded memory	memorie expandată	
 expander	extensor	
+expect	a aștepta (a se aștepta la), a presupune	
 expected location	locaţia presupusă	
 explicit state	statut explicit, stare explicită	?
 exponential notation	notaţie exponenţială	
 export	a exporta, export	!
 expression	expresie	!
-expunge	a elimina	? [[erase-delete-remove-clean]]
+expunge	a elimina definitiv, a debarasa	? [[erase-delete-remove-clean]]
 extension	extensie	! [[Addin-module-plugin-extension-applet]]
+extra	suplimentar (extra info)	?
 extract	a extrage	!
+facelift	a restiliza	
 factored	creat(ă)	
 factory	fabrică; factory settings = setările din fabrică	
-fade	a estompa, a decolora	!
-fail	a eşua ; action failed = acțiunea a eșuat	
+fade	translucid	?
+fail	a eșua;	!
 fall apart	a dezagrega; dezagregare	!
-fallback	reîntoarcere/rezervă	
+fallback	reîntoarcere/rezervă, revenire (?)	
 faq	întrebări frecvente	!
 fault	defecţiune	!
 favicon	favicon (pl. faviconuri)	
-favorite		
+favorite	preferat, favorit	
 fax	fax	!
 feather	??	? [[feather]]
-feature	caracteristică; însușire; facilitate; capabilitate	
+feature	funcționalitate, caracteristică, însușire, facilitate, capabilitate, funcție	
 featured	recomandări	!
-feed	flux	!
-feedback	reacţie, comentarii, reacţie; comentarii, sugestii ?	
-fetch	a potrivi [datele]; fetch data = potrivește datele; a aduce, a scoate; fetch mail = adu mail-ul [de pe server]; a recupera (cu sensul de a aduce)	
-field	câmp	!
+feed	flux	?
+feedback	feedback (e în DEX), reacţie, comentarii, reacţie; comentarii, sugestii ?	
+fetch	a aduce, a scoate; fetch mail = adu mail-ul [de pe server]; a recupera (cu sensul de a aduce)	
+field	câmp, rubrică	
 file	fişier	!
 file manager	gestionar de fişiere	!
+file pointer	cursor de fișier	
+file system	sistem de fișiere	!
 file transfer protocol	protocol de transfer al fişierelor	!
 filed	clasat	
 filename	nume de fişier	!
 filesystem	sistem de fişiere	!
 fill	a umple (un contur), a completa; fill in data = completează datele	
+filmstrip	diafilm	!
 filter	filtru	!
 final	final	!
 find	a căuta, căutare; find words = caută cuvintele	? [[search-find]]
 fingerprint	amprentă	!
-finish	a termina, terminare, încheiere, sfârşit	? [[quit-exit-terminate-finish]]
+finish	a finaliza, a termina, a încheia, a sfârși	? [[quit-exit-terminate-finish]]
 firewall	parafoc, paravan de protecţie, firewall	
 firmware	microcod, firmware [la fel ca software si hardware], program intrinsec	
+first-person shooter	joc cu împușcături și rol asumat	
 fit	potrivește	
+fit page width	potrivire la lățimea paginii	!
 fix	a repara [vb], remediu [s]	
 fixed font	font fix	!
-flag	a marca, fanion, steag, indicator, semnalizator	
-flash	licărire	adir
-flip	a întoarce, a inversa	
+flag	a marca; fanion, steag, indicator, semnalizator	?
+flash	a clipi, clipire	
+flip	a întoarce, a inversa, a răsturna	
 float	a pluti, tip de date in virgulă mobilă	
 floating	plutitor, mobil (floating point=virgulă mobilă)	
 floppy	dischetă	!
 flow analysis	analiza circuitelor	
 flowchart	flux, schemă logică, flowchart (hartă a fluxurilor), flux tehnologic, organigramă	
-flush	a goli (un tampon de date), a salva	
-focus	a focaliza, focalizare	
+flush	a goli (un tampon de date), a salva, a comite	
+focus	a focaliza, a activa, focalizare	?
 foe	duşman	
-fold	pliere	!
+fold	a plia, pliere	!
 folder	dosar	! [[directory-folder]]
 font	font	!
 footer	coloncifru [termen tipografic consacrat; în nici un caz subsol] discutie:http://www.macuser.ro/index.php/forums/viewthread/345/P15/; subsol (varianta aleasă _deocamdată_ pt traducerea OOo)	? [[header-footer]]
 footnote	notă de pagină [nu „de subsol”; vezi footer]	? [[header-footer]]
 forecast	previziune	!
 foreground	prim plan	
-fork	a bifurca, ramificaţie; fork?	?
+fork	a bifurca, ramificaţie; fork (dacă e vorba de numele funcției)	?
 form	a forma, formă, formular	
 format	format	!
 formatting	formatare; se formatează... [acţiune în curs]	
 formula	formulă	!
 fortune	zicală, vorbă de duh	
-forward	înainte; trimitere mai departe [pentru e-mail]	
+forward	înainte; înaintează; trimitere mai departe [pentru e-mail]	
 forwarding	înaintare	
 fourier analysis	analiză fourier	!
 fqdn	FQDN (acronim pentru Fully-Qualified Domain Name, nume de domeniu integral conform / nume de domeniu întreg-calificat / nume de domeniu complet calificat)	!
 fraction	fracţie	!
-frame	cadru, ramă	
+frame	cadru, ramă	!
 framebuffer	framebuffer	
 framerate	frecvenţă cadre	
-framework	platformă	[[framework]]
+framework	platformă, framework	!
 free software	soft liber, program liber	
 free software foundation	Fundaţia pentru Software Liber	
 freeware	gratuit, gratis	
@@ -602,38 +673,44 @@ fsm	maşină cu stări finite (abreviere)
 ftp	protocol de transfer de fişiere	
 fuck	dute dracu (e o glumă, vă mai amintiţi?)	
 full pathname	cale completă	!
-fullscreen	întreg ecranul, tot ecranul	
+fullscreen	întreg ecranul, tot ecranul, ecran complet	!
 function	funcţie	!
 gamma	gama (litera grecească)	
 gap	decalaj, lipsă, gaură	
 garbage collector	colector de memorie reziduală	!
-gateway	pasarelă, poartă, calculator "poartă" de iesire	
+gateway	gateway, pasarelă (literal), poartă (literal), calculator "poartă" de ieșire (nerecomandat)	
 general	general, generic ???	
 genuine	autentic	
 geometry	geometrie	!
 get	a primi, a obţine, primeşte, a primi; a obţine, extrage	
+getter	metodă de extragere (java)	?
 getting started	primii paşi	!
 gigabyte	gigaoctet	!
+glide	a plana, a glisa	
 glitch	scăpare	!
 glob	a expanda, expandare, se referă la expandarea meta-caracterelor (wildcards)	
+glob pattern	tipar de expandare	
 global	global	!
 glos	glos	
 glow	incandescență, luminescență, strălucire	
 gnome	GNOME	!
 gnu	GNU	!
 go	start, salt, navigare, du-te, încarcă; go! = porneşte; go to page = du‑te la pagina;	
+go (to smth.)	du-te la ...	
 goal	obiectiv, ţel	? [[goal-objective-target]]
 gpl	GPL	!
 grab	a strînge, a aduna, a înhăţa, a bloca (ecranul)	
-gradient	degradeu	! cf. DEX
+gradient	degrade	! cf. DEX
 grant	a acorda; a împuternici, a permite (grant access)	
 graph	grafic	? [[photo-image-picture-graph]]
 graphic	grafică (cu pluralul grafici, dacă nu e vorba de grafice matematice - vezi DEX)	? [[photo-image-picture-graph]]
 graphic tablet	tabletă grafică	!
 graphical user interface	interfaţă grafică pentru utilizator	
+grave (accent)	accent grav	!
 grayscale	scală de gri	!
 greeter application	aplicaţie de întâmpinare	
 grid	grilă	!
+ground	teren	?
 group	grup	!
 gtk	GTK	!
 gtk+	GTK+	!
@@ -643,23 +720,24 @@ guide	a ghida, ghid	!
 gutter	rigolă, jgheab	
 hacker	hacker	
 halt	oprire, oprire/blocare (?)	
-handle	a gestiona, a opera, deschide (un tip de fişiere)	Adi R
-handler	utilizator	?
+handle	a opera, a gestiona, deschide (un tip de fişiere), substantiv: mâner de prindere (de ex. obiect gtk)	?
+handler	operator, utilizator	?
 handling	gestionare, operare	?
-handout	set foi pentru notițe	[[handout]]
+handout	set foi pentru notițe, foi volante	[[handout]]
 handshake	conectare, stabilire/inițiere conexiune	[[handshake]]
 hanging indent	indentare atârnată	
-hard	greu, dificil, hard(?)	
-hard disk	disc, discul fix	
+hard	greu, dificil	
+hard disk	hard disc	! (deși e în DOOM2 varianta asta e utilizată de comercianți, utilizatori și presă)
 hard link	legătură fizică, legătură dură	? [[link-hyperlink-shortcut]]
-hardware	fierărie, material, hardware (componentele fizice ale unui calculator), componente, echipament	
+hardware	hardware (componentele fizice ale unui calculator), componente, echipament	?
 hash	valoare de dispersie	! adi r
 hash algorithm	algoritm de dispersie	! adi r
 hash bucket	clasă din tabela de dispersie	! adi r
 hash element	element tabelă de dispersie	! adi r
+hash sum	sumă de dispersie	!
 hash table	tabelă de dispersie	! adi r
 hazard	risc	!
-header	colontitlu [termen tipografic consacrat; nu 'antet' = siglă, logo, cf. def. în DEX: Indicaţie tipărită în partea de sus a unei foi de hârtie sau a unui plic, cuprinzând numele, adresa etc. unei instituţii sau ale unei persoane. ], antet (în cazul unui mail header; de asemenea antet este varianta aleasă _deocamdata_ pt traducerea OOo)	? [[header-footer]]
+header	antet (OpenOffice.org, Microsoft, GNOME), colontitlu (termen tipografic pentru acest concept)	? [[header-footer]]
 heading	antet, titlu [de rubrică], rubrică	?
 headset	căşti	!
 headword		?
@@ -674,34 +752,38 @@ hidden file	fişier ascuns	!
 hide	a (se) ascunde; în menu: ascunde [aplicația]; hide all = ascunde‑le pe toate	
 hierachy	ierarhie	? ortografie gresita in eng
 hierarchy	ierarhie	
+high-pass	trece-sus (filtre)	!
 highlight	a evidenţia	!
-highlight...		
+highlight...	a evidentia	!
 highly recommanded	it is ~ to = (este) indicat (să)	? ortografie gresita in eng
 hindi	Indiană	?
 hint	sugestie, indiciu, informaţie indicativă	
+hinting	hinting (font)	
 hiperlink	hiperlegătură	
 histogram	histogramă	!
 history	istoric, istorie	
 home	acasă, pagina principală	? [[traducere-home]]
 home directory	director personal	? [[traducere-home]]
 home folder	dosar personal	? [[traducere-home]]
-home page	pagina principală	? [[traducere-home]]
+home network	rețea de domiciliu	! (utilizat și de microsoft: http://www.microsoft.com/language/en-us/Search.aspx?sString=home+network&langID=ro-ro)
+home page	pagina principală, pagină de Internet (Product's homepage)	? [[traducere-home]]
 homogeneous environment	mediu omogen	
-hook	furcă de telefon	
+hook	a cupla; cuplă, hook; furcă de telefon	?
 host	gazdă, server sau calculator [dacă e în reţea], computer gazdă	
 host name		
 hostname	nume de gazdă, nume de calculator, hostname	
-hot key	tastă rapidă; combinație de taste	
+hot key	tastă rapidă; combinație de taste	!
 hot link	legătură fierbinte	
-hot spot	punct fierbinte, hotspot	
+hot spot	hotspot	?
 hotlist	listă fierbinte, listă favorită	
 hourly	1. la fiecare oră 2. orar(ă) - (ex. rată ~)	
 housekeeping	întreţinere	!
-hover	a plana, planare	?
+hover	trecere(peste), pasă(asupra), a plana, planare	?
 howto	ghid	
 html	HTML (limbajul de marcare a hipertextului)	!
 http	protocolul de tranfer a hipertextului	
-hue	nuanţă, vopsea	
+hue	nuanță	?
+human-readable	ușor de înțeles	?
 hype	senzaţionalism?	?
 hyperlink	hiperlegătură	? [[link-hyperlink-shortcut]]
 hypertext markup language	limbajul de marcare a hipertextului	
@@ -710,7 +792,7 @@ hyphen	cratimă	? [[dashes]]
 i/o	intrări şi ieşiri	
 i/o subsystem	subsistemul de intrări şi ieşiri	
 i:overwrite:	a suprascrie, suprascriere	
-icon	pictogramă [recomandat], iconiţă	
+icon	iconiță, pictogramă	? [[icon]]
 id	id, identificator	
 ide	IDE [controler IDE]	
 identifier	identificator	
@@ -725,30 +807,32 @@ implementation	îndeplinire, punere în aplicare, executare, realizare
 import	a importa, import; import file = importă fișierul / un fișier	!
 inactive	inactiv	! [[active-inactive-on-off]]
 inactive window	fereastra inactivă	!
-inbox	Primite, căsuţă de recepţie	
+inbox	primite, mesaje primite, căsuţă de recepţie, inbox	
 incentive	stimulent [Adi R]	
 inch	ţol	!
+incomming	de primire (ex. conexiune)	?
 increase	a mări, a creşte; increase size = mărește dimensiunea	
 increment	creştere, sporire, mărire, profit	
 incremental update	actualizare incrementală [prin adăugarea datelor noi]	
 indent	indentare [retragere a paragrafului cu x mm faţă de margine]	
-index	indice	!
+index	indice, index	! (depinde de context)
 indicator	indicator	!
 info	info, detalii	
 information	informaţie	
 initialization	iniţiere	
 ink	cerneală	! (tuș este nerecomandat)
-inline	intercalat, inline	
+inline	intercalat, pe text, în text, inline	?
 inode	inod	
-input	a introduce, intrare	
+input	a introduce, intrare, input	
 input/output	intrări şi ieşiri	
 insensitive version	versiune neimpresionantă	
+insert	a insera, a introduce	!
 insertion	introducere, inserare	
 insertion point	punct de inserare	
 install	a instala, instalare	!
-installation kit	pachet de instalare	
-installer	program de instalare, instalator	
-instant messaging	mesagerie instant	
+installation kit	pachet de instalare	!
+installer	program de instalare	!
+instant messaging	mesagerie instant	!
 instruction pointer	indicator de instrucţiuni	?
 interaction	interacţiune	
 intercept	a intercepta, interceptare	!
@@ -765,41 +849,47 @@ interrupt	întrerupere	!
 intersect	a intersecta	
 interval	interval	
 intuitive	intuitiv	
-invalid	nevalid(ă), invalid [de evitat], nu este valid [de preferat]	
+invalid	nevalid(ă), invalid [de evitat], nu este valid (pentru „is invalid”)	
 invert	a inversa	
 invert selection	inversează selecţia	
 invisible	invizibil	!
 involved	implicat	
 ip address	adresă IP	!
 irc	irc (internet relay chat)	!
-issue	a emite; a publica, ediţie, problemă	
+issue	a emite; a publica, ediție, problemă	!
 issuer	emitent	
+it is commonly known that the fundamental problems of existence the world and sense the more researched, the more challenges the spirit and calls for a deep search of the truth. while the church teaches the truth revealed by god, scientists look to its own reason human to answer questions and solutions world. you have to enter from the beginning that between religion and science no opposition, but the distinction. science explains many mysteries of the world, but it is limited to the initiative rests solely on reason. it means much more real knowledge. if reason is not supported by the holy spirit, the gateway to truth would remain closed. science, to submit more and more efforts, should give ratunii what in theology is called the heat of love and light of faith. on the basis of his teachings he builds the church that addresses the human, giving him the love and faith entrusting that may be submitted to infinity in knowing god and his creation. in light of this truth, science is an important step to knowledge, you can make a man near the real answers eternal seeker. from this perspective, the human mind have to admit helplessness and leave guided by grace. thoroughly researching the mysteries of life, the scientist finds the same answer that simple believer knows from the very beginning: there is god!		DE ȘTERS
+it is safe to	nu sunt probleme dacă	
 italic	înclinat, cursiv	? [[bold-italic]]
 item	element, articol	? [[record-entry-element-item-row-article-post-message]]
+janitor	îngrijitor	!
 jaz drive	unitate jaz	!
 jetpack	propulsor personal	
 job	sarcină, slujbă	
 jpeg	jpeg	!
 jump	a sări, salt; jump to page = sari la pagina	
 jump to...	sari la... [imperativ, pers. a 2-a sing, verb a sări]	
-junk	nefolositor, spam, mesaje nesolicitate	
+junk	spam, nefolositor, mesaje nesolicitate	!
+justification	aliniere	?
 justified	aliniat la [ambele] margini	
 justify	a alinia la margini; justify [text] = aliniază [textul] la margini	
-kb	KO	!
+kb	kO (pentru kB, kilo-bytes); kb (pentru kb, kilo-bits)	! [[octeți și biți]]
 kde	KDE	!
 kernel	nucleu (de sistem)	!
-key	tastă, cheie	
+key	tastă, cheie	!
 keybinding	combinaţie de taste	!
 keyboard	tastatură	!
-keyboard shortcut	taste rapide	! [[Link-hyperlink-shortcut]]
+keyboard layout	aranjament de tastatură	!
+keyboard shortcut	scurtături de tastatură (utilizat în gnome), taste rapide	! [[Link-hyperlink-shortcut]]
 keyfile	fişier de chei	!
-keymap	harta de tastatură	
+keymap	harta taste	?
 keymap control		
-keyring	inel de chei	adir
+keyring	inel de chei	!
 keystroke	combinaţie de taste, apăsare de tastă	
 keyword	cuvânt cheie	!
 khmer	khmer	!
-kill	a omorî, a termina	
+kick	a da afară (IRC)	
+kill	a omorî, a termina forțat	?
 kilobyte	kilooctet	!
 kit	trusă, set, kit; trusă; set	
 label	etichetă	! [[label-tag]]
@@ -808,14 +898,16 @@ landscape	peisaj; [print] landscape = imprimă [format] peisaj [adică avînd h�
 language	limbă, limbaj	
 language (computer)	limbaj	!
 language (human)	limbă	!
-laptop	laptop	!
+laptop	calculator portabil, laptop	?
 latency	latenţă	!
+later	ulterior	
 latex	Latex	!
-launch	pornește, lansează (un program)	
+launch	a porni (un program)	?
 launch icon	pictogramă de lansare	
-launcher	lansator	!
+launcher	lansator (atenție, pluralul este „lansatoare”)	!
 layer	strat	!
-layout	aranjament (ex de tastatură), aspect, plan general, proiect, dispunere, formatare	Modificat: Adi Roiban
+layout	aranjament (ex de tastatură), aspect, plan general, proiect, dispunere, formatare, poziționare	Modificat: Adi Roiban
+layout manager	gestionar pozitionare	
 leech	sursă incompletă [pt bittorrent]	adir
 legacy	moştenire	!
 legacy application	aplicaţie moştenită	
@@ -838,6 +930,7 @@ line arguments	argumentele din linia de comandă	!
 line break	rând/linie nouă	
 linear transfer	transfer liniar	!
 link	a lega, legătură, a crea link, link, a trimite?, trimitere?, relaţionare	? [[link-hyperlink-shortcut]]
+linked contact	contact îmbinat (utilizat în gnome:empathy)	!
 linux	linux	!
 list	a enumera	
 list box	căsuţa de tip lista	
@@ -845,6 +938,8 @@ listed	afişat, enumerat
 listener	proces de ascultare	
 listing	~înşiruire	
 literal	literal	
+live broadcast	transmisiune în direct	!
+lizibil	?	
 load	a încărca, încărcătură, încărcare	
 local	local	!
 locale	[configuraţie] locală, localizare?	?
@@ -853,30 +948,32 @@ localization	localizare	!
 locate	a localiza	!
 location	locație, poziţie, amplasare	[[location]]
 lock	a bloca, a obţine acces exclusiv, lacăt	? [[lock-unlock]]
+lock file	fișier de blocare	! (folosit consecvent și de Microsoft)
 lockdown	interdicţie	tradus în pessulus
 log	jurnal, istoric, înregistrări	
 log in	a deschide sesiunea	
 log out	a închide sesiunea	
 logging	jurnalizare, înregistrare	? Adi R
 logical	logic (adevărat sau fals)	
-login	autentificare	
-logo	siglă	? [[logo]]
-logout	deautentificare	
+login	autentificare	?
+logo	siglă	! [[logo]]
+logout	deautentificare	?
 look	a se uita, uite	
-look and feel	aspect şi comportament	
+look and feel	aspect	
 lookup	căutare	? [[search-find]]
 loop	ciclu, buclă	
 low	jos , scăzut , redus	
+low-pass	trece-jos (filtre)	!
 lowercase	minuscule	!
 lru	fişiere accesate recent	
 macro	macro, macrocomandă	? [[macro]]
 magenta	magenta	!
 magnifier	lupă	
-mail	poştă, poştă electronică	
-mail client	client de mesagerie, client de poştă electronică, client de mail	
-mail server	server de mesagerie, server de poştă electronică, server de mail	
+mail	email, poștă	
+mail client	client de email, client de mesagerie, client de poştă electronică	
+mail server	server de email, server de mesagerie, server de poştă electronică	
 mail to	mesaj către	?
-mailbox	căsuţă poştală, cutie poştală	
+mailbox	căsuță poștală	!
 mailing list	listă de discuţii, listă de discuţii prin poştă electronică	
 main body	corp principal, corpul mesajului - mesajul propriu-zis	? in functie de context
 mainframe	mainframe, mainframe; server principal	
@@ -886,12 +983,15 @@ maintained	întreținut
 maintainer	responsabil	!
 makefile	fişier make, makefile (numele implicit al fișierului make)	
 malformed	diform, greşit, deteriorat, eronat	
+malfunction	defecțiune	
 malicious	maliţios	!
+malware	program rău intenționat, program dăunător, software malign	? [[malware]]
 man page	pagină de manual	!
 man pages	pagini de manual	!
-manage	gestionează, a gestiona	
-management	gestiune	
-manager	administrator, gestionar (de ferestre)	
+manage	a gestiona, a administra	? [[manager-administrator]]
+management	administrare, gestionare, management	! [[manager-administrator]]
+manager	administrator, manager, gestionar	? [[manager-administrator]]
+manipulation	manevrare	
 manual	manual	!
 manual page	pagină de manual	!
 map	hartă	!
@@ -899,46 +999,55 @@ mapping	cartare, cartografiere; mapare
 margin	margine, marjă	? [[edge-margin-border]]
 margins		? [[edge-margin-border]]
 mark	marcaj, semn	
+marker	marcator, reper	
 markup	marcare, evidenţiere	
 markup language	limbaj de marcare	
 mask	mască	!
 maskquerading	a mascarada, mascaradare	
-master	principal	
-match	rezultat, potrivire	
+master	principal, stăpân	
+master boot record	înregistrare de boot principală	
+match	a potrivi, rezultat, potrivire	!
 matching	care se potriveşte, potrivit	
 maximum transmission unit	unitatea maximă de tranmisie	
 mdi	interfaţă cu multiple documente	
 mean	medie	!
-media	mediu, suport	
-media type	tip de mediu	
+media	mediu de stocare, media (fișier, mass-media), mediu, suport	?
+media type	tip mediu	!
 median	mediană	!
-medium	mediu	Adi r
+medium	mediu, suport de date	?
 meeting	întâlnire	!
 megabyte	megaoctet	!
-memo	notiţă, notă	
+memo	memo	!
 memory	memorie	!
+memory stick	stic de memorie	!
 mentor	mentor	!
 mentoring	îndrumare	
 menu	meniu	!
 menu item	element de meniu	
 menubar	bara de meniu	!
-merge	a fuziona, a combina, a îmbina	
+merge	a fuziona, a combina, a îmbina	[[merge]]
 message	mesaj	! [[record-entry-element-item-row-article-post-message]]
 messenger	mesager	
 metadata	metadate	?
 metafile	metafisier	?
 meter	metru, măsură, măsurător/măsurătoare	
-mime type	tip mime	
+mime type	tip mime	!
+mind map	hartă mentală	! [[http://groups.google.com/group/diacritice/browse_thread/thread/c331bfcb9a1887b9]]
 mini icons	mini pictograme	
 minimize	a minimiza, a micşora	
 minix	sistem de operare din familia Unix	
 minor faults	defecțiuni minore	!
 mipmap	hartă MIP (lat. „multum in parvo”=mult în puțin)	!
 mirror	oglindă, site alternativ, site-oglindă	
+mirrored (raid 1)	oglindit (RAID 1)	
 misc	diverse	
-miscellaneous	diverse	
+miscellaneous	variate, diverse, neclasificate	?
+mismatch	nepotrivire	
+missed	pierdut (apel)	?
 misspelled	ortografiat greşit	!
 mixer device	dispozitiv de mixaj	
+mobile	mobil	!
+mobile broadband	Internet mobil de mare viteză	?
 modal (value)	valoare modală, valoare probabilă maximă	
 mode	mod	!
 model	model	!
@@ -946,9 +1055,10 @@ modem	modem	!
 modifier	modificator	
 modify	a modifica	
 module	modul	? [[Addin-module-plugin-extension-applet]]
-monitor	monitor, program de monitorizare, monitor; program de monitorizare	
+monitor	a urmări , a monitoriza; monitor, program de monitorizare, monitor; program de monitorizare	?
 monochrome	monocrom	!
 monospaced	monospaţiat	
+more	mai mult, suplimentar	
 mount	a monta, montare	!
 mount point	loc de montare	!
 mouse	maus	[[mouse]] ?
@@ -964,7 +1074,8 @@ multimedia	multimedia
 multiple document interface	interfaţă cu multiple documente	
 multitier	multistrat	!
 mundane	uzual	
-mute	mut	
+mute	mut, silențios, dezactivare sunet	?
+n/a	indisponibil, inaplicabil	
 namespace	spaţiu de nume	
 nautilus	nautilus	!
 navigation bar	bară de navigare	
@@ -986,7 +1097,7 @@ node	nod	!
 non breaking space	spaţiu de unire	? [[spaces-and-hypens]]
 non-breaking hyphen	liniuţă de unire	? [[spaces-and-hypens]]
 non-breaking space	spaţiu de unire	? [[spaces-and-hypens]]
-none	nimic; nespecificat [ultima formă de preferat în multe aplicații]	
+none	nimic, fără; nespecificat [ultima formă de preferat în multe aplicații]	
 normal distribution	distribuţie normală	!
 notably	cel mai cunoscut, în mod evident	
 note	notiță	
@@ -995,7 +1106,7 @@ notebook	agendă, calculator portabil, notebook
 notepad	carneţel	
 notice	notiţă, a remarca	
 notification	înștiințare, aducere la cunoștință	
-notification area	zona de notificare	
+notification area	zona de notificare	!
 notify	a înştiinţa, înştiinţare	
 notify me	anunţă-mă	!
 number	număr	!
@@ -1016,17 +1127,20 @@ occurr	a apărea, a se produce
 occurrence	apariţie, manifestare; recurenţă;	
 odd	impar	!
 off	oprit	? [[active-inactive-on-off]]
+office	birou	
 offline	deconectat	? [[online-offline-connected-disconnected]]
-offset	decalaj, deplasare	
-ok	ok	!
+offset	decalaj, deplasare	?
+ok	ok, de acord	!
 on	pornit	? [[active-inactive-on-off]]
+on-demand	serviciu gazduit, serviciu hostat	
+on-premise	gazduire proprie	
 on-screen keyboard	tastatură virtuală	
 online	conectat	? [[online-offline-connected-disconnected]]
 only	doar, numai [limitativ]	!
-onsite	cu deplasare	
+onsite	gazduit	
 opacity	opacitate	!
 open	deschis, deschide	!
-open source	sursă deschisă / publică - aplicaţii ale căror surse sînt publice	
+open source	sursă deschisă / publică - aplicaţii ale căror surse sunt publice	
 operating system	sistem de operare	!
 operation	operaţie	!
 opponent	adversar	!
@@ -1038,23 +1152,26 @@ order	comandă, ordin, ordine
 orientation	orientare	!
 origin	origine	!
 orthflow		
+out of office	absent de la birou	!
 outdated	învechit, depăşit	
 outline	schiţă, contur, a sublinia, subliniat, structură	
 output	a produce, produs, ieşire, rezultat	
-overflow	revărsare, excedent	
+overdue	restant, întârziat	?
+overflow	supraplin	
 overlap	suprapune	!
 overlapping	suprapunere	!
 overlay	suprapune	?
 override	a strivi, a înlocui, a prelua comanda, a suprascrie, a interveni, a prevala	
 overstrike	a tăia, tăiere, despre fonturi	
+overview	prezentare generală	?
 overwrite	a suprascrie, suprascriere	!
 owner	deţinător, proprietar, titular, posesor	
 ownership	apartenenţă (se referă, de cele mai multe ori şi la un grup de utilizatori)	
 pack	a împacheta	!
 package	pachet	! [[packet-package]]
 packet	pachet (mai mic decît package)	! [[packet-package]]
-pad	suport, tabletă, tuşieră, bloc de desen, bloc de scris, blocnotes, carneţel	
-padding	completare, umplutură, spaţiu interior	
+pad	a completa, suport, tabletă, tuşieră, bloc de desen, bloc de scris, blocnotes, carnețel	?
+padding	completare, umplutură, spaţiu interior	?
 page	pagină	! [[page-sheet]]
 page break	întrerupere pagină	!
 page down	pagina mai jos	
@@ -1062,7 +1179,7 @@ page up	pagină mai sus
 pager	paginator, paginator?	
 paginile	paginile	
 pair	a asocia	
-pairing	asociere	
+pairing	asociere, împerechere	!
 palette	paletă	!
 palmtop	palmtop	!
 pane	vedere	
@@ -1072,29 +1189,35 @@ panelize
 parameter	parametru	!
 parantheses	paranteze rotunde	! [[brackets]]
 parcel	a împărţi, parte, fragment	
+paren	paranteză	
 parent directory	director superior	
-parse	a analiza, a prelucra	[[Glosar/Discutii/parse]]
-partition	împărţire, compartimentare	
-passphrase	frază secretă, parolă tip frază, parolă-frază	
+parse	a parsa (un tip analizare a textului în programe), a analiza, a prelucra, a procesa	Într‑un context precum „could not parse old file”, într‑un procesor de text, unde mesajul se adresează unui public „normal”, a traduce prin „a parsa”, cum arată voturile de pe diacritice, conduce la  ceva de neînțeles pt un utilizator „de pe stradă” al aplicației. Cu totul altfel s‑ar pune problema într-un mediu de programatori, numai că un procesor de text, tocmai, nu lor li se adresează.
+partition	a partiționa, partiție, împărțire, compartimentare	!
+pass	a promova	
+passed	promovat	
+passphrase	frază secretă, parolă tip frază	!
 password	parolă	!
-paste	a insera [cf. copy: copy-paste = copiază - inserează]	? [[cut-copy-paste]]
+paste	a lipi [cf. copy: copy-paste = copiază - lipește]	? [[cut-copy-paste]]
 patch	petic; a petici [se referă la mici aduceri la zi ale unor aplicații, cărora le „peticește” unele hibe]; plasture	!
+patent	a patenta, patentă, brevet, certificat de invenție	?
 patern	a modela, a copia, şablon, model	!
 path	cale	!
 path (file)	cale	!
 path (to follow)	traseu	!
 pattern	model, desen, tipar,  mostră, probă, eşantion	
-pause	pauză	!
+pause	a suspenda, pauză	!
+payload	sarcina utilă	?
 peak	vârf	!
 peak indicator	indicator de suprasarcină	
 pearson correlation	corelaţie Pearson	
 pedestrian	pieton	!
 peek out		?
 peer	partener, partener de conexiune, pereche, egal	[[peer]]
-peering	parteneriat	
+peering	parteneriat	?
 pending	în suspensie, în așteptare	
 pending signal	semnal suspendat	
 pending signals		
+percent	procent	!
 perfectionare continua	perfectionare continua	
 perform	a executa	adir
 period	perioadă, termen, ciclu	
@@ -1104,47 +1227,57 @@ perl script	script perl
 permission	drept, drepturi, permisiuni	
 photo	fotografie	? [[photo-image-picture-graph]]
 physical memory	memorie fizică	
-picker button	buton tachet, buton picon	
-picker settings		
+picker button	buton selector, buton tachet, buton picon	
+picker settings	configurație/parametrii/preferințe selector	
 picture	poză, imagine	? [[photo-image-picture-graph]]
 pid	PID (process identifier) identificator de proces	
-pie chart	diagramă circulară, grafic caşcaval, grafic plăcintă (care e mai bun???)	? [[pie chart]]
+pie chart	diagramă circulară	! [[pie chart]]
 pilot device	dispozitiv pilot	
+pin	a fixa, fixare (PIN=pentru card, telefon)[<upper case only]	!
 ping	ping, testează conexiunea de reţea prin pachete care cer un 'pachet de răspuns' (ICMP ECHO_REQUEST packets)	
 pinging	testarea conexiunii de reţea	
 pinning	fixare, alegere selectivă (referitor la Debian Apt)	
 pinwheel		?
 pipe	pipă, tub, ţeavă, coş, burlan, fluier, conector pipe; conexiune	
-pipeline	ansamblu	? sau ceva
+pipeline	conductă (literal), linie de asamblare (în arhitecturi de calculatorare, ansamble de elemente software comunicante)	!
+pitch (sunet)	înălțime	
 pixel	pixel	!
-pixmap	pixmap, hartă de pixeli	
+pixel art	artă pixelată	
+pixmap	pixmap (recomandat, este un format de imagine), hartă de pixeli	
 place	loc	!
-placeholder	înlocuitor, marcaj	
+placed	efectual (apel)	?
+placeholder	substituent, înlocuitor, marcaj, locțiitor	
+placement	plasare, amplasare [a unui fișier, de ex. un jpg într‑un text etc.]	
 plain text	text simplu, text clar [când se referă la o transmisie necriptată]	
+planning	planificare	! [[planning-schedule]]
 play	a reda, a juca	
-player	lector, redator	[[Glosar/Discutii/player]]
+play-back	play-back	!
+player	player	? (DOOM&MDN) [[Glosar/Discutii/player]]
 playlist	listă [simplu, se inţelege din context], listă de redare	
 please	vă rog	!
 please wait	vă rog să asteaptaţi	!
 plug	dop, priză	
 plug-in	modul	? [[Addin-module-plugin-extension-applet]]
-plugged	conectat, cuplat, conectat; cuplat	
+plugged	conectat, cuplat	
 plugin	modul	? [[addin-module-plugin-extension-applet]]
+podcast	podcast	!
 point	a indica, indicator (UI), punct, indicator (UI); punct; pointer (programare)	
 point to point	punct la punct	!
+pointer	indicator	
 poisson distribution	distribuţie poisson	
 policy	politică, regulă	! Adi. R
-polish	lustrui	? [[polish]]
+polish	a lustrui, a netezi, a şlefui, a rafina, luciu, lustru, netezime, politeţe, polonez, (limba) poloneză	! [[polish]]
 polished	lustruit	? [[polish]]
-poll	sondaj	!
-polling	verificare periodică	adir
+poll	a sonda, sondaj	!
+polling	verificare periodică	?
 polygon	poligon	!
 polyline	linie frântă?	
-pool	baltă, bazin, o variantă de biliard, fond comun, rezervă, urnă?	
+pool	baltă, bazin, o variantă de biliard, fond comun, rezervă, urnă, mulțime	
 pooled variance		
-popup	? (apariţie, a apărea), meniu contextual, dialog	
-popup menu	meniu contextual	
-popup windows	fereastră contextuală	
+popup	a apărea (...încă e vag ...)	?
+popup menu	meniu contextual	!
+popup window	fereastră popup	!
+popup windows		
 port	portare	!
 port (connectivity)	port	!
 port (verb)	a porta	!
@@ -1160,6 +1293,7 @@ postscript	postscript	!
 power	consum	
 power management	administrarea consumului	
 power manager	administrare consum	
+power off	oprire	
 ppp	ppp	!
 preemptive	preemptiv	!
 preferences	preferinţe	! [[configuration-options-preferences-settings]]
@@ -1170,18 +1304,19 @@ prepend	a prefixa
 prerequisite	cerință prealabilă	
 presentation	prezentare	!
 preserve	a păstra	
-preset	a prestabili, a stabili anticipat	
+preset	a prestabili, a predefini, predefint	!
 pressed	  adj  (d. cărămidă) presat; presat de timp	
-preview	previzualizare, avanpremieră, preafişare	
+preview	previzualizare, avanpremieră, preafișare	?
 previous	înapoi (neutru, in plus se poate pastra shorcut-ul pe P), precedent (alternativa veche)	
 primary colors	culori de bază	
+primary key	cheie primară [db]	adir
 print	a tipări	! [[print]]
 print area	suprafață de tipărire	!
 print job	sarcină de tipărire	! adi r
 printable	bun de tipar, tipăribil	
 printer	imprimantă	!
 priority	prioritate	
-privacy	intimitate	
+privacy	confidențialitate, intimitate	
 private key	cheie privată/personală	
 private message	mesaj personal	
 private messages		
@@ -1193,9 +1328,9 @@ process id	identificator de proces
 processor	procesor	
 prodigy	semn rău, monstru, figurativ - minunăţie	
 profile	profil , contur	
-program	program	
+program	program	!
 progress	(în) desfăşurare, progres, evoluţie	
-progress bar	bară de progres, indicator de evoluţie	
+progress bar	bară de progres	!
 project	proiect	
 prompt	a solicita, solicitare; prompter	
 proofreader	verificator, corector (de erori în cărţile tipărite), verificator-corector	?
@@ -1207,18 +1342,18 @@ protected workbooks
 protection	protecţie	
 protocol	protocol	
 provide	a furniza, a oferi	
-provider	furnizor, FAI (furnizor de acces Internet)	
+provider	furnizor	!
 provision	măsură, dipozitie, rezervă, articol (contractual), a aproviziona, a înarma	
-proxy	proxy, server mandatar	
+proxy	proxy	!
 proxy server	server proxy	
-public	public	
+public	public	!
 public key	cheie publică	
-publishing	publicare	
-publishing application	aplicaţie pentru editarea de publicaţii	
+publishing	publicare, tehnoredactare	!
+publishing application	aplicație de tehnoredactare (computerizată)	!
 purge	a curăţa, a elimina complet	
 put	pune, plasează	
 q&a	întrebări şi răspunsuri	
-query	interogare	! [[query]]
+query	a interoga, interogare	! [[query]]
 queue	coadă	! [[queue-stack]]
 quiet	în linişte, liniştit, linişte	
 quit	a ieşi, a termina, a părăsi	? [[quit-exit-terminate-finish]]
@@ -1227,10 +1362,12 @@ quoting	citare
 radar map	hartă radar, ecran radar	
 radio	radio	
 radio button	buton radio (nu potenţiometru)	
-random	aleator, întîmplător	
-range	interval, rază (de extindere), zonă, arie, plajă (de valori), a înşira, a clasifica, şir, domeniu, ordine	
-rank	grad	
-raster	imagine raster	!
+raise exception	a lansa o excepție	
+random	aleator, întâmplător	!
+range	interval, rază (de extindere), zonă, plajă (de valori), domeniu; a înşira, a clasifica	?
+rank	grad	!
+raster	rastru, imagine raster	!
+rate	a cota, a aprecia	?
 rated	cotat	
 rating	apreciere, evaluare, clasificare	
 ratio	proporţie	!
@@ -1238,7 +1375,8 @@ raw	brut	!
 raw data	date brute	!
 raw memory	memorie brută	!
 read out	a citi cu voce tare	!
-read-only	(mod) strict citire, protejat la scriere, doar citire	
+read-ahead	citire anticipată	
+read-only	protejat la scriere, doar citire, strict citire	
 readiness	pregătire	
 readout	rezultat (afişarea rezultatelor într-o formă lizibilă)	
 ready	gata	!
@@ -1246,11 +1384,12 @@ ready...
 real memory	memorie reală/fizică	
 real path	calea reală	!
 real time	timp real	!
-realm	domeni (la AD și Kerberos)	Adi Roiban
+realm	domeniu (la AD și Kerberos)	Adi Roiban
 reboot	repornire	
-receive	a primi	
+receive	a primi	!
 receptivity	receptivitate	
 recipient	destinatar	
+recognised	recunoscut	
 record	a înregistra, înregistrare	! [[record-entry-element-item-row-article-post-message]]
 recordable	inscriptibil; înregistrabil (dacă se referă strict la înregistrări audio-video)	Adi R
 recorder	inscriptor	?
@@ -1263,30 +1402,34 @@ recursion	recursivitate	!
 recycle bin	coș de gunoi	!
 redemption	  s  răscumpărare	
 redisplay	a reafişa	!
-redo	refă [uzual în menu; a reface]	? [[undo-redo]]
+redo	repetă, refă	? [[undo-redo]]
 refactoring	perfectare, reorganizare, rescriere	
 referrer	menționat de	[[referrer]]
-refresh	a actualiza, a reîmprospăta	
+refresh	a reîmprospăta, a actualiza	?
 regex	expresie regulară	
 region	regiune	!
-register	a înregistra	!
+register	a înregistra, registru/regiștri	!
 registry	registru	! (de configurare, ex.: pt. Windows registry)
 regression analysis		
 regular	obişnuit, normal	
-regular expression	expresie regulară, expresie obişnuită	
+regular expression	expresie regulată	! a nu se folosi regulară sub nici o formă, subiect închis.
 regulate	a regulariza, a adapta, a regla	
 reject	a respinge	!
+related	înrudit, similar, asemănător	?
 relationship	relaţie	!
-release	a lansa, versiune	
+release	a lansa, a publica, versiune	
+release notes	notițe de lansare	!
 relevance	relevanţă	!
 reliable	fiabil	!
 relief	relief, uşurare, descărcare, reducere	
 remapping	recartografiere, reasociere	
-remote	la distanţă	
-removable media	mediu amovibil, mediu detașabil	
-remove	elimină, îndepărtează ..	? [[erase-delete-remove-clean-clear-expunge]]
+remote	la distanţă	!
+remote desktop	desktop la distanță	!
+removable media	mediu detașabil	!
+remove	a elimina	?
 rename	a redenumi	!
-render	a reda, a randa (in special pentru imagini 3D)	
+render	a reda, a randa (in special pentru imagini 3D)	!
+renderer	randor	
 repeat	a repeta	!
 repertory	depozit, arhivă; repertoriu	
 replace	a înlocui	!
@@ -1309,9 +1452,10 @@ resolve	a rezolva [în contextul DNS]
 resolver	rezolvator	[[resolver]]
 resource element	resursă	
 restart	a reporni, repornire	
-restore	a restabili, a restaura, a repara, a recupera, restaurare; a reface, refacere	
-restricted	cu restricţii	
-resume	a relua, reluare	
+restore	a restaura, a restabili, a repara, a recupera, restaurare; a reface, refacere	Backup v. Restore = salvare v. restaurare?
+restrict	restricţionează	
+restricted	cu restricţii, restricționat	
+resume	a relua, a reveni (din hibernare, suspendare), a continua [de unde a rămas]	?
 retain	a reţine	!
 retained	reţinut	
 retrieve	a descărca, a obţine	
@@ -1321,14 +1465,17 @@ return key	tasta Enter
 reveal	a dezvălui	!
 reverse video	video invers	
 revert	a reveni, revenire, revenire; revino	
-review	recenzie, prezentare, a revedea, a trece în revistă, a recenza, a revizui	
+review	 a revedea, a revizui, a trece în revistă, a recenza; recenzie, prezentare	!
+reviewer	revizor	?
 revision	revizie	!
 rewind	derulează înapoi	
 rewritable	reinscriptibil	! Adi R
 rip	a extrage (în context CD/DVD), a jupui, a spinteca	
 ripple	a ondula, a încreți	
+rise	ridicare, a ridica	
+roadmap	foaie de parcurs	!
 roaming	itinerant (profilul itinerant al utilizatorului)	Adi Roiban
-role-playing game	joc de rol	
+role-playing game	joc pe roluri	?
 rollback	a anula, anulare, anulare; rollback	
 root	rădăcină, administrator (root)	
 root directory	director rădăcină	
@@ -1345,8 +1492,8 @@ runlevel	nivel de executare; nivel de rulare
 runtime	la executare, în timpul executării	
 runtime error	eroare la executare	
 salvage	salvare; recuperare	
-sample	eşantion, mostră	
-samplerate	rată de eşantionare	
+sample	eșantion, mostră	
+samplerate	rată de eșantionare	
 sampling	eşantionare	
 saturation	saturaţie	
 save	a salva	!
@@ -1356,23 +1503,24 @@ scalable	scalabil, ce poate fi redimensionat	!
 scalar	scalar	!
 scale	a scala, a redimensiona; scalare, balanţă, scală; scară	!
 scaling factor	factor de scalare, factor de redimensionare	
-scan	a examina, a scana [pentru scanner]	
+scan	a scana, a examina, a analiza	?
 scene	scenă	
-schedule	planificare, programare	
-schedule manager	administrator orar, administrator planificări, gestionar de planificări	
+schedule	planificare, programare	! [[planning-schedule]]
+schedule manager	administrator orar, administrator planificări, gestionar de planificări	! [[planning-schedule]]
 schema	schemă	!
 scientific notation	notare ştiinţifică	
 scope	proporţii, anvergură, spaţiu, scop, ţel, vizibilitate, domeniu	
-screen	ecran	[[screen-display]] ?
+screen	ecran (display e afişaj)	[[screen-display]]
+screencast	înregistrare de ecran	
 screenreader	narator ecran	
-screensaver	ecran de veghe	[[screensaver]] ?
+screensaver	protector de ecran	[[screensaver]] !
 screenshot	captură de ecran	
 script	scenariu, script	
-scroll	a derula	!
+scroll	a derula, a culisa?	!
 scrollbar	bară de derulare	!
 scsi	SCSI	!
 search	a căuta, căutare	? [[find-lookup-search]]
-search domain	domeniu căutării, domeniu de căutare	? [[find-lookup-search]]
+search domain	caută domeniu, căutare domeniu	? [[find-lookup-search]]
 search string	şir de căutat	? [[find-lookup-search]]
 seascape	(pentru imprimare) orizontal răsturnat, privelişte marină, vedere la mare	?
 secondary color	culoare secundară	!
@@ -1380,8 +1528,8 @@ section	capitol, secţiune
 secure channel	canal sigur	!
 secure keyboard	tastatură sigură, tastatură securizată	
 security	securitate	
-seed	sursă completă [pt bittorrent]	adir
-seek	a căuta, a parcurge	Adi R.
+seed	a contribui, sursă completă [pt bittorrent]	?
+seek	a derula, a căuta, a parcurge	?
 segment	segment	!
 segmentation fault	eroare de segmentare	
 select	a alege	
@@ -1398,19 +1546,21 @@ sequence	succesiune, ordine, concordanţă, secvenţă
 server	server	
 service	serviciu	! [[service-daemon]]
 session	sesiune	!
-set	0. a defini 1. a aplica, a pune, a stabili, a defini ca, a desemna ca 2. mulţime	
+set	a defini, a stabili, a desemna; mulțime	?
 set-up	a pregăti, program de instalare a unei aplicaţii pe calculator, program de fixare a condiţiilor în care va rula o aplicaţie pe un calculator	
-setting	1. configurare (când e vorba de sistem),  preferință (cand e vorba de utilizator), opţiune 	? adir [[configuration-options-preferences-settings]]
+setting	1. configurare (când e vorba de sistem),  preferință (cand e vorba de utilizator), opţiune 	!
 setup	a pregăti, pregătire (iniţial); a configura, configurare (ulterior)	
 severity	serveritate, gravitate	
 sex	sex	!
-shade	a umbri, umbră, umbreşte	
+shade	a umbri, umbră; strânge (pt win managament)	!
+shader	shader (unitate de procesare pe plăci video)	
 shadow password	parolă criptată	
 shake	a zgudui, a scutura	
 shaped text	text conturat	
 share	a împărţi, a distribui, a partaja, partajare	
-shared	comun, folosit în ~	
+shared	partajat, comun, folosit în ~	
 shared memory	memorie partajată	
+shares	partajări de fișiere	!
 shareware	shareware	!
 shear	a tăia;a tunde	
 sheet	foaie, filă	? [[page-sheet]]
@@ -1419,10 +1569,10 @@ shell script	script de shell
 shift	a deplasa, a muta	
 shift key	tasta "shift"	
 shopping	cumpărături	!
-shortcut	scurtătură, combinaţie (de taste)	? [[link-hyperlink-shortcut]]
-show	a arăta, a expune, spectacol, afişează	
+shortcut	scurtătură (în GNOME: keyboard shortcut=scurtătură de tastatură), combinaţie (de taste), comandă rapidă	? [[link-hyperlink-shortcut]]
+show	a arăta, a expune, a afișa, a indica, spectacol	
 shrink	a micşora	
-shuffle	a amesteca, aleator	
+shuffle	a amesteca, amestecat	!
 shut down	a opri, oprire	
 shutter	obturator (foto.)	!
 sidebar	bară laterală	
@@ -1435,22 +1585,24 @@ signature	semnatură	!
 signature block	semnătură, cadru de  semnătură	
 signer	semnatar, certificator	
 single	unic;celibatar	
-site	sit	[[site]] ?
-size	mărime	
+single user	un singur utilizator (mod de lucru)	?
+sink pad	sink pad (termen tehnic din GStreamer pe care nu-l traducem)	!
+site	site, sit, sait (în ordinea popularității)	[[site]] ?
+size	mărime, dimensiune	
 size box	căsuţă de dimensiune	
 skew	oblicitate, poziţie piezişă	
-skewness	caracter oblic, catacter pieziş, înclinare, asimetrie, oblicitate	
+skewness	caracter oblic, caracter pieziş, înclinare, asimetrie, oblicitate	
 skill	aptitudine, abilitate	
 skin	fațetă (conform Windows Media Player, sau fizic la telefoane mobile); veșmânt; înfățișare; skin	? [[theme-scheme-skin]]
-skip	a omite, a sări, salt	
+skip	a omite (skip files to overwrite), a sări, salt	?
 slant	a se înclina, înclinat	
-slash	per (termen tipografic existent în română) [cf. Backslash], bară oblică, linie oblică	
+slash	per (termen tipografic existent în română) [cf. Backslash], bară oblică	
 slashed cross		
 slave	sclav, dependent	
-sleep	somn; put to sleep = adoarme [calculatorul], stare de veghe [calculator]	
+sleep	stare de veghe, repaus, odihnă, aşteptare	
 sleeping	somn, de veghe [calculator]	
-slide	diapozitiv	!
-slider	cursor, patină, derulator, glisor, ascensor, culisor	? [[slider-to-slide]]
+slide	diapozitiv	! Utilizat și în GNOME și în OpenOffice și de Microsoft
+slider	glisor	! [[slider-to-slide]]
 slideshow	prezentare diapozitive, succesiune imagini, diaporamă	
 slip	a aluneca, alunecare	
 slot	fantă, nişă, spaţiu alocat, conector, apertură, alveolă (dacă este vorba de librării de stocat casete cu copii de rezervă)	
@@ -1458,11 +1610,14 @@ slow terminal	terminal lent
 slow terminals		
 smart	deştept, inteligent	
 smart terminal	terminal inteligent	
-smiley	pictogramă simbolică	
-smooth	fin, neted, fin; neted	
+smartcard	smartcard	!
+smiley	emoticon	!
+smooth	fin, neted, fin; neted; lin (smooth scrooling)	?
+smoothing	netezire	
 smtp	SMTP (acronim de la Simple Mail Transfer Protocol)	?
-snap	a acroșa, a agăța (ferestre); apucare rapidă	
+snap	a acroșa, a agăța (ferestre); apucare rapidă; cuplare	
 snapoff	desprindere	!
+snapshot	instantaneu	?
 snippet	bucată de cod, bloc de cod, fragment	
 snooze	a aţipi, moţăială	
 socket	mufă, deschizătură, soclu, fasung, orbită, gaură, socket (software); soclu (hardware)	
@@ -1471,8 +1626,10 @@ soft	program, moale, soft (fir de mătase, vezi DEX)
 soft hyphen	liniuţă de despărţire [Unicode 00AD; invizibilă în mod normal, vizibilă doar dacă este cazul la despărţire în silabe]	
 soft keys	taste funcţionale	
 softkey	tastă funcţională	
-software	programe, programe de calculator, aplicaţii informatice, software	
-software bug	eroare în program, defecţiune în program, scamă în program, scamă software	? [[bug]]
+softproof	probă software de culoare	
+software	programe, programe de calculator, aplicaţii informatice, software, [propunere] logical/logicale	?
+software as a service	serviciu gazduit	
+software bug	eroare în program, defecţiune în program, scamă în program, scamă software, [propunere] eroare logicală	? [[bug]]
 software foundation		
 solid line	linie solidă	
 solid lines		
@@ -1482,10 +1639,12 @@ sort	a sorta, fel, soi, a tria
 sound card	placă de sunet	
 source	sursă	
 source code	cod sursă	
+source pad	source pad (termen tehnic din GStreamer pe care nu-l traducem)	!
 space character	caracterul spaţiu	? [[spaces-and-hypens]]
 spam	indezirabil, mesaj nedorit (de regula cu caracter publicitar), spam	
 span	întindere	
-spawn	a născoci, a se înmulţi, a crea, creare	
+spare	rezervă	
+spawn	a crea, creare	
 special character	caracter special	
 specified	menţionat, precizat, (rar) specificat	
 speech	vorbire, discurs	
@@ -1494,29 +1653,33 @@ spell checker	corector ortografic	!
 spelling	ortografie	
 spider	a indexa, indexare	
 spin button	buton incremental, (buton cu) contor (?)	
+spindle	ax	(axul unui disc dur pe care sunt montate discurile)
 splash screen	ecran de pornire	
-split	a impărţi,a separa	
-splitter	separator	
+split	a impărţi,a separa	[[split-splitter]]
+splitter	separator	[[split-splitter]]
 spool	coadă de aşteptare	
+spot	spot	
 spreadsheet	foaie de calcul	
 spring	resort	!
 square brackets	paranteze pătrate	! [[brackets]]
 stabilize	a stabiliza	
 stack	stivă	! [[queue-stack]]
 stage	etapă, stagiu	
-stand-alone	de sine stătător, autonom	
+stand-alone	de sine stătător, autonom	!
 standard	standard	!
-standard deviation	deviere standard	
+standard deviation	deviație standard	!
 standby	în aşteptare, starea de veghe, gata de intervenţie, pregătit, de rezervă	
-start	start, a porni	? [[execute-run-start]]
+start	start, a porni (o aplicație)	? [[execute-run-start]]
 startup	pornire	
 startup files	fişiere de pornire	
 startup program	program de pornire	
+stash	rezervă	
 stat	verificare, citire a stării	
 state	stare	
 statement	comandă, instrucţiune, extras de cont (bancar)	
 statement (banking)	extras de cont	!
 statement (programming)	insctrucțiune	!
+station	stație, post (radio)	!
 statistics	statistici	!
 statistics (reports)	statistici	
 statistics (science)	statistică	!
@@ -1525,13 +1688,19 @@ status	stare	!
 status line	linie de stare	
 statusbar	bara de stare	
 step increment	incrementare pas cu pas	
+stereotipizări	stereotipizări	
 stereotype	stereotip	!
-sticky	persistent, lipicios	
-sticky notes	note lipicioase	
-stitch	a însăila, a monta (prin analogie cu termenul cinematografic: montaj)	?[[stitch]]
+stick	a (se) lipi, stic (de memorie)	!
+sticky	persistent, lipicios (doar literal), adeziv (doar literal)	!
+sticky keys	taste persistente	!
+sticky notes	notițe persistente	!
+stiplle (verb)	a pointila	vezi http://fr.wikipedia.org/wiki/Pointill%C3%A9 și http://dexonline.ro/search.php?lexemId=44043
+stitch	a uni, unire	?[[stitch]]
+stock	stoc	
 stock ticker		
 storage	depozit, zonă de stocare	
-store	stocare	
+store	stocare, păstrare	
+stored	stocat, păstrat	
 straightforward	(adj.) liniar, lipsit de ocolișuri, simplu	
 stream	flux	
 streaming	difuzare sub formă de flux [Cristi S]; streaming [lumea reală; mă tem că deși corect, exprimarea cu „difuzare sub formă de ...” nu va fi vorbită niciodată; Cristi S]	
@@ -1540,17 +1709,21 @@ strikeout	tăiat	!
 strikethrough	tăiat	!
 string	şir	!
 stripchart program		
+striped (raid 0)	Întrețesut (RAID 0)	
 stroke	lovitură, trasătură de linie, a tuşa, tuşă; a ştanţa, ştanţare	
 structure diagram	organigramă	
 stub	butuc	
 style	stil	
+style sheet	foaie de stiluri	!
+stylesheet	foaie de stiluri	!
+stylus	stilus	?
 subdirectory	subdosar	
 subject	subiect	
 submenu	submeniu	
-submit	a trimite, trimitere, propunere	
+submit	a trimite, trimitere	?
 subnet	subreţea	
 subscribe	a abona	
-subscript	scris mărunt, indice	
+subscript	indice inferior, subscript	
 subscription	abonament	
 subshell support		
 subsidear	cuvânt scris greşit???	
@@ -1561,14 +1734,16 @@ suitable	 1.  convenabil. 2. (to, for) potrivit (cu, pentru)
 summary	rezumat, sumar [summary view = vizualizare sumară]	
 superblock	superbloc	
 supercede	a înlocui	
-supercomputer	supercomputer, supercalculator, supercomputer; supercalculator	
-superscript	exponent, scris sus (cum este puterea), antet	
+supercomputer	supercalculator	!
+superscript	indice superior, superscript	
+superuser	superutilizator (fără cratimă!)	! http://dexonline.ro/search.php?cuv=super*
 support	asistenţă	
-supported	admis	
+supported	admis, compatibil cu, capabil să; (informal) știe să	
 suppress	a suprima	
 suspend	a suspenda	
 swallow	gît, înghiţitură, a încapsula, încapsulare	
-swap	a interschimba, a schimba, a înlocui	
+swap	a interschimba, a schimba, a înlocui, a permuta	
+swipe	a trece, trecere	
 switch	a comuta, a trece, întrerupător, comutator	
 switch level	nivel comutare	
 sylk file		
@@ -1580,12 +1755,13 @@ synchronize	a sincroniza, sincronizare
 syndication	a redifuza, redifuzare	
 synopsis	rezultat, expunere sumară, sumar	
 syntax error	eroare de sintaxă	
+syntax highlighting	evidențierea sintaxei	
 system	sistem	!
 system administrator	administrator de sistem	
 system call	apel sistem	
 system configuration	configuraţia sistemului	
 system settings	parametri sistem	
-system tray	zonă (sistem) de notificare	
+system tray	zonă (sistem) de notificare	?
 systray	zonă de notificare	
 tab	1. tab (tastă);  2. filă, tab [în GNOME], categorie, atunci când este vorba de o pagină dintr-un set de pagini (de ex, de configurare), selectabile cu ajutorul denumirii lor	? [[tab]]
 tab stop	spaţiere tab, pl. (tab stops) spaţiere taburi	? [tab]
@@ -1598,18 +1774,23 @@ tag	etichetă, marcaj	? [[label-tag]]
 take advantage of	a beneficia de	!
 talk	a vorbi, discuţie	
 tall	înalt	!
+tally	copie; etichetă; tichet	
+tap	a atinge	!
 tar archive	arhivă tar	!
-target	destinaţie [recomandat], ţintă [a se folosi doar în cazul în care reprezintă ceva vizual]	? [[goal-objective-target]]
+target	destinaţie [recomandat], ţintă [a se folosi doar în cazul în care reprezintă ceva vizual]	! [[goal-objective-target]]
 target file	fişier destinaţie	!
 task	sarcină	! [[task]]
+taskbar	bara de activități	!
 tclass		
 tcp/ip	TCP/IP (acronim de la Transmission Control Protocol / Internet Protocol), protocol de comunicare	
+tearoff	detașabil (meniu , bară de unelte)	!
+tehnologii avansate		
 telnet	telnet	!
 temp file	fişier temporar	!
 template	şablon, model	
 temporary buffer	tampon temporar	
 temporary file	fişier temporar	!
-term	termen	!
+term	termen, condiţie (în cazul licenţelor)	!
 term variable	variabilă a terminalului	!
 terminal	terminal	!
 terminal variable	variabilă a terminalului	!
@@ -1630,52 +1811,63 @@ thread	fir, fir de execuţie, thread
 threaded	grupat pe [fir de] discuţii, threaded	
 threshold	prag	!
 through	prin; printre	
+throughput	rată de transfer	
+thumb drive	Stick memorie USB (GNOME)	?
 thumb nails	miniaturi	
 thumbnail	miniatură	
 thumbprint	amprentă	!
 tick	bãtaie, tact	
 ticker properties		
+ticketing	avizare	
 tier	armătură, întaritură, rînd, şir, etaj, strat, a aşeza în şir, rănd?	
-tile	mozaic, mozaic; tapetat ?,parcelă, formă (geometric)ă	
+tilde	tildă	!
+tile	dală/dale, mozaic, fragment	?
 tile based	bazat pe forme (geometrice)	
+tilt	a înclina, înclinare	!
 time	oră (date and time - data și ora), timp (it is about time)	
 time format	format orã	
 time stamp	marcaj de timp, etichetă de timp	
 time-quantum	cuantă de timp	
+timeline	linie de timp, cronologie	
 timeout	timp alocat expirat, limită de timp	
 timer	cronometru	!
 timeslice	cuantă de timp	
 timestamp	datare; marcaj de timp	
 timezone	fus orar	!
 timing	cronometrare	!
+tint	nuanță	!
 tip	indicație, sfat	? [[tips-and-tricks]]
 tips & tricks	chichițe și șmecherii, găselniţe? sau mai bine: "Sfaturi utile"	? [[tips-and-tricks]]
 title	titlu	!
 titlebar	bară de titlu	!
 to deal with	a trata (ceva)	
 to fix	~  a problem, a remedia, a repara, rareori a fixa	
+to scrape	a prelua datele, a lua conţinutul	
 todo	de făcut, sarcină (angajament)	
 todo list	listă cu ce mai este de făcut	
 toggle	a comuta	
-token	semn, simbol, jeton, element; atom; obiect; semn; simbol; ştafetă; marcaj	
-token-ring	inel cu jeton (tip de reţea)	
+token	semn, jeton, ștafetă	?
+token-ring	inel cu jeton [tip de rețea]	!
 tolerance	toleranţă	!
-tool	unealtă	
+tool	unealtă, instrument (în special acolo unde „unealtă” nu cadrează cu submeniurile respective)	?
 tool menu	meniu de unelte, meniu de opţiuni	
-toolbar	bară de unelte [adir], bara instrumentelor	? [[toolbar]]
+toolbar	bară de unelte, bara instrumentelor	? [[toolbar]]
 toolbox	trusă (de unelte), trusă, listă de opţiuni	
 toolchain	ansamblu de unelte	
-toolkit	trusă de unelte	
-tooltip	indiciu, pont	
+toolkit	trusă de unelte, instrumentar, instrumente, kituri cu instrumente	
+tooltip	indiciu, sfat	?
 top	vârf, cotă	
 top rated	bine cotat	
 top-level	de prim nivel, de nivel zero	?
 topic	topică, subiect, discuţie	
-torrent	torent (pl. torente)	adir
+torque	cuplu (cuplu mecanic)	
+torrent	torent (pl. torente ; bittorent)	!
+torrent (bittorrent)		
 touchpad	touchpad	
-touchscreen	touchscreen [de preferat] , ecran sensibil la atingere, ecran tactil	
+touchscreen	ecran tactil	!
 track	a urmări, urmărire, pistă (de CD), urmărire; pistă (de CD)	
-tracker	monitor	
+tracker	monitor, urmăritor, agent de urmărire, tracker (torente)	?
+transcode	a transcoda, transcodare	! (după „encode”->„codare”)
 transfer	transfer	
 transfer statement	declaraţie de transfer	
 transitive	tranzitiv, tranzitivitate	
@@ -1690,7 +1882,9 @@ tray	zonă de notificare
 tree	arbore	!
 treeview	vizualizare arborescentă	
 trend	tendinţă	?
-trigger	declanşator	!
+treshold	prag	
+trial	de proba	
+trigger	a declanșa, declanșator	!
 trim	în bună stare, aranjat, a pune în ordine, a aranja, a potrivi	
 tristate	stare triplă	!
 troubleshoot	a depana, depanare	
@@ -1701,27 +1895,34 @@ tty	tty (termen generic pentru un teminal de calculator sau interfaţa serială 
 tune	a ajusta, ajustare, a regla, reglare, melodie, ajustare; a regla	
 turing machine	maşină Turing	
 turn	rundă	!
-tutorial	îndrumar	
+tutorial	ghid practic, îndrumător	!
 tweaking	ajustare	
 type	tip	!
+type (verb)	a tasta	!
 type bindings	corelări de tip	!
 type mismatch	nepotrivire de tip	!
 typeface		?
 typewriter	stil dactilografiat	
 typewriter text	text dactilografiat	
 typically	în mod normal, în general, de cele mai mute ori	!
+typo	greșeală de tipar	
 unable to	incapacitate de a, nu se poate, nu este posibil, nu pot să	
 unavailable	indisponibil	
+unbookmark	elimină un marcaj	
+unbound	nelegat, neasociat	
+uncategorized	necategorisit	?
 undelete	restaurează	
-underline	a sublinia, subliniat	
+underline	a sublinia, subliniat, liniuță de subliniere	!
+underlying	de la bază, care stă la baza ...	
 underscore	liniuţă de subliniere (am mai auzit „talpă”); linia joasă [conf. std. ISO/IEC 8859-16:2001 (Latin 10) adoptat (tradus), SR 13392:2004; Cristi S]	
-undo	anulează [gnome, Adi R], desfă [cf. redo]; refacere (în special în cadrul GUI-ului şi cu referire la acesta; redo = repetare)	? [[undo-redo]]
-undock	a detaşa	? [[dock-undock]]
-unexpected	neaşteptat	!
+undo	refă, anulează	? [[undo-redo]]
+undock	a detașa	? [[dock-undock]]
+unexpected	neașteptat	!
 unexpected end	sfîrşit neaşteptat	
 unexpected error	eroare neaşteptată	
 unflag	a demarca	
 unhandled	negestionat	Adi R.
+unhide	a dezvălui, dezvăluire	
 unicode	unicode	!
 uniform resource identifier	identificator uniform de resurse	
 uniform resource locator	Localizator uniform de resurse	
@@ -1729,23 +1930,28 @@ uninstall	a dezinstala, dezinstalare	!
 unit	unitate	!
 unix	UNIX	!
 unknown	necunoscut	!
-unknown host	gazdă necunoscută	
+unknown host	gazdă necunoscută	!
 unload	a descărca	
 unlock	a descuia (nu am altă idee), a debloca	? [[lock-unlock]]
+unmaximize	a demaximiza, demaximizare	!
+unminimize	a deminimiza	!
 unmount	a demonta, demontare	!
-unmute	cu sunet	
+unmute	activare sunet, cu sunet	?
+unpin	a desprinde	?
 unplugged	deconectat, decuplat, deconectat; decuplat	
+unrecognized	nerecunoscut	
 unregister	deînregistrare?, ştergere înregistrare	
 unset	deselectaţi, deselectează	
-unshade	luminează, dezumbreşte	
+unshade	luminează, dezumbrește; desfă (pt win manager)	!
 unsupported	fără suport	
 untitled	fără titlu	!
 unwrap	a desfăşura, a despacheta	
 update	a actualiza, actualizare	? [[update-upgrade]]
-upgradable	actualizabil	? [[update-upgrade]]
-upgrade	a îmbunataţi, îmbunataţire, înnoire, a actualiza, actualizare majoră, aducere le nivel	? [[update-upgrade]]
+upgradable	poate fi înnoit, actualizabil	? [[update-upgrade]]
+upgrade	a înnoi (alegerea din debian+ubuntu), actualizare majoră (vot pe i18n.ro), a actualiza (atenție: traducere folosită și pentru „update”), a îmbunătăți	? [[update-upgrade]]
 uplink	uplink	?
-upload	încărcare	
+upload	a încărca	
+upon completion and submission, you are guaranteed		!!!MARCAT_PENTRU_STERGERE!!!
 uppercase	majuscule	!
 upside down	răsturnat vertical, cu susu-n jos	
 upstream	(de la) autorii originari, upstream, amonte?	
@@ -1758,6 +1964,7 @@ url	acronim pentru Universal Resource Locator, resursa de localizare universală
 usability	uşurinţa, intuitiviatea în utilizare	
 usage	utilizare, mod de utilizare	!
 usb	USB	!
+use	foloseşte	?
 user	utilizator	!
 user defined	definit de către utilizator	!
 user directory	directorul utilizatorului, vezi home	
@@ -1765,7 +1972,8 @@ user experience	experienţă utilizator[ului]
 user interface	interfaţă cu utilizatorul	
 user-agent	Antet „User-Agent”	
 username	nume utilizator	!
-userspace	spaţiu utilizator	
+userspace	spațiu utilizator	!
+utility	utilitar (dacă e vorba de aplicație), utilitate (dacă e vorba de proprietate)	
 valid	valid, corect, potrivit, autorizat	
 valid chars	caractere valide	!
 valuable	cu valoare	
@@ -1774,43 +1982,47 @@ variable	variabil, variabilă (în programare)
 variance	variaţie	
 various	divers (various options = opțiuni diverse)	
 vector graphics	grafică vectorială	!
-vendor	producător	
+vendor	comerciant, vânzător	!
 verbose	detaliat; vorbăreţ, gălăgios	
 verify	a verifica, verificare	!
 version	versiune	!
+version control systems	Sisteme pentru controlul versiunii	?
 vertex	culme, zenit (astron.)	!
 vertical	vertical	!
 vertical alignment	aliniere verticală	
 vfs	VFS (acronim de la Virtual File System), sistem de fişiere virtual	!
 video	video	!
 view	mod afişare [in meniuri], imagine	
-viewer	observator, vizualizator, vizor?	
-viewport	vizor	?
+view (sql)	vizualizare	
+viewer	observator, vizualizator [nu l-am găsit în dicționar], vizor	?
+viewport	vizor, arie/zonă vizibilă (windows management)	!
 violation	violare; încălcare (drepturi)	cf. DEX
 virtual	virtual	!
 virtual desktop	birou virtual	
-virtual file system	sistem virtual de fişiere	
+virtual file system	sistem virtual de fişiere	!
 visualization	vizualizare	!
 volume	volum	!
 vpn	VPN (acronim de la Virtual Private Networking), RPV (Rețea Privată Virtuală)	!
-wallpaper	fundal [de birou] (ex: desktop wallpaper), tapet (pentru pereţi)	
+wallpaper	imagine de fundal (fundal fiind ''desktopul''), tapet imagine (pentru pereţi)	[[wallpaper]]
 warning	avertisment, atenţie	
 watch	a monitoriza, monitorizare, a supraveghea, supraveghere, monitorizare; a supraveghea	
 watch dog	câine de pază, dispozitiv supraveghetor, serviciu de supravegehre	
 watch file	fişier observator, fişier supraveghetor	
 watermark	filigran	!
+waveform	formă de undă	
 web	web	!
 web page	pagină web	!
+website	pagină web	?
 weight	greutate, pondere	
 weighted	ponderat, cântărit	
 well-formed	bine-întocmit	
 western	vestic	!
 whack	a închide (cel puţin în cazul gdm)	
 what you see is what you get	occv,obţii ceea ce vezi	
-white paper	articol, carte albă, hârtie albă?	
+white paper	carte albă, (câteodată articol), (doar literal: hârtie albă)	
 whitelist	a permite, listă permisiuni, lista albă, utilizatori autorizaţi	
 whitespace	spaţiu gol (fără imagini),spaţiu continuu (secvenţă de spaţii, tab sau enter), caractere de tip spaţiu	
-widget	control (butoane, bare de derulare, etc), gadget	
+widget	control (butoane, bare de derulare, etc), widget	
 width	lăţime	!
 wildcard	metacaracter	
 window	fereastră	!
@@ -1821,7 +2033,7 @@ wizard	asistent
 word	cuvânt	!
 word processor	procesor de text	!
 work	muncă	! activitare a fost scos pentru că se suprapune cu activity
-workaround	conturnare, metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban
+workaround	metodă (procedeu, soluţie) alternativă / ocolitoare, soluție provizorie	Adi Roiban
 workbook	instrucţiuni / manual / îndreptar (broşura explicând modul de funcţionare a unui aparat, etc.),  culegere de exerciţii, agendă	
 workflow	flux de lucru; mod de lucru; mod de operare	
 workgroup	grup de lucru	
@@ -1829,12 +2041,12 @@ working directory	directorul de lucru
 workshop	atelier, seminar, prezentare	
 workspace	spaţiu de lucru	!
 workspaces	spații de lucru	!
-wrap	a încadra [text wrap], a împacheta, a despărţi pe linii, aranjat	? [[wrap]]
-writable	inscriptibil	! Adi R
+wrap	a încadra [text wrap], a împacheta, a despărţi pe linii	? [[wrap]]
+writable	incripționabil	!
 write	a scrie	!
 writer	editor [de texte], scriitor, inscriptor [de cd-uri]	Adi R
 wvlan		
-wysiwyg	wysiwyg	
+wysiwyg	OCCV (obţii ceea ce vezi)	
 x align	aliniere pe orizontală	
 x server	server X (grafic)	
 xdmcp socket		
@@ -1845,9 +2057,11 @@ your computer	calculatorul dvs
 zero	zero	!
 zeroed	baleiat (umplut) cu zero, redus la zero	
 zigzagline	linie în zigzag	
+zip	zip (Zone Improvement Plan)	!
 zip drive	unitate zip	!
-zoom	lupă, zoom	
-zoom in	măreşte, apropie	
-zoom out	micşorează, depărtează	
+zoom	focalizare (zoom in=mărire, zoom out=micșorare, deci zoom este starea), zoom	? (nu sunt de acord cu dexonline.ro)
+zoom in	mărește, apropie	!
+zoom out	micșorează, depărtează	!
 zzz	blah, blah (blah) [sau blah ?]; (ignoră traducerea, termenul este folosit pentru testare)	! șuieră
 Înainte		
+împrejmuiri	gard bordurat	

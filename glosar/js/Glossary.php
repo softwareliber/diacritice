@@ -31,7 +31,7 @@ class Glossary {
 		foreach ($this->definitions as $term => $definition) {
 			if (preg_match("#^" . $searchKwd . "#i", $term)) {
 				$resultCnt++;
-				$arr = split("\t", $definition, 2);
+				$arr = explode("\t", $definition);
 				$term = $this->_encode($term);
 				$link = array();
 				
@@ -130,7 +130,7 @@ class Glossary {
 		foreach ($fcontents as $line) {
 			if (substr($line, 0, $len + 1) == "$term\t") {
 				$line .= "\t\t\t\t\t"; // just to be sure we don't get an error on next line
-				list ($term, $oldDefinition, $context, $date, $ip) = split("\t", $line);
+				list ($term, $oldDefinition, $context, $date, $ip) = explode("\t", $line);
 
 				$term = $this->_encode($term);
 				$oldDefinition = $this->_encode($oldDefinition);
